@@ -413,8 +413,9 @@ ME 605,Computational Fluid Dynamics,3,1.5,0,4,Dilip Sundaram(I+T),,31,,"E1,E2
  (7/101)",,,,,,
 ES 621,Advanced Solid Mechanics,3,0,0,4,Harmeet Singh(I),,34,,"G1,G2
  (7/207)",,,course_plan,,,,
-ME 639,Introduction to Robotics,3,0,0,4,Madhu Vadali(I),,25,,"G1,G2
- (7/201)",,,,,,,
+ME 639,Introduction to Robotics,3,0,1.5,5,Madhu Vadali(I),,25,,"C1,A2
+ (11/102)",,"H2
+(Makers Bhavan)",,,,,
 ME 640,Fracture Mechanics,3,0,0,4,Ravi Ayyagari(I),,2,,"J1,J2
  (11/204)",,,,,,,
 ES 646,Elastodynamics and Vibrations,3,0,0,4,Jayaprakash K. R.(I),,3,,"L1,L2
