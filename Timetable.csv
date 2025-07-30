@@ -3,7 +3,7 @@ First Year(2025),,,,,,,,,,,,,,,,,
 FP 100,Foundation Programme,0,0,0,4,"Abhinav Jha (I), Achyut Mishra (I), Anagh Bhaumik (I), Madhav Pathak (I), Shubhangi Bansude (I), Vaibhav Tripathi (I)",,,,,,,,,,,
 ES 101,Engineering Graphics,1.5,0,1.5,3,"Kaustubh Rane(I+L),Sameer Patel(L), S R Gandhi(L),Prince Vats (T),Vaibhav Gajanan Lawang(T), Mayank Pravinchandra Makwana (T), Gopi Hiteshbhai Kundia(T), Baddi Prasad (T)",,15,,"C2
  (Jasubhai Auditorium)",,"N1,N2
- (Surendra C Sheth Learning Theatre,Jayshree S Sheth Learning Theatre,10/203,10/204,7/208,7/209,10/201,10/202,10/104,10/105,11/101,11/102)",,,,,
+ (Surendra C Sheth Learning Theatre,Jayshree S Sheth Learning Theatre,10/203,10/204,7/208,7/209,10/201,10/202,10/104,10/105,11/101,11/102)",Course plan,,,,
 MA 103,Calculus of Single Variable and Linear Algebra,3,1.5,0,4,"Indranath Sengupta(I+T),Madhu Gupta(I+T)",,,,"E1,E2
  (Jasubhai Auditorium)","A1
 (7/101,7/102,7/103,7/104,7/105,7/106,7/107,7/202,7/203,7/204,7/205)",,,,,,
@@ -57,8 +57,8 @@ MSE 202,Materials Thermodynamics,3,1,0,4,Abhay Gautam(I+T),,33,,"J1,J2
  (7/207)","L1
  (7/207)",,,,,,
 EE 221,Electronic Devices,2,1,0,3,Sandip Lashkare(I+T),,66,,"I1,I2
- (10/201)",,"F1
-(Jayshree S Sheth Learning Theatre)",EE221 Course Plan,,,,
+ (10/201)",,"C2
+(10/103)",EE226 Course Plan,,,,
 CE 201,Earth Materials and Processes,1.5,0,3,2,Vikrant Jain(I+L),,37,,"E1
  (7/101)",,"I1,K1
 (7/206)",,,,,
@@ -94,8 +94,8 @@ ME 206,Statics and Dynamics,2,1,1.5,4,Jayaprakash K. R.(I+T+L),,65,,"E1,E2
 EE 322,Analog & Mixed Signal Circuits,2,1,1.5,4,"Madhav Pathak(I+T+L), Dinesh Kumar Sharma(L)",,89,,"A2,M2
 (10/201)",,"I1,K1
 (EE Lab)",EE322 Analog and Mixed Signal Circuits Course Plan,,,,
-EE 226,Semiconductor Devices,3,1,0,4,Sandip Lashkare(I+T),,,,"I1,I2
- (10/201)",,,EE221 Course Plan,,,,
+EE 226,Semiconductor Devices,3,1,0,4,"Sandip Lashkare(I+T), Jhuma Saha(T)",,,,"I1,I2
+ (10/201)",,,EE226 Course Plan,,,,
 EE 225,Unveiling the Semiconductor World,2,0,0,2,Nihar Mohapatra(I),,,,"F1,F2
 (10/102)",,,https://drive.google.com/file/d/1pNjtJStf8H1CxJ1b_jKKZ-8Ng_zLscP-/view?usp=sharing,,,,
 PE 103,Physical Education,0,0,0,0,,,343,,,,,,,,,
@@ -313,7 +313,10 @@ Additional courses CL,,,,,,,,,,,,,,,,,
 CL 324,Introduction to Polymer Science and Engineering,3,0,0,4,Pratyush Dayal(I),,4,,"I1,I2
  (7/205)",,,Course Plan,,,,
 CL 328,Chemical Engineering Practice in Industry,1.5,0,0,2,"Nitin Padhiyar(I), Kaustubh Rane(I)",,55,,"K2
-(7/206)",,,cl328_course_plan,,,,
+(7/208)",,,cl328_course_plan,," The CL 328 course is scheduled on the following Saturdays:
+16th August, 30th August, 13th September, 27th September, 11th October, 8th November, and 15th November. 
+
+Each Saturday, we will have two lectures: 10:00 to 11:30 AM and 11:45 AM to 1:15 PM. All the lectures will be in AB 10-103, except on 27th September when it will be held in AB 1-201.",,
 CL 426,Biochemical Engineering,3,0,0,4,Karthik Subramaniam(I),,4,,"D1,D2
  (7/106)",,,,,,,
 CL 427,Formulation Science and Engineering,3,0,0,4,Prachi Thareja(I),,14,,"C1,C2
@@ -367,7 +370,7 @@ EE 426,Electric Vehicle Technology,3,0,0,4,Pallavi Bharadwaj(I),,10,,"L1,L2
 EE 617,VLSI Design,3,0,0,4,"Joycee Mekie(I), Dinesh Sharma(I)",,36,,"F1,F2
  (10/202)",,,EE 617 VLSI Design,,,,
 EE 644,Physics of Transistors,3,0,0,4,Jhuma Saha(I),,1,,"G1,G2
- (7/209)",,,Course plan link,,,,
+ (7/202)",,,Course plan link,,,,
 EE 648,Dynamic Behaviour of Electric Machines,3,0,1.5,5,Ragavan K(I+L),,1,,"E1,E2
  (11/206)",,"I1
 (EE Lab)",EE 648-Dynamic Behaviour of Electric Machines,,,,
@@ -394,7 +397,7 @@ ES 666,Computer Vision,3,0,0,4,Shanmuganathan Raman(I),,59,,"E1,E2
 ES 668,5G and Beyond,3,0,0,4,"Ravi Hegde(I), Sameer Kulkarni(I)",,4,,"N1,N2
  (13/125)",,,https://docs.google.com/document/d/198eel1egMa8j4mvsq2Fbj9riGMKX8FGSA9CUFXo3Ryg/edit?tab=t.0,,,,
 ES 675,Photonics – Principles and Applications,3,0,0,4,Arup Chakraborty(I+T),,4,,"P1,P2
- (13/125)",,,course plan,,Note: This course replaces ES 414: Introduction to Photonics,,
+ (13/125)",,,ES 675 course plan,,Note: This course replaces ES 414: Introduction to Photonics (see row 202,,
 EE 691-VII,Special Topics in Electrical Engineering: Economics of Regulation in India,3,0,0,4,Anand Kumar(I),,20,,"I1,I2
  (11/204)",,,https://drive.google.com/file/d/1TKO7JzPIO4buIZP9WmkYqKM5CurWVQwo/view?usp=sharing,,,,
 EE 691-XI,Selected Topics in Electrical Engineering: Mixed-Signal IC Design,3,0,0,4,Dinesh Kumar Sharma(I),,2,,"L1,L2
@@ -421,7 +424,7 @@ ME 639,Introduction to Robotics,3,0,1.5,5,Madhu Vadali(I),,9,,"C1,A2
 ME 640,Fracture Mechanics,3,0,0,4,Ravi Ayyagari(I),,1,,"J1,J2
  (11/204)",,,,,,,
 ES 646,Elastodynamics and Vibrations,3,0,0,4,Jayaprakash K. R.(I),,,,"L1,L2
- (11/205)",,,,,,,
+ (11/205)",,,Course plan,,,,
 ME 647,Vapor Liquid Phase Change Phenomena,3,0,0,4,Soumyadip Sett(I),,17,,"N1,N2
  (7/204)",,,,,,,
 ME 648,Mathematical Tools for Mechanical Engineers,3,1,0,4,"Uddipta Ghosh(I+T),Vineet Vashista(I+T),Prabhat Munshi(I+T)",,,,"K1,K2
@@ -462,11 +465,11 @@ CH 401,Food Chemistry,3,1,0,4,Iti Gupta(I+T),,,,"L1,L2
  (7/208)","J2
  (7/208)",,course plan,,,,BS
 CH 506,Physical Organic Chemistry,3,0,0,4,Sudipta Basu(I),,1,,"E1,E2
- (7/201)",,,https://drive.google.com/file/d/1jlzaYfudRSbe8-YRjv6jV5odOtYl5dQn/view?usp=sharing,,,,BS
+ (11/101)",,,https://drive.google.com/file/d/1jlzaYfudRSbe8-YRjv6jV5odOtYl5dQn/view?usp=sharing,,,,BS
 CH 510,Main Group and Transition Metal Chemistry,3,0,0,4,Priyabrata Ghana(I),,,,"M1,M2
- (7/104)",,,,,,,BS
+ (7/208)",,,,,,,BS
 CH 511,Quantum Chemistry,3,0,0,4,Anirban Mondal(I),,1,,"D1,D2
- (7/202)",,,,,,,BS
+ (7/109)",,,,,,,BS
 CH 513,Advanced Organic Chemistry,3,0,0,4,Sivapriya Kirubakaran(I),,15,,"C1,C2
  (7/108)",,,,,,,BS
 CH 522,Inorganic Chemistry Laboratory,0,0,3,2,Biswajit Mondal(L),,,,,,"I1,K1,I2,M1
@@ -480,7 +483,7 @@ CH 616,Applied Chemical Biology,3,0,0,4,Sudipta Basu(I),,,,"E1,E2
 CH 592-I,Special Topics in Chemistry: Chemical Biology in Space,3,0,0,4,Sivapriya Kirubakaran(I),,,,"M1,M2
 (7/110)",,,,,,,
 CH 622,Interpretative Organic Spectroscopy,3,0,0,4,Sriram Kanvah(I),,4,,"G1,G2
- (7/202)",,,,,,,BS
+ (7/209)",,,,,,,BS
 CH 624,Molecular Spectroscopy,3,0,0,4,Saumyakanti Khatua(I),,15,,"I1,I2
  (7/104)",,,Course Plan,,,,BS
 CH 626,Asymmetric Synthesis and Catalysis,3,0,0,4,Chandrakumar Appayee(I),,23,,"E1,E2
@@ -560,7 +563,7 @@ PH 610,Quantum Field Theory I,3,0,0,4,Baradhwaj Coleppa(I),,14,,"G1,G2
 PH 611,X-ray Scattering: Concepts and Applications,3,0,0,4,Rupak Banerjee(I),,16,,"A1,A2
  (13/124)",,,Course Plan,,,,BS
 PH 614,Atomic and Molecular Physics,3,0,0,4,Gopinadhan Kalon(I),,11,,"F1,F2
- (5/202)",,,Course Plan,,,,BS
+ (7/105)",,,Course Plan,,,,BS
 PH 643,Quantum Computing and Information,3,0,0,4,Ravinder Puri(I),,14,,"I1,I2
  (7/106)",,,Course plan,,,,BS
 PH 645,Topics in Soft and Active Matter Physics,3,0,0,4,Krishnakanti Dey(I),,11,,"B1,B2
@@ -615,7 +618,7 @@ CG 691-VII,"Special Topics in Cognitive Sciences: Language, Culture and Cognitio
  (13/124)",,,,,,,BS
 ,,,,,,,,,,,,,,,,,
 "Additional Courses Design, HSS, Management",,,,,,,,,,,,,,,,,
-FP 602,Writing (For PhD and MTech Students),1,0,3,4,Sharmita Lahiri(I+L),,,,"F2
+FP 602,Writing (For Engineering PhD students and MTech Students),1,0,3,4,Sharmita Lahiri(I+L),,,,"F2
  (Jasubhai Auditorium)",,"H1,H2
  (7/206,7/207,7/208,7/209,7/210,7/108,7/109)",,,Students enrolling for Writing course (Maths) can also take this course in IMS,,
 FP 602,Writing (PG Mathematics),1,0,3,4,Indranath Sengupta(I+L),,,,"F2
@@ -700,7 +703,7 @@ HS 647,"Literature, Theory and Social Context",3,0,0,4,Arka Chattopadhyay(I),,,,
 HS 651,Critical Perspectives in Sociology,3,0,0,4,Aashish Xaxa(I),,,,"D1,D2
  (10/102)",,,,,,,
 HS 652,"Reading Philosophy: Classical, Contemporary, and 
-Global Perspectives",3,0,0,4,Angus McBlane(I),,,,"E1,E2
+Global Perspectives",3,0,0,4,Angus McBlane(I),,,,"G1,G2
  (Online)",,,,,,,
 HS 655,Academic Communication: Argumentation and Reasoning,3,0,0,2,Jooyoung Kim(I),,,,"K1,K2
  (7/104)",,,HS 655,PhD or Advanced Masters,,,
