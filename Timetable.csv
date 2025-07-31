@@ -37,7 +37,7 @@ GE 201,General Education II,3,0,0,2,TBD(I),,339,,"P1,P2
 PH 202,Introduction to Quantum Physics,2,1,0,4,Krista Khaingte(I+T),,36,,"L1,L2
 (7/202)",,,PH 202 Course Plan,,,,BS
 HS 221,Introduction to Philosophy,3,0,0,4,Jaison Manjaly(I),,321,,"B1,B2
- (Jasubhai Auditorium)",,,,,,,
+ (Jasubhai Auditorium)",,,Course Outline,,,,
 ES 204,Digital Systems,2,1,1.5,4,Joycee Mekie(I+T+L),,184,,"E1,E2
  (10/103)",,"J1,J2
 (10/104,10/105)",ES 204 Digital Systems,,,,
@@ -90,7 +90,7 @@ MSE 204,Transport Phenomena in Materials Engineering,3,1,0,4,Sriharitha Rowthu(I
  (10/102)",,https://drive.google.com/file/d/1IPzCygl71BKS9yndBdjsHAd1phfNIcRK/view?usp=sharing,,,,
 ME 206,Statics and Dynamics,2,1,1.5,4,Jayaprakash K. R.(I+T+L),,65,,"E1,E2
  (7/209)",,"I1
-(7/209)",,,,,
+(7/209)",Course plan,,,,
 EE 322,Analog & Mixed Signal Circuits,2,1,1.5,4,"Madhav Pathak(I+T+L), Dinesh Kumar Sharma(L)",,89,,"A2,M2
 (10/201)",,"I1,K1
 (EE Lab)",EE322 Analog and Mixed Signal Circuits Course Plan,,,,
@@ -265,7 +265,7 @@ Additional courses BE,,,,,,,,,,,,,,,,,
 BE 303,Bionanotechnology – Principles and Applications,3,0,0,4,Mukesh Dhanka(I),,6,,"M1,M2
  (7/101)",,,https://docs.google.com/document/d/1paSa1KlOzWpMSFdFKxhG83N64Q12IMfR/edit?usp=sharing&ouid=107984983868149659120&rtpof=true&sd=true,,,,BS
 BE 404,Genetic Engineering – Principles and Applications,3,0,0,4,Sharmistha Majumdar(I),,1,,"J1,J2
- (7/102)",,,,,,,
+ (7/102)",,,BE404 course plan,,,,
 BE 613,Biochemistry,3,0,0,4,Dhiraj Bhatia(I),,18,,"G1,G2
  (Surendra C Sheth Learning Theatre)",,,BE 613 course plan,,,,BS
 BE 614,Biostatistics,1.5,0,3,4,Ashutosh Srivastava(I+L),,2,,"E1
@@ -325,8 +325,8 @@ BS 401,Nanoscale Science,3,0,0,4,Kabeer Jasuja(I),,9,,"G1,G2
  (10/102)",,,BS 401 Course Plan,,,,
 CL 601,Advanced Transport Phenomena,3,0,0,4,Pratyush Dayal(I),,1,,"A1,A2
  (7/208)",,,Course Plan,,,,
-CL 602,Advanced Thermodynamics,3,0,0,4,Mithun Radhakrishna(I),,1,,"F1,F2
- (7/210)",,,,,,,
+CL 602,Advanced Thermodynamics,3,0,0,4,Mithun Radhakrishna(I),,1,,"I1,I2
+ (7/105)",,,,,,,
 CL 604,Advanced Reaction Engineering,3,0,0,4,Abinaya Sampath(I),,1,,"B1,B2
  (7/103)",,,Course plan,,,,
 ES 604,Engineering Optimization,3,0,0,4,Hari Ganesh(I),,16,,"L1,L2
@@ -389,7 +389,8 @@ ES 657,Biomedical Ultrasound,3,0,0,4,Himanshu Shekhar(I),,3,,"P1,P2
 EE 659,Smart Grid,3,0,0,4,Naran Pindoriya(I),,3,,"K1,K2
  (13/125)",,,EE 659_Course Plan,,,,
 EE 663,Advanced Wireless Communications,3,0,0,4,Raghunandan Rao(I),,,,"M1,M2
-(11/205)",,,,,,,
+(11/205)",,,Course Description and Tentative Weekly Plan,,"Class code on Google Classroom: kvissriw
+",,
 ES 663,Smart Renewable Energy Systems,3,0,0,4,Pallavi Bharadwaj(I),,6,,"M1,M2
  (10/102)",,,Course Link,,,,
 ES 666,Computer Vision,3,0,0,4,Shanmuganathan Raman(I),,59,,"E1,E2
@@ -415,7 +416,7 @@ ES 607,Foundations of Fluid Dynamics,3,1,0,4,Vinod Narayanan(I+T),,1,,"G1,G2
  (7/106)",,,,,,
 ME 605,Computational Fluid Dynamics,3,1.5,0,4,Dilip Sundaram(I+T),,14,,"E1,E2
  (7/104)","B1
- (7/101)",,,,,,
+ (7/101)",,Course Plan,,,,
 ES 621,Advanced Solid Mechanics,3,0,0,4,Harmeet Singh(I),,6,,"G1,G2
  (7/207)",,,course_plan,,,,
 ME 639,Introduction to Robotics,3,0,1.5,5,Madhu Vadali(I),,9,,"C1,A2
@@ -583,9 +584,9 @@ EH 608,Biodiversity Conservation and Sustainable Development,3,0,0,4,C N Pandey(
 EH 611,Near Surface Geophysics,3,0,0,4,Utsav Mannu(I),,11,,"A1,A2
  (7/201)",,,Link,,,,BS
 EH 613,Carbonate Sedimentology,3,0,1.5,4,Pankaj Khanna(I+L),,1,,"D1,D2
- (13/124)",,,Course Plan,,,,BS
-EH 619,Geobiology,3,0,0,4,Sonal Khanolkar(I),,3,,"D1,D2
- (11/204)",,,https://drive.google.com/file/d/1M47tplvXEfJHdckas3uBiJwM15Kfb1BP/view?usp=drive_link,,,,BS
+ (13/124)",,,Course Plan EH 613,,,,BS
+EH 619,Geobiology,3,0,0,4,Sonal Khanolkar(I),,3,,"E1,E2
+ (7/201)",,,https://drive.google.com/file/d/1M47tplvXEfJHdckas3uBiJwM15Kfb1BP/view?usp=drive_link,,,,BS
 EH 625,Environmental Geosciences,3,0,0,4,Achyut Mishra(I),,,,"M1,M2
 (7/202)",,,course plan,,,,
 EH 626,Reservoir Modelling and Simulation,3,0,0,4,Achyut Mishra(I),,,,"E1,E2
@@ -595,7 +596,7 @@ EH 627,Anthropocene: Human Impact on the Earth        ,3,0,0,4,"Vikrant Jain(I),
 EH 628,The Prehistory of Homo Sapiens,3,0,0,4,Anil Devara(I),,,,"M1,M2
 (13/124)",,,Link,,,,
 EH 691-III,Special Topics in Earth Science: Microwave Remote Sensing,3,0,0,4,P. C. Pandey(I),,4,,"B1,B2
- (13/124)",,,,,,,BS
+ (13/124)",,,https://drive.google.com/file/d/1pzEvuwrbd77kBqxzWStwJI4uH5XmWUrK/view?usp=drive_link,,,,BS
 ,,,,,,,,,,,,,,,,,
 Additional Courses CG,,,,,,,,,,,,,,,,,
 CG 501,Computation and Cognition,3,0,0,4,Krishna Miyapuram(I),,12,,"B1,B2
@@ -607,7 +608,7 @@ CG 504,Research Methods in Cognitive Science,1.5,0,1.5,4,Vaibhav Tripathi(I+L),,
 CG 505,Fundamental Neuroscience,3,0,0,4,Pratik Mutha(I),,11,,"D1,D2
  (7/107)",,,,,,,BS
 CG 606,Philosophy of Mind,3,0,0,4,Jaison Manjaly(I),,27,,"C1,C2
- (7/203)",,,,,,,BS
+ (7/203)",,,Course Outline,,,,BS
 CG 612,Neural Plasticity,3,0,0,4,Leslee Lazar(I),,17,,"F1,F2
  (13/124)",,,CG 612,,,,BS
 ES 673,NeuroAI: Neuroscience & Artificial Intelligence ,3,0,0,4,Vaibhav Tripathi(I),,,,"M1,M2
@@ -616,7 +617,9 @@ CG 691-VI,Special Topics in Cognitive Sciences: Second Language Acquisition,3,0,
 (7/105)",,,CG691-VI,,,,BS
 CG 691-VII,"Special Topics in Cognitive Sciences: Language, Culture and Cognition",3,0,0,4,Nishaant Choksi(I),,18,,"F1,F2
  (13/124)",,,,,,,BS
-,,,,,,,,,,,,,,,,,
+CG 691-VIII,Special Topics in Cognitive Sciences: Advanced Writing for Cognitive and Brain Sciences,1,0,3,4,Leslee Lazar(I),,,,"H2
+(7/203)",,"I1,K1
+(11/206)",https://iitgnacin-my.sharepoint.com/:b:/g/personal/leslee_lazar_iitgn_ac_in/EWfyvD8W4bBKt3IErXzO88wB7k6StyKrLCmRnEbO6AxGlA?e=DySLkx,,,,
 "Additional Courses Design, HSS, Management",,,,,,,,,,,,,,,,,
 FP 602,Writing (For Engineering PhD students and MTech Students),1,0,3,4,Sharmita Lahiri(I+L),,,,"F2
  (Jasubhai Auditorium)",,"H1,H2
@@ -628,7 +631,7 @@ HS 103,French Studies,3,0,0,4,Nishit Shah(I),,,,"I1,I2
 (11/101)",,,,,,,
 HS 104,Foundational Sanskrit,3,1,0,4,Mana Shah(I+T),,,,"L1,L2
  (7/103)","J2
- (7/210)",,,,,,
+ (7/210)",,Course plan HS 104.docx,,,,
 HS 108,Japan Studies,3,0,0,2,Toshiki Osada(I),,,,"K1,K2
  (7/103)",,,,,,,
 HS 111,Urdu Script & Poetry,3,1,0,4,Mohd. Mubashshir Ahsan(I),,,,"M1,M2
@@ -650,7 +653,7 @@ HS 155,Mandarin for Beginners - II,3,0,0,4,"Kao(I), Hao-Tsung(I)",,,,"L1,L2
 IN 304,Ancient Indian Technology,3,0,0,4,Alok Kumar Kanungo(I),,,,"N1,N2
  (7/205)",,,https://drive.google.com/file/d/1N_NVxj1sORQmk_zXLa-apmPmSYxLGNxh/view?usp=drive_link,,,,
 MS 408,Financial Considerations in Engineering Decisions,3,0,0,4,K Chelvakumar(I),,,,"J1,J2
-(7/103)",,,,,,,
+(7/103)",,,Classes will commence from 12 August,,,,
 IN 491,Special Topics: Foundations of User Experience,3,0,0,4,Nuno Guimaraes(I)        ,,,,"N1,N2
 (Online)",,,Course plan,,,,
 HS 425,Introduction to Archaeology,3,0,0,4,Sharada Channarayapatna(I),,,,"K1,K2
@@ -663,7 +666,7 @@ MS 491,Special Topics in Management: Marketing Analytics,3,0,0,4,Marcos Severo(I
 (11/102)",,,https://drive.google.com/file/d/1dO4F-dZyk3o9bapdrhQErZfbW87cuzQ1/view?usp=drive_link,,Course is online only,,
 MS 491-VIII,Special Topics in Management: Laboratory in Entrepreneurial Motivation,3,0,0,4,Sunil Handa(I),,,,"Saturday,Sunday",,,,,,,
 MS 491-XI,Special Topics in Management:Business Strategy,3,0,0,4,Monika Bhandari(I),,,,"D1,D2
-(7/103)",,,,,,,
+(7/103)",,,https://drive.google.com/file/d/199XwTPC1UbrSjzMYdqpSrMTdflRl6dNh/view?usp=share_link,,,,
 HS 491-XIII,Special Topics in HSS: Drawing Connections: Environmental Perception and Visual Anthropology,3,0,0,4,Suman Chaudhury(I),,,,"J1,J2
 (7/201)",,,,,,,
 MS 491-XIII,"Special Topics in Management: An Introduction to Business, Organization & Finance",3,0,0,4,Praveen Gupta(I),,,,"P1,P2
@@ -674,8 +677,8 @@ MS 492-VIII,Special Topics in Management: Leadership Development & Executive Pre
  (7/102)",,,,,,,
 HS 507,"Humanism, Antihumanism, Posthumanism",3,0,0,4,Angus McBlane(I),,,,"J1,J2
  (7/105)",,,,,,,
-HS 510,Perspectives on Indian Civilization,3,0,0,4,V N Prabhakar(I),,,,"D1,D2
- (7/203)",,,Course Plan,,,,
+HS 510,Perspectives on Indian Civilization,3,0,0,4,V N Prabhakar(I),,,,"E1,E2
+ (7/206)",,,Course Plan,,,,
 HS 512,Political Thought,3,0,0,4,T. Subba(I),,,,"E1,E2
 (7/107)",,,https://docs.google.com/document/d/1X4E4vPA3zi0PtqrayhLSRPQUtBQ7-xUD/edit?usp=sharing&ouid=112722193455628803222&rtpof=true&sd=true,,,,
 HS 520,Ancient Indian Architecture,3,0,0,4,V N Prabhakar(I),,,,"L1,L2
@@ -683,16 +686,16 @@ HS 520,Ancient Indian Architecture,3,0,0,4,V N Prabhakar(I),,,,"L1,L2
 HS 521,Development Economics,3,0,0,4,Deepak Singhania(I),,,,"K1,K2
  (11/102)",,,https://drive.google.com/file/d/1fVgfqjsmCzO5g5ad634L_Lt3D0zPN-Ko/view,,,,
 HS 524,Qualitative Research Methods,3,0,0,4,Ambika Aiyadurai(I),,,,"C1,C2
- (7/202)",,,,,,,
+ (7/202)",,,https://drive.google.com/file/d/17dQvWxLHEF3lUAP1O-kEkB6hb1trUgXb/view?usp=share_link,,,,
 HS 525,"Cognitive, Sociocultural and Critical Foundations of the Learning Sciences",3,0,0,4,Aditi Kothiyal(I),,,,"L1,L2
-(7/206)",,,LearningSciences_Course Plan_2025-2026,,,,
+(7/206)",,,,,,,
 HS 526,"Education, Technology and Society",3,0,0,4,Aditi Kothiyal(I),,,,"D1,D2
 (7/204)",,,CoursePlan_ETandS_2025-26.pdf,,,,
 DES 591-I,Special Topics in Design: Game Appreciation and Game Aesthetics,3,0,0,4,Malay Dhamelia(I),,,,"M1,M2
 (7/210)",,,Broad Course Plan,,,,
 DES 603,Fundamentals of 3D Modeling and Animation,1.5,0,3,4,Sameer Sahasrabudhe(I+L),,,,"M1
 (Jayshree S Sheth Learning Theatre)",,"J2,M2
-(Jayshree S Sheth Learning Theatre)",,,,,
+(Jayshree S Sheth Learning Theatre)",Course plan,,,,
 DES 604,Technology and Design Situations,1.5,0,3,4,Sameer Sahasrabudhe(I+L),,,,"J1
 (Jayshree S Sheth Learning Theatre)",,"J1,L1
 (Jayshree S Sheth Learning Theatre)",,,,,
@@ -704,7 +707,7 @@ HS 651,Critical Perspectives in Sociology,3,0,0,4,Aashish Xaxa(I),,,,"D1,D2
  (10/102)",,,,,,,
 HS 652,"Reading Philosophy: Classical, Contemporary, and 
 Global Perspectives",3,0,0,4,Angus McBlane(I),,,,"G1,G2
- (Online)",,,,,,,
+ (Online)",,,Course Plan,,,,
 HS 655,Academic Communication: Argumentation and Reasoning,3,0,0,2,Jooyoung Kim(I),,,,"K1,K2
  (7/104)",,,HS 655,PhD or Advanced Masters,,,
 HS 691-I,Special Topics in HSS: Themes in Postcolonialism,3,0,0,4,Madhumita Sengupta(I),,,,"L1,L2
