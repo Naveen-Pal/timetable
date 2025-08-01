@@ -3,5 +3,6 @@ Werkzeug
 pandas
 gunicorn
 flask-cors
+icalendar
 pytest>=7.0.0
 pytest-flask>=1.2.0
