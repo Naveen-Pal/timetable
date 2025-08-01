@@ -60,7 +60,7 @@ EE 221,Electronic Devices,2,1,0,3,Sandip Lashkare(I+T),,66,,"I1,I2
 (10/103)",EE226 Course Plan,,,,
 CE 201,Earth Materials and Processes,1.5,0,3,2,Vikrant Jain(I+L),,37,,"E1
  (7/101)",,"I1,K1
-(7/206)",,,,,
+(7/206)",https://drive.google.com/file/d/1YI35aR5F_QDTZfnk6jfg2TAtkgy6UQAV/view?usp=sharing,,,,
 CL 201,Chemical Process Calculations,2,1,0,3,Sameer Dalvi(I+T),,46,,"E1,E2
  (10/102)",,,CL 201 Course Plan,,,,
 ES 242,Data Structures and Algorithms I,3,0,1.5,4,Balagopal Komarath(I+L),,,,"N1,N2
@@ -336,7 +336,7 @@ BS 401,Nanoscale Science,3,0,0,4,Kabeer Jasuja(I),,9,,"G1,G2
 CL 601,Advanced Transport Phenomena,3,0,0,4,Pratyush Dayal(I),,1,,"A1,A2
  (7/208)",,,Course Plan,,,,
 CL 602,Advanced Thermodynamics,3,0,0,4,Mithun Radhakrishna(I),,1,,"G1,G2
- (7/103)",,,,,,,
+ (7/103)",,,Course Plan,,,,
 CL 604,Advanced Reaction Engineering,3,0,0,4,Abinaya Sampath(I),,1,,"B1,B2
  (7/103)",,,Course plan,,,,
 ES 604,Engineering Optimization,3,0,0,4,Hari Ganesh(I),,16,,"L1,L2
@@ -606,7 +606,7 @@ EH 625,Environmental Geosciences,3,0,0,4,Achyut Mishra(I),,,,"M1,M2
 EH 626,Reservoir Modelling and Simulation,3,0,0,4,Achyut Mishra(I),,,,"E1,E2
 (7/204)",,,course plan,,,,
 EH 627,Anthropocene: Human Impact on the Earth        ,3,0,0,4,"Vikrant Jain(I),S. K. Tandon(I)",,,,"G1,G2
- (13/125)",,,,,,,BS
+ (13/125)",,,https://drive.google.com/file/d/1k_D58xx19bLMtc8rgsO5TC6CE6wTvfut/view?usp=sharing,,,,BS
 EH 628,The Prehistory of Homo Sapiens,3,0,0,4,Anil Devara(I),,,,"M1,M2
 (13/124)",,,Link,,,,
 EH 691-III,Special Topics in Earth Science: Microwave Remote Sensing,3,0,0,4,P. C. Pandey(I),,4,,"B1,B2
@@ -624,7 +624,7 @@ CG 505,Fundamental Neuroscience,3,0,0,4,Pratik Mutha(I),,11,,"D1,D2
 CG 606,Philosophy of Mind,3,0,0,4,Jaison Manjaly(I),,27,,"C1,C2
  (7/203)",,,Course Outline,,,,BS
 ES 606,Computational Neuroscience,3,0,0,4,Krishna Miyapuram(I),,,,"E1,E2
-(7/207)",,,,,,,
+(7/207)",,,ES 606,,,,
 CG 612,Neural Plasticity,3,0,0,4,Leslee Lazar(I),,17,,"F1,F2
  (13/124)",,,CG 612,,,,BS
 ES 673,NeuroAI: Neuroscience & Artificial Intelligence ,3,0,0,4,Vaibhav Tripathi(I),,,,"M1,M2
@@ -722,7 +722,7 @@ DES 605,Systemic Approach for Design Field,1,0,3,4,Manasi Kanetkar(I),,,,"J1
 (7/210)",,"I1,K1
 (7/210)",Course document,,,,Non HSS for HSS students / HSS beacket for B Tech
 HS 631,Digital Cultures and New Media,3,0,0,4,Arnapurna Rath(I),,,,"L1,L2
- (7/104)",,,,,,,
+ (7/104)",,,https://sites.iitgn.ac.in/digitalstudies/course-structure/ ,,,,
 HS 647,"Literature, Theory and Social Context",3,0,0,4,Arka Chattopadhyay(I),,,,"D1,D2
  (7/201)",,,Course Plan,Critical theory & Literature,,,HSS MA Core
 HS 651,Critical Perspectives in Sociology,3,0,0,4,Aashish Xaxa(I),,,,"D1,D2

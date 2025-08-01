@@ -1,10 +1,12 @@
 import os
 import re
 import uuid
+from datetime import datetime, timedelta
 
 import pandas as pd
-from flask import Flask, jsonify, render_template, request
+from flask import Flask, jsonify, render_template, request, Response
 from flask_cors import CORS
+from icalendar import Calendar, Event
 
 app = Flask(__name__, template_folder="templates")
 app.secret_key = os.urandom(24)
@@ -101,6 +103,87 @@ def get_timetable():
         )
     except Exception as e:
         return jsonify({"error": f"Failed to generate timetable: {str(e)}"}), 500
+
+
+@app.route("/api/download-ics", methods=["POST"])
+def download_ics():
+    try:
+        json_data = request.get_json()
+        if not json_data or not json_data.get("courses"):
+            return jsonify({"error": "No courses selected"}), 400
+
+        selected_courses = json_data.get("courses", [])
+        
+        # Create ICS calendar
+        cal = Calendar()
+        cal.add('prodid', '-//IIT Gandhinagar//Timetable//EN')
+        cal.add('version', '2.0')
+        cal.add('x-wr-calname', 'IIT Gandhinagar Timetable')
+
+        # Generate timetable data
+        timetable = create_timetable(selected_courses)
+        day_columns = [col for col in timetable.columns if col != "Time Slot"]
+        
+        # Semester start date
+        semester_start = datetime(2025, 8, 4)
+        
+        # Process each time slot
+        for idx, row in timetable.iterrows():
+            time_slot = time_labels[idx] if idx < len(time_labels) else f"Slot {idx + 1}"
+            
+            # Parse time (format: "08:30 - 09:50")
+            if '-' not in time_slot:
+                continue
+            start_time, end_time = time_slot.split('-')
+            try:
+                start_hour, start_min = map(int, start_time.strip().split(':'))
+                end_hour, end_min = map(int, end_time.strip().split(':'))
+            except:
+                continue
+            
+            for day_name in day_columns:
+                content = str(row[day_name]) if pd.notna(row[day_name]) else ""
+                if not content or content == 'nan':
+                    continue
+                
+                # Use cleaned content from clean_course_info function
+                clean_info = clean_course_info(content)
+                if not clean_info:
+                    continue
+                
+                
+                parts = [p.strip() for p in clean_info.split(',')]
+                if len(parts) < 3:
+                    continue
+                    
+                course_code = parts[0]
+                course_name = parts[1][:20] + "..." if len(parts[1]) > 20 else parts[1]  # Slice if long
+                session_type = parts[2]
+                location = parts[3] if len(parts) > 3 else "IIT Gandhinagar"
+                
+                # Calculate first occurrence date
+                days_until = (day_columns.index(day_name) - semester_start.weekday()) % 7
+                first_date = semester_start + timedelta(days=days_until)
+                
+                # Create recurring event
+                event = Event()
+                event.add('summary', f"{course_name} ({session_type})")
+                event.add('dtstart', datetime.combine(first_date, datetime.min.time().replace(hour=start_hour, minute=start_min)))
+                event.add('dtend', datetime.combine(first_date, datetime.min.time().replace(hour=end_hour, minute=end_min)))
+                event.add('location', location)
+                event.add('rrule', {'freq': 'weekly', 'count': 16})  # 16 weeks
+                event.add('uid', f'{uuid.uuid4()}@iitgn.ac.in')
+                
+                cal.add_component(event)
+
+        return Response(
+            cal.to_ical().decode('utf-8'),
+            mimetype='text/calendar',
+            headers={'Content-Disposition': 'attachment; filename=timetable.ics'}
+        )
+        
+    except Exception as e:
+        return jsonify({"error": f"Failed to generate ICS: {str(e)}"}), 500
 
 
 def clean_course_info(content):

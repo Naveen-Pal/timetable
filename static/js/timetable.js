@@ -16,6 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
         downloadImage: $('download-image'),
         downloadExcel: $('download-excel'),
         downloadCSV: $('download-csv'),
+        downloadICS: $('download-ics'),
         totalCreditsElement: $('total-credits'),
         errorBox: $('error-box'),
         successBox: $('success-box'),
@@ -48,7 +49,7 @@ document.addEventListener('DOMContentLoaded', function() {
         $('go-to-top').addEventListener('click', scrollToTop);
         
         // Download handlers
-        ['Image', 'Excel', 'CSV'].forEach(type => {
+        ['Image', 'Excel', 'CSV', 'ICS'].forEach(type => {
             $(`download-${type.toLowerCase()}`).addEventListener('click', () => 
                 validateAndGenerate(() => window[`generateTimetable${type}`]())
             );
@@ -276,6 +277,38 @@ document.addEventListener('DOMContentLoaded', function() {
         
         downloadFile(`data:text/csv;charset=utf-8,${encodeURIComponent(csv)}`, 'csv');
         showMessage('CSV downloaded!', 'success');
+    };
+    
+    window.generateTimetableICS = function() {
+        if (!timetableData) return showMessage('Generate timetable first.', 'error');
+        
+        showMessage('Generating calendar file...', 'success');
+        
+        fetch('/api/download-ics', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ courses: selectedCourses })
+        })
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Failed to generate ICS file');
+            }
+            return response.blob();
+        })
+        .then(blob => {
+            const url = URL.createObjectURL(blob);
+            const link = document.createElement('a');
+            link.href = url;
+            link.download = `Timetable_${getTimestamp()}.ics`;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            URL.revokeObjectURL(url);
+            showMessage('Calendar file downloaded! Import it to your calendar app.', 'success');
+        })
+        .catch(() => {
+            showMessage('Failed to generate calendar file.', 'error');
+        });
     };
     
     // Helper functions
