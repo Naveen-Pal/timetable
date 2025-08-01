@@ -29,9 +29,9 @@ HS 201,World Civilizations and Cultures,3,0,0,4,"Madhumita Sengupta(I),Sharada C
 PE 101,Physical Education,0,0,0,0,,,2,,,,,,,,,
 IN 101,Comprehensive Viva Voce,0,0,0,0,,,,,,,,,,,,
 Second Year(2024),,,,,,,,,,,,,,,,,
-ES 243,Biology for Engineers,3,1,0,4,Umashankar Singh(I+T),,342,,"D1,D2
- (Jasubhai Auditorium)","A1
- (Jasubhai Auditorium)",,ES243 course plan,,,,
+ES 243,Biology for Engineers,3,1,0,4,"Umashankar Singh(I+T),Aditi Satish(GTF)(T),Praveen Kumar(GTF)(T),Hitasha Vithalani (GTF)(T),Abhishek Indoliya(T),Raghu Yadav(T),Mukesh Dhanka,Subramaniam Sankaranarayanan,Dhiraj Bhatia,Vijay Thiruvenkatam,Karla M. Shekhar",,342,,"D1,D2
+ (Jasubhai Auditorium)","A2
+(7/102,7/103,7/106,7/107,7/202,7/203,7/204,7/205,7/206,7/207)",,ES243 course plan,,,,
 GE 201,General Education II,3,0,0,2,TBD(I),,339,,"P1,P2
  (10/201)",,,,,,,
 PH 202,Introduction to Quantum Physics,2,1,0,4,Krista Khaingte(I+T),,36,,"L1,L2
@@ -47,12 +47,11 @@ MA 205,"Calculus of Several Variables
  (7/101,7/210,7/103,7/104,7/105,7/106,7/204,7/102)",,Course Plan,,,,
 MA 206,"Introduction to Complex Analysis
 (Second half of Semester)",3,1.5,0,2,Tanya Srivastava(I+T),,18,,"C1,C2
- (7/206)","A2
-(7104,7/105)",,,,,,
+ (7/206)",,,,,,,
 ES XXX,Science Basket Course,-,-,-,4,,,,,,,,,,,,
 ES 211,Thermodynamics,2,1,0,3,"Atul Bhargav(I+T),Prabhat Munshi(T),Mithun Radhakrishna(T)",,107,,"G1,G2
- (Jayshree S Sheth Learning Theatre)",,"G1,G2
-(7/204,7/103)",,,,,
+ (Jayshree S Sheth Learning Theatre)",,"F1
+(Jayshree S Sheth Learning Theatre,7/106,7/107)",,,,,
 MSE 202,Materials Thermodynamics,3,1,0,4,Abhay Gautam(I+T),,33,,"J1,J2
  (7/207)","L1
  (7/207)",,,,,,
@@ -274,19 +273,30 @@ BE 614,Biostatistics,1.5,0,3,4,Ashutosh Srivastava(I+L),,2,,"E1
 BE 616,Human Physiology,3,0,0,4,Karla P. Mercado-Shekhar(I),,12,,"C1,C2
  (7/201)",,,BE 616 course plan,,,,BS
 BE 618,Molecular Biotechnology,1.5,0,3,4,Subramanian Sankaranarayanan(I+L),,3,,"E2
- (7/103)",,"J1,L1
+ (7/103)",,"I2,M1
 (BE Lab)",BE 618 course plan,,,,
-,,,,,,,,,,,,,,,,,
+BE 621,"Peptide Technologies 
+(Quad2 and Quad 3)",1.5,0,3,2,Sharad Gupta(I),,,,"J2
+(6/203)",,"M2,P2
+(6/203)",BE 621 course plan,,,,
+BE 622,Applied Stem Cells Technologies,3,0,0,4,Dhiraj Bhatia(I),,,,"G1,G2
+(Surendra C Sheth Learning Theatre)",,,https://docs.google.com/document/d/1UKnOk7sjCsv5hHrjSSnXudti4x7992HdFZjYQkrrXhY/edit?tab=t.0,,,,
+BE 623,Biocomputing,0,0,3,2,Ashutosh Srivastava(L),,,,,,"B1,A2
+(10/104)",,,,,
+BE 624,Protein Biologics: From Lab to Clinic,3,1,0,4,"
+Sharad Gupta(I)",,,,"D1,D2
+(11/204)","F1
+(11/205)",,BE 624 course plan,,,,
 Additional courses CE,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,
-CE 315,Civil Engineering Materials,3,0,0,4,Siva Chopeperla(I),,,,"J1,J2
-(7/101)",,,,,,,
+CE 315,Civil Engineering Materials,3,0,0,4,Siva Chopeperla(I),,,,"B1,B2
+(7/202)",,,,,,,
 CE 601,Advanced Geotechnical Engineering,3,0,3,5,Ajanta Sachan(I+L),,,,"G1,G2
  (7/108)",,"I2,M1
 (CE Lab)",https://drive.google.com/file/d/1vzt8W6mDPvWGx4tkv1rqsEblxX1fuHpK/view?usp=sharing,,,,
 CE 607,Advanced Structural Analysis,3,0,0,4,Dhiman Basu(I),,3,,"L1,L2
  (13/124)",,,Course Link,,,,
-CE 611,Advanced Engineering Hydrology,3,0,0,4,Vimal Mishra(I),,,,"D1,D2
+CE 611,Advanced Engineering Hydrology,3,0,0,4,Sharad Kumar Jain(I),,,,"D1,D2
  (7/104)",,,,,,,
 ES 621,Advanced Solid Mechanics,3,0,0,4,Harmeet Singh(I),,6,,"G1,G2
  (7/207)",,,course_plan,,,,
@@ -325,8 +335,8 @@ BS 401,Nanoscale Science,3,0,0,4,Kabeer Jasuja(I),,9,,"G1,G2
  (10/102)",,,BS 401 Course Plan,,,,
 CL 601,Advanced Transport Phenomena,3,0,0,4,Pratyush Dayal(I),,1,,"A1,A2
  (7/208)",,,Course Plan,,,,
-CL 602,Advanced Thermodynamics,3,0,0,4,Mithun Radhakrishna(I),,1,,"I1,I2
- (7/105)",,,,,,,
+CL 602,Advanced Thermodynamics,3,0,0,4,Mithun Radhakrishna(I),,1,,"G1,G2
+ (7/103)",,,,,,,
 CL 604,Advanced Reaction Engineering,3,0,0,4,Abinaya Sampath(I),,1,,"B1,B2
  (7/103)",,,Course plan,,,,
 ES 604,Engineering Optimization,3,0,0,4,Hari Ganesh(I),,16,,"L1,L2
@@ -352,11 +362,11 @@ CS 613,Natural Language Processing,3,0,0,4,Mayank Singh(I),,45,,"K1,K2
 CS 618,Theoretical Foundations of Machine Learning,3,0,0,4,Anirban Dasgupta(I),,9,,"N1,N2
  (11/205)",,,Course Plan,,,,
 CS 619,CS Theory Tool Kit,3,0,0,4,Bireswar Das(I),,3,,"L1,L2
- (13/125)",,,,,,,
+ (13/125)",,,Course Plan,,,,
 CS 620,Incentives and Machine Learning,3,0,0,4,Manisha Padala(I),,13,,"N1,N2
  (7/101)",,,Course_Proposal_Incentives_and_Machine_Learning.docx,,,,
-ES 667,Deep Learning,3,0,0,4,Nirmal Sancheti(I),,,,"M1,M2
-(7/109)",,,,,,,
+ES 667,Deep Learning,3,0,0,4,Nirmal Sancheti(I),,,,"N1,N2
+(7/202)",,,,,,,
 CS 691-VIII,Algebraic Complexity Theory,3,0,0,4,Balagopal Komarath(I),,2,,"I1,I2
  (11/205)",,,Course Plan,,,,
 CS 691-XXI,Special Topics in Computer Science: Verification and Validation of Safety-Critical Software Systems,3,0,0,4,Lalit Kumar Singh(I),,,,"M1,M2
@@ -378,10 +388,10 @@ ES 414,Introduction to Photonics,3,1,0,4,Arup Chakraborty(I+T),,4,,"P1,P2
  (13/125)","J1
  (13/125)",,course plan,,NOTE: The course will be offered as ES675 Photonics - Principles and Applications (3-0-0-4). The entries in this row will soon be updated by the faculty in charge of the time table.,,
 ES 616,Digital Control Systems,3,1,0,4,S Rajendran(I+T),,4,,"B1,B2
- (11/204)","H2
- (13/124)",,https://drive.google.com/file/d/1Cdvmn748BuugyKJpQo5YAc6MDZJqRBYn/view?usp=drive_link,,,,
-ES 626,Microfabrication and Semiconductor Processes,3,0,0,4,Nihar Mohapatra(I),,4,,"D1,D2
- (10/102)",,,https://docs.google.com/document/d/1wPIDtz6GUGsW9Vi7rcoYgV158VSNXFGc/edit,,,,
+ (7/204)","H2
+ (7/204)",,https://drive.google.com/file/d/1Cdvmn748BuugyKJpQo5YAc6MDZJqRBYn/view?usp=drive_link,,,,
+ES 626,Microfabrication and Semiconductor Processes,3,0,0,4,Nihar Mohapatra(I),,4,,"B1,B2
+ (10/202)",,,https://docs.google.com/document/d/1wPIDtz6GUGsW9Vi7rcoYgV158VSNXFGc/edit,,,,
 EE 651,CMOS Analog IC Design,3,0,0,4,Tarun Agrawal(I),,4,,"N1,N2
  (7/210)",,,course plan,,,,
 ES 657,Biomedical Ultrasound,3,0,0,4,Himanshu Shekhar(I),,3,,"P1,P2
@@ -393,6 +403,8 @@ EE 663,Advanced Wireless Communications,3,0,0,4,Raghunandan Rao(I),,,,"M1,M2
 ",,
 ES 663,Smart Renewable Energy Systems,3,0,0,4,Pallavi Bharadwaj(I),,6,,"M1,M2
  (10/102)",,,Course Link,,,,
+EE 664,High Frequency Engineering,3,0,0,4,Kamla Prasan Ray(I+T),,,,"M1,M2
+(11/206)",,,Course_Plan,,,,
 ES 666,Computer Vision,3,0,0,4,Shanmuganathan Raman(I),,59,,"E1,E2
  (Surendra C Sheth Learning Theatre)",,,Course Plan ES 666 Computer Vision - 2025-26,,,"CSE, AI, EE, Robotics",
 ES 668,5G and Beyond,3,0,0,4,"Ravi Hegde(I), Sameer Kulkarni(I)",,4,,"N1,N2
@@ -456,6 +468,8 @@ MSE 629,Structure and Defects of Materials,3,0,0,4,Prafull Pandey(I),,6,,"G1,G2
 MSE 632,Characterization of Materials,3,0,3,4,Emila Panda(I+L),,8,,"A1,A2
  (7/209)",,"J1,L1
 (MSE Lab)",,,,,
+MSE 633A,Transmission Electron Microscopy,3,0,0,3,Abhay Gautam(I),,,,"K1,K2
+(11/204)",,,,,,,
 Additional courses CH,,,,,,,,,,,,,,,,,
 CH 301,Forensic Chemistry,3,0,0,2,Bhaskar Datta(I),,,,"M1,M2
 (7/203)",,,Course Syllabus & Plan,None,,,
@@ -490,7 +504,7 @@ CH 624,Molecular Spectroscopy,3,0,0,4,Saumyakanti Khatua(I),,15,,"I1,I2
 CH 626,Asymmetric Synthesis and Catalysis,3,0,0,4,Chandrakumar Appayee(I),,23,,"E1,E2
  (7/202)",,,Course Plan,,,,BS
 CH 627,Metabolism & Biosynthesis,3,0,0,4,Bhaskar Datta(I),,,,"L1,L2
-(7/201)",,,Course Syllabus & Plan,Course is only open for students in M.Sc. M.Tech. and Ph.D programs,,,
+(7/201)",,,Course Syllabus & Plan,Course is only for MSc M.Tech. Ph.D programs,,,
 CH 635,Chemical Crystallography,2,0,1,4,Vijay Thiruvenkatam(I+L),,1,,"B1,B2
  (7/105)",,"I1
 (CH Lab)",Course Plan,,,,BS
@@ -574,7 +588,7 @@ PH 646,Advanced Statistical Physics,3,0,0,4,Abhishek Samanta(I),,4,,"E1,E2
 PH 647,Particle Physics and Gauge Theories,3,0,0,4,Rusa Mandal(I),,6,,"E1,E2
  (7/205)",,,Course plan,,,,BS
 PH 652,Gravitational Wave Astronomy,3,0,0,4,Anand SenGupta(I),,,,"M1,M2
-(7/204)",,,,,,,
+(7/204)",,,Course Plan,,,,
 ,,,,,,,,,,,,,,,,,
 Additional Course EH,,,,,,,,,,,,,,,,,
 EH 605,Modelling of of Earth System and Sustainability,3,0,0,4,R. N. Singh(I),,,,"L1,L2
@@ -606,9 +620,11 @@ CG 503,Fundamentals of Cognitive Psychology,3,0,0,4,Meera Mary Sunny(I),,19,,"F1
 CG 504,Research Methods in Cognitive Science,1.5,0,1.5,4,Vaibhav Tripathi(I+L),,2,,"E1,E2
  (10/202)",,,,,,,BS
 CG 505,Fundamental Neuroscience,3,0,0,4,Pratik Mutha(I),,11,,"D1,D2
- (7/107)",,,,,,,BS
+ (7/107)",,,Course Plan,,,,BS
 CG 606,Philosophy of Mind,3,0,0,4,Jaison Manjaly(I),,27,,"C1,C2
  (7/203)",,,Course Outline,,,,BS
+ES 606,Computational Neuroscience,3,0,0,4,Krishna Miyapuram(I),,,,"E1,E2
+(7/207)",,,,,,,
 CG 612,Neural Plasticity,3,0,0,4,Leslee Lazar(I),,17,,"F1,F2
  (13/124)",,,CG 612,,,,BS
 ES 673,NeuroAI: Neuroscience & Artificial Intelligence ,3,0,0,4,Vaibhav Tripathi(I),,,,"M1,M2
@@ -646,10 +662,13 @@ HS 152,Japanese Language for Beginners,3,1,0,4,Sweta Mistry(I),,,,"P1,P2
 HS 153,Advance Japanese Learning,3,1,0,4,Sweta Mistry(I),,,,"I1,I2
  (11/102)","L2
 (11/102)",,Course Plan,,,,
-HS 154,Mandarin for Beginners,3,0,0,4,"Kao(I), Hao-Tsung(I)",,,,"N1,N2
- (7/104)",,,,,,,
-HS 155,Mandarin for Beginners - II,3,0,0,4,"Kao(I), Hao-Tsung(I)",,,,"L1,L2
+HS 154,Mandarin for Beginners,3,0,0,4,"Kao(I), Hao-Tsung(I)",,,,"L1,L2
  (7/203)",,,,,,,
+HS 155,Mandarin for Beginners - II,3,0,0,4,"Kao(I), Hao-Tsung(I)",,,,"N1,N2
+ (7/104)",,,,,,,
+DES 201,Technopreneurship: Product Proposition,2,0,3,4,Manikanta Polisetti(I),,,,"L1,L2
+(11/204)",,"K1,H1
+(11/205)",Course overview,,,,
 IN 304,Ancient Indian Technology,3,0,0,4,Alok Kumar Kanungo(I),,,,"N1,N2
  (7/205)",,,https://drive.google.com/file/d/1N_NVxj1sORQmk_zXLa-apmPmSYxLGNxh/view?usp=drive_link,,,,
 MS 408,Financial Considerations in Engineering Decisions,3,0,0,4,K Chelvakumar(I),,,,"J1,J2
@@ -674,7 +693,7 @@ MS 491-XIII,"Special Topics in Management: An Introduction to Business, Organiza
 MS 492-IV,Business Ethics and Responsible Leadership,3,0,0,2,Ramachandran Veetikazhi(I),,,,"M1,M2
  (7/102)",,,"Timetable, Sem-I, 2025-26",,,,
 MS 492-VIII,Special Topics in Management: Leadership Development & Executive Presence,3,0,0,2,Ramachandran Veetikazhi(I),,,,"M1,M2
- (7/102)",,,,,,,
+ (7/102)",,,https://docs.google.com/document/d/1LY3clwU-chjMEdiKmNds8L-8aaya6-mP/edit?usp=sharing&ouid=114411321731810664173&rtpof=true&sd=true,,,,
 HS 507,"Humanism, Antihumanism, Posthumanism",3,0,0,4,Angus McBlane(I),,,,"J1,J2
  (7/105)",,,,,,,
 HS 510,Perspectives on Indian Civilization,3,0,0,4,V N Prabhakar(I),,,,"E1,E2
@@ -699,6 +718,9 @@ DES 603,Fundamentals of 3D Modeling and Animation,1.5,0,3,4,Sameer Sahasrabudhe(
 DES 604,Technology and Design Situations,1.5,0,3,4,Sameer Sahasrabudhe(I+L),,,,"J1
 (Jayshree S Sheth Learning Theatre)",,"J1,L1
 (Jayshree S Sheth Learning Theatre)",,,,,
+DES 605,Systemic Approach for Design Field,1,0,3,4,Manasi Kanetkar(I),,,,"J1
+(7/210)",,"I1,K1
+(7/210)",Course document,,,,Non HSS for HSS students / HSS beacket for B Tech
 HS 631,Digital Cultures and New Media,3,0,0,4,Arnapurna Rath(I),,,,"L1,L2
  (7/104)",,,,,,,
 HS 647,"Literature, Theory and Social Context",3,0,0,4,Arka Chattopadhyay(I),,,,"D1,D2
@@ -712,5 +734,7 @@ HS 655,Academic Communication: Argumentation and Reasoning,3,0,0,2,Jooyoung Kim(
  (7/104)",,,HS 655,PhD or Advanced Masters,,,
 HS 691-I,Special Topics in HSS: Themes in Postcolonialism,3,0,0,4,Madhumita Sengupta(I),,,,"L1,L2
  (7/204)",,,,,,,
+DES 691-III,Special Topics in Design: Innovation in Context: Ethnographic Approaches for Engineers,3,0,0,4,Seema Khanwalkar(I),,,,"M1,M2
+(7/104)",,,,,,,Non HSS for HSS students / HSS beacket for B Tech
 HS 691-XI,Techniques of Linguistic and Cultural Documentation,3,0,0,4,Toshiki Osada(I),,,,"P1,P2
  (7/104)",,,,,,,
