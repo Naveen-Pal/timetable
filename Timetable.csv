@@ -618,7 +618,7 @@ CG 501,Computation and Cognition,3,0,0,4,Krishna Miyapuram(I),,12,,"B1,B2
 CG 503,Fundamentals of Cognitive Psychology,3,0,0,4,Meera Mary Sunny(I),,19,,"F1,F2
  (7/204)",,,,,,,BS
 CG 504,Research Methods in Cognitive Science,1.5,0,1.5,4,Vaibhav Tripathi(I+L),,2,,"E1,E2
- (10/202)",,,,,,,BS
+ (10/202)",,,CG 504,,,,BS
 CG 505,Fundamental Neuroscience,3,0,0,4,Pratik Mutha(I),,11,,"D1,D2
  (7/107)",,,Course Plan,,,,BS
 CG 606,Philosophy of Mind,3,0,0,4,Jaison Manjaly(I),,27,,"C1,C2
@@ -628,7 +628,7 @@ ES 606,Computational Neuroscience,3,0,0,4,Krishna Miyapuram(I),,,,"E1,E2
 CG 612,Neural Plasticity,3,0,0,4,Leslee Lazar(I),,17,,"F1,F2
  (13/124)",,,CG 612,,,,BS
 ES 673,NeuroAI: Neuroscience & Artificial Intelligence ,3,0,0,4,Vaibhav Tripathi(I),,,,"M1,M2
-(7/207)",,,,,,,
+(7/207)",,,ES 673,,,,
 CG 691-VI,Special Topics in Cognitive Sciences: Second Language Acquisition,3,0,0,4,Jooyoung Kim(I),,13,,"M1,M2
 (7/105)",,,CG691-VI,,,,BS
 CG 691-VII,"Special Topics in Cognitive Sciences: Language, Culture and Cognition",3,0,0,4,Nishaant Choksi(I),,18,,"F1,F2
