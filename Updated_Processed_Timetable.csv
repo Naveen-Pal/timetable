@@ -25,7 +25,7 @@ Digital Systems,ES 204,"E1,E2",,"J1,J2",4.0,10/103,,"10/104,10/105"
 Science Basket Course,ES XXX,,,,4.0,,,
 Thermodynamics,ES 211,"G1,G2",,F1,3.0,,,
 Materials Thermodynamics,MSE 202,"J1,J2",L1,,4.0,7/207,7/207,
-Electronic Devices,EE 221,"I1,I2",,C2,3.0,10/201,,10/103
+Electronic Devices,EE 221,"I1,I2",,C2,3.0,10/201,,10/201
 Earth Materials and Processes,CE 201,E1,,"I1,K1",2.0,7/101,,7/206
 Chemical Process Calculations,CL 201,"E1,E2",,,3.0,10/102,,
 Data Structures and Algorithms I,ES 242,"N1,N2",,H2,4.0,10/103,,
@@ -43,7 +43,7 @@ Unveiling the Semiconductor World,EE 225,"F1,F2",,,2.0,10/102,,
 Physical Education,PE 103,,,,0.0,,,
 Comprehensive Viva Voce,IN 103,,,,0.0,,,
 Economics,HS 151,"J1,J2",H1,,4.0,Jasubhai Auditorium,,
-Foundations of AI: Multiagent Systems,CS 329,"C1,C2",,,4.0,10/201,,
+Foundations of AI: Multiagent Systems,CS 329,"C1,C2",,,4.0,10/103,,
 Machine Learning,ES 335,"P1,P2",L2,,4.0,10/103,10/103,
 HSS Elective,HS XXX,,,,4.0,,,
 Comprehensive Viva Voce,IN 105,,,,0.0,,,
@@ -53,6 +53,7 @@ Chemical Reaction Engineering-II,CL 313,"G1,G2",,,3.0,7/102,,
 Separation Processes - I,CL 314,"E1,E2",,,3.0,7/102,,
 Process Dynamics and Control,CL 315,"D1,D2",,,3.0,7/102,,
 Integrated Chemical Engineering Lab-I,CL 326,,,"I2,M1,P1",3.0,,,CL Lab
+Discipline Elective,CL XXX,,,,4.0,,,
 Soil Mechanics,CE 301,"G1,G2",L2,"I1,K1",5.0,7/210,7/105,CE Lab
 Design of Steel Structures,CE 312,"D1,D2",H2,,4.0,7/101,11/101,
 Hydrology and Hydraulics,CE 310,"E1,E2",,L1,4.0,7/108,,7/108
@@ -62,7 +63,7 @@ Software Tools and Techniques for CSE,CS 202,D1,,"I1,K1",4.0,10/103,,"10/104,10/
 Operating Systems,CS 330,"F1,F2",L1,,4.0,10/201,"10/203,10/204,10/201",
 Computer Networks,CS 331,"G1,G2",H2,,4.0,10/103,,
 Engineering Electromagnetics,EE 312,"G1,G2",H2,,4.0,7/109,10/202,
-Digital Signal Processing,EE 323,"D1,D2",A1,,4.0,10/202,"10/202,10/102",
+Digital Signal Processing,EE 323,"D1,D2",A1,,4.0,10/201,"10/201,10/102",
 Power Electronics,EE 333,"C1,C2",C1,"I2,M1,K2,L2",4.0,10/202,10/102,EE Lab
 Control Systems,ES 245,"G1,G2",A1,,4.0,11/101,7/108,
 Mechanics of Materials,ME 333,"E1,E2",,I1,3.0,7/109,,ME Lab
@@ -86,7 +87,7 @@ Molecular Biotechnology,BE 618,E2,,"I2,M1",4.0,7/103,,BE Lab
 (Quad2 and Quad 3)",BE 621,J2,,"M2,P2",2.0,6/203,,6/203
 Applied Stem Cells Technologies,BE 622,"G1,G2",,,4.0,,,
 Biocomputing,BE 623,,,"B1,A2",2.0,,,10/104
-Protein Biologics: From Lab to Clinic,BE 624,"D1,D2",F1,,4.0,11/204,11/205,
+Protein Biologics: From Lab to Clinic,BE 624,"D1,D2",F1,,4.0,11/102,11/102,
 Civil Engineering Materials,CE 315,"B1,B2",,,4.0,7/202,,
 Advanced Geotechnical Engineering,CE 601,"G1,G2",,"I2,M1",5.0,7/108,,CE Lab
 Advanced Structural Analysis,CE 607,"L1,L2",,,4.0,13/124,,
@@ -145,8 +146,8 @@ Selected Topics in Electrical Engineering: Mixed-Signal IC Design,EE 691-XI,"L1,
 Special Topics in Electrical Engineering: High Frequency Engineering,EE 691-XII,"M1,M2",J1,,4.0,11/206,11/206,
 Mechatronics,ES 408,"M1,M2",,,4.0,7/103,,
 Special Topics in Mechanical Engineering: Nondestructive Testing/Evaluation,ME 491-I,"M1,M2",,,4.0,7/107,,
-Foundations of Fluid Dynamics,ES 607,"G1,G2",H2,,4.0,7/106,7/106,
-Computational Fluid Dynamics,ME 605,"E1,E2",B1,,4.0,7/104,7/101,
+Foundations of Fluid Dynamics,ES 607,"D1,D2",M!,,4.0,7/205,7/109,
+Computational Fluid Dynamics,ME 605,"P1,P2",B1,,4.0,7/202,7/101,
 Introduction to Robotics,ME 639,"C1,A2",,H2,5.0,11/102,,Makers Bhavan
 Fracture Mechanics,ME 640,"J1,J2",,,4.0,11/204,,
 Elastodynamics and Vibrations,ES 646,"L1,L2",,,4.0,11/205,,
@@ -226,7 +227,7 @@ Computation and Cognition,CG 501,"B1,B2",,,4.0,7/102,,
 Fundamentals of Cognitive Psychology,CG 503,"F1,F2",,,4.0,7/204,,
 Research Methods in Cognitive Science,CG 504,"E1,E2",,,4.0,10/202,,
 Fundamental Neuroscience,CG 505,"D1,D2",,,4.0,7/107,,
-Philosophy of Mind,CG 606,"C1,C2",,,4.0,7/203,,
+Philosophy of Mind,CG 606,"C1,C2",,,4.0,7/208,,
 Computational Neuroscience,ES 606,"E1,E2",,,4.0,7/207,,
 Neural Plasticity,CG 612,"F1,F2",,,4.0,13/124,,
 NeuroAI: Neuroscience & Artificial Intelligence ,ES 673,"M1,M2",,,4.0,7/207,,
