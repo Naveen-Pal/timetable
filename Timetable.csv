@@ -141,7 +141,7 @@ HS 151,Economics,3,0,1.5,4,Deepak Singhania(I+L),,,,"J1,J2
  (Jasubhai Auditorium)","H1
  (Surendra C Sheth Learning Theatre,Jayshree S Sheth Learning Theatre,11/101,11/102, Jasubhai Auditorium, 1/103)",,https://drive.google.com/file/d/1fjtnOb8ljB_Tt9dZOAjj0Idfvp4jkYCi/view?usp=sharing,,,,
 CE 301,Soil Mechanics,3,1,2,5,"Amit Prashant(I+T),Ajanta Sachan(L)",,29,,"G1,G2
- (7/210)","L2
+ (7/108)","L2
  (7/105)","I1,K1
 (CE Lab)",,,,,
 CE 312,Design of Steel Structures,3,1,0,4,Dhiman Basu(I+T),,31,,"D1,D2
@@ -175,7 +175,7 @@ CS 331,Computer Networks,3,1,0,4,Sameer Kulkarni(I+T),,53,,"G1,G2
 (10/103)","H2
 (Surendra C Sheth Learning Theatre)",,Course Plan,,,,
 CS 329,Foundations of AI: Multiagent Systems,3,0,0,4,"Manisha Padala(I),Neeldhara Misra(I)",,118,,"C1,C2
- (10/201)",,,,,,,
+ (10/103)",,,,,,,
 HS 3XX,HSS Elective,,,,,,,,,,,,,,,,
 ,BS Elective,,,,,,,,,,,,,,,,
 IN 105,Comprehensive Viva Voce,0,0,0,0,,,,,,,,,,,,
@@ -292,7 +292,7 @@ Additional courses CE,,,,,,,,,,,,,,,,,
 CE 315,Civil Engineering Materials,3,0,0,4,Siva Chopeperla(I),,,,"B1,B2
 (7/202)",,,,,,,
 CE 601,Advanced Geotechnical Engineering,3,0,3,5,Ajanta Sachan(I+L),,,,"G1,G2
- (7/108)",,"I2,M1
+ (7/210)",,"I2,M1
 (CE Lab)",https://drive.google.com/file/d/1vzt8W6mDPvWGx4tkv1rqsEblxX1fuHpK/view?usp=sharing,,,,
 CE 607,Advanced Structural Analysis,3,0,0,4,Dhiman Basu(I),,3,,"L1,L2
  (13/124)",,,Course Link,,,,
@@ -340,7 +340,7 @@ CL 602,Advanced Thermodynamics,3,0,0,4,Mithun Radhakrishna(I),,1,,"G1,G2
 CL 604,Advanced Reaction Engineering,3,0,0,4,Abinaya Sampath(I),,1,,"B1,B2
  (7/103)",,,Course plan,,,,
 ES 604,Engineering Optimization,3,0,0,4,Hari Ganesh(I),,16,,"L1,L2
- (7/205)",,,https://drive.google.com/file/d/1fZg-tqK0_euaMO5IUMs-brUUBudhUYoU/view?usp=drive_link,,,,
+ (7/109)",,,https://drive.google.com/file/d/1fZg-tqK0_euaMO5IUMs-brUUBudhUYoU/view?usp=drive_link,,,,
 ES 662,"Flexible Electronics: Materials, Methods and Devices",3,0,0,4,Biswajit Saha(I),,9,,"K1,K2
  (7/106)",,,https://iitgnacin-my.sharepoint.com/:b:/g/personal/bsaha_iitgn_ac_in/ETYbV87oTkxGod9_S9DDjEoBuxsSIw5hZwP1cK1OhlX9XQ?e=i6IE9b,,,,
 ,,,,,,,,,,,,,,,,,
@@ -377,8 +377,8 @@ ES 417,5G and Beyond: An Introduction,3,0,0,4,Sameer Kulkarni(I),,,,"L1,L2
  (11/206)",,,Course Plan,,,,
 EE 426,Electric Vehicle Technology,3,0,0,4,Pallavi Bharadwaj(I),,10,,"L1,L2
  (10/102)",,,Course Link,,,,
-EE 617,VLSI Design,3,0,0,4,"Joycee Mekie(I), Dinesh Sharma(I)",,36,,"F1,F2
- (10/202)",,,EE 617 VLSI Design,,,,
+EE 617,VLSI Design,3,0,0,4,"Joycee Mekie(I), Dinesh Sharma(I)",,36,,"F1,L1
+ (7/209)",,,EE 617 VLSI Design,,,,
 EE 644,Physics of Transistors,3,0,0,4,Jhuma Saha(I),,1,,"G1,G2
  (7/202)",,,Course plan link,,,,
 EE 648,Dynamic Behaviour of Electric Machines,3,0,1.5,5,Ragavan K(I+L),,1,,"E1,E2
@@ -428,7 +428,7 @@ ES 607,Foundations of Fluid Dynamics,3,1,0,4,Vinod Narayanan(I+T),,1,,"D1,D2
  (7/109)",, Course plan,,,,
 ME 605,Computational Fluid Dynamics,3,1.5,0,4,Dilip Sundaram(I+T),,14,,"P1,P2
  (7/202)","B1
- (7/101)",,Course Plan,,Note: The course will begin on  Wednesday  (August 6) at 10 AM. ,,
+ (7/101)",,Course Plan,,Note: The course will begin on  Wednesday (August 6) at 5 pm. ,,
 ES 621,Advanced Solid Mechanics,3,0,0,4,Harmeet Singh(I),,6,,"G1,G2
  (7/207)",,,course_plan,,,,
 ME 639,Introduction to Robotics,3,0,1.5,5,Madhu Vadali(I),,9,,"C1,A2
@@ -520,7 +520,9 @@ CH 642,Non-linear Spectroscopy and its Applications,3,0,0,4,Partha Pratim Roy(I)
 Additional courses MA,,,,,,,,,,,,,,,,,
 MA 501,Basic Algebra,3,1.5,0,4,Prof. Jugal K Verma(I+T),,4,,"E1,E2
  (Jayshree S Sheth Learning Theatre)","B1
- (10/102)",,Basic algebra course Plan,,,,BS
+ (10/102)
+I1
+(10/202)",,Basic algebra course Plan,,,,BS
 MA 504 (A),Linear Algebra,3,1.5,0,4,Projesh Nath Choudhury(I+T),,6,,"D1,D2
  (7/208)","B2
  (7/208)",,Course Plan,,,,BS
@@ -533,8 +535,8 @@ MA 510,Topology,3,1.5,0,4,Bipul Saurabh(I+T),,9,,"G1,G2
 MA 512,Introduction to Optimization,3,1.5,0,4,Madhu Gupta(I+T),,,,"M1,M2
 (7/206)","J1
 (7/208)",,Couse Plan,,,,
-MA 605,Commutative Algebra,3,0,0,4,Sudeshna Roy(I),,21,,"F1,F2
- (11/204)",,,Course Plan,,,,BS
+MA 605,Commutative Algebra,3,0,0,4,Sudeshna Roy(I),,21,,"E1,E2
+ (7/104)",,,Course Plan,,,,BS
 MA 624,Partial Differential Equations,3,1.5,0,4,Jagmohan Tyagi(I+T),,37,,"I1,I2
  (7/207)","F2
  (7/207)",,Course Plan,,,,BS
@@ -606,7 +608,7 @@ EH 625,Environmental Geosciences,3,0,0,4,Achyut Mishra(I),,,,"M1,M2
 EH 626,Reservoir Modelling and Simulation,3,0,0,4,Achyut Mishra(I),,,,"E1,E2
 (7/204)",,,course plan,,,,
 EH 627,Anthropocene: Human Impact on the Earth        ,3,0,0,4,"Vikrant Jain(I),S. K. Tandon(I)",,,,"G1,G2
- (13/125)",,,https://drive.google.com/file/d/1k_D58xx19bLMtc8rgsO5TC6CE6wTvfut/view?usp=sharing,,,,BS
+ (7/106)",,,https://drive.google.com/file/d/1k_D58xx19bLMtc8rgsO5TC6CE6wTvfut/view?usp=sharing,,,,BS
 EH 628,The Prehistory of Homo Sapiens,3,0,0,4,Anil Devara(I),,,,"M1,M2
 (13/124)",,,Link,,,,
 EH 691-III,Special Topics in Earth Science: Microwave Remote Sensing,3,0,0,4,P. C. Pandey(I),,4,,"B1,B2
