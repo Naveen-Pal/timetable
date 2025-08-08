@@ -160,6 +160,7 @@ document.addEventListener('DOMContentLoaded', function() {
         updateTotalCredits();
         renderCourseTable(elements.searchField.value.toLowerCase());
         elements.timetableContainer.innerHTML = '';
+        elements.timetableContainer.style.display = 'none';
         elements.downloadOptions.style.display = 'none';
         elements.selectedCoursesContainer.style.display = 'none';
         showMessage('All courses deselected.', 'success');
@@ -177,6 +178,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Generate timetable
     function generateTimetable() {
         updateSelectedCourses();
+        elements.timetableContainer.style.display = 'block';
         elements.timetableContainer.innerHTML = '<div class="loader" style="display:block;"></div>';
         
         fetch('/api/timetable', {
@@ -199,6 +201,7 @@ document.addEventListener('DOMContentLoaded', function() {
         .catch(() => {
             showMessage('Failed to generate timetable.', 'error');
             elements.timetableContainer.innerHTML = '';
+            elements.timetableContainer.style.display = 'none';
         });
     }
     
