@@ -1,34 +1,34 @@
 Course Name,Course Code,Lecture Time,Tutorial Time,Lab Time,Credit,Lecture Location,Tutorial Location,Lab Location
 Foundation Programme,FP 100,,,,4.0,,,
-Engineering Graphics,ES 101,C2,,"N1,N2",3.0,Jasubhai Auditorium,,
-Calculus of Single Variable and Linear Algebra,MA 103,"E1,E2",A1,,4.0,Jasubhai Auditorium,,
-Computing,ES 112,F1,,"P1,P2",3.0,Jasubhai Auditorium,,
-"Design, Innovation, and Prototyping",ES 115,C1,,"I1,K1,J1,L1,I2,M1,K2,L2,J2,M2",5.0,Jasubhai Auditorium,,
+Engineering Graphics,ES 101,C2,,"N1,N2",3.0,Jasubhai Auditorium,,Surendra C Sheth Learning T...
+Calculus of Single Variable and Linear Algebra,MA 103,"E1,E2",A1,,4.0,Jasubhai Auditorium,"7/101,7/102,7/103,7/104,7/1...",
+Computing,ES 112,F1,,"P1,P2",3.0,Jasubhai Auditorium,,"10/104,10/105,10/203,10/204..."
+"Design, Innovation, and Prototyping",ES 115,C1,,"I1,K1,J1,L1,I2,M1,K2,L2,J2,M2",5.0,Jasubhai Auditorium,,Surendra C Sheth Learning T...
 Materials for the Future,ES 118,G1,,"I1,J1,I2,K2,J2,P2",3.0,Jasubhai Auditorium,,MSE Lab
 Introduction to Writing - 1,HS 191,,,"H1,H2 
 B1,B2
 
-I1,I2",2.0,,,"7/106,7/107,7/201, 7/202,7/203,7/204"
+I1,I2",2.0,,,"7/101,7/102,7/103,7/104,7/1..., 7/106,7/107,7/201, 7/202,7/203,7/204"
 Undergraduate Science Laboratory,BS 192,,,"I1,K1,J1,L1,I2,M1,K2,L2,J2,M2",3.0,,,PH Lab
-World Civilizations and Cultures,HS 201,"D1,D2",,,4.0,,,
+World Civilizations and Cultures,HS 201,"D1,D2",,,4.0,Surendra C Sheth Learning T...,,
 Physical Education,PE 101,,,,0.0,,,
 Comprehensive Viva Voce,IN 101,"D1,D2",,,0.0,,,
-Biology for Engineers,ES 243,"D1,D2",A2,,4.0,Jasubhai Auditorium,,
+Biology for Engineers,ES 243,"D1,D2",A2,,4.0,Jasubhai Auditorium,"7/102,7/103,7/106,7/107,7/2...",
 General Education II,GE 201,"P1,P2",,,2.0,10/201,,
 Introduction to Quantum Physics,PH 202,"L1,L2",,,4.0,7/202,,
 Introduction to Philosophy,HS 221,"B1,B2",,,4.0,Jasubhai Auditorium,,
 Digital Systems,ES 204,"E1,E2",,"J1,J2",4.0,10/103,,"10/104,10/105"
 "Calculus of Several Variables 
-(First half of Semester)",MA 205,"M1,M2",C1,,2.0,Jasubhai Auditorium,,
+(First half of Semester)",MA 205,"M1,M2",C1,,2.0,Jasubhai Auditorium,"7/101,7/210,7/103,7/104,7/1...",
 "Introduction to Complex Analysis
 (Second half of Semester)",MA 206,"C1,C2",,,2.0,7/206,,
 Science Basket Course,ES XXX,,,,4.0,,,
-Thermodynamics,ES 211,"G1,G2",,F1,3.0,,,
+Thermodynamics,ES 211,"G1,G2",,F1,3.0,Jayshree S Sheth Learning T...,,Jayshree S Sheth Learning T...
 Materials Thermodynamics,MSE 202,"J1,J2",L1,,4.0,7/207,7/207,
 Electronic Devices,EE 221,"I1,I2",,C2,3.0,10/201,,10/201
 Earth Materials and Processes,CE 201,E1,,"I1,K1",2.0,7/101,,7/206
 Chemical Process Calculations,CL 201,"E1,E2",,,3.0,10/102,,
-Data Structures and Algorithms I,ES 242,"N1,N2",,H2,4.0,10/103,,
+Data Structures and Algorithms I,ES 242,"N1,N2",,H2,4.0,10/103,,"Jasubhai Auditorium,10/203,..."
 "Signals, Systems, and Random Processes",ES 244,"G1,G2",H1,,4.0,10/201,10/201,
 Mechanics of Solids,ES 221,"G1,G2",H2,,4.0,7/101,10/102,
 Discrete Mathematics,ES 214,"G1,G2",H1,,4.0,10/202,10/202,
@@ -42,7 +42,7 @@ Semiconductor Devices,EE 226,"I1,I2",C2,,4.0,10/201,10/201,
 Unveiling the Semiconductor World,EE 225,"F1,F2",,,2.0,10/102,,
 Physical Education,PE 103,,,,0.0,,,
 Comprehensive Viva Voce,IN 103,,,,0.0,,,
-Economics,HS 151,"J1,J2",H1,,4.0,Jasubhai Auditorium,,
+Economics,HS 151,"J1,J2",H1,,4.0,Jasubhai Auditorium,Surendra C Sheth Learning T...,
 Foundations of AI: Multiagent Systems,CS 329,"C1,C2",,,4.0,10/103,,
 Machine Learning,ES 335,"P1,P2",L2,,4.0,10/103,10/103,
 HSS Elective,HS XXX,,,,4.0,,,
@@ -61,13 +61,13 @@ Transportation Engineering,CE 404,"F1,F2",,,4.0,7/104,,
 Construction Technology & Management,CE 403,"E1,E2",,,4.0,7/105,,
 Software Tools and Techniques for CSE,CS 202,D1,,"I1,K1",4.0,10/103,,"10/104,10/105"
 Operating Systems,CS 330,"F1,F2",L1,,4.0,10/201,"10/203,10/204,10/201",
-Computer Networks,CS 331,"G1,G2",H2,,4.0,10/103,,
+Computer Networks,CS 331,"G1,G2",H2,,4.0,10/103,Surendra C Sheth Learning T...,
 Engineering Electromagnetics,EE 312,"G1,G2",H2,,4.0,7/109,10/202,
 Digital Signal Processing,EE 323,"D1,D2",A1,,4.0,10/201,"10/201,10/102",
 Power Electronics,EE 333,"C1,C2",C1,"I2,M1,K2,L2",4.0,10/202,10/102,EE Lab
 Control Systems,ES 245,"G1,G2",A1,,4.0,11/101,7/108,
 Mechanics of Materials,ME 333,"E1,E2",,I1,3.0,7/109,,ME Lab
-Heat and Mass Transfer,ME 334,"F1,F2",B1,"I2,M1",4.0,,"11/205,11/206,7/104",ME Lab
+Heat and Mass Transfer,ME 334,"F1,F2",B1,"I2,M1",4.0,Surendra C Sheth Learning T...,"11/205,11/206,7/104",ME Lab
 Introduction to Manufacturing Systems and Metrology,ME 362,"D1,D2",,H2,3.0,7/108,,11/102
 Materials Processing,MSE 307,"E1,E2",,,4.0,13/125,,
 "Polymers, Ceramics and Composites",MSE 313,"D1,D2",,I1,4.0,13/125,,ME Lab
@@ -79,13 +79,13 @@ Physical Education (For 2025 MSc and MA students),PE 500,,,,0.0,,,
 "Physical Education (For 2025 MTech, PGDIIT and PhD students)",PE 600,,,,0.0,,,
 Bionanotechnology – Principles and Applications,BE 303,"M1,M2",,,4.0,7/101,,
 Genetic Engineering – Principles and Applications,BE 404,"J1,J2",,,4.0,7/102,,
-Biochemistry,BE 613,"G1,G2",,,4.0,,,
+Biochemistry,BE 613,"G1,G2",,,4.0,Surendra C Sheth Learning T...,,
 Biostatistics,BE 614,E1,,"I1,K1",4.0,7/208,,10/203
 Human Physiology,BE 616,"C1,C2",,,4.0,7/201,,
 Molecular Biotechnology,BE 618,E2,,"I2,M1",4.0,7/103,,BE Lab
 "Peptide Technologies 
 (Quad2 and Quad 3)",BE 621,J2,,"M2,P2",2.0,6/203,,6/203
-Applied Stem Cells Technologies,BE 622,"G1,G2",,,4.0,,,
+Applied Stem Cells Technologies,BE 622,"G1,G2",,,4.0,Surendra C Sheth Learning T...,,
 Biocomputing,BE 623,,,"B1,A2",2.0,,,10/104
 Protein Biologics: From Lab to Clinic,BE 624,"D1,D2",F1,,4.0,11/102,11/102,
 Civil Engineering Materials,CE 315,"N1,N2",,,4.0,7/105,,
@@ -138,7 +138,7 @@ Smart Grid,EE 659,"K1,K2",,,4.0,13/125,,
 Advanced Wireless Communications,EE 663,"M1,M2",,,4.0,11/205,,
 Smart Renewable Energy Systems,ES 663,"M1,M2",,,4.0,10/102,,
 High Frequency Engineering,EE 664,"M1,M2",,,4.0,11/206,,
-Computer Vision,ES 666,"E1,E2",,,4.0,,,
+Computer Vision,ES 666,"E1,E2",,,4.0,Surendra C Sheth Learning T...,,
 5G and Beyond,ES 668,"N1,N2",,,4.0,13/125,,
 Photonics – Principles and Applications,ES 675,"P1,P2",,,4.0,13/125,,
 Special Topics in Electrical Engineering: Economics of Regulation in India,EE 691-VII,"I1,I2",,,4.0,11/204,,
@@ -188,7 +188,7 @@ Chemistry of Energy Materials,CH 641,"P1,P2",,,4.0,7/103,,
 Non-linear Spectroscopy and its Applications,CH 642,"K1,K2",,,4.0,7/210,,
 Basic Algebra,MA 501,"E1,E2","B1
  
-I1",,4.0,,"10/102, 10/202",
+I1",,4.0,Jayshree S Sheth Learning T...,"10/102, 10/202",
 Linear Algebra,MA 504 (A),"D1,D2",B2,,4.0,7/208,7/208,
 Real Analysis of One Variable,MA 509 (A),"C1,C2",A2,,4.0,7/205,7/101,
 Topology,MA 510,"G1,G2",A1,,4.0,7/208,7/109,
@@ -237,7 +237,7 @@ NeuroAI: Neuroscience & Artificial Intelligence ,ES 673,"M1,M2",,,4.0,7/207,,
 Special Topics in Cognitive Sciences: Second Language Acquisition,CG 691-VI,"M1,M2",,,4.0,7/105,,
 "Special Topics in Cognitive Sciences: Language, Culture and Cognition",CG 691-VII,"F1,F2",,,4.0,13/124,,
 Special Topics in Cognitive Sciences: Advanced Writing for Cognitive and Brain Sciences,CG 691-VIII,G1,,"J1,L1",4.0,7/204,,7/105
-Writing (For Engineering PhD students and MTech Students),FP 602,F2,,"H1,H2",4.0,Jasubhai Auditorium,,
+Writing (For Engineering PhD students and MTech Students),FP 602,F2,,"H1,H2",4.0,Jasubhai Auditorium,,"7/206,7/207,7/208,7/209,7/2..."
 French Studies,HS 103,"I1,I2",,,4.0,11/101,,
 Foundational Sanskrit,HS 104,"L1,L2",J2,,4.0,7/103,7/210,
 Japan Studies,HS 108,"K1,K2",,,2.0,7/103,,
@@ -274,8 +274,8 @@ Qualitative Research Methods,HS 524,"C1,C2",,,4.0,7/202,,
 "Cognitive, Sociocultural and Critical Foundations of the Learning Sciences",HS 525,"L1,L2",,,4.0,7/206,,
 "Education, Technology and Society",HS 526,"D1,D2",,,4.0,7/204,,
 Special Topics in Design: Game Appreciation and Game Aesthetics,DES 591-I,"M1,M2",,,4.0,7/210,,
-Fundamentals of 3D Modeling and Animation,DES 603,M1,,"J2,M2",4.0,,,
-Technology and Design Situations,DES 604,J1,,"J1,L1",4.0,,,
+Fundamentals of 3D Modeling and Animation,DES 603,M1,,"J2,M2",4.0,Jayshree S Sheth Learning T...,,Jayshree S Sheth Learning T...
+Technology and Design Situations,DES 604,J1,,"J1,L1",4.0,Jayshree S Sheth Learning T...,,Jayshree S Sheth Learning T...
 Systemic Approach for Design Field,DES 605,J1,,"I1,K1",4.0,7/210,,7/210
 Digital Cultures and New Media,HS 631,"L1,L2",,,4.0,7/104,,
 "Literature, Theory and Social Context",HS 647,"D1,D2",,,4.0,7/201,,
