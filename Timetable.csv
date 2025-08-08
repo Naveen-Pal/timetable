@@ -11,7 +11,12 @@ ES 112,Computing,1.5,0,1.5,3,"Anirban Dasgupta(I+L),Manoj Gupta(I+L)",,7,,"F1
  (Jasubhai Auditorium)",,"P1,P2
 (10/104,10/105,10/203,10/204,Jasubhai Auditorium)",To be announced in mid July,,,,
 ES 115,"Design, Innovation, and Prototyping",1.5,0,3,5,"Malay Dhamelia(I),Rakesh Singhai(L),
-Manasi Kanetkar(I+L)",,4,,"C1
+Manasi Kanetkar(I+L)",,4,"Sections
+Monday: Section 1
+Tuesday: Section 2
+Wednesday: Section 3
+Thursday: Section 4
+Friday: Section 5","C1
  (Jasubhai Auditorium)",,"I1,K1,J1,L1,I2,M1,K2,L2,J2,M2
  (Surendra C Sheth Learning Theatre)",,,,,
 ES 118,Materials for the Future,1.5,0,1.5,3,Superb Misra(I+L),,,,"G1
@@ -22,12 +27,17 @@ B1,B2
 (7/106,7/107,7/201)
 I1,I2
 (7/202,7/203,7/204)","First class is at Jasubhai on Aug 18, 2-3:20 PM (I1 slot) for everyone.",,,,
-BS 192,Undergraduate Science Laboratory,0,0,3,3,"Naveen Sisodia(L), Krista Khiangte(L), Priyabrata Ghana(L), Partha Pratim Roy(L)",,2,,,,"I1,K1,J1,L1,I2,M1,K2,L2,J2,M2
+BS 192,Undergraduate Science Laboratory,0,0,3,3,"Naveen Sisodia(L), Krista Khiangte(L), Priyabrata Ghana(L), Partha Pratim Roy(L), Pinaki Banerjee(L)",,2,"Sections
+Monday: Section 5
+Tuesday: Section 3
+Wednesday: Section 4
+Thursday: Section 2
+Friday: Section 1",,,"I1,K1,J1,L1,I2,M1,K2,L2,J2,M2
  (PH Lab)",,,,,
 HS 201,World Civilizations and Cultures,3,0,0,4,"Madhumita Sengupta(I),Sharada Channarayapatna(I),V N Prabhakar(I)",,,,"D1,D2
  (Surendra C Sheth Learning Theatre,Jayshree S Sheth Learning Theatre,10/201)",,,,,,,
 PE 101,Physical Education,0,0,0,0,,,2,,,,,,,,,
-IN 101,Comprehensive Viva Voce,0,0,0,0,,,,,,,,,,,,
+IN 101,Comprehensive Viva Voce,0,0,0,0,Gopinadhan Kalon(I),,,,"D1,D2",,,,,,,
 Second Year(2024),,,,,,,,,,,,,,,,,
 ES 243,Biology for Engineers,3,1,0,4,"Umashankar Singh(I+T),Aditi Satish(GTF)(T),Praveen Kumar(GTF)(T),Hitasha Vithalani (GTF)(T),Abhishek Indoliya(T),Raghu Yadav(T),Mukesh Dhanka,Subramaniam Sankaranarayanan,Dhiraj Bhatia,Vijay Thiruvenkatam,Karla M. Shekhar",,342,,"D1,D2
  (Jasubhai Auditorium)","A2
@@ -94,7 +104,8 @@ EE 322,Analog & Mixed Signal Circuits,2,1,1.5,4,"Madhav Pathak(I+T+L), Dinesh Ku
 (10/201)",,"I1,K1
 (EE Lab)",EE322 Analog and Mixed Signal Circuits Course Plan,,,,
 EE 226,Semiconductor Devices,3,1,0,4,"Sandip Lashkare(I+T), Jhuma Saha(T)",,,,"I1,I2
- (10/201)",,,EE226 Course Plan,,,,
+ (10/201)","C2
+(10/201)",,EE226 Course Plan,,,,
 EE 225,Unveiling the Semiconductor World,2,0,0,2,Nihar Mohapatra(I),,,,"F1,F2
 (10/102)",,,https://drive.google.com/drive/u/0/folders/1rLo5Tm4lNwlLrH5s0REsdxuAi8lW7Rys,,,,
 PE 103,Physical Education,0,0,0,0,,,343,,,,,,,,,
@@ -338,7 +349,7 @@ CL 601,Advanced Transport Phenomena,3,0,0,4,Pratyush Dayal(I),,1,,"A1,A2
 CL 602,Advanced Thermodynamics,3,0,0,4,Mithun Radhakrishna(I),,1,,"G1,G2
  (7/103)",,,Course Plan,,,,
 CL 604,Advanced Reaction Engineering,3,0,0,4,Abinaya Sampath(I),,1,,"B1,B2
- (7/103)",,,Course plan,,,,
+ (7/108)",,,Course plan,,,,
 ES 604,Engineering Optimization,3,0,0,4,Hari Ganesh(I),,16,,"L1,L2
  (7/109)",,,https://drive.google.com/file/d/1fZg-tqK0_euaMO5IUMs-brUUBudhUYoU/view?usp=drive_link,,,,
 ES 662,"Flexible Electronics: Materials, Methods and Devices",3,0,0,4,Biswajit Saha(I),,9,,"K1,K2
@@ -366,7 +377,7 @@ CS 619,CS Theory Tool Kit,3,0,0,4,Bireswar Das(I),,3,,"L1,L2
 CS 620,Incentives and Machine Learning,3,0,0,4,Manisha Padala(I),,13,,"N1,N2
  (7/101)",,,Course_Proposal_Incentives_and_Machine_Learning.docx,,,,
 ES 667,Deep Learning,3,0,0,4,Nirmal Sancheti(I),,,,"N1,N2
-(7/202)",,,,,,,
+(7/202)",,,https://docs.google.com/document/d/1sRZOVOGLf2_SV_WxTXyNaUYcKQBTVJ8SrlnRXzzntXs/edit?usp=drivesdk,,,,
 CS 691-VIII,Algebraic Complexity Theory,3,0,0,4,Balagopal Komarath(I),,2,,"I1,I2
  (11/205)",,,Course Plan,,,,
 CS 691-XXI,Special Topics in Computer Science: Verification and Validation of Safety-Critical Software Systems,3,0,0,4,Lalit Kumar Singh(I),,,,"M1,M2
@@ -413,7 +424,7 @@ ES 675,Photonics – Principles and Applications,3,0,0,4,Arup Chakraborty(I+T),,
  (13/125)",,,ES 675 course plan,,Note: This course replaces ES 414: Introduction to Photonics (see row 202,,
 EE 691-VII,Special Topics in Electrical Engineering: Economics of Regulation in India,3,0,0,4,Anand Kumar(I),,20,,"I1,I2
  (11/204)",,,https://drive.google.com/file/d/1TKO7JzPIO4buIZP9WmkYqKM5CurWVQwo/view?usp=sharing,,,,
-EE 691-XI,Selected Topics in Electrical Engineering: Mixed-Signal IC Design,3,0,0,4,Dinesh Kumar Sharma(I),,2,,"L1,L2
+EE 662,Mixed Signal IC Design,3,0,0,4,Dinesh Kumar Sharma(I),,2,,"P1,L2
  (11/206)",,,,,,,
 EE 691-XII,Special Topics in Electrical Engineering: High Frequency Engineering,3,1,0,4,Kamla Prasan Ray(I+T),,,,"M1,M2
 (11/206)","J1
@@ -432,7 +443,7 @@ ME 605,Computational Fluid Dynamics,3,1.5,0,4,Dilip Sundaram(I+T),,14,,"P1,P2
 ES 621,Advanced Solid Mechanics,3,0,0,4,Harmeet Singh(I),,6,,"G1,G2
  (7/207)",,,course_plan,,,,
 ME 639,Introduction to Robotics,3,0,1.5,5,Madhu Vadali(I),,9,,"C1,A2
- (11/102)",,"H2
+ (11/102)",,"B2
 (Makers Bhavan)",Google Clasroom: 5ov3eybj,,,,
 ME 640,Fracture Mechanics,3,0,0,4,Ravi Ayyagari(I),,1,,"J1,J2
  (11/204)",,,Course Plan,,,,
@@ -484,7 +495,7 @@ CH 506,Physical Organic Chemistry,3,0,0,4,Sudipta Basu(I),,1,,"E1,E2
 CH 510,Main Group and Transition Metal Chemistry,3,0,0,4,Priyabrata Ghana(I),,,,"M1,M2
  (7/208)",,,,,,,BS
 CH 511,Quantum Chemistry,3,0,0,4,Anirban Mondal(I),,1,,"D1,D2
- (7/109)",,,,,,,BS
+ (7/109)",,,https://drive.google.com/file/d/1XEEqhDckROp6hc2T8junq4VnEOqgLkYV/view?usp=drive_link,,,,BS
 CH 513,Advanced Organic Chemistry,3,0,0,4,Sivapriya Kirubakaran(I),,15,,"C1,C2
  (7/108)",,,,,,,BS
 CH 522,Inorganic Chemistry Laboratory,0,0,3,2,Biswajit Mondal(L),,,,,,"I1,K1,I2,M1
@@ -493,6 +504,8 @@ CH 523,Organic Chemistry Laboratory,0,0,3,2,Chandrakumar Appayee(L),,,,,,"J1,L1,
 (CH Lab)",Course Plan,,,,BS
 CH 524,Analytical and Computational Chemistry Laboratory,0,0,3,2,Anirban Mondal(L),,,,,,"J2,M2
 (10/203)",,,,,BS
+CH 528,Transition Metal Chemistry,3,0,0,4,Priyabrata Ghana(I),,,,"M1,M2
+ (7/208)",,,,,,,BS
 CH 616,Applied Chemical Biology,3,0,0,4,Sudipta Basu(I),,,,"E1,E2
  (7/201)",,,https://drive.google.com/file/d/1jlzaYfudRSbe8-YRjv6jV5odOtYl5dQn/view?usp=sharing,,,,BS
 CH 592-I,Special Topics in Chemistry: Chemical Biology in Space,3,0,0,4,Sivapriya Kirubakaran(I),,,,"M1,M2
@@ -532,8 +545,8 @@ MA 509 (A),Real Analysis of One Variable,3,1.5,0,4,Atul Dixit(I+T),,8,,"C1,C2
 MA 510,Topology,3,1.5,0,4,Bipul Saurabh(I+T),,9,,"G1,G2
  (7/208)","A1
  (7/109)",,Course Plan- Topology,,,,BS
-MA 512,Introduction to Optimization,3,1.5,0,4,Madhu Gupta(I+T),,,,"M1,M2
-(7/206)","J1
+MA 512,Introduction to Optimization,3,1.5,0,4,Madhu Gupta(I+T),,,,"J2,C2
+(7/104)","J1
 (7/208)",,Couse Plan,,,,
 MA 605,Commutative Algebra,3,0,0,4,Sudeshna Roy(I),,21,,"E1,E2
  (7/104)",,,Course Plan,,,,BS
@@ -618,7 +631,7 @@ Additional Courses CG,,,,,,,,,,,,,,,,,
 CG 501,Computation and Cognition,3,0,0,4,Krishna Miyapuram(I),,12,,"B1,B2
  (7/102)",,,CG 501,,,,BS
 CG 503,Fundamentals of Cognitive Psychology,3,0,0,4,Meera Mary Sunny(I),,19,,"F1,F2
- (7/204)",,,,,,,BS
+ (7/204)",,,Course Plan,,,,BS
 CG 504,Research Methods in Cognitive Science,1.5,0,1.5,4,Vaibhav Tripathi(I+L),,2,,"E1,E2
  (10/202)",,,CG 504,,,,BS
 CG 505,Fundamental Neuroscience,3,0,0,4,Pratik Mutha(I),,11,,"D1,D2
@@ -663,8 +676,9 @@ HS 152,Japanese Language for Beginners,3,1,0,4,Sweta Mistry(I),,,,"P1,P2
 (11/102)",,Course Plan,,,,
 HS 153,Advance Japanese Learning,3,1,0,4,Sweta Mistry(I),,,,"Monday amd Wednesday
 6:30 to 8 pm
-(11/102)","L2
-(11/102)",,Course Plan,,,,
+(11/204)","Thursday
+6:30 to 8 pm
+(11/204)",,Course Plan,,,,
 HS 154,Mandarin for Beginners,3,0,0,4,"Kao(I), Hao-Tsung(I)",,,,"L1,L2
  (7/203)",,,,,,,
 HS 155,Mandarin for Beginners - II,3,0,0,4,"Kao(I), Hao-Tsung(I)",,,,"N1,N2
@@ -674,6 +688,8 @@ DES 201,Technopreneurship: Product Proposition,2,0,3,4,Manikanta Polisetti(I),,,
 (11/205)",Course overview,,,,
 IN 304,Ancient Indian Technology,3,0,0,4,Alok Kumar Kanungo(I),,,,"N1,N2
  (7/205)",,,https://drive.google.com/file/d/1N_NVxj1sORQmk_zXLa-apmPmSYxLGNxh/view?usp=drive_link,,,,
+HS 392,Special Topics in HSS: Competitiveness and Ethical Leadership,3,0,0,2,Anurima Chatterjee(I),,,,"K1,K2
+(7/204)",,,,,,,
 MS 408,Financial Considerations in Engineering Decisions,3,0,0,4,K Chelvakumar(I),,,,"J1,J2
 (7/103)",,,Classes will commence from 12 August,,,,
 IN 491,Special Topics: Foundations of User Experience,3,0,0,4,Nuno Guimaraes(I)        ,,,,"N1,N2
@@ -742,4 +758,4 @@ HS 691-I,Special Topics in HSS: Themes in Postcolonialism,3,0,0,4,Madhumita Seng
 DES 691-III,Special Topics in Design: Innovation in Context: Ethnographic Approaches for Engineers,3,0,0,4,Seema Khanwalkar(I),,,,"M1,M2
 (7/104)",,,,,,,Non HSS for HSS students / HSS beacket for B Tech
 HS 691-XI,Techniques of Linguistic and Cultural Documentation,3,0,0,4,Toshiki Osada(I),,,,"P1,P2
- (7/104)",,,,,,,
+ (7/208)",,,,,,,
