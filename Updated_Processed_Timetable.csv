@@ -15,7 +15,7 @@ Physical Education,PE 101,,,,0.0,,,
 Comprehensive Viva Voce,IN 101,"D1,D2",,,0.0,,,
 Biology for Engineers,ES 243,"D1,D2",A2,,4.0,Jasubhai Auditorium,,
 General Education II,GE 201,"P1,P2",,,2.0,10/201,,
-Introduction to Quantum Physics,PH 202,"L1,L2",,,4.0,7/202,,
+Introduction to Quantum Physics,PH 202,"L1,L2",K1,,4.0,7/202,7/208,
 Introduction to Philosophy,HS 221,"B1,B2",,,4.0,Jasubhai Auditorium,,
 Digital Systems,ES 204,"E1,E2",,"J1,J2",4.0,10/103,,"10/104,10/105"
 "Calculus of Several Variables 
@@ -24,7 +24,7 @@ Digital Systems,ES 204,"E1,E2",,"J1,J2",4.0,10/103,,"10/104,10/105"
 (Second half of Semester)",MA 206,"C1,C2",,,2.0,7/206,,
 Science Basket Course,ES XXX,,,,4.0,,,
 Thermodynamics,ES 211,"G1,G2",,F1,3.0,,,
-Materials Thermodynamics,MSE 202,"K1,K2",L1,,4.0,7/205,7/207,
+Materials Thermodynamics,MSE 202,"K1,K2",L1,,4.0,7/205,7/107,
 Electronic Devices,EE 221,"I1,I2",,C2,3.0,10/201,,10/201
 Earth Materials and Processes,CE 201,E1,,"I1,K1",2.0,7/101,,7/206
 Chemical Process Calculations,CL 201,"E1,E2",,,3.0,10/102,,
@@ -130,7 +130,7 @@ VLSI Design,EE 617,"F1,L1",,,4.0,7/209,,
 Physics of Transistors,EE 644,"G1,G2",,,4.0,7/202,,
 Dynamic Behaviour of Electric Machines,EE 648,"E1,E2",,I1,5.0,11/206,,EE Lab
 Introduction to Photonics,ES 414,"P1,P2",J1,,4.0,13/125,13/125,
-Digital Control Systems,ES 616,"B1,B2",H2,,4.0,7/204,7/204,
+Digital Control Systems,ES 616,"B1,B2",P1,,4.0,7/204,7/204,
 Microfabrication and Semiconductor Processes,ES 626,"B1,B2",,,4.0,10/202,,
 CMOS Analog IC Design,EE 651,"N1,N2",,,4.0,7/210,,
 Biomedical Ultrasound,ES 657,"P1,P2",,,4.0,11/204,,
