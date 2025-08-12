@@ -81,8 +81,8 @@ ES 244,"Signals, Systems, and Random Processes",3,1.5,0,4,Uttama Lahiri(I+T),,12
  (10/201)","H1
  (10/201)",,Course Plan,,,,
 ES 221,Mechanics of Solids,3,1.5,0,4,Gaurav Srivastava(I+T),,41,,"G1,G2
- (7/101)","H2
- (10/102)",,course website,,,,
+ (7/101)","I2
+ (7/101)",,course website,,,,
 ES 214,Discrete Mathematics,3,1,0,4,"Neeldhara Misra(I+T), Jyothi Krishnan(I+T)",,103,,"G1,G2
  (10/202)","H1
  (10/202)",,,,,,
@@ -96,8 +96,8 @@ MSE 207,Structure of Materials,3,1,0,4,Anagh Bhaumik(I+T),,30,,"G1,G2
  (7/104)","I2
  (7/206)",,https://classroom.google.com/c/NzYzODUyMTEwNTUx/p/NzYzODUzMjAwMzU3/details,,,,
 MSE 204,Transport Phenomena in Materials Engineering,3,1,0,4,Sriharitha Rowthu(I+T),,31,,"E1,E2
- (7/210)","H1
- (10/102)",,https://drive.google.com/file/d/1IPzCygl71BKS9yndBdjsHAd1phfNIcRK/view?usp=sharing,,,,
+ (7/210)","I2
+ (10/202)",,https://drive.google.com/file/d/1IPzCygl71BKS9yndBdjsHAd1phfNIcRK/view?usp=sharing,,,,
 ME 206,Statics and Dynamics,2,1,1.5,4,Jayaprakash K. R.(I+T+L),,65,,"E1,E2
  (7/209)",,"I1
 (7/209)",Course plan,,,,
@@ -233,7 +233,7 @@ ME 333,Mechanics of Materials,2,1,1,3,"Ravi Ayyagari(I+T+L),Harmeet Singh(T+L)",
 (ME Lab)",Course Plan,,,,
 ME 334,Heat and Mass Transfer,3,1,1,4,"Soumyadip Sett(I+L),Uddipta Ghosh(T)",,64,,"F1,F2
 (Surendra C Sheth Learning Theatre)","B1
-(11/205,11/206,7/104)","I2,M1
+(11/205,11/206,7/104,Surendra C Sheth Learning Theatre)","I2,M1
 (ME Lab)",Course Plan,,,,
 ME 362,Introduction to Manufacturing Systems and Metrology,2,0,1.5,3,Rakesh Singhai(I+L),,61,,"D1,D2
  (7/108)",,"H2
@@ -341,8 +341,8 @@ CL 328,Chemical Engineering Practice in Industry,1.5,0,0,2,"Nitin Padhiyar(I), K
 Each Saturday, we will have two lectures: 10:00 to 11:30 AM and 11:45 AM to 1:15 PM. All the lectures will be in AB 10-103, except on 27th September when it will be held in AB 1-201.",,
 CL 426,Biochemical Engineering,3,0,0,4,Karthik Subramaniam(I),,4,,"D1,D2
  (7/106)",,,,,,,
-CL 427,Formulation Science and Engineering,3,0,0,4,Prachi Thareja(I),,14,,"C1,C2
- (13/124)",,,course plan_formulations,,,,
+CL 427,Formulation Science and Engineering,3,0,0,4,Prachi Thareja(I),,14,,"N1,N2
+ (7/108)",,,course plan_formulations,,,,
 BS 401,Nanoscale Science,3,0,0,4,Kabeer Jasuja(I),,9,,"G1,G2
  (7/102)",,,"BS 401 Course Plan, Link for Google Classroom",,,,
 CL 601,Advanced Transport Phenomena,3,0,0,4,Pratyush Dayal(I),,1,,"A1,A2
@@ -436,11 +436,11 @@ ES 408,Mechatronics,3,0,0,4,Madhu Vadali(I),,,,"M1,M2
 ME 491-I,Special Topics in Mechanical Engineering: Nondestructive Testing/Evaluation,3,0,0,4,Prabhat Munshi(I),,,,"M1,M2
 (7/107)",,,,,,,
 ES 607,Foundations of Fluid Dynamics,3,1,0,4,Vinod Narayanan(I+T),,1,,"D1,D2
- (7/205)","M!
+ (7/205)","M1
  (7/109)",, Course plan,,,,
 ME 605,Computational Fluid Dynamics,3,1.5,0,4,Dilip Sundaram(I+T),,14,,"P1,P2
- (7/202)","B1
- (7/101)",,Course Plan,,Note: The course will begin on  Wednesday (August 6) at 5 pm. ,,
+ (7/202)","C1
+ (7/203)",,Course Plan,,Note: The course will begin on  Wednesday (August 6) at 5 pm. ,,
 ES 621,Advanced Solid Mechanics,3,0,0,4,Harmeet Singh(I),,6,,"G1,G2
  (7/207)",,,course_plan,,,,
 ME 639,Introduction to Robotics,3,0,1.5,5,Madhu Vadali(I),,9,,"C1,A2
@@ -490,7 +490,7 @@ CH 302,Electrochemical Science and Engineering,3,1,0,4,Sudhanshu Sharma(I+T),,10
  (13/125)",,,,,,BS
 CH 401,Food Chemistry,3,1,0,4,Iti Gupta(I+T),,,,"L1,L2
  (7/208)","J2
- (7/208)",,course plan,,,,BS
+ (Saturday)",,course plan,,,,BS
 CH 506,Physical Organic Chemistry,3,0,0,4,Sudipta Basu(I),,1,,"E1,E2
  (11/101)",,,https://drive.google.com/file/d/1jlzaYfudRSbe8-YRjv6jV5odOtYl5dQn/view?usp=sharing,,,,BS
 CH 510,Main Group and Transition Metal Chemistry,3,0,0,4,Priyabrata Ghana(I),,,,"M1,M2
@@ -546,16 +546,16 @@ MA 509 (A),Real Analysis of One Variable,3,1.5,0,4,Atul Dixit(I+T),,8,,"C1,C2
 MA 510,Topology,3,1.5,0,4,Bipul Saurabh(I+T),,9,,"G1,G2
  (7/208)","A1
  (7/109)",,Course Plan- Topology,,,,BS
-MA 512,Introduction to Optimization,3,1.5,0,4,Madhu Gupta(I+T),,,,"J2,C2
-(7/104)","J1
+MA 512,Introduction to Optimization,3,1.5,0,4,Madhu Gupta(I+T),,,,"C1,C2
+(7/209)","J1
 (7/208)",,Couse Plan,,,,
 MA 605,Commutative Algebra,3,0,0,4,Sudeshna Roy(I),,21,,"E1,E2
  (7/104)",,,Course Plan,,,,BS
 MA 624,Partial Differential Equations,3,1.5,0,4,Jagmohan Tyagi(I+T),,37,,"I1,I2
- (7/207)","F2
+ (7/207)","F1
  (7/207)",,Course Plan,,,,BS
 MA 626,Functional Analysis,3,1.5,0,4,Prof. Gadadhar Misra(I+T),,33,,"K1,K2
- (7/207)","L2
+ (7/207)","J2
  (7/207)",,Course Plan: MA 626,,,,BS
 MA 627,Algebraic Topology,3,0,0,4,Sanjay Amrutiya(I),,10,,"M1,M2
  (7/106)",,,Course Plan,,,,BS
@@ -564,8 +564,8 @@ MA 630 (A),Measure Theory & Probability,3,1.5,0,4,Chetan Pahlajani(I+T),,27,,"N1
  (7/107)",,Course Plan,,,,BS
 MA 634,Algebraic Number Theory,3,0,0,4,Indranath Sengupta(I),,5,,"D1,D2
  (11/206)",,,,,,,BS
-MA 640,Integral Geometry in Imaging Sciences,3,0,0,4,Rohit Kumar Mishra(I),,4,,"L1,L2
- (7/210)",,,Course Plan,,,,BS
+MA 640,Integral Geometry in Imaging Sciences,3,0,0,4,Rohit Kumar Mishra(I),,4,,"B1,B2
+ (7/205)",,,Course Plan,,,,BS
 MA 643,Numerical Analysis for Partial Differential Equations,3,0,0,4,Abhinav Jha(I),,19,,"M1,M2
  (7/205)",,,Course Plan,,,,BS
 ES 645,Optimization methods for machine learning,3,0,0,4,Madhu Gupta(I),,,,"J1,J2

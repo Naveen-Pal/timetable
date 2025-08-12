@@ -30,12 +30,12 @@ Earth Materials and Processes,CE 201,E1,,"I1,K1",2.0,7/101,,7/206
 Chemical Process Calculations,CL 201,"E1,E2",,,3.0,10/102,,
 Data Structures and Algorithms I,ES 242,"N1,N2",,H2,4.0,10/103,,
 "Signals, Systems, and Random Processes",ES 244,"G1,G2",H1,,4.0,10/201,10/201,
-Mechanics of Solids,ES 221,"G1,G2",H2,,4.0,7/101,10/102,
+Mechanics of Solids,ES 221,"G1,G2",I2,,4.0,7/101,7/101,
 Discrete Mathematics,ES 214,"G1,G2",H1,,4.0,10/202,10/202,
 Geospatial Engineering,CE 203,E2,,"J1,L1",3.0,7/101,,10/202
 Electrical Machines,EE 223,"K1,K2",,"J1,L1,J2,P2",4.0,10/201,,EE Lab
 Structure of Materials,MSE 207,"G1,G2",I2,,4.0,7/104,7/206,
-Transport Phenomena in Materials Engineering,MSE 204,"E1,E2",H1,,4.0,7/210,10/102,
+Transport Phenomena in Materials Engineering,MSE 204,"E1,E2",I2,,4.0,7/210,10/202,
 Statics and Dynamics,ME 206,"E1,E2",,I1,4.0,7/209,,7/209
 Analog & Mixed Signal Circuits,EE 322,"A2,M2",,"I1,K1",4.0,10/201,,EE Lab
 Semiconductor Devices,EE 226,"I1,I2",C2,,4.0,10/201,10/201,
@@ -67,7 +67,7 @@ Digital Signal Processing,EE 323,"D1,D2",A1,,4.0,10/201,"10/201,10/102",
 Power Electronics,EE 333,"C1,C2",C1,"I2,M1,K2,L2",4.0,10/202,10/102,EE Lab
 Control Systems,ES 245,"G1,G2",A1,,4.0,11/101,7/108,
 Mechanics of Materials,ME 333,"E1,E2",,I1,3.0,7/109,,ME Lab
-Heat and Mass Transfer,ME 334,"F1,F2",B1,"I2,M1",4.0,,"11/205,11/206,7/104",ME Lab
+Heat and Mass Transfer,ME 334,"F1,F2",B1,"I2,M1",4.0,,,ME Lab
 Introduction to Manufacturing Systems and Metrology,ME 362,"D1,D2",,H2,3.0,7/108,,11/102
 Materials Processing,MSE 307,"E1,E2",,,4.0,13/125,,
 "Polymers, Ceramics and Composites",MSE 313,"D1,D2",,I1,4.0,13/125,,ME Lab
@@ -105,7 +105,7 @@ Special Topics in Civil Engineering: Administration of Contracts,CE 691-VIII,"N1
 Introduction to Polymer Science and Engineering,CL 324,"I1,I2",,,4.0,7/205,,
 Chemical Engineering Practice in Industry,CL 328,K2,,,2.0,7/208,,
 Biochemical Engineering,CL 426,"D1,D2",,,4.0,7/106,,
-Formulation Science and Engineering,CL 427,"C1,C2",,,4.0,13/124,,
+Formulation Science and Engineering,CL 427,"N1,N2",,,4.0,7/108,,
 Nanoscale Science,BS 401,"G1,G2",,,4.0,7/102,,
 Advanced Transport Phenomena,CL 601,"A1,A2",,,4.0,7/208,,
 Advanced Thermodynamics,CL 602,"G1,G2",,,4.0,7/103,,
@@ -146,8 +146,8 @@ Mixed Signal IC Design,EE 662,"P1,L2",,,4.0,11/206,,
 Special Topics in Electrical Engineering: High Frequency Engineering,EE 691-XII,"M1,M2",J1,,4.0,11/206,11/206,
 Mechatronics,ES 408,"M1,M2",,,4.0,7/103,,
 Special Topics in Mechanical Engineering: Nondestructive Testing/Evaluation,ME 491-I,"M1,M2",,,4.0,7/107,,
-Foundations of Fluid Dynamics,ES 607,"D1,D2",M!,,4.0,7/205,7/109,
-Computational Fluid Dynamics,ME 605,"P1,P2",B1,,4.0,7/202,7/101,
+Foundations of Fluid Dynamics,ES 607,"D1,D2",M1,,4.0,7/205,7/109,
+Computational Fluid Dynamics,ME 605,"P1,P2",C1,,4.0,7/202,7/203,
 Introduction to Robotics,ME 639,"C1,A2",,B2,5.0,11/102,,Makers Bhavan
 Fracture Mechanics,ME 640,"J1,J2",,,4.0,11/204,,
 Elastodynamics and Vibrations,ES 646,"L1,L2",,,4.0,11/205,,
@@ -166,7 +166,7 @@ Characterization of Materials,MSE 632,"A1,A2",,"J1,L1",4.0,7/209,,MSE Lab
 Transmission Electron Microscopy,MSE 633A,"D2,F1",,,3.0,11/204,,
 Forensic Chemistry,CH 301,"M1,M2",,,2.0,7/203,,
 Electrochemical Science and Engineering,CH 302,"G1,G2",J2,,4.0,11/204,13/125,
-Food Chemistry,CH 401,"L1,L2",J2,,4.0,7/208,7/208,
+Food Chemistry,CH 401,"L1,L2",J2,,4.0,7/208,Saturday,
 Physical Organic Chemistry,CH 506,"E1,E2",,,4.0,11/101,,
 Main Group and Transition Metal Chemistry,CH 510,"M1,M2",,,4.0,7/208,,
 Quantum Chemistry,CH 511,"D1,D2",,,4.0,7/109,,
@@ -192,14 +192,14 @@ I1",,4.0,,"10/102, 10/202",
 Linear Algebra,MA 504 (A),"D1,D2",B2,,4.0,7/208,7/208,
 Real Analysis of One Variable,MA 509 (A),"C1,C2",A2,,4.0,7/205,7/101,
 Topology,MA 510,"G1,G2",A1,,4.0,7/208,7/109,
-Introduction to Optimization,MA 512,"J2,C2",J1,,4.0,7/104,7/208,
+Introduction to Optimization,MA 512,"C1,C2",J1,,4.0,7/209,7/208,
 Commutative Algebra,MA 605,"E1,E2",,,4.0,7/104,,
-Partial Differential Equations,MA 624,"I1,I2",F2,,4.0,7/207,7/207,
-Functional Analysis,MA 626,"K1,K2",L2,,4.0,7/207,7/207,
+Partial Differential Equations,MA 624,"I1,I2",F1,,4.0,7/207,7/207,
+Functional Analysis,MA 626,"K1,K2",J2,,4.0,7/207,7/207,
 Algebraic Topology,MA 627,"M1,M2",,,4.0,7/106,,
 Measure Theory & Probability,MA 630 (A),"N1,N2",P1,,4.0,7/107,7/107,
 Algebraic Number Theory,MA 634,"D1,D2",,,4.0,11/206,,
-Integral Geometry in Imaging Sciences,MA 640,"L1,L2",,,4.0,7/210,,
+Integral Geometry in Imaging Sciences,MA 640,"B1,B2",,,4.0,7/205,,
 Numerical Analysis for Partial Differential Equations,MA 643,"M1,M2",,,4.0,7/205,,
 Optimization methods for machine learning,ES 645,"J1,J2",,,4.0,7/104,,
 Mathematical Methods of Physics I,PH 502,"G1,G2",K1,,4.0,11/102,11/101,
