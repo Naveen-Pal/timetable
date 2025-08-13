@@ -28,11 +28,11 @@ B1,B2
 I1,I2
 (7/202,7/203,7/204)","First class is at Jasubhai on Aug 18, 2-3:20 PM (I1 slot) for everyone.",,,,
 BS 192,Undergraduate Science Laboratory,0,0,3,3,"Naveen Sisodia(L), Krista Khiangte(L), Priyabrata Ghana(L), Partha Pratim Roy(L), Pinaki Banerjee(L)",,2,"Sections
-Monday: Section 5
-Tuesday: Section 3
-Wednesday: Section 4
-Thursday: Section 2
-Friday: Section 1",,,"I1,K1,J1,L1,I2,M1,K2,L2,J2,M2
+Monday: Section 4, Section 5:25110289 to 25110306
+Tuesday: Section 3, Section 5:25110307 to 25110325
+Wednesday: Section 2, Section 5:25110326 to 25110343
+Thursday: Section 1, Section 5:25110344 to 25110361
+",,,"I1,K1,J1,L1,I2,M1,K2,L2,J2,M2
  (PH Lab)",,,,,
 HS 201,World Civilizations and Cultures,3,0,0,4,"Madhumita Sengupta(I),Sharada Channarayapatna(I),V N Prabhakar(I)",,,,"D1,D2
  (Surendra C Sheth Learning Theatre,Jayshree S Sheth Learning Theatre,10/201)",,,,,,,
@@ -253,7 +253,7 @@ HS 151,Economics,3,0,1.5,4,Deepak Singhania(I+L),,,,"J1,J2
 MSE 307,Materials Processing,3,0,0,4,Pradipta Ghosh(I),,16,,"E1,E2
  (13/125)",,,Course plan,,,,
 MSE 313,"Polymers, Ceramics and Composites",3,0,1.5,4,Abhijit Mishra(I+L),,20,,"D1,D2
- (13/125)",,"I1
+ (11/101)",,"I1
 (ME Lab)",,,,,
 MSE 304,Principles of Metal Extraction and Refining,3,0,0,4,Surya P Mehrotra(I),,13,,"G1,G2
  (7/105)",,,Course Plan,,,,
@@ -489,8 +489,8 @@ CH 302,Electrochemical Science and Engineering,3,1,0,4,Sudhanshu Sharma(I+T),,10
  (11/204)","J2
  (13/125)",,,,,,BS
 CH 401,Food Chemistry,3,1,0,4,Iti Gupta(I+T),,,,"L1,L2
- (7/208)","J2
- (Saturday)",,course plan,,,,BS
+ (7/208)","
+ Saturday",,course plan,,,,BS
 CH 506,Physical Organic Chemistry,3,0,0,4,Sudipta Basu(I),,1,,"E1,E2
  (11/101)",,,https://drive.google.com/file/d/1jlzaYfudRSbe8-YRjv6jV5odOtYl5dQn/view?usp=sharing,,,,BS
 CH 510,Main Group and Transition Metal Chemistry,3,0,0,4,Priyabrata Ghana(I),,,,"M1,M2
@@ -681,7 +681,7 @@ HS 153,Advance Japanese Learning,3,1,0,4,Sweta Mistry(I),,,,"Monday amd Wednesda
 6:30 to 8 pm
 (11/204)",,Course Plan,,,,
 HS 154,Mandarin for Beginners,3,0,0,4,"Kao(I), Hao-Tsung(I)",,,,"L1,L2
- (7/203)",,,,,,,
+ (Jayshree S Sheth Learning Theatre)",,,,,,,
 HS 155,Mandarin for Beginners - II,3,0,0,4,"Kao(I), Hao-Tsung(I)",,,,"N1,N2
  (7/104)",,,,,,,
 DES 201,Technopreneurship: Product Proposition,2,0,3,4,Manikanta Polisetti(I),,,,"L1,L2
