@@ -15,7 +15,7 @@ Biology for Engineers,ES 243,"D1,D2",A2,,4.0,Jasubhai Auditorium,,
 General Education II,GE 201,"P1,P2",,,2.0,10/201,,
 Introduction to Quantum Physics,PH 202,"L1,L2",K1,,4.0,7/202,7/208,
 Introduction to Philosophy,HS 221,"B1,B2",,,4.0,Jasubhai Auditorium,,
-Digital Systems,ES 204,"E1,E2",,"J1,J2",4.0,10/103,,"10/104,10/105"
+Digital Systems,ES 204,"E1,E2",,"J1,J2,K2",4.0,10/103,,"10/104,10/105"
 "Calculus of Several Variables 
 (First half of Semester)",MA 205,"M1,M2",C1,,2.0,Jasubhai Auditorium,,
 "Introduction to Complex Analysis
@@ -134,7 +134,9 @@ Digital Control Systems,ES 616,"B1,B2",P1,,4.0,7/204,7/204,
 Microfabrication and Semiconductor Processes,ES 626,"B1,B2",,,4.0,10/202,,
 CMOS Analog IC Design,EE 651,"N1,N2",,,4.0,7/210,,
 Biomedical Ultrasound,ES 657,"P1,P2",,,4.0,11/204,,
-Smart Grid,EE 659,"K1,K2",,,4.0,13/125,,
+Smart Grid,EE 659,"F1 
+
+N2",,,4.0,"13/125, 11/204",,
 Advanced Wireless Communications,EE 663,"M1,M2",,,4.0,11/205,,
 Smart Renewable Energy Systems,ES 663,"M1,M2",,,4.0,10/102,,
 High Frequency Engineering,EE 664,"M1,M2",,,4.0,11/206,,

@@ -49,7 +49,7 @@ PH 202,Introduction to Quantum Physics,3,1,0,4,"Krista Khaingte(I+T), Abhisek Sa
 HS 221,Introduction to Philosophy,3,0,0,4,Jaison Manjaly(I),,421,,"B1,B2
  (Jasubhai Auditorium)",,,Course Outline,,,,
 ES 204,Digital Systems,2,1,1.5,4,Joycee Mekie(I+T+L),,238,,"E1,E2
- (10/103)",,"J1,J2
+ (10/103)",,"J1,J2,K2
 (10/104,10/105)",ES 204 Digital Systems,,,,
 MA 205,"Calculus of Several Variables 
 (First half of Semester)",3,1.5,0,2,Rohit Kumar Mishra(I+T),,329,,"M1,M2
@@ -409,8 +409,10 @@ EE 651,CMOS Analog IC Design,3,0,0,4,Tarun Agrawal(I),,36,,"N1,N2
  (7/210)",,,course plan,,,,
 ES 657,Biomedical Ultrasound,3,0,0,4,Himanshu Shekhar(I),,38,,"P1,P2
  (11/204)",,,course plan,,,,
-EE 659,Smart Grid,3,0,0,4,Naran Pindoriya(I),,14,,"K1,K2
- (13/125)",,,EE 659_Course Plan,,,,
+EE 659,Smart Grid,3,0,0,4,Naran Pindoriya(I),,14,,"F1 
+(13/125)
+N2
+(11/204)",,,EE 659_Course Plan,,,,
 EE 663,Advanced Wireless Communications,3,0,0,4,Raghunandan Rao(I),,8,,"M1,M2
 (11/205)",,,Course Description and Tentative Weekly Plan,,"Class code on Google Classroom: kvissriw
 ",,
