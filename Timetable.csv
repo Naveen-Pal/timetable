@@ -3,13 +3,13 @@ First Year(2025),,,,,,,,,,,,,,,,,
 FP 100,Foundation Programme,0,0,0,4,"Abhinav Jha (I), Achyut Mishra (I), Anagh Bhaumik (I), Madhav Pathak (I), Shubhangi Bansude (I), Vaibhav Tripathi (I)",,350,,,,,,,,,
 ES 101,Engineering Graphics,1.5,0,1.5,3,"Kaustubh Rane(I+L),Sameer Patel(L), S R Gandhi(L),Prince Vats (T),Vaibhav Gajanan Lawang(T), Mayank Pravinchandra Makwana (T), Gopi Hiteshbhai Kundia(T), Baddi Prasad (T)",,355,,"C2
  (Jasubhai Auditorium)",,"N1,N2
- (Surendra C Sheth Learning Theatre,Jayshree S Sheth Learning Theatre,10/203,10/204,7/208,7/209,10/201,10/202,10/104,10/105,11/101,11/102)",Course plan,,,,
+ (Surendra C Sheth Learning Theatre,Jayshree S Sheth Learning Theatre,10/203,10/204,7/208,7/209,Jagdish Patel Learning Theatre,Harsha Patel Learning Theatre,10/104,10/105,11/101,11/102)",Course plan,,,,
 MA 103,Calculus of Single Variable and Linear Algebra,3,1.5,0,4,"Indranath Sengupta(I+T),Madhu Gupta(I+T)",,357,,"E1,E2
  (Jasubhai Auditorium)","A1
 (7/101,7/102,7/103,7/104,7/105,7/106,7/107,7/202,7/203,7/204,7/205)",,Course plan,,,,
 ES 112,Computing,1.5,0,1.5,3,"Anirban Dasgupta(I+L),Manoj Gupta(I+L)",,360,,"F1
  (Jasubhai Auditorium)",,"P1,P2
-(10/104,10/105,10/203,10/204,Jasubhai Auditorium,10/202)",To be announced in mid July,,,,
+(10/104,10/105,10/203,10/204,Jasubhai Auditorium,Harsha Patel Learning Theatre)",To be announced in mid July,,,,
 ES 115,"Design, Innovation, and Prototyping",1.5,0,3,5,"Malay Dhamelia(I),Rakesh Singhai(L),
 Manasi Kanetkar(I+L)",,351,"Sections
 Monday: Section 1
@@ -34,7 +34,7 @@ Thursday: Section 1, Section 5:25110344 to 25110361
 ",,,"I1,K1,J1,L1,I2,M1,K2,L2,J2,M2
  (PH Lab)",,,,,
 HS 201,World Civilizations and Cultures,3,0,0,4,"Madhumita Sengupta(I),Sharada Channarayapatna(I),V N Prabhakar(I)",,,,"D1,D2
- (Surendra C Sheth Learning Theatre,Jayshree S Sheth Learning Theatre,10/201)",,,,,,,
+ (Surendra C Sheth Learning Theatre,Jayshree S Sheth Learning Theatre,Jagdish Patel Learning Theatre)",,,,,,,
 PE 101,Physical Education,0,0,0,0,,,362,,,,,,,,,
 IN 101,Comprehensive Viva Voce,0,0,0,0,Gopinadhan Kalon(I),,350,,"D1,D2",,,,,,,
 Second Year(2024),,,,,,,,,,,,,,,,,
@@ -42,7 +42,7 @@ ES 243,Biology for Engineers,3,1,0,4,"Umashankar Singh(I+T),Aditi Satish(GTF)(T)
  (Jasubhai Auditorium)","A2
 (7/102,7/103,7/106,7/107,7/202,7/203,7/204,7/205,7/104,7/105)",,ES243 course plan,,,,
 GE 201,General Education II,3,0,0,2,TBD(I),,375,,"P1,P2
- (10/201)",,,,,,,
+ (Jagdish Patel Learning Theatre)",,,,,,,
 PH 202,Introduction to Quantum Physics,3,1,0,4,"Krista Khaingte(I+T), Abhisek Samanta(T)",,31,,"L1,L2
 (7/202)","K1
 (7/208)",,PH 202 Course Plan,,,,BS
@@ -66,8 +66,8 @@ MSE 202,Materials Thermodynamics,3,1,0,4,Abhay Gautam(I+T),,25,,"K1,K2
  (7/205)","L1
  (7/107)",,,,,,
 EE 221,Electronic Devices,2,1,0,3,Sandip Lashkare(I+T),,1,,"I1,I2
- (10/201)",,"C2
-(10/201)",EE226 Course Plan,,,,
+ (Jagdish Patel Learning Theatre)",,"C2
+(Jagdish Patel Learning Theatre)",EE226 Course Plan,,,,
 CE 201,Earth Materials and Processes,1.5,0,3,2,Vikrant Jain(I+L),,20,,"E1
  (7/101)",,"I1,K1
 (7/206)",https://drive.google.com/file/d/1YI35aR5F_QDTZfnk6jfg2TAtkgy6UQAV/view?usp=sharing,,,,
@@ -77,19 +77,19 @@ ES 242,Data Structures and Algorithms I,3,0,1.5,4,Balagopal Komarath(I+L),,204,,
  (10/103)",,"F1
  (10/103,10/203,10/204,10/104,10/105)",Course Plan,,,,
 ES 244,"Signals, Systems, and Random Processes",3,1.5,0,4,Uttama Lahiri(I+T),,158,,"G1,G2
- (10/201)","H1
- (10/201)",,Course Plan,,,,
+ (Jagdish Patel Learning Theatre)","H1
+ (Jagdish Patel Learning Theatre)",,Course Plan,,,,
 ES 221,Mechanics of Solids,3,1.5,0,4,Gaurav Srivastava(I+T),,25,,"G1,G2
  (7/101)","Wedneasday 9pm to 10:30 pm
  (7/101)",,course website,,,,
 ES 214,Discrete Mathematics,3,1,0,4,"Neeldhara Misra(I+T), Jyothi Krishnan(I+T)",,115,,"G1,G2
- (10/202)","H1
- (10/202)",,,,,,
+ (Harsha Patel Learning Theatre)","H1
+ (Harsha Patel Learning Theatre)",,,,,,
 CE 203,Geospatial Engineering,1.5,0,3,3,Vimal Mishra(I+L),,25,,"E2
  (7/101)",,"J1,L1
-(10/202)",,,,,
+(Harsha Patel Learning Theatre)",,,,,
 EE 223,Electrical Machines,2,1,1.5,4,Ragavan K(I+T+L),,88,,"K1,K2
- (10/201)",,"J1,L1,J2,P2
+ (Jagdish Patel Learning Theatre)",,"J1,L1,J2,P2
  (EE Lab)",EE 223-Electrical Machines,,,,
 MSE 207,Structure of Materials,3,1,0,4,Anagh Bhaumik(I+T),,21,,"G1,G2
  (7/104)","I2
@@ -101,11 +101,11 @@ ME 206,Statics and Dynamics,2,1,1.5,4,Jayaprakash K. R.(I+T+L),,77,,"E1,E2
  (7/209)",,"I1
 (7/209)",Course plan,,,,
 EE 322,Analog & Mixed Signal Circuits,2,1,1.5,4,"Madhav Pathak(I+T+L), Dinesh Kumar Sharma(L)",,109,,"A2,M2
-(10/201)",,"I1,K1
+(Jagdish Patel Learning Theatre)",,"I1,K1
 (EE Lab)",EE322 Analog and Mixed Signal Circuits Course Plan,,,,
 EE 226,Semiconductor Devices,3,1,0,4,"Sandip Lashkare(I+T), Jhuma Saha(T)",,114,,"I1,I2
- (10/201)","C2
-(10/201)",,EE226 Course Plan,,,,
+ (Jagdish Patel Learning Theatre)","C2
+(Jagdish Patel Learning Theatre)",,EE226 Course Plan,,,,
 EE 225,Unveiling the Semiconductor World,2,0,0,2,Nihar Mohapatra(I),,50,,"F1,F2
 (10/102)",,,https://drive.google.com/drive/u/0/folders/1rLo5Tm4lNwlLrH5s0REsdxuAi8lW7Rys,,,,
 PE 103,Physical Education,0,0,0,0,,,406,,,,,,,,,
@@ -180,8 +180,8 @@ CS 202,Software Tools and Techniques for CSE,1.5,0,3,4,Shouvick Mondal(I+L),,91,
  (10/103)",,"I1,K1
 (10/104,10/105)",Course Plan,,,,
 CS 330,Operating Systems,3,0,1.5,4,Abhishek Bichawat(I+L),,117,,"F1,F2
-(10/201)","L1
-(10/203,10/204,10/201)
+(Jagdish Patel Learning Theatre)","L1
+(10/203,10/204,Jagdish Patel Learning Theatre)
 D2
 (10/203)",,Course Plan,,,,
 CS 331,Computer Networks,3,1,0,4,Sameer Kulkarni(I+T),,103,,"G1,G2
@@ -203,15 +203,15 @@ HS 151,Economics,3,0,1.5,4,Deepak Singhania(I+L),,384,,"J1,J2
  (Surendra C Sheth Learning Theatre,Jayshree S Sheth Learning Theatre,11/101,11/102, Jasubhai Auditorium, 1/103)",,https://drive.google.com/file/d/1fjtnOb8ljB_Tt9dZOAjj0Idfvp4jkYCi/view?usp=sharing,,,,
 EE 312,Engineering Electromagnetics,3,1,0,4,Ravi Hegde(I+T),,83,,"G1,G2
  (7/109)","H2
- (10/202)",,https://docs.google.com/document/d/1Mitg2tScGQkx5Uf_YOHr7_RVZp7UcnQsSYWoLQXkq0I/edit?usp=sharing,,,,
+ (Harsha Patel Learning Theatre)",,https://docs.google.com/document/d/1Mitg2tScGQkx5Uf_YOHr7_RVZp7UcnQsSYWoLQXkq0I/edit?usp=sharing,,,,
 EE 322,Analog & Mixed Signal Circuits,2,1,1.5,4,Madhav Pathak(I+T+L),,109,,"A2,M2
-(10/201)",,"I1,K1
+(Jagdish Patel Learning Theatre)",,"I1,K1
 (EE Lab)",EE322 Analog and Mixed Signal Circuits Course Plan,,,,
 EE 323,Digital Signal Processing,3,1.5,0,4,Nithin George(I+T),,85,,"D1,D2
- (10/201)","A1
- (10/201,10/102)",,Course Plan,,,,
+ (Jagdish Patel Learning Theatre)","A1
+ (Jagdish Patel Learning Theatre,10/102)",,Course Plan,,,,
 EE 333,Power Electronics,2,1,1.5,4,S Rajendran(I+T+L),,80,,"C1,C2
- (10/202)","C1
+ (Harsha Patel Learning Theatre)","C1
 (10/102)","I2,M1,K2,L2
 (EE Lab)",https://drive.google.com/file/d/1yQuy8tPSD9b2FKpSgaWMcuZreG5gGNmj/view?usp=drive_link,,,,
 HS XXX,HSS Elective,3,0,0,4,,,,,,,,,,,,
@@ -324,7 +324,7 @@ CE 634,Air Pollution Control Engineering,3,0,0,4,Sameer Patel(I),,12,,"J1,J2
 CE 635,Pavement Materials and Design,3,0,0,4,Sushobhan Sen(I),,12,,"P1,P2
  (13/124)",,,CE 635 2025-26 Sem I Syllabus.docx,,,,
 CE 637,Infrastructure Systems: Planning and Management,3,0,0,4,Udit Bhatia(I),,22,,"M1,M2
-(10/202)",,,Coure Plan,,,,
+(Harsha Patel Learning Theatre)",,,Coure Plan,,,,
 CE 638,Advanced Concrete Technology,3,0,0,4,Siva Chopeperla(I),,20,,"I1,I2
  (13/124)",,,https://iitgnacin-my.sharepoint.com/:b:/g/personal/siva_chopperla_iitgn_ac_in/EehU8Avhy51CojioZd3913cB_n2otJvprzzpT4TjMVN7AA?e=b3Gxs7,,,,
 CE 691-VI,Special Topics in Civil Engineering: Domestic Wastewater Engineering (Treatment and Reuse),3,0,0,4,S K Arora(I),,31,,"E1,E2
@@ -360,7 +360,7 @@ ES 662,"Flexible Electronics: Materials, Methods and Devices",3,0,0,4,Biswajit S
 Additional courses CSE,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,
 CS 431,Computer and Network Security,3,0,0,4,Abhishek Bichawat(I),,,,"M1,M2
- (10/201)",,,Course Plan,,,,
+ (Jagdish Patel Learning Theatre)",,,Course Plan,,,,
 CS 434,Software Engineering and Testing,3,1,0,4,Shouvick Mondal(I+T),,27,,"J1,J2
  (11/101)","A2
  (7/210)",,Course Plan,,,,
@@ -371,7 +371,7 @@ CS 610,Algorithms,3,0,0,4,Manoj Gupta(I),,56,,"C1,C2
 CS 612,Computer Systems,3,0,0,4,Abhishek Bichawat(I),,22,,"G1,G2
  (7/203)",,,Course Plan,,,,
 CS 613,Natural Language Processing,3,0,0,4,Mayank Singh(I),,101,,"K1,K2
- (10/202)",,,Course Plan,,,,
+ (Harsha Patel Learning Theatre)",,,Course Plan,,,,
 CS 618,Theoretical Foundations of Machine Learning,3,0,0,4,Anirban Dasgupta(I),,6,,"N1,N2
  (13/404)",,,Course Plan,,,,
 CS 619,CS Theory Tool Kit,3,0,0,4,Bireswar Das(I),,11,,"L1,L2
@@ -406,7 +406,7 @@ ES 616,Digital Control Systems,3,1,0,4,S Rajendran(I+T),,11,,"B1,B2
  (7/204)","P1
  (7/204)",,https://drive.google.com/file/d/1Cdvmn748BuugyKJpQo5YAc6MDZJqRBYn/view?usp=drive_link,,,,
 ES 626,Microfabrication and Semiconductor Processes,3,0,0,4,Nihar Mohapatra(I),,31,,"B1,B2
- (10/202)",,,https://drive.google.com/drive/folders/18UiLb8h1s6F3oPYkq6pf8f4fYteQkdCK?role=reader,,,,
+ (Harsha Patel Learning Theatre)",,,https://drive.google.com/drive/folders/18UiLb8h1s6F3oPYkq6pf8f4fYteQkdCK?role=reader,,,,
 EE 651,CMOS Analog IC Design,3,0,0,4,Tarun Agrawal(I),,36,,"N1,N2
  (7/210)",,,course plan,,,,
 ES 657,Biomedical Ultrasound,3,0,0,4,Himanshu Shekhar(I),,38,,"P1,P2
@@ -541,7 +541,7 @@ MA 501,Basic Algebra,3,1.5,0,4,Prof. Jugal K Verma(I+T),,47,,"E1,E2
  (Jayshree S Sheth Learning Theatre)","B1
  (10/102)
 I1
-(10/202)",,Basic algebra course Plan,,,,BS
+(Harsha Patel Learning Theatre)",,Basic algebra course Plan,,,,BS
 MA 504 (A),Linear Algebra,3,1.5,0,4,Projesh Nath Choudhury(I+T),,59,,"D1,D2
  (7/208)","B2
  (7/208)",,Course Plan,,,,BS
@@ -617,7 +617,7 @@ EH 605,Modelling of of Earth System and Sustainability,3,0,0,4,R. N. Singh(I),,4
 EH 608,Biodiversity Conservation and Sustainable Development,3,0,0,4,C N Pandey(I),,51,,"G1,G2
  (7/107)",,,course plan,,,,BS
 EH 611,Near Surface Geophysics,3,0,0,4,Utsav Mannu(I),,64,,"A1,A2
- (10/202)",,,Link,,,,BS
+ (Harsha Patel Learning Theatre)",,,Link,,,,BS
 EH 613,Carbonate Sedimentology,3,0,1.5,4,Pankaj Khanna(I+L),,9,,"D1,D2
  (13/124)",,,Course Plan EH 613,,,,BS
 EH 619,Geobiology,3,0,0,4,Sonal Khanolkar(I),,21,,"E1,E2
@@ -639,7 +639,7 @@ CG 501,Computation and Cognition,3,0,0,4,Krishna Miyapuram(I),,33,,"B1,B2
 CG 503,Fundamentals of Cognitive Psychology,3,0,0,4,Meera Mary Sunny(I),,40,,"F1,F2
  (7/204)",,,Course Plan,,,,BS
 CG 504,Research Methods in Cognitive Science,1.5,0,1.5,4,Vaibhav Tripathi(I+L),,36,,"E1,E2
- (10/202)",,,CG 504,,,,BS
+ (Harsha Patel Learning Theatre)",,,CG 504,,,,BS
 CG 505,Fundamental Neuroscience,3,0,0,4,Pratik Mutha(I),,67,,"D1,D2
  (7/107)",,,Course Plan,,,,BS
 CG 606,Philosophy of Mind,3,0,0,4,Jaison Manjaly(I),,82,,"C1,C2

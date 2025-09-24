@@ -12,7 +12,7 @@ World Civilizations and Cultures,HS 201,"D1,D2",,,4.0,,,
 Physical Education,PE 101,,,,0.0,,,
 Comprehensive Viva Voce,IN 101,"D1,D2",,,0.0,,,
 Biology for Engineers,ES 243,"D1,D2",A2,,4.0,Jasubhai Auditorium,,
-General Education II,GE 201,"P1,P2",,,2.0,10/201,,
+General Education II,GE 201,"P1,P2",,,2.0,,,
 Introduction to Quantum Physics,PH 202,"L1,L2",K1,,4.0,7/202,7/208,
 Introduction to Philosophy,HS 221,"B1,B2",,,4.0,Jasubhai Auditorium,,
 Digital Systems,ES 204,"E1,E2",,"J1,J2,K2",4.0,10/103,,"10/104,10/105"
@@ -23,20 +23,20 @@ Digital Systems,ES 204,"E1,E2",,"J1,J2,K2",4.0,10/103,,"10/104,10/105"
 Science Basket Course,ES XXX,,,,4.0,,,
 Thermodynamics,ES 211,"G1,G2",,H2,3.0,,,
 Materials Thermodynamics,MSE 202,"K1,K2",L1,,4.0,7/205,7/107,
-Electronic Devices,EE 221,"I1,I2",,C2,3.0,10/201,,10/201
+Electronic Devices,EE 221,"I1,I2",,C2,3.0,,,
 Earth Materials and Processes,CE 201,E1,,"I1,K1",2.0,7/101,,7/206
 Chemical Process Calculations,CL 201,"E1,E2",,,3.0,10/102,,
 Data Structures and Algorithms I,ES 242,"N1,N2",,F1,4.0,10/103,,
-"Signals, Systems, and Random Processes",ES 244,"G1,G2",H1,,4.0,10/201,10/201,
+"Signals, Systems, and Random Processes",ES 244,"G1,G2",H1,,4.0,,,
 Mechanics of Solids,ES 221,"G1,G2",Wedneasday 9pm to 10:30 pm,,4.0,7/101,7/101,
-Discrete Mathematics,ES 214,"G1,G2",H1,,4.0,10/202,10/202,
-Geospatial Engineering,CE 203,E2,,"J1,L1",3.0,7/101,,10/202
-Electrical Machines,EE 223,"K1,K2",,"J1,L1,J2,P2",4.0,10/201,,EE Lab
+Discrete Mathematics,ES 214,"G1,G2",H1,,4.0,Harsha Patel Learning Theatre,Harsha Patel Learning Theatre,
+Geospatial Engineering,CE 203,E2,,"J1,L1",3.0,7/101,,Harsha Patel Learning Theatre
+Electrical Machines,EE 223,"K1,K2",,"J1,L1,J2,P2",4.0,,,EE Lab
 Structure of Materials,MSE 207,"G1,G2",I2,,4.0,7/104,7/206,
 Transport Phenomena in Materials Engineering,MSE 204,"E1,E2",H1,,4.0,7/210,10/102,
 Statics and Dynamics,ME 206,"E1,E2",,I1,4.0,7/209,,7/209
-Analog & Mixed Signal Circuits,EE 322,"A2,M2",,"I1,K1",4.0,10/201,,EE Lab
-Semiconductor Devices,EE 226,"I1,I2",C2,,4.0,10/201,10/201,
+Analog & Mixed Signal Circuits,EE 322,"A2,M2",,"I1,K1",4.0,,,EE Lab
+Semiconductor Devices,EE 226,"I1,I2",C2,,4.0,,,
 Unveiling the Semiconductor World,EE 225,"F1,F2",,,2.0,10/102,,
 Physical Education,PE 103,,,,0.0,,,
 Comprehensive Viva Voce,IN 103,,,,0.0,,,
@@ -60,11 +60,11 @@ Construction Technology & Management,CE 403,"E1,E2",,,4.0,7/105,,
 Software Tools and Techniques for CSE,CS 202,D1,,"I1,K1",4.0,10/103,,"10/104,10/105"
 Operating Systems,CS 330,"F1,F2","L1
 
-D2",,4.0,10/201,"10/203,10/204,10/201, 10/203",
+D2",,4.0,,10/203,
 Computer Networks,CS 331,"G1,G2",H2,,4.0,10/103,,
-Engineering Electromagnetics,EE 312,"G1,G2",H2,,4.0,7/109,10/202,
-Digital Signal Processing,EE 323,"D1,D2",A1,,4.0,10/201,"10/201,10/102",
-Power Electronics,EE 333,"C1,C2",C1,"I2,M1,K2,L2",4.0,10/202,10/102,EE Lab
+Engineering Electromagnetics,EE 312,"G1,G2",H2,,4.0,7/109,Harsha Patel Learning Theatre,
+Digital Signal Processing,EE 323,"D1,D2",A1,,4.0,,,
+Power Electronics,EE 333,"C1,C2",C1,"I2,M1,K2,L2",4.0,Harsha Patel Learning Theatre,10/102,EE Lab
 Control Systems,ES 245,"G1,G2",A1,,4.0,11/101,7/108,
 Mechanics of Materials,ME 333,"E1,E2",,I1,3.0,7/109,,ME Lab
 Heat and Mass Transfer,ME 334,"F1,F2",B1,"I2,M1",4.0,,,ME Lab
@@ -98,7 +98,7 @@ Advanced Hydraulic Engineering,CE 625,"G1,G2",,,4.0,11/205,,
 Slopes and Retaining Structures,CE 627,"E1,E2",,,2.0,7/203,,
 Air Pollution Control Engineering,CE 634,"J1,J2",,,4.0,7/106,,
 Pavement Materials and Design,CE 635,"P1,P2",,,4.0,13/124,,
-Infrastructure Systems: Planning and Management,CE 637,"M1,M2",,,4.0,10/202,,
+Infrastructure Systems: Planning and Management,CE 637,"M1,M2",,,4.0,Harsha Patel Learning Theatre,,
 Advanced Concrete Technology,CE 638,"I1,I2",,,4.0,13/124,,
 Special Topics in Civil Engineering: Domestic Wastewater Engineering (Treatment and Reuse),CE 691-VI,"E1,E2",,,4.0,7/106,,
 Special Topics in Civil Engineering: Administration of Contracts,CE 691-VIII,"N1,N2",,,4.0,13/124,,
@@ -112,12 +112,12 @@ Advanced Thermodynamics,CL 602,"G1,G2",,,4.0,7/103,,
 Advanced Reaction Engineering,CL 604,"B1,B2",,,4.0,7/108,,
 Engineering Optimization,ES 604,"L1,L2",,,4.0,7/109,,
 "Flexible Electronics: Materials, Methods and Devices",ES 662,"K1,K2",,,4.0,7/106,,
-Computer and Network Security,CS 431,"M1,M2",,,4.0,10/201,,
+Computer and Network Security,CS 431,"M1,M2",,,4.0,,,
 Software Engineering and Testing,CS 434,"J1,J2",A2,,4.0,11/101,7/210,
 Human-Computer Interaction,CS 435,"M1,M2",,,4.0,11/101,,
 Algorithms,CS 610,"C1,C2",,,4.0,11/101,,
 Computer Systems,CS 612,"G1,G2",,,4.0,7/203,,
-Natural Language Processing,CS 613,"K1,K2",,,4.0,10/202,,
+Natural Language Processing,CS 613,"K1,K2",,,4.0,Harsha Patel Learning Theatre,,
 Theoretical Foundations of Machine Learning,CS 618,"N1,N2",,,4.0,13/404,,
 CS Theory Tool Kit,CS 619,"L1,L2",,,4.0,13/125,,
 Incentives and Machine Learning,CS 620,"A1
@@ -133,7 +133,7 @@ Physics of Transistors,EE 644,"G1,G2",,,4.0,7/202,,
 Dynamic Behaviour of Electric Machines,EE 648,"E1,E2",,A1,5.0,11/206,,EE Lab
 Introduction to Photonics,ES 414,"P1,P2",J1,,4.0,13/125,13/125,
 Digital Control Systems,ES 616,"B1,B2",P1,,4.0,7/204,7/204,
-Microfabrication and Semiconductor Processes,ES 626,"B1,B2",,,4.0,10/202,,
+Microfabrication and Semiconductor Processes,ES 626,"B1,B2",,,4.0,Harsha Patel Learning Theatre,,
 CMOS Analog IC Design,EE 651,"N1,N2",,,4.0,7/210,,
 Biomedical Ultrasound,ES 657,"P1,P2",,,4.0,11/204,,
 Smart Grid,EE 659,"F1 
@@ -192,7 +192,7 @@ Chemistry of Energy Materials,CH 641,"P1,P2",,,4.0,7/103,,
 Non-linear Spectroscopy and its Applications,CH 642,"K1,K2",,,4.0,7/210,,
 Basic Algebra,MA 501,"E1,E2","B1
  
-I1",,4.0,,"10/102, 10/202",
+I1",,4.0,,"10/102, Harsha Patel Learning Theatre",
 Linear Algebra,MA 504 (A),"D1,D2",B2,,4.0,7/208,7/208,
 Real Analysis of One Variable,MA 509 (A),"C1,C2",A2,,4.0,7/205,7/101,
 Topology,MA 510,"G1,G2",A1,,4.0,7/208,7/109,
@@ -222,7 +222,7 @@ Particle Physics and Gauge Theories,PH 647,"E1,E2",,,4.0,7/205,,
 Gravitational Wave Astronomy,PH 652,"M1,M2",,,4.0,7/204,,
 Modelling of of Earth System and Sustainability,EH 605,"L1,L2",,,4.0,11/101,,
 Biodiversity Conservation and Sustainable Development,EH 608,"G1,G2",,,4.0,7/107,,
-Near Surface Geophysics,EH 611,"A1,A2",,,4.0,10/202,,
+Near Surface Geophysics,EH 611,"A1,A2",,,4.0,Harsha Patel Learning Theatre,,
 Carbonate Sedimentology,EH 613,"D1,D2",,,4.0,13/124,,
 Geobiology,EH 619,"E1,E2",,,4.0,7/201,,
 Environmental Geosciences,EH 625,"M1,M2",,,4.0,7/202,,
@@ -232,7 +232,7 @@ The Prehistory of Homo Sapiens,EH 628,"M1,M2",,,4.0,13/124,,
 Special Topics in Earth Science: Microwave Remote Sensing,EH 691-III,"B1,B2",,,4.0,13/124,,
 Computation and Cognition,CG 501,"B1,B2",,,4.0,7/102,,
 Fundamentals of Cognitive Psychology,CG 503,"F1,F2",,,4.0,7/204,,
-Research Methods in Cognitive Science,CG 504,"E1,E2",,,4.0,10/202,,
+Research Methods in Cognitive Science,CG 504,"E1,E2",,,4.0,Harsha Patel Learning Theatre,,
 Fundamental Neuroscience,CG 505,"D1,D2",,,4.0,7/107,,
 Philosophy of Mind,CG 606,"C1,C2",,,4.0,7/208,,
 Computational Neuroscience,ES 606,"E1,E2",,,4.0,7/207,,
