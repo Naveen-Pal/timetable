@@ -56,8 +56,11 @@ def get_google_sheets_data():
         if not values:
             print('No data found.')
             return None
+        max_len = len(values[0])
+        normalized = [row + [''] * (max_len - len(row)) for row in values[1:]]
+        df = pd.DataFrame(normalized, columns=values[0])
 
-        df = pd.DataFrame(values[1:], columns=values[0])
+        # df = pd.DataFrame(values[1:], columns=values[0])
         return df
 
     except HttpError as error:

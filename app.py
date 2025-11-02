@@ -35,7 +35,7 @@ def get_courses():
     try:
         courses = [
             {
-                "code": row["Course Code"],
+                "code": row["Course Number"],
                 "name": row["Course Name"],
                 "credits": row["Credit"],
             }
@@ -206,10 +206,10 @@ def clean_course_info(content):
     content = content.replace("\n", ", ")  # Replace newlines with comma-space
     parts = [part.strip() for part in content.split(",") if part.strip()]
 
-    # Filter out course codes (pattern: letters followed by numbers)
+    # Filter out Course Numbers (pattern: letters followed by numbers)
     clean_parts = []
     for part in parts:
-        # Skip if it matches course code pattern (e.g., CS101, MATH201)
+        # Skip if it matches Course Number pattern (e.g., CS101, MATH201)
         if not re.match(r"^[A-Z]{1,4}\d+$", part.strip()):
             clean_parts.append(part)
 
@@ -220,8 +220,8 @@ def create_timetable(selected_courses):
     """Create timetable data structure"""
     course_info = {}
     for _, row in timetable_data.iterrows():
-        if row["Course Code"] in selected_courses:
-            course_info[row["Course Code"]] = {
+        if row["Course Number"] in selected_courses:
+            course_info[row["Course Number"]] = {
                 "name": row["Course Name"],
                 "Lecture": str(row.get("Lecture Time", "")),
                 "Tutorial": str(row.get("Tutorial Time", "")),

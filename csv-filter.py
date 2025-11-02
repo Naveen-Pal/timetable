@@ -6,13 +6,13 @@ def process_timetable(input_file='Timetable.csv', output_file='Updated_Processed
     # Load the uploaded file
     df = pd.read_csv(input_file)
 
-    df = df[df['Course Code'].str.len() <= 15]
+    df = df[df['Course Number'].str.len() <= 15]
     column_names = list(df.columns)
 
-    df = df.drop_duplicates(subset=['Course Code'], keep='first')
+    df = df.drop_duplicates(subset=['Course Number'], keep='first')
 
-    df = df[['Course Name', 'Course Code', 'Lecture', 'Tutorial', 'Lab', 'C']]
-    df.columns = ['Course Name', 'Course Code', 'Lecture Time', 'Tutorial Time', 'Lab Time', 'Credit']
+    df = df[['Course Name', 'Course Number', 'Lecture', 'Tutorial', 'Lab', 'C']]
+    df.columns = ['Course Name', 'Course Number', 'Lecture Time', 'Tutorial Time', 'Lab Time', 'Credit']
 
     def extract_location(text):
         if not isinstance(text, str):
