@@ -20,7 +20,7 @@ def sample_timetable_data():
     """Sample timetable data for testing."""
     return pd.DataFrame(
         {
-            "Course Code": ["CS101", "MATH201", "PHY301"],
+            "Course Number": ["CS101", "MATH201", "PHY301"],
             "Course Name": [
                 "Intro to Computer Science",
                 "Calculus II",
@@ -79,7 +79,7 @@ class TestCleanCourseInfo:
         assert result == "Programming, Lecture, Room 101"
 
     def test_clean_course_info_course_code_filtering(self):
-        """Test that course codes are filtered out."""
+        """Test that course numbers are filtered out."""
         content = "CS101\nProgramming\nCS102\nLecture\nRoom 101"
         result = clean_course_info(content)
         assert result == "Programming, Lecture, Room 101"
@@ -98,8 +98,8 @@ class TestFlaskRoutes:
     def test_get_courses_success(self, mock_timetable_data, client):
         """Test successful retrieval of courses."""
         mock_timetable_data.iterrows.return_value = [
-            (0, {"Course Code": "CS101", "Course Name": "Programming", "Credit": 3}),
-            (1, {"Course Code": "MATH201", "Course Name": "Calculus", "Credit": 4}),
+            (0, {"Course Number": "CS101", "Course Name": "Programming", "Credit": 3}),
+            (1, {"Course Number": "MATH201", "Course Name": "Calculus", "Credit": 4}),
         ]
 
         with patch("app.time_slots") as mock_time_slots:
@@ -196,7 +196,7 @@ class TestCreateTimetable:
             (
                 0,
                 {
-                    "Course Code": "CS101",
+                    "Course Number": "CS101",
                     "Course Name": "Programming",
                     "Lecture Time": "T1,T2",
                     "Tutorial Time": "T3",
@@ -229,7 +229,7 @@ class TestCreateTimetable:
             (
                 0,
                 {
-                    "Course Code": "CS101",
+                    "Course Number": "CS101",
                     "Course Name": "Programming",
                     "Lecture Time": "T1",
                     "Tutorial Time": "",
@@ -242,7 +242,7 @@ class TestCreateTimetable:
             (
                 1,
                 {
-                    "Course Code": "MATH201",
+                    "Course Number": "MATH201",
                     "Course Name": "Calculus",
                     "Lecture Time": "T1",
                     "Tutorial Time": "",
