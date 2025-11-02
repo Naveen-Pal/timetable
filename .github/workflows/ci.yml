@@ -33,7 +33,7 @@ jobs:
         echo "08:00-09:00,T1,T2,T3,T4,T5" >> "Time Slots.csv"
         echo "09:00-10:00,T6,T7,T8,T9,T10" >> "Time Slots.csv"
         
-        echo "Course Code,Course Name,Credit,Lecture Time,Tutorial Time,Lab Time,Lecture Location,Tutorial Location,Lab Location" > "Updated_Processed_Timetable.csv"
+        echo "Course Number,Course Name,Credit,Lecture Time,Tutorial Time,Lab Time,Lecture Location,Tutorial Location,Lab Location" > "Updated_Processed_Timetable.csv"
         echo "CS101,Programming,3,T1,T2,,Room 101,Room 102," >> "Updated_Processed_Timetable.csv"
         echo "MATH201,Calculus,4,T3,T4,T5,Room 201,Room 202,Lab 301" >> "Updated_Processed_Timetable.csv"
     
