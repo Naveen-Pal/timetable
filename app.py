@@ -125,7 +125,7 @@ def download_ics():
         day_columns = [col for col in timetable.columns if col != "Time Slot"]
         
         # Semester start date
-        semester_start = datetime(2025, 8, 4)
+        semester_start = datetime(2026, 1, 2)
         
         # Process each time slot
         for idx, row in timetable.iterrows():
