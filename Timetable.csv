@@ -4,12 +4,10 @@ GE 101,General Education I,3,0,0,2,"Snehal Kashikar(I),Paridhi Bhandari(I),Suman
 (Central Arcade,Jagdish Patel Learning Theatre)",,,,,,,
 MA 104 (E),Ordinary Differential Equations (first half),3,1.5,0,2,Sudeshna Roy(I+T),,284,,,"E1,E2
 (Jasubhai Auditorium)","H2
-(7/101,7/210,7/103,7/104,7/105,7/201,7/204)","B1,B2
-(Jagdish Patel Learning Theatre)",Course Plan,,,,
+(7/101,7/210,7/103,7/104,7/105,7/201,7/204)",,Course Plan,,,,
 MA 104 (H),Ordinary Differential Equations (second half),3,1.5,0,2,Mamta Balodi(I+T),,100,,,"E1,E2
 (Jagdish Patel Learning Theatre)","H2
-(7/205,7/206,7/207)","B1,B2
-(Harsha Patel Learning Theatre)",,,,,
+(7/205,7/206,7/207)",,,,,,
 ES 113 (E),Data-Centric Computing,1.5,0,1.5,3,Anup Kalbalia(I+L),,286,,,"D1
 (Jasubhai Auditorium)",,"N1
 (10/104,10/105,10/203,10/204)",,,,,
@@ -33,8 +31,8 @@ ES 117 (E),The World of Engineering,0,0,3,2,"Udit Bhatia(L),Himanshu Shekhar(L)"
 (Jasubhai Auditorium)",Course Plan,,,,
 ES 117 (H),The World of Engineering,0,0,3,2,"Udit Bhatia(L),Himanshu Shekhar(L)",,100,,,,,"K1,H1
 (Harsha Patel Learning Theatre)",,,,,
-CS 203,Software Tools & Techniques for AI,1.5,0,3,4,Nipun Batra(I+L),,77,,,"D1
-(7/208)",,"I1,K1
+CS 203,Software Tools & Techniques for AI,1.5,0,3,4,Nipun Batra(I+L),,77,,,"E1
+(7/209)",,"I1,K1
 (10/203)",https://nipunbatra.github.io/stt-ai-26/,,,,
 ES 214,Discrete Mathematics,3,1,0,4,Jyothi Krishnan(I+T),,115,,,"H1,I2
 (Jagdish Patel Learning Theatre)","D2
@@ -63,8 +61,8 @@ PH 203,Solid State Physics ,3,1,0,4,Chandan Kumar Mishra(I+T),,120,,,"M1,M2
 (Jayshree S Sheth Learning Theatre)",,Course Plan,,,,
 CL 202,Chemical Engineering Thermodynamics,2,1,0,3,Pratyush Dayal(I+T),,50,,,"G1,G2
 (7/102)",,,Course Plan,,,,
-CS 203,Software Tools & Techniques for AI,1.5,0,3,4,Nipun Batra(I+L),,77,,,"D1
-(7/208)",,"I1,K1
+CS 203,Software Tools & Techniques for AI,1.5,0,3,4,Nipun Batra(I+L),,77,,,"E1
+(7/209)",,"I1,K1
 (10/203)",https://nipunbatra.github.io/stt-ai-26/,,,,
 CL 203,Process Fluid Mechanics,2,1,0,3,Abinaya Sampath(I+T),,48,,,"H1,H2
 (7/202)",,,https://docs.google.com/document/d/1lngPtqKc7WLuOgt87r9tLKa4dM1F_Ww_/edit?usp=sharing&ouid=113466085440647644318&rtpof=true&sd=true,,,,
@@ -368,7 +366,7 @@ MA 606,Differential Topology,3,0,0,4,Arnab Saha(I),,15,,,"I1,I2
 MA 629 (A),Real analysis of several variables,3,1.5,0,4,Rohit Kumar Mishra(I+T),,44,,,"F1,F2
 (7/107)","A2
 (7/202)",,Course Plan,,,,
-MA 637,Numerical Analysis and Computing,3,1.5,0,4,Madhu Gupta(I+T),50,88,,,"D1,D2
+MA 637,Numerical Analysis and Computing,3,1.5,0,4,Madhu Gupta(I+T),,88,,,"D1,D2
 (7/209)","H2
 (7/208)",,,,,,
 MA 625,Stochastic Differential Equations,3,0,0,4,Chetan Pahlajani(I),,10,,,"K1,K2
@@ -397,7 +395,7 @@ PH 410,Advanced Condensed Matter Physics ,3,0,0,4,Abhisek Samanta(I),,40,,,"G1,G
 (Jagdish Patel Learning Theatre)",,,CoursePlan_AdvCMP,,,,
 PH 504,Quantum Mechanics II,3,1,0,4,Arpan Bhattacharyya(I+T),,43,,,"G1,G2
 (10/102)","A1
-(7/202)",,,,,,
+(7/202)",,Course Plan ,,,,
 PH 506,Methods of Experimental Physics,1,0,3,4,Krishnakanti Dey(I+L),,43,,,"C1
 (7/107)",,"J1,L1
 (PH Lab)",Course Plan,,,,
@@ -449,8 +447,8 @@ HS 154,Mandarin for Beginners,3,0,0,4,Hao-Tsung (William) Kao(I),,58,,,"N1,N2
 (7/209)",,,,,,,
 HS 155,Mandarin for Beginners - II,3,0,0,4,Hao-Tsung (William) Kao(I),,13,,,"L1,L2
 (11/102)",,,,,,,
-HS 201,World Civilizations and Cultures,3,0,0,4,Madhumita Sengupta(I),,150,,,"C1,C2
-(Harsha Patel Learning Theatre)",,,https://iitgnacin-my.sharepoint.com/:w:/g/personal/madhumitasg_iitgn_ac_in/EXu4fnGfEyVHrG9hR0OLYJYBIzcStU3WGk8-6_g3Awgu6Q?e=V68dIr,,,,
+HS 201,World Civilizations and Cultures,3,0,0,4,Madhumita Sengupta(I),,150,,,"L1,L2
+(Surendra C Sheth Learning Theatre)",,,https://iitgnacin-my.sharepoint.com/:w:/g/personal/madhumitasg_iitgn_ac_in/EXu4fnGfEyVHrG9hR0OLYJYBIzcStU3WGk8-6_g3Awgu6Q?e=V68dIr,,,,
 HS 223,Sanskrit Literature,3,1,0,4,Mana Shah(I+T),,22,,,"K1,K2
 (7/106)","J1
 (7/106)",,https://docs.google.com/document/d/1GTGrROwP19qndWiTfQBSiTPTZ2PGOyen/edit?usp=sharing&ouid=111070062818269259582&rtpof=true&sd=true,,,,
@@ -476,13 +474,13 @@ HS 642,Structures and Hydrology in Ancient India,3,0,0,4,Alok Kumar Kanungo(I),,
 HS 650,Critical Perspectives in Anthropology,3,0,0,4,Nishaant Choksi(I),,44,,,"D1,D2
 (7/107)",,,,,,,
 HS 651,Critical Perspectives in Sociology,3,0,0,4,Tanka B. Subba(I),,40,,,"A1,A2
-(7/110)",,,,,,,
+(7/110)",,,https://docs.google.com/document/d/1BSUNY85wlyRwUfdRRdVNpY8t5KVzLokCuBosmyfxdI8/edit?usp=sharing,,,,
 HS 653,Academic Communication: Explanation and Paraphrasing,3,0,0,2,Jooyoung Kim(I),,16,,,"P1,P2
 (11/204)",,,HS653_2025-26_Academic Communication Explanation and Paraphrasing_Syllabus,,,,
 HS 654,Mixed Methods in Research,3,0,0,2,Aditi Kothiyal(I),,35,,,"D1,D2
 (11/101)",,,Course plan_Mixed methods in Research_2025-2026,,,,
 HS 691-IX,Decolonizing Social Sciences,3,0,0,4,Tanka B. Subba(I),,19,,,"I1,I2
-(11/205)",,,,,,,
+(11/205)",,,https://docs.google.com/document/d/1dKJTp_cApCUiXicOal1elYXLGBRGxKPx4AbYX0a5Rt0/edit?usp=sharing,,,,
 HS 691-VII,"Special Topics in HSS: Haunting, Spectrality and Cinema",3,0,0,4,Arka Chattopadhyay(I),,40,,,"G1,G2
 (7/206)",,,https://drive.google.com/file/d/12vv9HpK2azc4PkZ-o4v--DOVEdZJZdzQ/view?usp=sharing,,,,
 HS 491-III,Strorytelling for the Digital Era,3,0,0,4,Arnapurna Rath(I),,40,,,"P1,P2
@@ -502,7 +500,7 @@ HS 108,Japan Studies,3,0,0,2,Toshiki Osada(I),,40,,,"E1,E2
 DES 302,"Creativity, Design and Doing",3,0,0,4,Manasi Kanetkar(I),,53,,,"N1,N2
 (Jagdish Patel Learning Theatre)",,,https://drive.google.com/file/d/1VsUlflyNpKjDAPaatVHDzrgIfo-M6EyT/view?usp=sharing,,,,
 DES 591-I,Game Apreciation and Game Aesthetics,3,0,0,4,Malay Dhamelia(I),,40,,,"J1,L1
-(7/204)",,,,,,,
+(7/204)",,, GA_GA_Schedule_2026,,,,
 DES 601,Visual Design for Academia,1.5,0,3,4,Sameer Sahasrabudhe(I+L),,40,,,"L1
 (7/101)",,"J2,M2
 (Jayshree S Sheth Learning Theatre)",https://classroom.google.com/c/ODA0NTEwOTM3Mjkw?cjc=3e3uhltx,,,,
@@ -519,7 +517,7 @@ MS 491-XV,"Special Topics in Management: Medical Products Manufacturing Quality 
 (7/207)",,,,,,,
 MS 492-I,"Special Topics in Management: Strategic Leadership
 (First Half of the Semster)",3,0,0,2,Rajeev Sharma(I),,45,,,"P1,P2
-(7/102)",,,,,,,
+(7/102)",,,Course Plan,,,,
 MS 492-II,"Special Topics in Management: Business Risk Management
 (First Half of the Semester)",3,0,0,2,Prerna Wadikar(I),,46,,,"N1,P1
 (7/110)",,,,,,,
@@ -528,8 +526,10 @@ MS 492-IV,Special Topics in Management: Business Ethics and Responsible Leadersh
 MS 492-V,"Special Topics in Management: Essentials of Finance and Trade Laws
 (Second Hallf of Semester)",3,0,0,2,Savan Godiawala(I),,53,,,"K1,K2
 (11/102)",,,,,,,
+MS 492-VII,Special Topics in Management: International Marketing,3,0,0,2,Monika Kothari(I),,51,,,"D1,D2
+(7/208)",,,,,,,
 HS 491-VIII,Special Topics in HSS: Challenges in the Digital Society,3,0,0,4,Nuno Guimaraes(I),,60,,,"M1,M2
-(11/101)",,,,,,,
+(11/101)",,,Course plan (updated nov 4th),,,,
 CG 507,"Evolutionary Neuropsychology
 (Quad 1)",3,0,0,2,Frederick Coolidge(I),,19,,,"M1,M2
 (7/202)",,,,,,,
@@ -568,13 +568,16 @@ Additional Courses: Cognitive Science,,,,,,,,,,,,,,,,,,
 CG 506,Experimental Techniques in Cognitive Science,1.5,0,1.5,4,"Krishna Miyapuram(I),Leslee Lazar(L)",,24,,,"E1
 (7/104)",,"K2
 (7/108)",,,,,
+CG 507,"Evolutionary Neuropsychology
+(Quad 1)",3,0,0,2,Frederick Coolidge(I),,19,,,"M1,M2
+(7/202)",,,,,,,
 CG 517,Introduction to Cognitive Linguistics,3,0,0,4,Jooyoung Kim(I),,76,,,"G1,G2
 (Jayshree S Sheth Learning Theatre)",,,CG517_2026-Spring_Syllabus_Kim,,,,
 CG 601,Motor Learning and Memory,3,0,0,4,Pratik Mutha(I),,40,,,"C1,C2
 (7/201)",,,,,,,
 CG 605,Learning and Memory,3,0,0,4,Leslee Lazar(I),,21,,,"D1,D2
 (7/105)",,,CG-605-LeMe-courseobjective.pdf,,,,
-CG 607,Emotion and Cognition,3,0,1,4,Meera Mary Sunny(I+L),,8,,,"A1,A2
+CG 607,Emotion and Cognition,3,0,1,4,Meera Mary Sunny(I+L),,8,,,"L1,L2
 (7/106)",,"K1
 (7/202)",,,,,
 CG 614,Human Brain Mapping,3,0,0,4,Vaibhav Tripathi(I),,40,,,"F1,F2
@@ -601,7 +604,7 @@ CS 617,Computational Complexity Theory,3,0,0,4,Balagopal Komarath(I),,13,,,"J1,J
 ES 667,Deep Learning,3,0,0,4,Anirban Dasgupta(I),,87,,,"L1,L2
 (7/208)",,,https://sites.google.com/iitgn.ac.in/es667/home,,,,
 ES 670,"Matrix Methods for Signal Processing, Data Science,
-and Machine Learning",3,0,0,4,Shanmuganathan Raman(I),,35,,,"E1,E2
+and Machine Learning",3,0,0,4,Shanmuganathan Raman(I),,35,,,"C1,C2
 (Harsha Patel Learning Theatre)",,,Course Plan,,,,
 CS 333,Ethics of AI,3,0,0,4,Manisha Padala(I),,40,,,"K1,K2
 (7/101)",,,,,,,
@@ -661,7 +664,7 @@ ES 676,Classical Information Theory,3,0,0,4,Aditya Nema(I),,40,,,"I1,I2
 (7/204)",,,https://docs.google.com/document/d/1FxsGBHwkvkS-1bd4UMkBl1hcm6oV0x2e2TxFnN9dG6E/edit?usp=sharing,,,,
 ,,,,,,,,,,,,,,,,,,
 Additional Courses: Earth Sciences,,,,,,,,,,,,,,,,,,
-EH 304,"Drone Data Acquisition, Processing and Interpretation",1,0,2,2,Pankaj Khanna(I+L),40,27,,,"D1
+EH 304,"Drone Data Acquisition, Processing and Interpretation",1,0,2,2,Pankaj Khanna(I+L),,27,,,"D1
 (7/104)",,"J2,M2
 (10/105)",,,,,
 EH 601 (N),Earth Surface Processes in The Anthropocene,3,0,1.5,4,Vikrant Jain(I+L),,40,,,"B1,B2
@@ -673,7 +676,7 @@ EH 608,Biodiversity Conservation and Sustainable Development,3,0,0,4,C. N. Pande
 (7/107)",,,course plan,,,,
 EH 610,Engineering Seismology and Seismic Hazard Analysis,3,0,0,4,Utsav Mannu(I),,29,,,"F1,F2
 (7/210)",,,Course Plan & Introduction,,,,
-EH 612,Ocean and Global Change,3,0,0,4,Pankaj Khanna(I),100,78,,,"E1,E2
+EH 612,Ocean and Global Change,3,0,0,4,Pankaj Khanna(I),,78,,,"E1,E2
 (7/208)",,,,,,,
 EH 614,Physics of the Lithosphere,3,0,0,4,Utsav Mannu(I),,40,,,"N1,N2
 (7/210)",,,Course Plan & Introduction,,,,
