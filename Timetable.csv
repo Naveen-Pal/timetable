@@ -358,8 +358,8 @@ MA 500-I,AI and Mathematics,3,0,0,4,"Aditya Nema(I),Madhu Gupta(I)",,,,,"K1,K2
 MA 502,Complex Analysis,3,1.5,0,4,Sanjay Amrutiya(I+T),,48,,,"G1,G2
 (7/109)","A1
 (7/203)",,,,,,
-MA 507,Ordinary Differential Equations,3,1.5,0,4,Tanya Srivastava(I+T),,49,,,"A2,B2
-(7/108)","B1
+MA 507,Ordinary Differential Equations,3,1.5,0,4,Tanya Srivastava(I+T),,49,,,"N1,N2
+(7/109)","B1
 (7/108)",,,,,,
 MA 606,Differential Topology,3,0,0,4,Arnab Saha(I),,15,,,"I1,I2
 (7/203)",,,Course Plan,,,,
@@ -381,7 +381,7 @@ MA 634,Algebraic Number theory,3,0,0,4,Akshaa Vatwani(I),,40,,,"J1,J2
 MA 638,Matrix Lie Groups,3,0,0,4,Bipul Saurabh(I),,40,,,"P1,P2
 (7/205)",,,Course Plan,,,,
 MA 639,Matrix Analysis,3,0,0,4,Projesh Nath Choudhury(I),,40,,,"M1,M2
-(7/205)",,,,,,,
+(7/205)",,,Course Plan,,,,
 MA 691-IV,Elliptic cruves and surfaces,3,0,0,4,Tanya Srivastava(I),,40,,,"E1,E2
 (7/102)",,,,,,,
 MA 691-V,Commutative Algebra - II,3,1.5,0,4,Jugal K Verma(I+T),,7,,,"E1,E2
@@ -410,7 +410,7 @@ PH 513,Electronic Devices & Digital Systems for Physicists,3,0,0,4,Krista Khaing
 PH 607,Topics in Quantum and Statistical Mechanics,3,0,0,4,Ravinder Puri(I),,2,,,"P1,H1
 (7/206)",,,,,,,
 PH 608,Tools of Theoretical Physics ,3,0,0,4,Vinod Chandra(I),,9,,,"E1,E2
-(7/106)",,,,,,,
+(7/106)",,,Course Plan,,,,
 PH 612,Quantum Field Theory-II,3,0,0,4,Baradhwaj Coleppa(I),,8,,,"F1,F2
 (5/202)",,,,,,,
 PH 615,Physics of two-dimensional materials,3,0,0,4,Gopinadhan Kalon(I),,16,,,"M1,M2
@@ -562,7 +562,7 @@ BE 691-I,Special Topics in Biological Engineering: Analysis and Characterization
 BE 692,Special Topics in Biological Engineering: Animal Cell Culture Techniques,0,0,3,2,Sharmistha Majumdar(L),,17,,,,,"K1,H1
 (BE Lab)",Course plan_Cell Culture Techniques,,,,
 BE 617,Novel Drug Delivery Technologies: Fundamental Principles and Engineering,3,0,0,4,Mukesh Dhanka(I),,18,,,"G1,G2
-(13/124)",,,,,,,
+(13/124)",,,https://docs.google.com/document/d/1Qz6f32LrClH885lzn2WL99JGRLZxbJxz/edit?usp=sharing&ouid=107984983868149659120&rtpof=true&sd=true,,,,
 ,,,,,,,,,,,,,,,,,,
 Additional Courses: Cognitive Science,,,,,,,,,,,,,,,,,,
 CG 506,Experimental Techniques in Cognitive Science,1.5,0,1.5,4,"Krishna Miyapuram(I),Leslee Lazar(L)",,24,,,"E1
