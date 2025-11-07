@@ -64,8 +64,9 @@ CL 202,Chemical Engineering Thermodynamics,2,1,0,3,Pratyush Dayal(I+T),,50,,,"G1
 CS 203,Software Tools & Techniques for AI,1.5,0,3,4,Nipun Batra(I+L),,77,,,"E1
 (7/209)",,"I1,K1
 (10/203)",https://nipunbatra.github.io/stt-ai-26/,,,,
-CL 203,Process Fluid Mechanics,2,1,0,3,Abinaya Sampath(I+T),,48,,,"H1,H2
-(7/202)",,,https://docs.google.com/document/d/1lngPtqKc7WLuOgt87r9tLKa4dM1F_Ww_/edit?usp=sharing&ouid=113466085440647644318&rtpof=true&sd=true,,,,
+CL 203,Process Fluid Mechanics,2,1,0,3,Abinaya Sampath(I+T),,48,,,"E1,E2
+(Harsha Patel Learning Theatre)","H2
+(Harsha Patel Learning Theatre)",,https://docs.google.com/document/d/1lngPtqKc7WLuOgt87r9tLKa4dM1F_Ww_/edit?usp=sharing&ouid=113466085440647644318&rtpof=true&sd=true,,,,
 CL 204,Heat Transfer,2,1,0,3,Biswajit Saha(I+T),,54,,,"D1,D2
 (10/102)",,,https://iitgnacin-my.sharepoint.com/:w:/g/personal/bsaha_iitgn_ac_in/ETqmTskUkhFPsZqaGIwthu8BvSt934a40Dq4C8f6bfIXUw?e=aaEWVO,,,,
 MA 203,Numerical Methods (second half),3,1.5,0,2,Abhinav Jha(I+T),,352,,,"F1,F2
@@ -81,8 +82,8 @@ ME 209,Principles of Manufacturing Processes,2,0,1.5,3,Rakesh Singhai(I+L),,73,,
 (7/209)","A2
 (7/209)",,,,,,
 ES 211,Thermodynamics,2,1,0,3,"Atul Bhargav(I),Abinaya Sampath(T)",,121,,,"D1,D2
-(Jagdish Patel Learning Theatre)",,"H1
-(Jayshree S Sheth Learning Theatre,7/106,7/107)",,,,,
+(Jagdish Patel Learning Theatre)","H1
+(Jayshree S Sheth Learning Theatre,7/106,7/107)",,,,,,
 ES 221,Mechanics of Solids,3,1.5,0,4,"Harmeet Singh(I+T),Harini Subramanian(T)",,82,,,"C1,C2
 (7/208)","B1
 (7/102,7/107)",,Course plan,,,,
@@ -100,7 +101,7 @@ EE 227,CMOS Circuit Design,2,1,1.5,4,Joycee Mekie(I+T+L),,70,,,"L1,L2
 (7/108)","H1,H2
 (7/108)","F2,M2
 (7/109)",Course Plan,,,,
-CE 202,Sustainability and Environment,1,0,3,3,TBD5(I+L),,32,,,"D1
+CE 202,Sustainability and Environment,1,0,3,3,Abhishek Singhal(I+L),,32,,,"D1
 (7/110)",,"I1,K1
 (7/110)",,,,,
 ME 207,Fluid Dynamics,3,1.5,1.5,5,"Shubhangi Bansude(I+T),Dilip Sundaram(L)",,70,,,"D1,D2
@@ -186,7 +187,7 @@ CE 311,Design of Reinforced Concrete Structures,3,1,1.5,5,"Gaurav Srivastava(I+T
 (7/103)","L2
 (7/206,7/102)","N2
 (CE Lab)",,,,,
-CE 314,Geotechnical Engineering,1.5,1.5,3,4,Ajanta Sachan(I+T+L),,28,,,"F1,F2
+CE 314,Geotechnical Engineering,1.5,1.5,3,4,"SR Gandhi(I+T),Ajanta Sachan(L)",,28,,,"F1,F2
 (7/206)",,"K1,H1
 (CE Lab)",,,,,
 HS XXX,HSS Elective,,,,,,,,,,,,,,,,,
@@ -259,13 +260,15 @@ PE 600,Physical Education (For 2022 M Tech and PhD students),0,0,0,0,,,,,,,,,,,,
 Additional Courses: Civil Engineering,,,,,,,,,,,,,,,,,,
 ES 404,Networks and Complex Systems ,3,0,0,4,Udit Bhatia(I),,63,,,"G1,G2
 (7/207,7/110)",,,https://iitgnacin-my.sharepoint.com/:b:/g/personal/bhatia_u_iitgn_ac_in/EUrW8nO53pNDrvxmcbeetJ8BR5mghlr916agoUlIr7rHkw?e=hWVf69,,,,
-ES 622,Finite Element Methods,3,0,0,4,Gaurav Srivastava(I),,42,,,"F1,F2
+ES 622,Finite Element Methods,3,0,0,4,Sourabh Mhaski(I),,42,,,"F1,F2
 (7/202)",,,,,,,
 CE 602,Analysis and Design of Foundation Systems,3,0,3,5,"Amit Prashant(I),Ajanta Sachan(L)",,10,,,"M1,M2
 (13/124)",,"J1,L1
 (CE Lab)",,,,,
 CE 605,Remote Sensing of Land and Water Resources,3,0,0,4,Vimal Mishra(I),,22,,,"M1,M2
 (7/101)",,,,,,,
+CE 615,Structural Design for Fire,3,0,0,4,Gaurav Srivastava(I),,40,,,"M1,M2
+(7/107)",,,,,,,
 CE 628,Applied Hydraulic Transients,3,0,0,4,Pranab Mohapatra(I),,8,,,"J1,J2
 (13/124)",,,,,,,
 CE 629,Geosynthetics,3,0,0,4,GV Rao(I),,11,,,"L1,L2
@@ -284,18 +287,18 @@ CE 691-VII,Special Topics: Drinking Water Treatment : Engineering Practices,3,0,
 Additional Courses: Chemical Engineering,,,,,,,,,,,,,,,,,,
 ES 418,Financial Modeling and Engineering,3,0,0,4,Mithun Radhakrishna(I),,40,,,"I2,J2
 (11/102)",,,COURSE PLAN,,,,
-CL 605,Colloidal Domain: Where Science Meets Engineering,3,0,0,4,Prachi Thareja(I),,42,,,"C1,E2
+CL 605,Colloidal Domain: Where Science Meets Engineering,3,0,0,4,Prachi Thareja(I),,42,,,"C1,C2
 (7/202)",,,,,,,
 CL 353,Introduction to Process Safety,1.5,0,0,2,Chinmay Ghoroi(I),,40,,,"A2
-(7/210)",,,,,,,
+(7/210)",,,Course Plan,,,,
 ES 617,Design of Experiments,3,0,0,4,Nitin Padhiyar(I),,46,,,"N1,N2
 (10/102)",,,https://docs.google.com/spreadsheets/d/1py7LJBi2ghk4EJ3Kn7pMghqhuj2xfbJ1/edit?usp=drive_link&ouid=102766002145341627442&rtpof=true&sd=true,,,,
 CL 627,Particulate Solids: Processing & Surface Engineering,3,0,0,4,Chinmay Ghoroi(I),,40,,,"N1,N2
 (7/201)",,,https://drive.google.com/file/d/15lLvSp17CI0Vo1RvrEpFesKSxto1ZHK6/view?usp=sharing,,,,
 CL 629,Fundamentals of Aerosol Science,3,0,0,4,Sameer Patel(I),,5,,,"I1,K2
 (11/101)",,,https://docs.google.com/document/d/1rp1pRuIuofQY-KT0N2el4pRaWVbtZ9g7q9eTsnuD2JM/edit?usp=sharing,,,,
-CL 628,Liquid State Theory,3,1,0,4,Kaustubh Rane(I+T),,40,,,"E1,E2
-(7/210)","K1
+CL 628,Liquid State Theory,3,1,0,4,Kaustubh Rane(I+T),,40,,,"E1,D2
+(11/102)","K1
 (7/207)",,https://docs.google.com/document/d/1D-nbRBkZ1Ku_mTtZyw6VG5YgTjSUawJV/edit?usp=sharing&ouid=109039315658880778830&rtpof=true&sd=true,,,,
 CL 630,Catalyst Design for Heterogeneous Reactions,3,0,0,4,Abinaya Sampath(I),,17,,,"K1,L1
 (7/201)",,,Course Plan,,,,
@@ -488,7 +491,7 @@ HS 491-III,Strorytelling for the Digital Era,3,0,0,4,Arnapurna Rath(I),,40,,,"P1
 HS 491-IX,Special Topics in HSS: Understanding and Designing Comics and Graphic Novels,3,0,0,4,Argha Manna(I),,40,,,"I1,J2
 (7/201)",,,https://drive.google.com/file/d/1c3XE1qni5TZQtuGVTqdbNWSO9HFVQ7FI/view,,,,
 HS 491-XIII,Drawing Conncetions: Enviranmental Perception and Visula Anthropology,3,0,0,4,Suman Choudhury(I),,53,,,"M1,M2
-(10/102)",,,,,,,
+(10/102)",,,https://drive.google.com/file/d/1rOupO6miysPigc2_R7qC5kkHtWlxdJzX/view?usp=sharing,,,,
 HS 656,Ethanoarchaeology ,3,0,0,4,Alok Kumar Kanungo(I),,40,,,"N1,N2
 (7/203)",,,https://drive.google.com/file/d/14FMPdm6zaVoIz0GsKlr6YPvqYMtsXrqo/view?usp=drive_link,,,,
 HS 527,Environmental Economics and Natural Resource Management,3,0,0,4,Praharsh Patel(I),,40,,,"M1,M2
@@ -514,7 +517,7 @@ MS 491-XIV,Special Topics in Management: Consumer Behaviour,3,0,0,4,Marcos Sever
 (7/203)",,,,,,,
 MS 491-XV,"Special Topics in Management: Medical Products Manufacturing Quality and Regulatory 
 (First Half of the Semester) ",3,0,0,3,Premalatha Chelvakumar(I),,30,,,"J1,J2
-(7/207)",,,,,,,
+(7/207)",,,https://docs.google.com/document/d/1eO7LnAkkamOzcVfQVt2ST3laZ91UNrp12T8WnIOPugk/edit?usp=sharing,,,,
 MS 492-I,"Special Topics in Management: Strategic Leadership
 (First Half of the Semster)",3,0,0,2,Rajeev Sharma(I),,45,,,"P1,P2
 (7/102)",,,Course Plan,,,,
@@ -548,7 +551,7 @@ BE 603,Biophysical Techniques,3,0,1,4,Vijay Thiruvenkatam(I+L),,11,,,"A1,A2
 (11/206)",,"I1
 (BE Lab)",,,,,
 BE 608,Molecular Basis of Neurodegenerative Diseases,3,0,0,4,Sharad Gupta(I),,20,,,"C1,C2
-(13/124)",,,,,,,
+(13/124)",,,Course Plan BE608,,,,
 BE 610,Molecular Oncology,3,0,0,4,Umashankar Singh(I),,13,,,"D1,D2
 (13/124)",,,Course plan: BE610,,,,
 BE 615,Bioinformatics and Computational Biology,1.5,0,3,4,Ashutosh Srivastava(I+L),,40,,,"A1
@@ -558,7 +561,7 @@ BE 619,Cellular Communication,3,0,0,4,Sharmistha Majumdar(I),,32,,,"F1,F2
 (7/105)",,,BE 619 Cellular Communication,,,,
 BE 691-I,Special Topics in Biological Engineering: Analysis and Characterization of Biologicals,1.5,0,3,4,Dhiraj Bhatia(I+L),,40,,,"A2
 (7/201)",,"J2,M2
-(BE Lab)",,,,,
+(BE Lab)",BE 691 Course Plan ,,,,
 BE 692,Special Topics in Biological Engineering: Animal Cell Culture Techniques,0,0,3,2,Sharmistha Majumdar(L),,17,,,,,"K1,H1
 (BE Lab)",Course plan_Cell Culture Techniques,,,,
 BE 617,Novel Drug Delivery Technologies: Fundamental Principles and Engineering,3,0,0,4,Mukesh Dhanka(I),,18,,,"G1,G2
