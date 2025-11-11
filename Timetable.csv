@@ -5,7 +5,7 @@ GE 101,General Education I,3,0,0,2,"Snehal Kashikar(I),Paridhi Bhandari(I),Suman
 MA 104 (E),Ordinary Differential Equations (first half),3,1.5,0,2,Sudeshna Roy(I+T),,284,,,"E1,E2
 (Jasubhai Auditorium)","H2
 (7/101,7/210,7/103,7/104,7/105,7/201,7/204)",,Course Plan,,,,
-MA 104 (H),Ordinary Differential Equations (second half),3,1.5,0,2,Mamta Balodi(I+T),,100,,,"E1,E2
+MA 104 (H),Ordinary Differential Equations (first half),3,1.5,0,2,Mamta Balodi(I+T),,100,,,"E1,E2
 (Jagdish Patel Learning Theatre)","H2
 (7/205,7/206,7/207)",,,,,,
 ES 113 (E),Data-Centric Computing,1.5,0,1.5,3,Anup Kalbalia(I+L),,286,,,"D1
@@ -129,9 +129,9 @@ MSE 205,Mechanical Behavior of Materials,3,0,1.5,4,Abhay Gautam(I+L),,30,,,"D1,D
 (MSE Lab)",,,,,
 MSE 206,Physics of Materials,3,0,0,4,Gopinadhan Kalon(I),,25,,,"C1,C2
 (7/103)",,,,,,,
-MSE 207,Structure of Materials,3,1,0,4,Anagh Bhaumik(I+T),,21,,,"P1,P2
-(7/103)","J1
-(7/105)",,,,,,
+MSE 207,Structure of Materials,3,1,0,4,Anagh Bhaumik(I+T),,21,,,"N1,N2
+(Harsha Patel Learning Theatre)","J1
+(Harsha Patel Learning Theatre)",,,,,,
 MSE 210,Microstructural Engineering,3,0,1.5,4,Prafull Pandey(I+L),,26,,,"A1,A2
 (7/105)",,"J2
 (MSE Lab)",,,,,
@@ -276,7 +276,7 @@ CE 629,Geosynthetics,3,0,0,4,GV Rao(I),,11,,,"L1,L2
 CE 632,Advanced Concrete Design,3,0,0,4,Dhiman Basu(I),,14,,,"K1,K2
 (13/124)",,,,,,,
 CE 636,Traffic and Roadway Engineering,3,0,0,4,Sushobhan Sen(I),,16,,,"E1,E2
-(11/206)",,,,,,,
+(11/206)",,,CE 636 2024-25 Sem II Syllabus.docx,,,,
 CE 691-I,Special Topics in Civil Engineering: Design for Dynamic Loads,3,0,0,4,Manish Kumar(I),,5,,,"P1,P2
 (13/124)",,,Course Plan,,,,
 CE 691-V,Special Topics in Civil Engineering: Geotechnical Infrastructure Projects,3,0,0,4,SR Gandhi(I),,10,,,"I1,I2
@@ -549,7 +549,7 @@ BE 407,Introduction to Cell Biology,3,0,0,4,Subramanian Sankaranarayanan(I),,40,
 (7/207)",,,Course Plan  BE407_2026.docx,,,,
 BE 603,Biophysical Techniques,3,0,1,4,Vijay Thiruvenkatam(I+L),,11,,,"A1,A2
 (11/206)",,"I1
-(BE Lab)",,,,,
+(BE Lab)",Course Plan_BE 6XX,,,,
 BE 608,Molecular Basis of Neurodegenerative Diseases,3,0,0,4,Sharad Gupta(I),,20,,,"C1,C2
 (13/124)",,,Course Plan BE608,,,,
 BE 610,Molecular Oncology,3,0,0,4,Umashankar Singh(I),,13,,,"D1,D2
@@ -614,7 +614,7 @@ CS 333,Ethics of AI,3,0,0,4,Manisha Padala(I),,40,,,"K1,K2
 CS 431,Computer and Network Security,3,0,0,4,Abhishek Bichawat(I),,70,,,"H1,H2
 (7/109)",,,https://sites.google.com/iitgn.ac.in/cs431/home,,,,
 CS 432,Databases,3,0,0,4,Yogesh Meena(I),,69,,,"P1,P2
-(7/208)",,,Course Plan,,,,
+(10/103)",,,Course Plan,,,,
 ,,,,,,,,,,,,,,,,,,
 Additional Courses: Electrical Engineering,,,,,,,,,,,,,,,,,,
 ES 333,Microprocessors and Embedded Systems,1.5,1,3,4,Jhuma Saha(I+T+L),,50,,,"G1,G2
@@ -739,4 +739,4 @@ MSE 621,Process Plant Design – How to Set Up a Process Industry,3,0,0,4,Surya 
 ES 623 (N),Biomolecular Materials Science,3,0,0,4,Abhijit Mishra(I),,,,,"G1,G2
 (7/106)",,,,,,,
 MSE 634,Semiconductor Materials and Fabrication Process,3,0,0,4,Anagh Bhaumik(I),,24,,,"C1,C2
-(7/106)",,,,,,,
+(7/106)",,,Course Plan_MSE 634-Spring 2026.pdf,,,,
