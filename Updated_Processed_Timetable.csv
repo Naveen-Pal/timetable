@@ -97,24 +97,24 @@ Pharmaceutical Crystallization,CL 631,"I1,J2",,,4.0,11/206,,
 Molecular Simulations – Theory and Applications,ES 658,"N1,N2",P1,,4.0,7/108,7/108,
 Fundamentals and Applications of Spectroscopy,CH 203,"K1,K2",,,4.0,,,
 Fundamentals of Analytical Chemistry,CH 503,"M1,M2",,,4.0,7/201,,
-Reactions and Mechanisms in Organic Chemistry,CH 512,"E1,E2",,,4.0,7/109,,
-Inorganic Chemistry Laboratory,CH 522,"I1,K1",,"D2,F2",2.0,CH Lab,,CH Lab
+Reactions and Mechanisms in Organic Chemistry,CH 512,"F1,F2",,,4.0,7/108,,
+Inorganic Chemistry Laboratory,CH 522,"I1,K1",,,2.0,CH Lab,,
 Organic Chemistry Laboratory,CH 523,,,"M1,M2",2.0,,,CH Lab
 Analytical and Computational Chemistry Laboratory,CH 524,,,"I2,M1",2.0,,,10/104
-Physical Chemistry Laboratory,CH 525,,,"E2,G2",2.0,,,CH Lab
+Physical Chemistry Laboratory,CH 525,,,"E2,H1",2.0,,,CH Lab
 Group theory and spectroscopy,CH 526,"B1,B2",,,4.0,7/110,,
-Organometallic Chemistry,CH 527,"M1,M2",,,4.0,7/210,,
+Organometallic Chemistry,CH 527,"E1,E2",,,4.0,7/210,,
 Chemical biology in space (Special topics course),CH 592-I,"D1,D2",,,4.0,"11/204,11/205",,
-Chemistry of Natural Products,CH 602,"G1,G2",,,4.0,11/205,,
+Chemistry of Natural Products,CH 602,"H1,J2",,,4.0,11/204,,
 Electrochemistry,CH 615,"G1,G2",,,4.0,7/205,,
 Fluorescence Spectroscopy for Chemists and Biologists,CH 628,"P1,P2",,,4.0,7/105,,
 Medicinal Chemistry for Life,CH 629,"E1,E2",,,4.0,13/125,,
 Catalytic Chemistry,CH 630,"C1,C2",,,4.0,11/204,,
-Solid State Chemistry and Applications,CH 632,"G1,G2",,,4.0,11/101,,
+Solid State Chemistry and Applications,CH 632,"D1,D2",,,4.0,Harsha Patel Learning Theatre,,
 Single Molecule Spectroscopy,CH 633,J1,,"L1,L2",4.0,7/101,,CH Lab
-Introduction to Molecular Dynamics,CH 634,L1,,"P1,P2",4.0,7/210,,CH Lab
+Introduction to Molecular Dynamics,CH 634,L1,,"N1,N2",4.0,7/210,,CH Lab
 Electronic Structure Theory,CH 638,"P1,P2",,,4.0,7/201,,
-Advanced Main Group Chemistry ,CH 639,"I1,I2",,,4.0,13/125,,
+Advanced Main Group Chemistry ,CH 639,"A2,I2",,,4.0,13/125,,
 Non-linear Spectroscopy and its Applications,CH 642,"I1,I2",,,4.0,7/103,,
 AI and Mathematics,MA 500-I,"K1,K2",,,4.0,7/205,,
 Complex Analysis,MA 502,"G1,G2",A1,,4.0,7/109,7/203,
