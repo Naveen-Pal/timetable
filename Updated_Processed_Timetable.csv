@@ -37,7 +37,7 @@ Sustainability and Environment,CE 202,D1,,"I1,K1",3.0,7/110,,7/110
 Fluid Dynamics,ME 207,"D1,D2",A1,I1,5.0,7/108,"7/201,7/204",11/102
 Vibrations,ME 208,"K1,K2",J2,,2.0,7/209,7/209,
 Mechanics of Materials,ME 333,"L1,L2",,I1,3.0,7/109,,ME Lab
-Structural Analysis,CE 302,"C1,C2",B1,,4.0,"7/101,7/210","7/101,7/210",
+Structural Analysis,CE 302,"E1,E2",C1,,4.0,7/101,7/101,
 Mathematical Foundations for AI,CS 303,"G1,G2",K2,,4.0,Harsha Patel Learning Theatre,,
 Introduction to Computational Materials Engineering,MSE 203,"G1,G2",I2,I1,4.0,7/210,7/202,7/202
 Mechanical Behavior of Materials,MSE 205,"D1,D2",,K1,4.0,7/210,,MSE Lab
@@ -201,7 +201,7 @@ Special Topics in HSS: Challenges in the Digital Society,HS 491-VIII,"M1,M2",,,4
 (First Half of the Semester)",HS 392,"N1,N2",,,2.0,7/205,,
 Introduction to Biomedical Engineering,BE 304,"P1,P2",,,4.0,7/109,,
 Biomolecular Forensics,BE 402,"N1,N2",,,2.0,11/101,,
-Introduction to Cell Biology,BE 407,"L1,L2",,,4.0,7/207,,
+Introduction to Cell Biology,BE 407,"L1,L2",,,4.0,,,
 Biophysical Techniques,BE 603,"A1,A2",,I1,4.0,11/206,,BE Lab
 Molecular Basis of Neurodegenerative Diseases,BE 608,"C1,C2",,,4.0,13/124,,
 Molecular Oncology,BE 610,"D1,D2",,,4.0,13/124,,
