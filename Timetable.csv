@@ -185,7 +185,7 @@ CE 313,Environmental Science and Engineering,3,0,0,4,Sameer Patel(I),,36,,,"D1,D
 CE 311,Design of Reinforced Concrete Structures,3,1,1.5,5,"Gaurav Srivastava(I+T),Siva Chopeperla(T+L)",,28,,,"G1,G2
 (7/103)","L2
 (7/206,7/102)","N2
-(CE Lab)",,,,,
+(CE Lab)",https://gauravs.people.iitgn.ac.in/309.2_CE311_Spring2026.html,,,,
 CE 314,Geotechnical Engineering,1.5,1.5,3,4,"SR Gandhi(I+T),Ajanta Sachan(L)",,28,,,"F1,F2
 (7/206)",,"K1,H1
 (CE Lab)",CE 314 Course Plan R.pdf,,,,
@@ -267,7 +267,7 @@ CE 602,Analysis and Design of Foundation Systems,3,0,3,5,"Amit Prashant(I),Ajant
 CE 605,Remote Sensing of Land and Water Resources,3,0,0,4,Vimal Mishra(I),,22,,,"M1,M2
 (7/101)",,,,,,,
 CE 615,Structural Design for Fire,3,0,0,4,Gaurav Srivastava(I),,40,,,"M1,M2
-(7/107)",,,,,,,
+(7/107)",,,https://gauravs.people.iitgn.ac.in/308.6_CE615_Spring2026.html,,,,
 CE 628,Applied Hydraulic Transients,3,0,0,4,Pranab Mohapatra(I),,8,,,"J1,J2
 (13/124)",,,,,,,
 CE 629,Geosynthetics,3,0,0,4,GV Rao(I),,11,,,"L1,L2
@@ -716,8 +716,8 @@ ME 628,Advanced Fluid Mechanics,3,1,0,4,Vinod Narayanan(I+T),,6,,,"G1,G2
 ES 632,Energy Systems,3,0,0,4,Atul Bhargav(I),,4,,,"F1,F2
 (13/124)",,,,,,,
 ME 691-XIV,Special Topics in Mechanical Engineering: Mathematical Tools for Mechanical Engineers,3,1,0,4,Uddipta Ghosh(I+T),,40,,,"L1,L2
-(13/125,11/204)","H1
-(7/101)",,,,,,
+(7/207)","H1
+(7/207)",,,,,,
 ME 691-XV,Special Topics in Mechanical Engineering: Advanced Nonlinear Dynamics,3,0,0,4,Jayaprakash K. R.(I),,40,,,"I1,I2
 (7/102)",,,,,,,
 ME 643,Aircraft and Rocket Propulsion,3,0,0,4,Dilip Sundaram(I+L),,40,,,"M1,M2
