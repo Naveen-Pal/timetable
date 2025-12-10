@@ -128,7 +128,7 @@ CE 302,Structural Analysis,3,1,0,4,"Manish Kumar(I+T),S Chandrasekaran(I+T)",,41
 CS 303,Mathematical Foundations for AI,3,1,0,4,Nirmal Sancheti(I+T),,73,,,"G1,G2
 (Harsha Patel Learning Theatre)","K2
 (Surendra C Sheth Learning Theatre)",,https://docs.google.com/document/d/1rNT6ZndD3x31b6LkcT9GrE2A_lekNPCgPM--6iR6xu0/edit?tab=t.0,,,,
-MSE 203,Introduction to Computational Materials Engineering,2,1,1.5,4,Raghavan Ranganathan(I+T+L),,25,,,"G1,G2
+MSE 315,Introduction to Computational Materials Engineering,2,1,1.5,4,Raghavan Ranganathan(I+T+L),,25,,,"G1,G2
 (7/210)","I2
 (7/202)","I1
 (7/202)",,,,,
@@ -268,17 +268,17 @@ PE 600,Physical Education (For 2022 M Tech and PhD students),0,0,0,0,,,,,,,,,,,,
 Additional Courses: Civil Engineering,,,,,,,,,,,,,,,,,,
 ES 404,Networks and Complex Systems ,3,0,0,4,Udit Bhatia(I),,63,,,"G1,G2
 (7/207,7/110)",,,https://iitgnacin-my.sharepoint.com/:b:/g/personal/bhatia_u_iitgn_ac_in/EUrW8nO53pNDrvxmcbeetJ8BR5mghlr916agoUlIr7rHkw?e=hWVf69,,,,
-ES 622,Finite Element Methods,3,0,0,4,Sourabh Mhaski(I),,42,,,"F1,F2
+ES 622,Finite Element Methods,3,0,0,4,Gaurav Srivastava(I),,42,,,"F1,F2
 (7/202)",,,,,,,
 CE 602,Analysis and Design of Foundation Systems,3,0,3,5,"Amit Prashant(I),Ajanta Sachan(L)",,10,,,"M1,M2
 (13/124)",,"J1,L1
 (CE Lab)",,,,,
 CE 605,Remote Sensing of Land and Water Resources,3,0,0,4,Vimal Mishra(I),,22,,,"M1,M2
 (7/101)",,,,,,,
-CE 615,Structural Design for Fire,3,0,0,4,Gaurav Srivastava(I),,40,,,"M1,M2
+CE 615,Structural Design for Fire,3,0,0,4,"Gaurav Srivastava(I),S Chandrasekaran(I)",,40,,,"M1,M2
 (7/107)",,,https://gauravs.people.iitgn.ac.in/308.6_CE615_Spring2026.html,,,,
 CE 628,Applied Hydraulic Transients,3,0,0,4,Pranab Mohapatra(I),,8,,,"J1,J2
-(13/124)",,,,,,,
+(13/124)",,,Teaching Plan,,,,
 CE 629,Geosynthetics,3,0,0,4,GV Rao(I),,11,,,"L1,L2
 (13/124)",,,,,,,
 CE 632,Advanced Concrete Design,3,0,0,4,Dhiman Basu(I),,14,,,"K1,K2
@@ -366,7 +366,8 @@ CH 642,Non-linear Spectroscopy and its Applications,3,0,0,4,Partha Pratim Roy(I)
 ,,,,,,,,,,,,,,,,,,
 Additional Courses: Mathematics,,,,,,,,,,,,,,,,,,
 MA 513,AI and Mathematics,3,1.5,0,4,"Aditya Nema(I),Madhu Gupta(I)",,40,,,"K1,K2
-(7/205)",,,,,,,
+(7/205)","B1
+(7/205)",,,,,,
 MA 502,Complex Analysis,3,1.5,0,4,Sanjay Amrutiya(I+T),,48,,,"G1,G2
 (7/109)","A1
 (7/203)",,,,,,
@@ -398,7 +399,7 @@ MA 645,Commutative Algebra II,3,1.5,0,4,Jugal K Verma(I+T),,40,,,"M1,M2
 MA 646,Modular Forms,3,0,0,4,Atul Dixit(I),,40,,,"C1,C2
 (10/102)",,,,,,,
 MA 691-IV,Elliptic cruves and surfaces,3,0,0,4,Tanya Srivastava(I),,40,,,"A1,A2
-(7/108)",,,,,,,
+(7/108)",,,Course Plan,,,,
 MA 691-V,Commutative Algebra - II,3,1.5,0,4,Jugal K Verma(I+T),,7,,,"E1,E2
 (7/105)","K2
 (7/203)",,course plan,,,,
@@ -436,7 +437,7 @@ PH 644,Tools of Experimental Physics ,3,0,0,4,Rupak Banerjee(I),,26,,,"F1,F2
 (7/110)",,,Course Plan,,,,
 PH 649,Advanced General Relativity,3,0,0,4,Sudipta Sarkar(I),,40,,,"A1,A2
 (7/205)",,,Course Plan,,,,
-PH 691-V,Special Topics in Physics: Effective Field Theory,3,0,0,4,Pinaki Banerjee(I),,40,,,"M1,M2
+PH 691-V,Special Topics in Physics: Effective Field Theory,3,0,0,4,Pinaki Banerjee(I),,40,,,"I1,K2
 (7/206)",,,Course plan,,,,
 ,,,,,,,,,,,,,,,,,,
 "Additional Courses HSS, MS, Design, IN",,,,,,,,,,,,,,,,,,
@@ -525,8 +526,8 @@ MS 306,Principles of Business Management,3,0,0,4,Abhijit Kothari(I),,56,,,"N1,N2
 (7/208)",,,,,,,
 MS 491-VII,Special Topics in Management: Managing Sustainable Businesses,3,0,0,4,Anselm Schneider(I),,51,,,"G1,F2
 (Surendra C Sheth Learning Theatre)",,,,,,,
-MS 491-XIV,Special Topics in Management: Consumer Behaviour,3,0,0,4,Marcos Severos(I),,59,,,"P1,P2
-(7/203)",,,,,,,
+MS 491-XIV,Special Topics in Management: Consumer Behaviour,3,0,0,4,Marcos Severos(I),,59,,,"M1,M2
+(Online)",,,https://drive.google.com/file/d/1n50Zg6vYk11MILEXWnUl2j4kh5zcRhBP/view?usp=sharing,,,,
 MS 491-XV,"Special Topics in Management: Medical Products Manufacturing Quality and Regulatory 
 (First Half of the Semester) ",3,0,0,3,Premalatha Chelvakumar(I),,30,,,"J1,J2
 (7/207)",,,https://docs.google.com/document/d/1dwKidPZvWB5fb6qMjyGGFSZK_i5pB7_n/edit?usp=sharing&ouid=102662624367208393875&rtpof=true&sd=true,,,,
@@ -585,6 +586,12 @@ BE 692,Special Topics in Biological Engineering: Animal Cell Culture Techniques,
 (BE Lab)",Course plan_Cell Culture Techniques,,,,
 BE 617,Novel Drug Delivery Technologies: Fundamental Principles and Engineering,3,0,0,4,Mukesh Dhanka(I),,18,,,"G1,G2
 (13/124)",,,https://docs.google.com/document/d/1Qz6f32LrClH885lzn2WL99JGRLZxbJxz/edit?usp=sharing&ouid=107984983868149659120&rtpof=true&sd=true,,,,
+BE 692-I,Special Topics in Biological Engineering: Nucleic Acids Based Therapeutics (first half),3,0,0,2,Dhiraj Bhatia(I),,40,,,"L1,L2
+(Harsha Patel Learning Theatre)",,,,,,,
+BE 692-II,Special Topics in Biological Engineering: Medical Device Regulations (second half),3,0,0,2,Karla P. Mercado-Shekhar(I),,40,,,"K1,K2
+(7/104)",,,,,,,
+BE 692-III,Special Topics in Biological Engineering: Plant Developmental Biology (first half),3,0,0,2,Subramanian Sankaranarayanan(I),,40,,,"P1,P2
+(7/207)",,,,,,,
 ,,,,,,,,,,,,,,,,,,
 Additional Courses: Cognitive Science,,,,,,,,,,,,,,,,,,
 CG 506,Experimental Techniques in Cognitive Science,1.5,0,1.5,4,"Krishna Miyapuram(I),Leslee Lazar(L)",,24,,,"E1

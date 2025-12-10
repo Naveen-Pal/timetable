@@ -40,7 +40,7 @@ Vibrations,ME 208,"K1,K2",J2,,2.0,7/209,7/209,
 Mechanics of Materials,ME 333,"L1,L2",,I1,3.0,7/109,,ME Lab
 Structural Analysis,CE 302,"E1,E2",C1,,4.0,7/101,7/101,
 Mathematical Foundations for AI,CS 303,"G1,G2",K2,,4.0,Harsha Patel Learning Theatre,,
-Introduction to Computational Materials Engineering,MSE 203,"G1,G2",I2,I1,4.0,7/210,7/202,7/202
+Introduction to Computational Materials Engineering,MSE 315,"G1,G2",I2,I1,4.0,7/210,7/202,7/202
 Mechanical Behavior of Materials,MSE 205,"D1,D2",,K1,4.0,7/210,,MSE Lab
 Physics of Materials,MSE 206,"C1,C2",,,4.0,7/103,,
 Microstructural Engineering,MSE 210,"A1,A2",,J2,4.0,7/105,,MSE Lab
@@ -117,7 +117,7 @@ Introduction to Molecular Dynamics,CH 634,L1,,"N1,N2",4.0,7/210,,CH Lab
 Electronic Structure Theory,CH 638,"P1,P2",,,4.0,7/201,,
 Advanced Main Group Chemistry ,CH 639,"A2,I2",,,4.0,13/125,,
 Non-linear Spectroscopy and its Applications,CH 642,"I1,I2",,,4.0,7/103,,
-AI and Mathematics,MA 513,"K1,K2",,,4.0,7/205,,
+AI and Mathematics,MA 513,"K1,K2",B1,,4.0,7/205,7/205,
 Complex Analysis,MA 502,"G1,G2",A1,,4.0,7/109,7/203,
 Ordinary Differential Equations,MA 507,"E1,E2",B1,,4.0,7/109,7/108,
 Differential Topology,MA 606,"I1,I2",,,4.0,7/203,,
@@ -146,7 +146,7 @@ Physics of two-dimensional materials,PH 615,"M1,M2",,,4.0,7/207,,
 Quantum Optics ,PH 616,"D1,D2",,,4.0,11/206,,
 Tools of Experimental Physics ,PH 644,"F1,F2",,,4.0,7/110,,
 Advanced General Relativity,PH 649,"A1,A2",,,4.0,7/205,,
-Special Topics in Physics: Effective Field Theory,PH 691-V,"M1,M2",,,4.0,7/206,,
+Special Topics in Physics: Effective Field Theory,PH 691-V,"I1,K2",,,4.0,7/206,,
 Writing Course in Chemistry,FP 602 (CH),A1,,"E1,H2",4.0,,,
 Writing Course in Physics,FP 602 (PH),B2,,"L2,N2",4.0,,,
 Urdu script and poetry,HS 111,"D1,D2",H2,,4.0,7/201,7/106,
@@ -185,7 +185,7 @@ Visual Design for Academia,DES 601,L1,,"J2,M2",4.0,7/101,,
 Special Topics in Design: Designing Learning environments for science and engineering,DES 691-II,"L1,L2",,,4.0,11/101,,
 Principles of Business Management,MS 306,"N1,N2",,,4.0,7/208,,
 Special Topics in Management: Managing Sustainable Businesses,MS 491-VII,"G1,F2",,,4.0,,,
-Special Topics in Management: Consumer Behaviour,MS 491-XIV,"P1,P2",,,4.0,7/203,,
+Special Topics in Management: Consumer Behaviour,MS 491-XIV,"M1,M2",,,4.0,Online,,
 "Special Topics in Management: Medical Products Manufacturing Quality and Regulatory 
 (First Half of the Semester) ",MS 491-XV,"J1,J2",,,3.0,7/207,,
 "Special Topics in Management: Strategic Leadership
@@ -215,6 +215,9 @@ Methods in Structural Biology,BE 627,"L1,L2",,H2,4.0,13/125,,BE Lab
 Special Topics in Biological Engineering: Analysis and Characterization of Biologicals,BE 691-I,A2,,"J2,M2",4.0,7/201,,BE Lab
 Special Topics in Biological Engineering: Animal Cell Culture Techniques,BE 692,,,"K1,H1",2.0,,,BE Lab
 Novel Drug Delivery Technologies: Fundamental Principles and Engineering,BE 617,"G1,G2",,,4.0,13/124,,
+Special Topics in Biological Engineering: Nucleic Acids Based Therapeutics (first half),BE 692-I,"L1,L2",,,2.0,Harsha Patel Learning Theatre,,
+Special Topics in Biological Engineering: Medical Device Regulations (second half),BE 692-II,"K1,K2",,,2.0,7/104,,
+Special Topics in Biological Engineering: Plant Developmental Biology (first half),BE 692-III,"P1,P2",,,2.0,7/207,,
 Experimental Techniques in Cognitive Science,CG 506,E1,,K2,4.0,7/104,,7/108
 Introduction to Cognitive Linguistics,CG 517,"G1,G2",,,4.0,,,
 Motor Learning and Memory,CG 601,"C1,C2",,,4.0,7/201,,
