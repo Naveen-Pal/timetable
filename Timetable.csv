@@ -136,7 +136,7 @@ MSE 205,Mechanical Behavior of Materials,3,0,1.5,4,Sriharitha Rowthu(I+L),,30,,,
 (7/210)",,"K1
 (MSE Lab)",,,,,
 MSE 206,Physics of Materials,3,0,0,4,Gopinadhan Kalon(I),,25,,,"C1,C2
-(7/103)",,,,,,,
+(7/103)",,,Course Plan,,,,
 MSE 207,Structure of Materials,3,1,0,4,Anagh Bhaumik(I+T),,21,,,"B1,B2
 (7/210)","I2
 (7/101)",,,,,,
@@ -430,7 +430,7 @@ PH 608,Tools of Theoretical Physics ,3,0,0,4,Vinod Chandra(I),,9,,,"E1,E2
 PH 612,Quantum Field Theory-II,3,0,0,4,Baradhwaj Coleppa(I),,8,,,"F1,F2
 (5/202)",,,,,,,
 PH 615,Physics of two-dimensional materials,3,0,0,4,Gopinadhan Kalon(I),,16,,,"M1,M2
-(7/207)",,,,,,,
+(7/207)",,,Course Plan,,,,
 PH 616,Quantum Optics ,3,0,0,4,Prasanna Venkatesh(I),,11,,,"D1,D2
 (11/206)",,,Course Plan,,,,
 PH 644,Tools of Experimental Physics ,3,0,0,4,Rupak Banerjee(I),,26,,,"F1,F2
@@ -487,7 +487,7 @@ HS 635,India Through the Writer’s Eye,3,0,0,4,Sharmita Lahiri(I),,47,,,"J1,J2
 (7/202)",,,,,,,
 HS 642,Structures and Hydrology in Ancient India,3,0,0,4,Alok Kumar Kanungo(I),,37,,,"M1,M2
 (7/108)",,,https://drive.google.com/file/d/1ITPEeJNY3QzczxHSMQIwDlZZRON8Kg7h/view?usp=drive_link,,,,
-HS 650,Critical Perspectives in Anthropology,3,0,0,4,Nishaant Choksi(I),,44,,,"D1,D2
+HS 650,Critical Perspectives in Anthropology,3,0,0,4,Ambika Aiyadurai(I),,44,,,"D1,D2
 (7/107)",,,,,,,
 HS 651,Critical Perspectives in Sociology,3,0,0,4,Tanka B. Subba(I),,40,,,"A1,A2
 (7/110)",,,https://docs.google.com/document/d/1BSUNY85wlyRwUfdRRdVNpY8t5KVzLokCuBosmyfxdI8/edit?usp=sharing,,,,
@@ -625,11 +625,11 @@ ES 335,Machine Learning (M),3,1.5,0,4,Krishna Miyapuram(I+T),,249,,,"D1,D2
 ES 335,Machine Learning,3,1,0,4,Krishna Miyapuram(I+T),,249,,,"D1,D2
 (10/103)","H1
 (10/103)",,https://docs.google.com/document/d/1TKeFcOgbI8tUN6Zk79sL1hrSk78RSXjhadblV_1LvcE/edit?tab=t.0,,This course has been replaced by ES 678 (Machine Learning (N)) which is PG Core,,
-ES 678,Machine Learning (N),3,1.5,0,4,Krishna Miyapuram(I+T),,50,,,"F1,F2
-(11/101)","E2
-(11/101)",,,,PG Core,,
-CS 614,Advanced Algorithms,3,0,0,4,Neeldhara Misra(I),,19,,,"M1,M2
-(13/125)",,,,,,,
+ES 678,Machine Learning (N),3,1.5,0,4,Krishna Miyapuram(I+T),,50,,,"D1,D2
+(10/103)","H1
+(10/103)",,,,PG Core,,
+CS 614,Advanced Algorithms,3,0,0,4,Neeldhara Misra(I),,19,,,"N1,N2
+(11/206)",,,,,,,
 CS 616,"Distributed Systems and
 Cloud Computing",3,0,1.5,5,Abhishek Bichawat(I+L),,16,,,"M1,M2
 (11/206)",,"I1
