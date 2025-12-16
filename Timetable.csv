@@ -32,18 +32,18 @@ ES 117 (E),The World of Engineering,0,0,3,2,"Udit Bhatia(L),Himanshu Shekhar(L)"
 ES 117 (H),The World of Engineering,0,0,3,2,"Udit Bhatia(L),Himanshu Shekhar(L)",,100,,,,,"K1,H1
 (Harsha Patel Learning Theatre)",,,,,
 CE 202,Sustainability and Environment,1,0,3,3,Abhishek Singhal(I+L),,32,,,"B1
-(7/209)",,"I2,M1
-(7/209)",,,,,
-CS 203,Software Tools & Techniques for AI,1.5,0,3,4,Nipun Batra(I+L),,77,,,"E1
-(10/103)",,"I1,K1,J2,M2
+(7/109)",,"B2,I2
+(7/109)",,,,,
+CS 203,Software Tools & Techniques for AI,1.5,0,3,4,Nipun Batra(I+L),,77,,,"B1
+(Jasubhai Auditorium)",,"I2,J1,J2,B2
 (10/203,10/204)",https://nipunbatra.github.io/stt-ai-26/,,,,
-ES 211,Thermodynamics,2,1,0,3,"Atul Bhargav(I),Abinaya Sampath(T)",,121,,,"A1,A2
-(Jasubhai Auditorium)","P2
-(Harsha Patel Learning Theatre,7/106,7/107)",,,,,,
+ES 211,Thermodynamics,2,1,0,3,"Atul Bhargav(I),Abinaya Sampath(T)",,121,,,"B1,B2
+(10/103)","I2
+(Jagdish Patel Learning Theatre,7/106,7/107)",,,,,,
 ES 214,Discrete Mathematics,3,1,0,4,Jyothi Krishnan(I+T),,115,,,"B1,B2
 (Jayshree S Sheth Learning Theatre)","I2
 (Surendra C Sheth Learning Theatre)",,https://docs.google.com/document/d/1O9tdmtwwIew5Vqoa87HhnTo_V6CWURdOMxHHNqJYQiY/edit?usp=drivesdk,,,,
-EE 225,Unveiling the Semiconductor World,1.5,0,0,2,Nihar Mohapatra(I),,50,,,"J1
+EE 225,Unveiling the Semiconductor World,1.5,0,0,2,Nihar Mohapatra(I),,50,,,"B1
 (7/209)",,,Course Plan,,,,
 EE 226,Semiconductor Devices,3,1,0,4,Sandip Lashkare(I+T),,114,,,"B1,B2
 (Jagdish Patel Learning Theatre)","I2
@@ -69,8 +69,8 @@ PH 203,Solid State Physics ,3,1,0,4,Chandan Kumar Mishra(I+T),,120,,,"M1,M2
 (Jayshree S Sheth Learning Theatre)",,Course Plan,,,,
 CL 202,Chemical Engineering Thermodynamics,2,1,0,3,Pratyush Dayal(I+T),,50,,,"G1,G2
 (7/102)",,,Course Plan,,,,
-CS 203,Software Tools & Techniques for AI,1.5,0,3,4,Nipun Batra(I+L),,77,,,"E1
-(10/103)",,"I1,K1,J2,M2
+CS 203,Software Tools & Techniques for AI,1.5,0,3,4,Nipun Batra(I+L),,77,,,"B1
+(Jasubhai Auditorium)",,"I2,J1,J2,B2
 (10/203,10/204)",https://nipunbatra.github.io/stt-ai-26/,,,,
 CL 203,Process Fluid Mechanics,2,1,0,3,Abinaya Sampath(I+T),,48,,,"E1,E2
 (Harsha Patel Learning Theatre)","H2
@@ -89,9 +89,9 @@ CL 205,Chemical Reaction Engineering - I,2,1,0,3,Kabeer Jasuja(I+T),,49,,,"I2,J2
 ME 209,Principles of Manufacturing Processes,2,0,1.5,3,Rakesh Singhai(I+L),,73,,,"G1,G2
 (7/209)","A2
 (7/209)",,,,,,
-ES 211,Thermodynamics,2,1,0,3,"Atul Bhargav(I),Abinaya Sampath(T)",,121,,,"A1,A2
-(Jasubhai Auditorium)","P2
-(Harsha Patel Learning Theatre,7/106,7/107)",,,,,,
+ES 211,Thermodynamics,2,1,0,3,"Atul Bhargav(I),Abinaya Sampath(T)",,121,,,"B1,B2
+(10/103)","I2
+(Jagdish Patel Learning Theatre,7/106,7/107)",,,,,,
 ES 221,Mechanics of Solids,3,1.5,0,4,"Harmeet Singh(I+T),Harini Subramanian(T)",,82,,,"C1,C2
 (7/208)","B1
 (7/102,7/107)",,Course plan,,,,
@@ -99,7 +99,7 @@ ES 212,Fluid Mechanics,3,1.5,0,4,Subhasish Dey(I+T),,40,,,"G1,G2
 (7/101)","A1
 (7/210)",,,,,,
 ES 214,Discrete Mathematics,3,1,0,4,Jyothi Krishnan(I+T),,115,,,"B1,B2
-(Jayshree S Sheth Learning Theatre)","D2
+(Jayshree S Sheth Learning Theatre)","I2
 (Surendra C Sheth Learning Theatre)",,https://docs.google.com/document/d/1O9tdmtwwIew5Vqoa87HhnTo_V6CWURdOMxHHNqJYQiY/edit?usp=drivesdk,,,,
 ES 246,Vacuum Technology Laboratory,0,0,3,2,Emila Panda(L),,70,,,,,"K1,H1
 (EE Lab)",,,,,
@@ -110,8 +110,8 @@ EE 227,CMOS Circuit Design,2,1,1.5,4,Joycee Mekie(I+T+L),,70,,,"L1,L2
 (7/108)","F2,M2
 (7/109)",Course Plan,,,,
 CE 202,Sustainability and Environment,1,0,3,3,Abhishek Singhal(I+L),,32,,,"B1
-(7/209)",,"I2,M1
-(7/209)",,,,,
+(7/109)",,"B2,I2
+(7/109)",,,,,
 ME 207,Fluid Dynamics,3,1.5,1.5,5,"Shubhangi Bansude(I+T),Dilip Sundaram(L)",,70,,,"D1,D2
 (7/108)","A1
 (7/201,7/204)","I1
@@ -482,7 +482,7 @@ HS 523,Quantitative Research Methods in Social Sciences,3,1,0,4,Deepak Singhania
 (7/103)","B1
 (10/104)",,https://drive.google.com/file/d/1iPiUOLAbzC--BuJ7mJtSyEtMNajFIH_d/view?usp=sharing,,"Only HSS students or those who have not taken any basic Statistics course at IITGN, such as ES 114, are allowed to register for this course.",,
 HS 610,Critical Journey  through Select Thoughts and Theories,3,0,0,4,Arnapurna Rath(I),,40,,,"F1,F2
-(7/205)",,,,,,,
+(7/205)",,,Course Plan,,,,
 HS 635,India Through the Writer’s Eye,3,0,0,4,Sharmita Lahiri(I),,47,,,"J1,J2
 (7/202)",,,,,,,
 HS 642,Structures and Hydrology in Ancient India,3,0,0,4,Alok Kumar Kanungo(I),,37,,,"M1,M2
@@ -531,6 +531,10 @@ MS 491-XIV,Special Topics in Management: Consumer Behaviour,3,0,0,4,Marcos Sever
 MS 491-XV,"Special Topics in Management: Medical Products Manufacturing Quality and Regulatory 
 (First Half of the Semester) ",3,0,0,3,Premalatha Chelvakumar(I),,30,,,"J1,J2
 (7/207)",,,https://docs.google.com/document/d/1dwKidPZvWB5fb6qMjyGGFSZK_i5pB7_n/edit?usp=sharing&ouid=102662624367208393875&rtpof=true&sd=true,,,,
+MS 491-XVI,Special Topics in Management: Lean Six Sigma,3,0,0,4,Ramachandran Veetikazhi(I),,40,,,"M1,M2
+(7/206)",,,,,,,
+MS 491-XVII,Special Topics in Management: Organizational Psychology,3,0,0,4,Alok Bhatnagar(I),,40,,,"P1,P2
+(7/110)",,,,,,,
 MS 492-I,"Special Topics in Management: Strategic Leadership
 (First Half of the Semster)",3,0,0,2,Rajeev Sharma(I),,45,,,"P1,P2
 (7/102)",,,Course Plan,,,,

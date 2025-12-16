@@ -10,11 +10,11 @@ Principles and Applications of Electrical Engineering,ES 116 (E),"G1,G2",N2,"I1,
 Principles and Applications of Electrical Engineering,ES 116 (H),"G1,G2",N1,,5.0,10/103,"7/204,7/206,7/207",
 The World of Engineering,ES 117 (E),,,"K1,H1",2.0,,,Jasubhai Auditorium
 The World of Engineering,ES 117 (H),,,"K1,H1",2.0,,,Harsha Patel Learning Theatre
-Sustainability and Environment,CE 202,B1,,"I2,M1",3.0,7/209,,7/209
-Software Tools & Techniques for AI,CS 203,E1,,"I1,K1,J2,M2",4.0,10/103,,"10/203,10/204"
-Thermodynamics,ES 211,"A1,A2",P2,,3.0,Jasubhai Auditorium,,
+Sustainability and Environment,CE 202,B1,,"B2,I2",3.0,7/109,,7/109
+Software Tools & Techniques for AI,CS 203,B1,,"I2,J1,J2,B2",4.0,Jasubhai Auditorium,,"10/203,10/204"
+Thermodynamics,ES 211,"B1,B2",I2,,3.0,10/103,,
 Discrete Mathematics,ES 214,"B1,B2",I2,,4.0,,,
-Unveiling the Semiconductor World,EE 225,J1,,,2.0,7/209,,
+Unveiling the Semiconductor World,EE 225,B1,,,2.0,7/209,,
 Semiconductor Devices,EE 226,"B1,B2",I2,,4.0,,,
 Introduction to writing II,HS 192,"A1,A2","F1,F2",,2.0,"7/101,7/102,7/103,7/104",,
 Structure of Materials,MSE 207,"B1,B2",I2,,4.0,7/210,7/101,
@@ -188,6 +188,8 @@ Special Topics in Management: Managing Sustainable Businesses,MS 491-VII,"G1,F2"
 Special Topics in Management: Consumer Behaviour,MS 491-XIV,"M1,M2",,,4.0,Online,,
 "Special Topics in Management: Medical Products Manufacturing Quality and Regulatory 
 (First Half of the Semester) ",MS 491-XV,"J1,J2",,,3.0,7/207,,
+Special Topics in Management: Lean Six Sigma,MS 491-XVI,"M1,M2",,,4.0,7/206,,
+Special Topics in Management: Organizational Psychology,MS 491-XVII,"P1,P2",,,4.0,7/110,,
 "Special Topics in Management: Strategic Leadership
 (First Half of the Semster)",MS 492-I,"P1,P2",,,2.0,7/102,,
 "Special Topics in Management: Business Risk Management
