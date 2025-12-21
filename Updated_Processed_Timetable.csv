@@ -4,14 +4,16 @@ Ordinary Differential Equations (first half),MA 104 (E),"E1,E2",H2,,2.0,Jasubhai
 Ordinary Differential Equations (first half),MA 104 (H),"E1,E2",H2,,2.0,,"7/205,7/206,7/207",
 Data-Centric Computing,ES 113 (E),D1,,N1,3.0,Jasubhai Auditorium,,"10/104,10/105,10/203,10/204"
 Data-Centric Computing,ES 113 (H),D2,,L1,3.0,Jasubhai Auditorium,,"10/104,10/105"
+Principles of Artificial Intelligence,ES 119 (E),D1,,"J1,J2",3.0,Jasubhai Auditorium,,
+Principles of Artificial Intelligence,ES 119 (H),D2,,,3.0,Jasubhai Auditorium,,
 "Probability, Statistics, and Data Visualization",ES 114 (E),C1,,K2,3.0,Jasubhai Auditorium,,"10/104,10/105,10/203,10/204"
 "Probability, Statistics, and Data Visualization",ES 114 (H),C2,,L2,3.0,Jasubhai Auditorium,,"10/104,10/105"
 Principles and Applications of Electrical Engineering,ES 116 (E),"G1,G2",N2,"I1,L1,M1,L2,M2",5.0,Jasubhai Auditorium,,EE Lab
-Principles and Applications of Electrical Engineering,ES 116 (H),"G1,G2",N1,,5.0,10/103,"7/204,7/206,7/207",
+Principles and Applications of Electrical Engineering,ES 116 (H),"G1,G2",N2,,5.0,10/103,"7/106,7/202,7/109",
 The World of Engineering,ES 117 (E),,,"K1,H1",2.0,,,Jasubhai Auditorium
 The World of Engineering,ES 117 (H),,,"K1,H1",2.0,,,Harsha Patel Learning Theatre
 Sustainability and Environment,CE 202,B1,,"B2,I2",3.0,7/109,,7/109
-Software Tools & Techniques for AI,CS 203,B1,,"I2,J1,J2,B2",4.0,Jasubhai Auditorium,,"10/203,10/204"
+Software Tools & Techniques for AI,CS 203,I2,,"B1,B2",4.0,10/103,,"10/203,10/204"
 Thermodynamics,ES 211,"B1,B2",I2,,3.0,10/103,,
 Discrete Mathematics,ES 214,"B1,B2",I2,,4.0,,,
 Unveiling the Semiconductor World,EE 225,B1,,,2.0,7/209,,
@@ -22,7 +24,7 @@ Physical Education,PE 102,,,,0.0,,,
 Comprehensive Viva Voce,IN 102,,,,0.0,,,
 Theory of Computing,CS 201,"C1,C2",H2,,4.0,,,
 Introduction to Electrodynamics,PH 201,"P1,P2",B2,,4.0,,"7/208,7/209",
-Solid State Physics ,PH 203,"M1,M2",J1,,4.0,,,
+Solid State Physics ,PH 203,"E1,E2",J1,,4.0,,,
 Chemical Engineering Thermodynamics,CL 202,"G1,G2",,,3.0,7/102,,
 Process Fluid Mechanics,CL 203,"E1,E2",H2,,3.0,Harsha Patel Learning Theatre,Harsha Patel Learning Theatre,
 Heat Transfer,CL 204,"D1,D2",,,3.0,10/102,,
@@ -32,9 +34,9 @@ Chemical Reaction Engineering - I,CL 205,"I2,J2",A1,,3.0,Harsha Patel Learning T
 Principles of Manufacturing Processes,ME 209,"G1,G2",A2,,3.0,7/209,7/209,
 Mechanics of Solids,ES 221,"C1,C2",B1,,4.0,7/208,"7/102,7/107",
 Fluid Mechanics,ES 212,"G1,G2",A1,,4.0,7/101,7/210,
-Vacuum Technology Laboratory,ES 246,,,"K1,H1",2.0,,,EE Lab
-IC Fabrication Processes,ES 247,"G1,G2",,,4.0,7/108,,
-CMOS Circuit Design,EE 227,"L1,L2","H1,H2","F2,M2",4.0,7/108,7/108,7/109
+Vacuum Technology Laboratory,ES 246,,,"J1,L1",2.0,,,"10/103,MSE Lab"
+IC Fabrication Processes,ES 247,"G1,G2",,,4.0,11/101,,
+CMOS Circuit Design,EE 227,"L1,L2",H1,"E1,H2",4.0,Harsha Patel Learning Theatre,,"10/104,10/105"
 Fluid Dynamics,ME 207,"D1,D2",A1,I1,5.0,7/108,"7/201,7/204",11/102
 Vibrations,ME 208,"K1,K2",J2,,2.0,7/209,7/209,
 Mechanics of Materials,ME 333,"L1,L2",,I1,3.0,7/109,,ME Lab
@@ -66,9 +68,9 @@ Construction Technology & Management,CE 403,"C1,C2",,,4.0,7/104,,
 Communication Systems,EE 313,"J1,J2",L2,,3.0,7/208,7/209,
 Synthesis and Analysis of Mechanisms,ME 335,"D1,D2",,I1,3.0,7/203,,Makers Bhavan
 Mechanical Systems Design,ME 337,"C1,C2",,,3.0,7/203,,
-Energy Systems,ES 337,"E1,E2",,,3.0,7/203,,
+Energy Systems,ES 337,"F1,F2",,,3.0,13/124,,
 Materials and Environment,MSE 312,E1,,,2.0,13/124,,
-Corrosion and Degradation of Materials,MSE 316,"L1,L2",M1,P2,4.0,7/110,7/110,MSE Lab
+Corrosion and Degradation of Materials,MSE 316,"L1,L2",M1,P1,4.0,7/110,7/110,MSE Lab
 Aarohan (For 2026 MSc and MA students),FP 501,,,,2.0,,,
 "Aarohan (For 2026 MTech, PGDIIT and PhD students)",FP 601,,,,2.0,,,
 Physical Education (For 2022 MSc and MA students),PE 500,,,,0.0,,,
@@ -95,6 +97,8 @@ Fundamentals of Aerosol Science,CL 629,"I1,K2",,,4.0,11/101,,
 Liquid State Theory,CL 628,"E1,D2",K1,,4.0,11/102,7/207,
 Catalyst Design for Heterogeneous Reactions,CL 630,"K1,L1",,,4.0,7/201,,
 Pharmaceutical Crystallization,CL 631,"I1,J2",,,4.0,11/206,,
+Advanced Separation Processes,CL 632,"A1,A2",B1,,4.0,7/206,7/101,
+Applications of AI in Chemical Engineering,CL 633,"F1,F2",H2,,4.0,10/102,7/110,
 Molecular Simulations – Theory and Applications,ES 658,"N1,N2",P1,,4.0,7/108,7/108,
 Fundamentals and Applications of Spectroscopy,CH 203,"K1,K2",,,4.0,,,
 Fundamentals of Analytical Chemistry,CH 503,"M1,M2",,,4.0,7/201,,
@@ -128,19 +132,20 @@ Algebra II,MA 628,"C1,C2",B2,,4.0,7/105,7/101,
 Algebraic Number theory,MA 634,"J1,J2",,,4.0,7/103,,
 Matrix Lie Groups,MA 638,"P1,P2",,,4.0,7/205,,
 Matrix Analysis,MA 639,"M1,M2",,,4.0,7/205,,
-Commutative Algebra II,MA 645,"M1,M2",J1,,4.0,7/210,7/205,
+Commutative Algebra II,MA 645,"E1,E2",K2,,4.0,7/105,7/203,
 Modular Forms,MA 646,"C1,C2",,,4.0,10/102,,
 Elliptic cruves and surfaces,MA 691-IV,"A1,A2",,,4.0,7/108,,
 Commutative Algebra - II,MA 691-V,"E1,E2",K2,,4.0,7/105,7/203,
 Introduction to Astronomy and Space Science,PH 409,"K1,K2",,,4.0,7/105,,
-Advanced Condensed Matter Physics ,PH 410,"G1,G2",,,4.0,,,
+Advanced Condensed Matter Physics (N),PH 653,"C1,C2",,,4.0,7/210,,
 Quantum Mechanics II,PH 504,"G1,G2",A1,,4.0,10/102,7/202,
 Methods of Experimental Physics,PH 506,C1,,"J1,L1",4.0,7/107,,PH Lab
 Statistical Mechanics ,PH 507,"E1,E2",B1,,4.0,10/102,10/102,
 Computational Physics,PH 509 (N),"D1,D2",,"I1,K1",4.0,7/109,,PH Lab
 Electronic Devices & Digital Systems for Physicists,PH 513,"F1,F2",,,4.0,7/204,,
+AI in Physics,PH 514,"M1,M2",,I1,4.0,7/210,,7/110
 Topics in Quantum and Statistical Mechanics,PH 607,"P1,H1",,,4.0,7/206,,
-Tools of Theoretical Physics ,PH 608,"E1,E2",,,4.0,7/106,,
+Tools of Theoretical Physics ,PH 608,"G1,G2",,,4.0,11/205,,
 Quantum Field Theory-II,PH 612,"F1,F2",,,4.0,5/202,,
 Physics of two-dimensional materials,PH 615,"M1,M2",,,4.0,7/207,,
 Quantum Optics ,PH 616,"D1,D2",,,4.0,11/206,,
@@ -208,25 +213,28 @@ Introduction to Biomedical Engineering,BE 304,"P1,P2",,,4.0,7/109,,
 Biomolecular Forensics,BE 402,"N1,N2",,,2.0,11/101,,
 Introduction to Cell Biology,BE 407,"L1,L2",,,4.0,,,
 Biophysical Techniques,BE 603,"A1,A2",,I1,4.0,11/206,,BE Lab
-Molecular Basis of Neurodegenerative Diseases,BE 608,"C1,C2",,,4.0,13/124,,
+Molecular Basis of Neurodegenerative Diseases,BE 608,"D1,D2",,,4.0,13/125,,
 Molecular Oncology,BE 610,"D1,D2",,,4.0,13/124,,
 Bioinformatics and Computational Biology,BE 615,A1,,"I2,M1",4.0,7/206,,7/109
 Cellular Communication,BE 619,"F1,F2",,,4.0,7/105,,
 AI Applications in Life Sciences,BE 625,"E1,E2",,,4.0,"7/205,7/206",,
 Metabolic Engineering,BE 626,"J1,J2",,,4.0,7/105,,
-Methods in Structural Biology,BE 627,"L1,L2",,H2,4.0,13/125,,BE Lab
-Special Topics in Biological Engineering: Analysis and Characterization of Biologicals,BE 691-I,A2,,"J2,M2",4.0,7/201,,BE Lab
+Methods in Structural Biology,BE 627,"A1,A2",,H2,4.0,13/124,,BE Lab
+Transport Phenomenon in Biological Systems,BE 628,"A1,A2",,,4.0,7/106,,
+Special Topics in Biological Engineering: Analysis and Characterization of Biologicals,BE 691-I,I1,,"I2,M1",4.0,7/205,,BE Lab
 Special Topics in Biological Engineering: Animal Cell Culture Techniques,BE 692,,,"K1,H1",2.0,,,BE Lab
 Novel Drug Delivery Technologies: Fundamental Principles and Engineering,BE 617,"G1,G2",,,4.0,13/124,,
-Special Topics in Biological Engineering: Nucleic Acids Based Therapeutics (first half),BE 692-I,"L1,L2",,,2.0,Harsha Patel Learning Theatre,,
-Special Topics in Biological Engineering: Medical Device Regulations (second half),BE 692-II,"K1,K2",,,2.0,7/104,,
+Special Topics in Biological Engineering: Nucleic Acids Based Therapeutics (first half),BE 692-I,"L1,L2",,,2.0,7/108,,
+Special Topics in Biological Engineering: Medical Device Regulations (second half),BE 692-II,"K1,L1",,,2.0,7/104,,
 Special Topics in Biological Engineering: Plant Developmental Biology (first half),BE 692-III,"P1,P2",,,2.0,7/207,,
 Experimental Techniques in Cognitive Science,CG 506,E1,,K2,4.0,7/104,,7/108
 Introduction to Cognitive Linguistics,CG 517,"G1,G2",,,4.0,,,
 Motor Learning and Memory,CG 601,"C1,C2",,,4.0,7/201,,
+Perception and Attention,CG 603,"L1,L2",,,4.0,7/106,,
 Learning and Memory,CG 605,"D1,D2",,,4.0,7/105,,
 Emotion and Cognition,CG 607,"L1,L2",,K1,4.0,7/106,,7/202
 Human Brain Mapping,CG 614,"F1,F2",,,4.0,7/203,,
+Introduction to Data Structures and Algorithms,ES 248,E1,,"I1,K1",3.0,11/101,,10/203
 Compilers,CS 327,"F1,G2",,F2,5.0,,,"10/203,10/204"
 Introduction to Data Science,CS 328,"M1,M2",J2,,4.0,10/103,10/103,
 Machine Learning (N),ES 678,"D1,D2",H1,,4.0,10/103,10/103,
@@ -248,10 +256,10 @@ Advanced Signal Processing,EE 609,"E1,E2",,,4.0,7/204,,
 Artificial Intelligence,ES 612,"I1,I2",,,4.0,7/101,,
 Microelectronics Lab,EE 618,,,"J2,M2",2.0,,,10/104
 Special Electrical Machines,EE 619,"G1,G2",,,4.0,11/102,,
-Power Electronic Converters,EE 629,"P1,P2",N2,,4.0,11/102,11/102,
+Power Electronic Converters,EE 629,"P1,P2",N1,,4.0,11/102,11/102,
 Lasers,EE 639,"N1,N2",,,4.0,13/125,,
 IC Design Laboratory,EE 652,,I1,"I1,K1",2.0,,,10/105
-Analog IC Design Lab,EE 653,,,"J1,L1",2.0,,,10/204
+Analog IC Design Lab,EE 653,,,"D2,F2",2.0,,,"10/104,10/105"
 Electronic Instrumentation,ES 641,"N1,N2",,,4.0,13/124,,
 Regulation of Electricity  Sector,EE 691-V,"M1,M2",,,4.0,7/103,,
 Medical Imaging Systems,ES 655,"J1,J2",,,4.0,7/210,,
@@ -269,6 +277,7 @@ AI for Electrical Engineering,EE 670,"I1,I2",,,4.0,7/108,,
 Classical Information Theory,ES 676,"I1,I2",,,4.0,7/204,,
 "Drone Data Acquisition, Processing and Interpretation",EH 304,D1,,"J2,M2",2.0,7/104,,10/105
 Earth Surface Processes in The Anthropocene,EH 601 (N),"B1,B2",,H1,4.0,7/103,,10/102
+River Morphology and Ecology,EH 602,"B1,B2",,,4.0,7/103,,
 Quantitative Geomorphology,EH 604,"L1,L2",,,4.0,11/206,,
 Biodiversity Conservation and Sustainable Development,EH 608,"L1,L2",,,4.0,7/107,,
 Engineering Seismology and Seismic Hazard Analysis,EH 610,"F1,F2",,,4.0,7/210,,
@@ -279,6 +288,8 @@ Fluid Flow and Reactions in Reservoir Rocks,EH 622,"G1,G2",,,4.0,7/201,,
 Stratigraphic Evolution of Indian Continent,EH 623,"P1,P2",B1,,4.0,13/125,13/125,
 Ceramics in Archaeology ,EH 629,"M1,M2",,,4.0,11/204,,
 Harappan Civilisation,EH 630,"D1,D2",,,4.0,7/202,,
+Fundamentals of Structural Geology,EH 632,G1,,"I1,K1",4.0,13/125,,EH Lab
+Dynamic Earth Surface and Nature Hazards,EH 634,G2,,"I2,M1",4.0,7/104,,EH Lab
 Atmopheric Physics,EH 691-II,"C1,C2",,,4.0,13/125,,
 Interpreting animals in the Human past,EH 691-X,"I1,I2",,,4.0,11/204,,
 Numerical Methods for Engineers,ES 419,"I1,I2",J1,,4.0,7/104,7/201,
@@ -289,11 +300,12 @@ Mechanics of Composite Materials,ES 671,"E1,E2",,,4.0,7/207,,
 Integrated Design and Manufacturing,ME 462,N1,,"I1,K1",4.0,7/107,,7/107
 Advanced Fluid Mechanics,ME 628,"G1,G2",A1,,4.0,11/204,11/204,
 Energy Systems,ES 632,"F1,F2",,,4.0,13/124,,
+Special Topics in Mechanical Engineering: Mechanics of Elastic Rods,ME 691-X,"M1,M2",,,4.0,13/125,,
 Special Topics in Mechanical Engineering: Mathematical Tools for Mechanical Engineers,ME 691-XIV,"L1,L2",H1,,4.0,7/207,7/207,
 Special Topics in Mechanical Engineering: Advanced Nonlinear Dynamics,ME 691-XV,"I1,I2",,,4.0,7/102,,
 Aircraft and Rocket Propulsion,ME 643,"M1,M2",,,4.0,7/105,,
 Vapor Liquid Phase Change Phenomena,ME 647,"I1,I2",,,4.0,7/207,,
-Mathematical Tools for Mechanical Engineers-II,ME 649,"P1,P2",A1,,4.0,7/103,7/107,
+Mathematical Tools for Mechanical Engineers-II,ME 649,"L1,L2",H1,,4.0,7/207,7/207,
 Surface Engineering,MSE 355,"N1,N2",,,4.0,11/204,,
 Diffraction Methods for Structure and Stress Analysis,MSE 404,"N1,N2",,,4.0,11/205,,
 Thin Film Processing and Characterization,MSE 603,"A1,A2",,,4.0,11/205,,
