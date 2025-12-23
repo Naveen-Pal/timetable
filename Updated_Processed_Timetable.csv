@@ -200,6 +200,8 @@ Special Topics in Management: Organizational Psychology,MS 491-XVII,"P1,P2",,,4.
 (First Half of the Semster)",MS 492-I,"P1,P2",,,2.0,7/102,,
 "Special Topics in Management: Business Risk Management
 (First Half of the Semester)",MS 492-II,"N1,P1",,,2.0,7/110,,
+Special Topics in Management: Comprehensive Business Ethics & Responsible Leadership,MS 491-XVIII,"L1,L2",,,4.0,10/102,,
+Special Topics in Management: Comprehensive Manufacturing Quality & Regulatory of Medical Products,MS 491-XIX,"J1,J2",,,4.0,7/207,,
 Special Topics in Management: Business Ethics and Responsible Leadership (First Half of Semester),MS 492-IV,"L1,L2",,,2.0,10/102,,
 "Special Topics in Management: Essentials of Finance and Trade Laws
 (Second Hallf of Semester)",MS 492-V,"K1,K2",,,2.0,11/102,,
@@ -273,7 +275,7 @@ Advanced Radiating Systems,EE 665,"M1,M2",J1,,4.0,7/104,7/104,
 Fundamentals of Wireless Localization,EE 666,"K1,K2",,,4.0,7/103,,
 Advanced Semiconductor Devices,EE 669,"L1,L2",,,2.0,11/204,,
 Quantum Error Correction,EE 667,"P1,P2",,,2.0,7/210,,
-AI for Electrical Engineering,EE 670,"I1,I2",,,4.0,7/108,,
+AI for Electrical Engineering,EE 670,"I1,I2",,,4.0,10/102,,
 Classical Information Theory,ES 676,"I1,I2",,,4.0,7/204,,
 "Drone Data Acquisition, Processing and Interpretation",EH 304,D1,,"J2,M2",2.0,7/104,,10/105
 Earth Surface Processes in The Anthropocene,EH 601 (N),"B1,B2",,H1,4.0,7/103,,10/102
@@ -300,12 +302,14 @@ Mechanics of Composite Materials,ES 671,"E1,E2",,,4.0,7/207,,
 Integrated Design and Manufacturing,ME 462,N1,,"I1,K1",4.0,7/107,,7/107
 Advanced Fluid Mechanics,ME 628,"G1,G2",A1,,4.0,11/204,11/204,
 Energy Systems,ES 632,"F1,F2",,,4.0,13/124,,
-Special Topics in Mechanical Engineering: Mechanics of Elastic Rods,ME 691-X,"M1,M2",,,4.0,13/125,,
+Special Topics in Mechanical Engineering: Mechanics of Elastic Rods,ME 691-X,"M1,M2",,,4.0,7/106,,
+Special Topics in Mechanical Engineering: Introduction to Computational Solid Mechanics,ME 691-XIX,"M1,M2",J1,,4.0,7/203,7/205,
 Special Topics in Mechanical Engineering: Mathematical Tools for Mechanical Engineers,ME 691-XIV,"L1,L2",H1,,4.0,7/207,7/207,
 Special Topics in Mechanical Engineering: Advanced Nonlinear Dynamics,ME 691-XV,"I1,I2",,,4.0,7/102,,
 Aircraft and Rocket Propulsion,ME 643,"M1,M2",,,4.0,7/105,,
 Vapor Liquid Phase Change Phenomena,ME 647,"I1,I2",,,4.0,7/207,,
 Mathematical Tools for Mechanical Engineers-II,ME 649,"L1,L2",H1,,4.0,7/207,7/207,
+Special Topics in Mechanical Engineering: Data and Observer Design (first half),ME 692-VII,J1,,"K2,L2",2.0,7/206,,ME Lab
 Surface Engineering,MSE 355,"N1,N2",,,4.0,11/204,,
 Diffraction Methods for Structure and Stress Analysis,MSE 404,"N1,N2",,,4.0,11/205,,
 Thin Film Processing and Characterization,MSE 603,"A1,A2",,,4.0,11/205,,

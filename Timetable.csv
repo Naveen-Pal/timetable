@@ -561,6 +561,10 @@ MS 492-I,"Special Topics in Management: Strategic Leadership
 MS 492-II,"Special Topics in Management: Business Risk Management
 (First Half of the Semester)",3,0,0,2,Prerna Wadikar(I),,46,,,"N1,P1
 (7/110)",,,,,,,
+MS 491-XVIII,Special Topics in Management: Comprehensive Business Ethics & Responsible Leadership,3,0,0,4,Ramachandran Veetikazhi(I),,,,,"L1,L2
+(10/102)",,,,,,,
+MS 491-XIX,Special Topics in Management: Comprehensive Manufacturing Quality & Regulatory of Medical Products,3,0,0,4,Premalatha Chelvakumar(I),,,,,"J1,J2
+(7/207)",,,,,,,
 MS 492-IV,Special Topics in Management: Business Ethics and Responsible Leadership (First Half of Semester),3,0,0,2,Ramachandran Veetikazhi(I),,41,,,"L1,L2
 (10/102)",,,https://docs.google.com/document/d/1n0lNQHlnMLZ9UuCQOMWtCo-NDjsBTPsX/edit?usp=sharing&ouid=114411321731810664173&rtpof=true&sd=true,,,,
 MS 492-V,"Special Topics in Management: Essentials of Finance and Trade Laws
@@ -735,7 +739,7 @@ EE 669,Advanced Semiconductor Devices,3,0,0,2,Jhuma Saha(I),,15,,,"L1,L2
 EE 667,Quantum Error Correction,3,0,0,2,Aditya Nema(I),,40,,,"P1,P2
 (7/210)",,,https://docs.google.com/document/d/1uD1lldw8nekdr1UEmmKLVEuZelVpbeIStP6sgbVUQwA/edit?usp=sharing,,,,
 EE 670,AI for Electrical Engineering,3,0,0,4,Uttama Lahiri(I),,70,,,"I1,I2
-(7/108)",,,Course Plan,,,,
+(10/102)",,,Course Plan,,,,
 ES 676,Classical Information Theory,3,0,0,4,Aditya Nema(I),,40,,,"I1,I2
 (7/204)",,,https://docs.google.com/document/d/1FxsGBHwkvkS-1bd4UMkBl1hcm6oV0x2e2TxFnN9dG6E/edit?usp=sharing,,,,
 ,,,,,,,,,,,,,,,,,,
@@ -802,7 +806,10 @@ ME 628,Advanced Fluid Mechanics,3,1,0,4,Vinod Narayanan(I+T),,6,,,"G1,G2
 ES 632,Energy Systems,3,0,0,4,Atul Bhargav(I),,4,,,"F1,F2
 (13/124)",,,,,,,
 ME 691-X,Special Topics in Mechanical Engineering: Mechanics of Elastic Rods,3,0,0,4,Harmeet Singh(I),,10,,,"M1,M2
-(13/125)",,,,,,,
+(7/106)",,,,,,,
+ME 691-XIX,Special Topics in Mechanical Engineering: Introduction to Computational Solid Mechanics,3,1.5,0,4,Harkirat Singh(I+T),,,,,"M1,M2
+(7/203)","J1
+(7/205)",,,,,,
 ME 691-XIV,Special Topics in Mechanical Engineering: Mathematical Tools for Mechanical Engineers,3,1,0,4,Uddipta Ghosh(I+T),,40,,,"L1,L2
 (7/207)","H1
 (7/207)",,,,,,
@@ -815,6 +822,9 @@ ME 647,Vapor Liquid Phase Change Phenomena,3,0,0,4,Soumyadip Sett(I),,40,,,"I1,I
 ME 649,Mathematical Tools for Mechanical Engineers-II,3,1,0,4,Uddipta Ghosh(I+T),,40,,,"L1,L2
 (7/207)","H1
 (7/207)",,,,,,
+ME 692-VII,Special Topics in Mechanical Engineering: Data and Observer Design (first half),1,0,3,2,Ravi Banavar(I+L),,,,,"J1
+(7/206)",,"K2,L2
+(ME Lab)",,,,,
 ,,,,,,,,,,,,,,,,,,
 Additional Courses: Materials Engineering,,,,,,,,,,,,,,,,,,
 MSE 355,Surface Engineering,3,0,0,4,Sriharitha Rowthu(I),,20,,,"N1,N2
