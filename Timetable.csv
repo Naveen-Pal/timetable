@@ -20,13 +20,13 @@ ES 119 (E),Principles of Artificial Intelligence,1.5,0,3,3,"Manisha Padala(I),Ni
 ",,"J1,J2
 (10/203,10/204,Jasubhai Auditorium)",,,,,
 ES 119 (H),Principles of Artificial Intelligence,1.5,0,3,3,"Manisha Padala(I),Nirmal Sancheti(I),Nipun Batra(I),Bireswar Das(L)
-",,100,,,"D2
-(Jasubhai Auditorium)",,,,,,,
+",,100,,,"C1
+(7/109)",,,,,,,
 ES 114 (E),"Probability, Statistics, and Data Visualization",1.5,0,1.5,3,Mayank Singh(I+L),,290,,,"C1
 (Jasubhai Auditorium)",,"K2
 (10/104,10/105,10/203,10/204)",,,,,
-ES 114 (H),"Probability, Statistics, and Data Visualization",1.5,0,1.5,3,Mayank Singh(I+L),,100,,,"C2
-(Jasubhai Auditorium)",,"L2
+ES 114 (H),"Probability, Statistics, and Data Visualization",1.5,0,1.5,3,Mayank Singh(I+L),,100,,,"D1
+(11/102)",,"L2
 (10/104,10/105)",https://sites.google.com/iitgn.ac.in/es114-2026/home,,,,
 ES 116 (E),Principles and Applications of Electrical Engineering,3,1,1.5,5,"Tarun Agrawal(I+T+L),Dinesh Sharma(T+L),Ragavan K(T),S Rajendran(T+L)
 ",,283,,,"G1,G2
@@ -52,8 +52,8 @@ ES 211,Thermodynamics,2,1,0,3,"Atul Bhargav(I),Abinaya Sampath(T)",,121,,,"B1,B2
 ES 214,Discrete Mathematics,3,1,0,4,Jyothi Krishnan(I+T),,115,,,"B1,B2
 (Jayshree S Sheth Learning Theatre)","I2
 (Surendra C Sheth Learning Theatre)",,https://docs.google.com/document/d/1O9tdmtwwIew5Vqoa87HhnTo_V6CWURdOMxHHNqJYQiY/edit?usp=drivesdk,,,,
-EE 225,Unveiling the Semiconductor World,1.5,0,0,2,Nihar Mohapatra(I),,50,,,"B1
-(7/209)",,,Course Plan,,,,
+EE 225,Unveiling the Semiconductor World,1.5,0,0,2,Nihar Mohapatra(I),,50,,,"D2
+(7/208)",,,Course Plan,,,,
 EE 226,Semiconductor Devices,3,1,0,4,Sandip Lashkare(I+T),,114,,,"B1,B2
 (Jagdish Patel Learning Theatre)","I2
 (Jayshree S Sheth Learning Theatre)",,Course Plan,,,,
@@ -93,8 +93,7 @@ MA 204,Introduction to Partial Differential Equations (second half),3,1.5,0,2,Ja
 (7/106)","A1
 (7/207)",,Course Plan,,,,
 CL 205,Chemical Reaction Engineering - I,2,1,0,3,Kabeer Jasuja(I+T),,49,,,"I2,J2
-(Harsha Patel Learning Theatre)","A1
-(Harsha Patel Learning Theatre)",,Course Plan,,,,
+(Harsha Patel Learning Theatre)",,,Course Plan,,,,
 ME 209,Principles of Manufacturing Processes,2,0,1.5,3,Rakesh Singhai(I+L),,73,,,"G1,G2
 (7/209)","A2
 (7/209)",,,,,,
@@ -304,9 +303,9 @@ CE 691-VII,Special Topics: Drinking Water Treatment : Engineering Practices,3,0,
 (7/102)",,,https://drive.google.com/file/d/1vIVZHf6yzmfUCASK4BFGBPbuGSjrmeN_/view?usp=sharing,,,,
 ,,,,,,,,,,,,,,,,,,
 Additional Courses: Chemical Engineering,,,,,,,,,,,,,,,,,,
-ES 418,Financial Modeling and Engineering,3,0,0,4,Mithun Radhakrishna(I),,40,,,"I2,J2
-(11/102)",,,COURSE PLAN,,,,
-CL 605,Colloidal Domain: Where Science Meets Engineering,3,0,0,4,Prachi Thareja(I),,42,,,"C1,C2
+ES 418,Financial Modeling and Engineering,3,0,0,4,Mithun Radhakrishna(I),,40,,,"G1,G2
+(7/203)",,,COURSE PLAN,,,,
+CL 605,Colloidal Domain: Where Science Meets Engineering,3,0,0,4,Prachi Thareja(I),,42,,,"P1,P2
 (7/202)",,,,,,,
 CL 353,Introduction to Process Safety,1.5,0,0,2,Chinmay Ghoroi(I),,40,,,"A2
 (7/210)",,,Course Plan,,,,
@@ -362,8 +361,8 @@ CH 628,Fluorescence Spectroscopy for Chemists and Biologists,3,0,0,4,Sriram Kanv
 (7/105)",,,,,,,
 CH 629,Medicinal Chemistry for Life,3,0,0,4,Sivapriya Kirubakaran(I),,14,,,"E1,E2
 (13/125)",,,https://docs.google.com/document/d/12IEdKff_Fz6q9Su_EE6AVYbNn72X2YGsrQ_WFVPfAiE/edit?tab=t.0,,,,
-CH 630,Catalytic Chemistry,3,0,0,4,Sudhanshu Sharma(I),,18,,,"C1,C2
-(11/204)",,,https://docs.google.com/document/d/1OO7DE3JXotfzsRhSGakCX-aVlPfzZ6QA/edit?usp=sharing&ouid=105877268290912364263&rtpof=true&sd=true,,,,
+CH 630,Catalytic Chemistry,3,0,0,4,Sudhanshu Sharma(I),,18,,,"E1,E2
+(7/104)",,,https://docs.google.com/document/d/1OO7DE3JXotfzsRhSGakCX-aVlPfzZ6QA/edit?usp=sharing&ouid=105877268290912364263&rtpof=true&sd=true,,,,
 CH 632,Solid State Chemistry and Applications,3,0,0,4,Sudhanshu Sharma(I),,32,,,"D1,D2
 (Harsha Patel Learning Theatre)",,,https://docs.google.com/document/d/1ZuNd1juDWm54PeFoquSB9VPJvzeecNND/edit?usp=sharing&ouid=105877268290912364263&rtpof=true&sd=true,,,,
 CH 633,Single Molecule Spectroscopy,1.5,0,3,4,Saumyakanti Khatua(I+L),,40,,,"J1
@@ -389,8 +388,8 @@ MA 502,Complex Analysis,3,1.5,0,4,Sanjay Amrutiya(I+T),,48,,,"G1,G2
 MA 507,Ordinary Differential Equations,3,1.5,0,4,Tanya Srivastava(I+T),,49,,,"E1,E2
 (7/109)","B1
 (7/108)",,Course Plan(tba),,,,
-MA 606,Differential Topology,3,0,0,4,Arnab Saha(I),,15,,,"I1,I2
-(7/203)",,,Course Plan,,,,
+MA 606,Differential Topology,3,0,0,4,Arnab Saha(I),,15,,,"C1,C2
+(7/102)",,,Course Plan,,,,
 MA 629 (A),Real analysis of several variables,3,1.5,0,4,Rohit Kumar Mishra(I+T),,44,,,"F1,F2
 (7/107)","A2
 (7/202)",,Course Plan,,,,
@@ -407,7 +406,7 @@ MA 634,Algebraic Number theory,3,0,0,4,Akshaa Vatwani(I),,40,,,"J1,J2
 MA 638,Matrix Lie Groups,3,0,0,4,Bipul Saurabh(I),,40,,,"P1,P2
 (7/205)",,,Course Plan,,,,
 MA 639,Matrix Analysis,3,0,0,4,Projesh Nath Choudhury(I),,40,,,"M1,M2
-(7/205)",,,Course Plan,,,,
+(7/208)",,,Course Plan,,,,
 MA 645,Commutative Algebra II,3,1.5,0,4,Jugal K Verma(I+T),,40,,,"E1,E2
 (7/105)","K2
 (7/203)",,,,,,
@@ -481,6 +480,8 @@ HS 154,Mandarin for Beginners,3,0,0,4,Hao-Tsung (William) Kao(I),,58,,,"N1,N2
 (7/209)",,,,,,,
 HS 155,Mandarin for Beginners - II,3,0,0,4,Hao-Tsung (William) Kao(I),,13,,,"L1,L2
 (11/102)",,,,,,,
+HS 192-I,Special Topics in HSS: Conversational English (first half),2,0,0,2,Suneeti Phadke(I),,,,,"I1,I2
+(7/108)",,,,,,,
 HS 201,World Civilizations and Cultures,3,0,0,4,Madhumita Sengupta(I),,150,,,"L1,L2
 (Surendra C Sheth Learning Theatre)",,,https://iitgnacin-my.sharepoint.com/:w:/g/personal/madhumitasg_iitgn_ac_in/EXu4fnGfEyVHrG9hR0OLYJYBIzcStU3WGk8-6_g3Awgu6Q?e=V68dIr,,,,
 HS 223,Sanskrit Literature,3,1,0,4,Mana Shah(I+T),,22,,,"K1,K2
@@ -542,6 +543,8 @@ DES 601,Visual Design for Academia,1.5,0,3,4,Sameer Sahasrabudhe(I+L),,40,,,"L1
 (Jayshree S Sheth Learning Theatre)",https://classroom.google.com/c/ODA0NTEwOTM3Mjkw?cjc=3e3uhltx,,,,
 DES 691-II,Special Topics in Design: Designing Learning environments for science and engineering,3,0,0,4,Aditi Kothiyal(I),,40,,,"L1,L2
 (11/101)",,,Course Plan_DesignLE_2025-2026,,,,
+MS 404,Neuromarketing (second half),3,0,0,2,Aditi (GTF)(I),,,,,"M1,M2
+(7/109)",,,,,,,
 MS 306,Principles of Business Management,3,0,0,4,Abhijit Kothari(I),,56,,,"N1,N2
 (7/208)",,,,,,,
 MS 491-VII,Special Topics in Management: Managing Sustainable Businesses,3,0,0,4,Anselm Schneider(I),,51,,,"G1,F2
@@ -549,26 +552,26 @@ MS 491-VII,Special Topics in Management: Managing Sustainable Businesses,3,0,0,4
 MS 491-XIV,Special Topics in Management: Consumer Behaviour,3,0,0,4,Marcos Severos(I),,59,,,"M1,M2
 (Online)",,,https://drive.google.com/file/d/1n50Zg6vYk11MILEXWnUl2j4kh5zcRhBP/view?usp=sharing,,,,
 MS 491-XV,"Special Topics in Management: Medical Products Manufacturing Quality and Regulatory 
-(First Half of the Semester) ",3,0,0,3,Premalatha Chelvakumar(I),,30,,,"J1,J2
+(first half) ",3,0,0,3,Premalatha Chelvakumar(I),,30,,,"J1,J2
 (7/207)",,,https://docs.google.com/document/d/1dwKidPZvWB5fb6qMjyGGFSZK_i5pB7_n/edit?usp=sharing&ouid=102662624367208393875&rtpof=true&sd=true,,,,
-MS 491-XVI,Special Topics in Management: Lean Six Sigma,3,0,0,4,Ramachandran Veetikazhi(I),,40,,,"M1,M2
+MS 491-XVI,Special Topics in Management: Lean Six Sigma,3,0,0,4,Alok Bhatnagar(I),,40,,,"M1,M2
 (7/206)",,,,,,,
-MS 491-XVII,Special Topics in Management: Organizational Psychology,3,0,0,4,Alok Bhatnagar(I),,40,,,"P1,P2
+MS 491-XVII,Special Topics in Management: Organizational Psychology,3,0,0,4,Ramachandran Veetikazhi(I),,40,,,"P1,P2
 (7/110)",,,,,,,
 MS 492-I,"Special Topics in Management: Strategic Leadership
-(First Half of the Semster)",3,0,0,2,Rajeev Sharma(I),,45,,,"P1,P2
+(first half)",3,0,0,2,Rajeev Sharma(I),,45,,,"P1,P2
 (7/102)",,,Course Plan,,,,
 MS 492-II,"Special Topics in Management: Business Risk Management
-(First Half of the Semester)",3,0,0,2,Prerna Wadikar(I),,46,,,"N1,P1
+(first half)",3,0,0,2,Prerna Wadikar(I),,46,,,"N1,P1
 (7/110)",,,,,,,
 MS 491-XVIII,Special Topics in Management: Comprehensive Business Ethics & Responsible Leadership,3,0,0,4,Ramachandran Veetikazhi(I),,,,,"L1,L2
 (10/102)",,,,,,,
 MS 491-XIX,Special Topics in Management: Comprehensive Manufacturing Quality & Regulatory of Medical Products,3,0,0,4,Premalatha Chelvakumar(I),,,,,"J1,J2
 (7/207)",,,,,,,
-MS 492-IV,Special Topics in Management: Business Ethics and Responsible Leadership (First Half of Semester),3,0,0,2,Ramachandran Veetikazhi(I),,41,,,"L1,L2
+MS 492-IV,Special Topics in Management: Business Ethics and Responsible Leadership (first half),3,0,0,2,Ramachandran Veetikazhi(I),,41,,,"L1,L2
 (10/102)",,,https://docs.google.com/document/d/1n0lNQHlnMLZ9UuCQOMWtCo-NDjsBTPsX/edit?usp=sharing&ouid=114411321731810664173&rtpof=true&sd=true,,,,
 MS 492-V,"Special Topics in Management: Essentials of Finance and Trade Laws
-(Second Hallf of Semester)",3,0,0,2,Savan Godiawala(I),,53,,,"K1,K2
+(second half)",3,0,0,2,Savan Godiawala(I),,53,,,"K1,K2
 (11/102)",,,,,,,
 MS 492-VII,Special Topics in Management: International Marketing,3,0,0,2,Monika Kothari(I),,51,,,"D1,D2
 (7/208)",,,,,,,
@@ -578,7 +581,7 @@ CG 507,"Evolutionary Neuropsychology
 (Quad 1)",3,0,0,2,Frederick Coolidge(I),,19,,,"M1,M2
 (7/202)",,,,,,,
 HS 392,"Special Topics in HSS: Competitiveness and Ethical Leadership 
-(First Half of the Semester)",3,0,0,2,Anurima Chatterjee(I),,42,,,"N1,N2
+(first half)",3,0,0,2,Anurima Chatterjee(I),,42,,,"N1,N2
 (7/205)",,,,,,,
 ,,,,,,,,,,,,,,,,,,
 Additional Courses: Biological Engineering,,,,,,,,,,,,,,,,,,
@@ -784,6 +787,8 @@ EH 691-II,Atmopheric Physics,3,0,0,4,P. C. Pandey(I),,17,,,"C1,C2
 (13/125)",,,,,,,
 EH 691-X,Interpreting animals in the Human past,3,0,0,4,Sharada CV(I),,8,,,"I1,I2
 (11/204)",,,Course plan,,,,
+EH 691-XI,Special Topics in Earth Sciences: Stable Isotopes in Earth Systems,3,0,0,4,Vikrant Jain(I),,,,,"M1,M2
+(13/125)",,,,,,,
 ,,,,,,,,,,,,,,,,,,
 Additional Courses: Mechanical Engineering,,,,,,,,,,,,,,,,,,
 ES 419,Numerical Methods for Engineers,3,1.5,0,4,Ravi Ayyagari(I+T),,40,,,"I1,I2
