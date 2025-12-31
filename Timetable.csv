@@ -384,11 +384,11 @@ MA 513,AI and Mathematics,3,1.5,0,4,"Aditya Nema(I),Madhu Gupta(I)",,40,,,"K1,K2
 (7/205)",,,,,,
 MA 502,Complex Analysis,3,1.5,0,4,Sanjay Amrutiya(I+T),,48,,,"G1,G2
 (7/109)","A1
-(7/203)",,,,,,
+(7/203)",,Course Plan,,,,
 MA 507,Ordinary Differential Equations,3,1.5,0,4,Tanya Srivastava(I+T),,49,,,"E1,E2
 (7/109)","B1
-(7/108)",,Course Plan(tba),,,,
-MA 606,Differential Topology,3,0,0,4,Arnab Saha(I),,15,,,"C1,C2
+(7/108)",,GC Code: fnzrd3o3,,,,
+MA 606,Differential Topology,3,0,0,4,Arnab Saha(I),,15,,,"I1,I2
 (7/102)",,,Course Plan,,,,
 MA 629 (A),Real analysis of several variables,3,1.5,0,4,Rohit Kumar Mishra(I+T),,44,,,"F1,F2
 (7/107)","A2
@@ -417,6 +417,9 @@ MA 691-IV,Elliptic cruves and surfaces,3,0,0,4,Tanya Srivastava(I),,40,,,"A1,A2
 MA 691-V,Commutative Algebra - II,3,1.5,0,4,Jugal K Verma(I+T),,7,,,"E1,E2
 (7/105)","K2
 (7/203)",,course plan,,,,
+MA 691-VII,Special Topics in Mathematics: Hermitian Analysis,3,1.5,0,4,Gadadhar Misra(I+T),,,,,"G1,G2
+(11/206)","A1
+(13/125)",,,,,,
 ,,,,,,,,,,,,,,,,,,
 Additional Courses: Physics,,,,,,,,,,,,,,,,,,
 PH 409,Introduction to Astronomy and Space Science,3,0,0,4,Anand Sengupta(I),,40,,,"K1,K2
@@ -816,7 +819,10 @@ ME 691-X,Special Topics in Mechanical Engineering: Mechanics of Elastic Rods,3,0
 (7/106)",,,,,,,
 ME 691-XIX,Special Topics in Mechanical Engineering: Introduction to Computational Solid Mechanics,3,1.5,0,4,Harkirat Singh(I+T),,,,,"M1,M2
 (7/203)","J1
-(10/104)",,,,,,
+(10/104)",,Course Plan,,,,
+ME 691-XX,Special Topics in Mechanical Engineering: Introduction to Conduction and Radiation Heat Transfer,3,1.5,0,4,Lokesh Malik(I+T),,,,,"M1,M2
+(7/205)","J1
+(7/201)",,,,,,
 ME 691-XIV,Special Topics in Mechanical Engineering: Mathematical Tools for Mechanical Engineers,3,1,0,4,Uddipta Ghosh(I+T),,40,,,"L1,L2
 (7/207)","H1
 (7/207)",,,,,,
