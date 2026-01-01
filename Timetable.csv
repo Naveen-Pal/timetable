@@ -77,7 +77,7 @@ PH 203,Solid State Physics ,3,1,0,4,Chandan Kumar Mishra(I+T),,120,,,"E1,E2
 (Surendra C Sheth Learning Theatre)","J1
 (Jayshree S Sheth Learning Theatre)",,Course Plan,,,,
 CL 202,Chemical Engineering Thermodynamics,2,1,0,3,Pratyush Dayal(I+T),,50,,,"G1,G2
-(7/102)",,,Course Plan,,,,
+(7/108)",,,Course Plan,,,,
 CS 203,Software Tools & Techniques for AI,1.5,0,3,4,Nipun Batra(I+L),,77,,,"I2
 (10/103)",,"B1,B2
 (10/203,10/204)",https://nipunbatra.github.io/stt-ai-26/,,,,
@@ -112,10 +112,10 @@ ES 214,Discrete Mathematics,3,1,0,4,Jyothi Krishnan(I+T),,115,,,"B1,B2
 ES 246,Vacuum Technology Laboratory,0,0,3,2,Emila Panda(L),,70,,,,,"I1,K1
 (10/103,MSE Lab)",,,,,
 ES 247,IC Fabrication Processes,3,0,0,4,Nihar Mohapatra(I),,70,,,"G1,G2
-(11/101)",,,,,,,
-EE 227,CMOS Circuit Design,2,1,1.5,4,Joycee Mekie(I+T+L),,70,,,"L1,L2
-(Harsha Patel Learning Theatre)","H1
-(Jagdish Patel Learning Theatre)","E1,H2
+(11/101)",,,Course Plan,,,,
+EE 227,CMOS Circuit Design,2,1,1.5,4,Joycee Mekie(I+T+L),,70,,,"D1,D2
+(Jayshree S Sheth Learning Theatre)","L1
+(Jayshree S Sheth Learning Theatre)","E1,H2
 (10/104,10/105)",Course Plan,,,,
 CE 202,Sustainability and Environment,1,0,3,3,Abhishek Singhal(I+L),,32,,,"B1
 (7/109)",,"B2,I2
@@ -424,7 +424,7 @@ MA 691-VII,Special Topics in Mathematics: Hermitian Analysis,3,1.5,0,4,Gadadhar 
 Additional Courses: Physics,,,,,,,,,,,,,,,,,,
 PH 409,Introduction to Astronomy and Space Science,3,0,0,4,Anand Sengupta(I),,40,,,"K1,K2
 (7/105)",,,,,,,
-PH 653,Advanced Condensed Matter Physics (N),3,0,0,4,Abhisek Samanta(I),,40,,,"C1,C2
+PH 653,Advanced Condensed Matter Physics,3,0,0,4,Abhisek Samanta(I),,40,,,"C1,C2
 (7/210)",,,CoursePlan_AdvCMP,,,,
 PH 504,Quantum Mechanics II,3,1,0,4,Arpan Bhattacharyya(I+T),,43,,,"G1,G2
 (10/102)","A1
@@ -517,7 +517,7 @@ HS 653,Academic Communication: Explanation and Paraphrasing,3,0,0,2,Jooyoung Kim
 (11/204)",,,HS653_2025-26_Academic Communication Explanation and Paraphrasing_Syllabus,,,,
 HS 654,Mixed Methods in Research,3,0,0,2,Aditi Kothiyal(I),,35,,,"D1,D2
 (11/101)",,,Course plan_Mixed methods in Research_2025-2026,,,,
-HS 657,Mixed Methods in Research (N),3,0,0,4,Aditi Kothiyal(I),,,,,"D1,D2
+HS 657,Mixed Methods in Research,3,0,0,4,Aditi Kothiyal(I),,,,,"D1,D2
 (11/101)",,,Course plan_Mixed methods in Research_2025-2026,,,,
 HS 691-IX,Decolonizing Social Sciences,3,0,0,4,Tanka B. Subba(I),,19,,,"I1,I2
 (11/205)",,,https://docs.google.com/document/d/1dKJTp_cApCUiXicOal1elYXLGBRGxKPx4AbYX0a5Rt0/edit?usp=sharing,,,,
@@ -525,7 +525,7 @@ HS 691-VII,"Special Topics in HSS: Haunting, Spectrality and Cinema",3,0,0,4,Ark
 (7/206)",,,https://drive.google.com/file/d/12vv9HpK2azc4PkZ-o4v--DOVEdZJZdzQ/view?usp=sharing,,,,
 HS 491-III,Strorytelling for the Digital Era,3,0,0,4,Arnapurna Rath(I),,40,,,"P1,P2
 (7/104)",,,Course Plan,,,,
-HS 491-IX,Special Topics in HSS: Understanding and Designing Comics and Graphic Novels,3,0,0,4,Argha Manna(I),,40,,,"I1,J2
+HS 491-XI,Special Topics in HSS: Understanding and Designing Comics and Graphic Novels,3,0,0,4,Argha Manna(I),,40,,,"I1,J2
 (7/201)",,,https://drive.google.com/file/d/1c3XE1qni5TZQtuGVTqdbNWSO9HFVQ7FI/view,,,,
 HS 491-XIII,Drawing Conncetions: Enviranmental Perception and Visula Anthropology,3,0,0,4,Suman Choudhury(I),,53,,,"M1,M2
 (10/102)",,,https://drive.google.com/file/d/1rOupO6miysPigc2_R7qC5kkHtWlxdJzX/view?usp=sharing,,,,
@@ -551,16 +551,16 @@ MS 404,Neuromarketing (second half),3,0,0,2,Aditi (GTF)(I),,,,,"M1,M2
 MS 306,Principles of Business Management,3,0,0,4,Abhijit Kothari(I),,56,,,"N1,N2
 (7/208)",,,,,,,
 MS 491-VII,Special Topics in Management: Managing Sustainable Businesses,3,0,0,4,Anselm Schneider(I),,51,,,"G1,F2
-(Online)",,,,,,,
+(Online)",,,Course Plan and Zoom Link,,,,
 MS 491-XIV,Special Topics in Management: Consumer Behaviour,3,0,0,4,Marcos Severos(I),,59,,,"M1,M2
 (Online)",,,https://drive.google.com/file/d/1n50Zg6vYk11MILEXWnUl2j4kh5zcRhBP/view?usp=sharing,,,,
 MS 491-XV,"Special Topics in Management: Medical Products Manufacturing Quality and Regulatory 
 (first half) ",3,0,0,3,Premalatha Chelvakumar(I),,30,,,"J1,J2
 (7/207)",,,https://docs.google.com/document/d/1dwKidPZvWB5fb6qMjyGGFSZK_i5pB7_n/edit?usp=sharing&ouid=102662624367208393875&rtpof=true&sd=true,,,,
 MS 491-XVI,Special Topics in Management: Lean Six Sigma,3,0,0,4,Alok Bhatnagar(I),,40,,,"M1,M2
-(7/206)",,,,,,,
+(7/206)",,,Course Plan,,,,
 MS 491-XVII,Special Topics in Management: Organizational Psychology,3,0,0,4,Ramachandran Veetikazhi(I),,40,,,"P1,P2
-(7/110)",,,,,,,
+(7/110)",,,Course Plan Orgn Psychology.pdf,,,,
 MS 492-I,"Special Topics in Management: Strategic Leadership
 (first half)",3,0,0,2,Rajeev Sharma(I),,45,,,"P1,P2
 (7/102)",,,Course Plan,,,,
@@ -568,7 +568,7 @@ MS 492-II,"Special Topics in Management: Business Risk Management
 (first half)",3,0,0,2,Prerna Wadikar(I),,46,,,"N1,P1
 (7/110)",,,,,,,
 MS 491-XVIII,Special Topics in Management: Comprehensive Business Ethics & Responsible Leadership,3,0,0,4,Ramachandran Veetikazhi(I),,,,,"L1,L2
-(10/102)",,,,,,,
+(10/102)",,,Course Plan Comprehensive Business Ethics and Responsible Leadership.pdf,,,,
 MS 491-XIX,Special Topics in Management: Comprehensive Manufacturing Quality & Regulatory of Medical Products,3,0,0,4,Premalatha Chelvakumar(I),,,,,"J1,J2
 (7/207)",,,,,,,
 MS 492-IV,Special Topics in Management: Business Ethics and Responsible Leadership (first half),3,0,0,2,Ramachandran Veetikazhi(I),,41,,,"L1,L2
@@ -808,7 +808,7 @@ ES 656,Human Robot Interaction,3,0,0,4,Vineet Vashista(I),,29,,,"G1,G2
 ES 671,Mechanics of Composite Materials,3,0,0,4,Harini Subramanian(I),,7,,,"E1,E2
 (7/207)",,,https://iitgnacin-my.sharepoint.com/:w:/g/personal/harini_subramanian_iitgn_ac_in/ETGngwwvEglFjFuvAS-vLdkB5q0KwWlS6IszHFqksBUmVw?e=pRAlEe,,,,
 ME 462,Integrated Design and Manufacturing,1.5,0,3,4,Rakesh Singhai(I+L),,27,,,"N1
-(7/107)",,"I1,K1
+(7/107)",,"K1,H1
 (7/107)",,,,,
 ME 628,Advanced Fluid Mechanics,3,1,0,4,Vinod Narayanan(I+T),,6,,,"G1,G2
 (11/204)","A1
