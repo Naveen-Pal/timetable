@@ -33,7 +33,7 @@ Introduction to Partial Differential Equations (second half),MA 204,"D1,D2",A1,,
 Chemical Reaction Engineering - I,CL 205,"I2,J2",,,3.0,Harsha Patel Learning Theatre,,
 Principles of Manufacturing Processes,ME 209,"G1,G2",A2,,3.0,7/209,7/209,
 Mechanics of Solids,ES 221,"C1,C2",B1,,4.0,7/208,"7/102,7/107",
-Fluid Mechanics,ES 212,"G1,G2",A1,,4.0,7/101,7/210,
+Fluid Mechanics,ES 212,"G1,G2",H2,,4.0,7/101,7/108,
 Vacuum Technology Laboratory,ES 246,,,"I1,K1",2.0,,,"10/103,MSE Lab"
 IC Fabrication Processes,ES 247,"G1,G2",,,4.0,11/101,,
 CMOS Circuit Design,EE 227,"D1,D2",L1,"E1,H2",4.0,,,"10/104,10/105"
@@ -49,10 +49,10 @@ Microstructural Engineering,MSE 210,"A1,A2",,J2,4.0,7/105,,MSE Lab
 Power Systems,EE 224,"G1,G2",H2,,4.0,7/208,"7/102,7/107",
 Control Systems,ES 245,"A1,A2",B1,,4.0,,"7/202,7/203,7/204",
 Data Structures and Algorithms II,ES 301,"M1,M2",J1,,4.0,,,
-Computer Organization & Architecture,ES 336,"N1,N2",E2,,4.0,10/103,10/103,
+Computer Organization & Architecture,ES 336,"N1,N2","H1,E2",,4.0,Jasubhai Auditorium,"11/101,11/102,7/209,7/108",
 Physical Education,PE 104,,,,0.0,,,
 Comprehensive Viva Voce,IN 103,,,,0.0,,,
-Machine Learning (M),ES 335,"D1,D2",H1,,4.0,10/103,10/103,
+Machine Learning,ES 335,"D1,D2",H1,,4.0,10/103,,
 Discipline Elective,CS XXX,,,,,,,
 Comprehensive Viva Voce (Third Year B.Tech. Students),IN 106,,,,0.0,,,
 Separation Processes - II,CL 316,"G1,G2",,,3.0,7/107,,
@@ -104,7 +104,7 @@ Fundamentals and Applications of Spectroscopy,CH 203,"K1,K2",,,4.0,,,
 Fundamentals of Analytical Chemistry,CH 503,"M1,M2",,,4.0,7/201,,
 Reactions and Mechanisms in Organic Chemistry,CH 512,"F1,F2",,,4.0,7/108,,
 Inorganic Chemistry Laboratory,CH 522,"I1,K1",,,2.0,CH Lab,,
-Organic Chemistry Laboratory,CH 523,,,"M1,M2",2.0,,,CH Lab
+Organic Chemistry Laboratory,CH 523,,,"J2,M2",2.0,,,CH Lab
 Analytical and Computational Chemistry Laboratory,CH 524,,,"I2,M1",2.0,,,10/104
 Physical Chemistry Laboratory,CH 525,,,"E2,H1",2.0,,,CH Lab
 Group theory and spectroscopy,CH 526,"B1,B2",,,4.0,7/110,,
@@ -117,9 +117,9 @@ Medicinal Chemistry for Life,CH 629,"E1,E2",,,4.0,13/125,,
 Catalytic Chemistry,CH 630,"E1,E2",,,4.0,7/104,,
 Solid State Chemistry and Applications,CH 632,"D1,D2",,,4.0,Harsha Patel Learning Theatre,,
 Single Molecule Spectroscopy,CH 633,J1,,"L1,L2",4.0,7/101,,CH Lab
-Introduction to Molecular Dynamics,CH 634,L1,,"N1,N2",4.0,7/210,,CH Lab
+Introduction to Molecular Dynamics,CH 634,L1,,"N1,N2",4.0,7/210,,10/104
 Electronic Structure Theory,CH 638,"P1,P2",,,4.0,7/201,,
-Advanced Main Group Chemistry ,CH 639,"A2,I2",,,4.0,13/125,,
+Advanced Main Group Chemistry ,CH 639,"I1,I2",,,4.0,13/125,,
 Non-linear Spectroscopy and its Applications,CH 642,"I1,I2",,,4.0,7/103,,
 AI and Mathematics,MA 513,"K1,K2",B1,,4.0,7/205,7/205,
 Complex Analysis,MA 502,"G1,G2",A1,,4.0,7/109,7/203,
@@ -155,6 +155,7 @@ Advanced General Relativity,PH 649,"A1,A2",,,4.0,7/205,,
 Special Topics in Physics: Effective Field Theory,PH 691-V,"I1,K2",,,4.0,7/206,,
 Writing Course in Chemistry,FP 602 (CH),A1,,"E1,H2",4.0,,,
 Writing Course in Physics,FP 602 (PH),B2,,"L2,N2",4.0,,,
+French Studies,HS 103,"I1,I2",,,4.0,7/208,,
 Urdu script and poetry,HS 111,"D1,D2",H2,,4.0,7/201,7/106,
 Urdu poetry interpretation,HS 112,"H1,M1",B2,,4.0,7/102,7/107,
 Japanese Language for Beginners,HS 152,"M1,M2",J1,,4.0,11/102,11/102,
@@ -241,8 +242,8 @@ Emotion and Cognition,CG 607,"L1,L2",,K1,4.0,7/106,,7/202
 Human Brain Mapping,CG 614,"F1,F2",,,4.0,7/203,,
 Introduction to Data Structures and Algorithms,ES 248,E1,,"I1,K1",3.0,11/101,,10/203
 Compilers,CS 327,"F1,G2",,F2,5.0,,,"10/203,10/204"
-Introduction to Data Science,CS 328,"M1,M2",J2,,4.0,10/103,10/103,
-Machine Learning (N),ES 678,"D1,D2",H1,,4.0,10/103,10/103,
+Introduction to Data Science,CS 328,"M1,M2",J2,,4.0,10/103,"10/103,11/101,11/102",
+Machine Learning,ES 678,"D1,D2",H1,,4.0,10/103,,
 Advanced Algorithms,CS 614,"N1,N2",,,4.0,11/206,,
 "Distributed Systems and
 Cloud Computing",CS 616,"M1,M2",,I1,5.0,11/206,,10/104
@@ -292,7 +293,7 @@ Climate of the Past,EH 621,K1,,"J2,L1",4.0,11/204,,7/206
 Fluid Flow and Reactions in Reservoir Rocks,EH 622,"G1,G2",,,4.0,7/201,,
 Stratigraphic Evolution of Indian Continent,EH 623,"P1,P2",B1,,4.0,13/125,13/125,
 Ceramics in Archaeology ,EH 629,"M1,M2",,,4.0,11/204,,
-Harappan Civilisation,EH 630,"D1,D2",,,4.0,7/202,,
+Harappan Civilization,EH 630,"D1,D2",,,4.0,7/202,,
 Fundamentals of Structural Geology,EH 632,G1,,"I1,K1",4.0,13/125,,EH Lab
 Dynamic Earth Surface and Nature Hazards,EH 634,G2,,"I2,M1",4.0,7/104,,EH Lab
 Atmopheric Physics,EH 691-II,"C1,C2",,,4.0,13/125,,
@@ -305,14 +306,14 @@ Modern Control Theory,ES 613,"E1,E2",,,4.0,11/204,,
 Human Robot Interaction,ES 656,"G1,G2",,,4.0,7/105,,
 Mechanics of Composite Materials,ES 671,"E1,E2",,,4.0,7/207,,
 Integrated Design and Manufacturing,ME 462,N1,,"K1,H1",4.0,7/107,,7/107
-Advanced Fluid Mechanics,ME 628,"G1,G2",A1,,4.0,11/204,11/204,
+Advanced Fluid Mechanics,ME 628,"G1,G2",H2,,4.0,7/102,7/202,
 Energy Systems,ES 632,"F1,F2",,,4.0,13/124,,
 Special Topics in Mechanical Engineering: Mechanics of Elastic Rods,ME 691-X,"M1,M2",,,4.0,7/106,,
-Special Topics in Mechanical Engineering: Introduction to Computational Solid Mechanics,ME 691-XIX,"M1,M2",J1,,4.0,7/203,10/104,
+Special Topics in Mechanical Engineering: Introduction to Computational Solid Mechanics,ME 691-XIX,"F1,F2",J2,,4.0,7/109,7/109,
 Special Topics in Mechanical Engineering: Introduction to Conduction and Radiation Heat Transfer,ME 691-XX,"M1,M2",J1,,4.0,7/205,7/201,
 Special Topics in Mechanical Engineering: Mathematical Tools for Mechanical Engineers,ME 691-XIV,"L1,L2",H1,,4.0,7/207,7/207,
 Special Topics in Mechanical Engineering: Advanced Nonlinear Dynamics,ME 691-XV,"I1,I2",,,4.0,7/102,,
-Aircraft and Rocket Propulsion,ME 643,"M1,M2",,,4.0,7/105,,
+Aircraft and Rocket Propulsion,ME 643,"P1,P2",,,4.0,7/103,,
 Vapor Liquid Phase Change Phenomena,ME 647,"I1,I2",,,4.0,7/207,,
 Mathematical Tools for Mechanical Engineers-II,ME 649,"L1,L2",H1,,4.0,7/207,7/207,
 Special Topics in Mechanical Engineering: Data and Observer Design (first half),ME 692-VII,J1,,"K2,L2",2.0,7/206,,ME Lab
