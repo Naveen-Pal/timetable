@@ -4,11 +4,11 @@ Ordinary Differential Equations (first half),MA 104 (E),"E1,E2",H2,,2.0,Jasubhai
 Ordinary Differential Equations (first half),MA 104 (H),"E1,E2",H2,,2.0,,"7/205,7/206,7/207",
 Data-Centric Computing,ES 113 (E),D1,,N1,3.0,Jasubhai Auditorium,,"10/104,10/105,10/203,10/204"
 Data-Centric Computing,ES 113 (H),D2,,L1,3.0,Jasubhai Auditorium,,"10/104,10/105"
-Principles of Artificial Intelligence,ES 119 (E),D1,,"J1,J2",3.0,Jasubhai Auditorium,,
-Principles of Artificial Intelligence,ES 119 (H),C1,,,3.0,7/109,,
-"Probability, Statistics, and Data Visualization",ES 114 (E),C1,,K2,3.0,Jasubhai Auditorium,,"10/104,10/105,10/203,10/204"
-"Probability, Statistics, and Data Visualization",ES 114 (H),D1,,L2,3.0,11/102,,"10/104,10/105"
-Principles and Applications of Electrical Engineering,ES 116 (E),"G1,G2",N2,"I1,L1,M1,L2,M2",5.0,Jasubhai Auditorium,,EE Lab
+Principles of Artificial Intelligence,ES 119 (E),"D1,A1",,"J1,L1",3.0,Jasubhai Auditorium,,
+Principles of Artificial Intelligence,ES 119 (H),"C1,A2",,,3.0,,,
+"Probability, Statistics, and Data Visualization",ES 114 (E),"C1,A2",,K2,3.0,Jasubhai Auditorium,,"10/104,Jasubhai Auditorium"
+"Probability, Statistics, and Data Visualization",ES 114 (H),"D1,A1",,L2,3.0,11/102,,"10/104,10/105"
+Principles and Applications of Electrical Engineering,ES 116 (E),"G1,G2",N2,"I1,J2,M1,L2,M2",5.0,Jasubhai Auditorium,,EE Lab
 Principles and Applications of Electrical Engineering,ES 116 (H),"G1,G2",N2,,5.0,10/103,"7/106,7/202,7/109",
 The World of Engineering,ES 117 (E),,,"K1,H1",2.0,,,Jasubhai Auditorium
 The World of Engineering,ES 117 (H),,,"K1,H1",2.0,,,Harsha Patel Learning Theatre
@@ -18,19 +18,19 @@ Thermodynamics,ES 211,"B1,B2",I2,,3.0,10/103,,
 Discrete Mathematics,ES 214,"B1,B2",I2,,4.0,,,
 Unveiling the Semiconductor World,EE 225,D2,,,2.0,,,
 Semiconductor Devices,EE 226,"B1,B2",I2,,4.0,,,
-Introduction to writing II,HS 192,"A1,A2","F1,F2",,2.0,"7/101,7/102,7/103,7/104",,
+Introduction to writing II,HS 192,,"F1,F2",,2.0,,,
 Structure of Materials,MSE 207,"B1,B2",I2,,4.0,7/210,7/101,
 Physical Education,PE 102,,,,0.0,,,
 Comprehensive Viva Voce,IN 102,,,,0.0,,,
 Theory of Computing,CS 201,"C1,C2",H2,,4.0,,,
 Introduction to Electrodynamics,PH 201,"P1,P2",B2,,4.0,,"7/208,7/209",
 Solid State Physics ,PH 203,"E1,E2",J1,,4.0,,,
-Chemical Engineering Thermodynamics,CL 202,"G1,G2",,,3.0,7/108,,
+Chemical Engineering Thermodynamics,CL 202,"G1,G2","G1,G2",,3.0,7/108,7/108,
 Process Fluid Mechanics,CL 203,"E1,E2",H2,,3.0,Harsha Patel Learning Theatre,Harsha Patel Learning Theatre,
-Heat Transfer,CL 204,"D1,D2",,,3.0,10/102,,
+Heat Transfer,CL 204,"D1,D2","D1,D2",,3.0,10/102,10/102,
 Numerical Methods (second half),MA 203,"F1,F2",L2,,2.0,Jasubhai Auditorium,,
 Introduction to Partial Differential Equations (second half),MA 204,"D1,D2",A1,,2.0,7/106,7/207,
-Chemical Reaction Engineering - I,CL 205,"I2,J2",,,3.0,Harsha Patel Learning Theatre,,
+Chemical Reaction Engineering - I,CL 205,"I2,J2","I2,J2",,3.0,Harsha Patel Learning Theatre,Harsha Patel Learning Theatre,
 Principles of Manufacturing Processes,ME 209,"G1,G2",A2,,3.0,7/209,7/209,
 Mechanics of Solids,ES 221,"C1,C2",B1,,4.0,7/208,"7/102,7/107",
 Fluid Mechanics,ES 212,"G1,G2",H2,,4.0,7/101,7/108,
@@ -39,7 +39,7 @@ IC Fabrication Processes,ES 247,"G1,G2",,,4.0,11/101,,
 CMOS Circuit Design,EE 227,"D1,D2",L1,"E1,H2",4.0,,,"10/104,10/105"
 Fluid Dynamics,ME 207,"D1,D2",A1,I1,5.0,7/108,"7/201,7/204",11/102
 Vibrations,ME 208,"K1,K2",J2,,2.0,7/209,7/209,
-Mechanics of Materials,ME 333,"L1,L2",,I1,3.0,7/109,,ME Lab
+Mechanics of Materials,ME 333,"L1,L2","L1,L2",J2,3.0,7/109,7/109,ME Lab
 Structural Analysis,CE 302,"E1,E2",C1,,4.0,7/101,7/101,
 Mathematical Foundations for AI,CS 303,"G1,G2",K2,,4.0,Harsha Patel Learning Theatre,,
 Introduction to Computational Materials Engineering,MSE 315,"G1,G2",I2,I1,4.0,7/210,7/202,7/202
@@ -52,20 +52,22 @@ Data Structures and Algorithms II,ES 301,"M1,M2",J1,,4.0,,,
 Computer Organization & Architecture,ES 336,"N1,N2","H1,E2",,4.0,Jasubhai Auditorium,"11/101,11/102,7/209,7/108",
 Physical Education,PE 104,,,,0.0,,,
 Comprehensive Viva Voce,IN 103,,,,0.0,,,
+Introduction to Data Science,CS 328,"M1,M2",J2,,4.0,10/103,"10/103,11/101,11/102",
 Machine Learning,ES 335,"D1,D2",H1,,4.0,10/103,,
 Discipline Elective,CS XXX,,,,,,,
 Comprehensive Viva Voce (Third Year B.Tech. Students),IN 106,,,,0.0,,,
-Separation Processes - II,CL 316,"G1,G2",,,3.0,7/107,,
+Separation Processes - II,CL 316,"G1,G2","G1,G2",,3.0,7/107,7/107,
 "Process Synthesis, Design, and Simulation",CL 317,E1,,"K1,H1",4.0,7/202,,10/104
-Transport Phenomena,CL 325,"D1,D2",,,3.0,7/102,,
+Transport Phenomena,CL 325,"D1,D2","D1,D2",,3.0,7/102,7/102,
 Integrated Chemical Engineering Lab-II,CL 327,,,"J1,L1",2.0,,,CL Lab
 HSS Elective,HS XXX,,,,,,,
 Comprehensive Viva Voce (Fourth Year B.Tech. Students),IN 108,,,,0.0,,,
 Environmental Science and Engineering,CE 313,"D1,D2",,,4.0,7/103,,
 Design of Reinforced Concrete Structures,CE 311,"G1,G2",L2,N2,5.0,7/103,"7/206,7/102",CE Lab
-Geotechnical Engineering,CE 314,"F1,F2",,"K1,H1",4.0,7/206,,CE Lab
+Geotechnical Engineering,CE 314,F1,F2,"K1,H1",4.0,7/206,7/206,CE Lab
 Construction Technology & Management,CE 403,"C1,C2",,,4.0,7/104,,
 Communication Systems,EE 313,"J1,J2",L2,,3.0,7/208,7/209,
+Communication Systems,EE 341,"J1,J2","L2,N2",,4.0,7/208,Harsha Patel Learning Theatre,
 Synthesis and Analysis of Mechanisms,ME 335,"D1,D2",,I1,3.0,7/203,,Makers Bhavan
 Mechanical Systems Design,ME 337,"C1,C2",,,3.0,7/203,,
 Energy Systems,ES 337,"F1,F2",,,3.0,13/124,,
@@ -82,14 +84,14 @@ Remote Sensing of Land and Water Resources,CE 605,"M1,M2",,,4.0,7/101,,
 Structural Design for Fire,CE 615,"M1,M2",,,4.0,7/107,,
 Applied Hydraulic Transients,CE 628,"J1,J2",,,4.0,13/124,,
 Geosynthetics,CE 629,"L1,L2",,,4.0,13/124,,
-Advanced Concrete Design,CE 632,"K1,K2",,,4.0,13/124,,
+Advanced Concrete Design,CE 632,"K1,K2",,,4.0,7/204,,
 Traffic and Roadway Engineering,CE 636,"E1,E2",,,4.0,11/206,,
 AI for Civil Engineering,CE 639,"C1,C2",,,4.0,"11/205,11/206",,
 Special Topics in Civil Engineering: Design for Dynamic Loads,CE 691-I,"P1,P2",,,4.0,13/124,,
 Special Topics in Civil Engineering: Geotechnical Infrastructure Projects,CE 691-V,"I1,I2",,,4.0,13/124,,
 Special Topics: Drinking Water Treatment : Engineering Practices,CE 691-VII,"N1,N2",,,4.0,7/102,,
 Financial Modeling and Engineering,ES 418,"G1,G2",,,4.0,7/203,,
-Colloidal Domain: Where Science Meets Engineering,CL 605,"P1,P2",,,4.0,7/202,,
+Colloidal Domain: Where Science Meets Engineering,CL 605,"C1,C2",,,4.0,7/202,,
 Introduction to Process Safety,CL 353,A2,,,2.0,7/210,,
 Design of Experiments,ES 617,"N1,N2",,,4.0,10/102,,
 Particulate Solids: Processing & Surface Engineering,CL 627,"N1,N2",,,4.0,7/201,,
@@ -109,6 +111,7 @@ Analytical and Computational Chemistry Laboratory,CH 524,,,"I2,M1",2.0,,,10/104
 Physical Chemistry Laboratory,CH 525,,,"E2,H1",2.0,,,CH Lab
 Group theory and spectroscopy,CH 526,"B1,B2",,,4.0,7/110,,
 Organometallic Chemistry,CH 527,"E1,E2",,,4.0,7/210,,
+Special Topics in Chemistry: Introduction to Polymer Chemistry,CH 591-I,"G1,G2",,,4.0,7/104,,
 Chemical biology in space (Special topics course),CH 592-I,"D1,D2",,,4.0,"11/204,11/205",,
 Chemistry of Natural Products,CH 602,"H1,J2",,,4.0,11/204,,
 Electrochemistry,CH 615,"G1,G2",,,4.0,7/205,,
@@ -127,12 +130,12 @@ Ordinary Differential Equations,MA 507,"E1,E2",B1,,4.0,7/109,7/108,
 Differential Topology,MA 606,"I1,I2",,,4.0,7/102,,
 Real analysis of several variables,MA 629 (A),"F1,F2",A2,,4.0,7/107,7/202,
 Numerical Analysis and Computing,MA 637,"D1,D2",H2,,4.0,7/209,7/208,
-Stochastic Differential Equations,MA 625,"K1,K2",,,4.0,13/125,,
+Stochastic Differential Equations,MA 625,"K1,K2",,,4.0,7/110,,
 Algebra II,MA 628,"C1,C2",B2,,4.0,7/105,7/101,
 Algebraic Number theory,MA 634,"J1,J2",,,4.0,7/103,,
 Matrix Lie Groups,MA 638,"P1,P2",,,4.0,7/205,,
 Matrix Analysis,MA 639,"M1,M2",,,4.0,7/208,,
-Commutative Algebra II,MA 645,"E1,E2",K2,,4.0,7/105,7/203,
+Commutative Algebra II,MA 645,"E1,E2","K1,K2",,4.0,7/105,7/203,
 Modular Forms,MA 646,"C1,C2",,,4.0,10/102,,
 Elliptic cruves and surfaces,MA 691-IV,"A1,A2",,,4.0,7/108,,
 Commutative Algebra - II,MA 691-V,"E1,E2",K2,,4.0,7/105,7/203,
@@ -190,7 +193,7 @@ Human Evolution ,IN 402,"P1,P2",,,4.0,7/204,,
 Japan Studies,HS 108,"E1,E2",,,2.0,7/201,,
 "Creativity, Design and Doing",DES 302,"N1,N2",,,4.0,,,
 Game Apreciation and Game Aesthetics,DES 591-I,"J1,L1",,,4.0,7/204,,
-Visual Design for Academia,DES 601,L1,,"J2,M2",4.0,7/101,,
+Visual Design for Academia,DES 601,L1,,"J2,M2",4.0,7/101,,7/203
 Special Topics in Design: Designing Learning environments for science and engineering,DES 691-II,"L1,L2",,,4.0,11/101,,
 Neuromarketing (second half),MS 404,"M1,M2",,,2.0,7/109,,
 Principles of Business Management,MS 306,"N1,N2",,,4.0,7/208,,
@@ -241,12 +244,11 @@ Learning and Memory,CG 605,"D1,D2",,,4.0,7/105,,
 Emotion and Cognition,CG 607,"L1,L2",,K1,4.0,7/106,,7/202
 Human Brain Mapping,CG 614,"F1,F2",,,4.0,7/203,,
 Introduction to Data Structures and Algorithms,ES 248,E1,,"I1,K1",3.0,11/101,,10/203
-Compilers,CS 327,"F1,G2",,F2,5.0,,,"10/203,10/204"
-Introduction to Data Science,CS 328,"M1,M2",J2,,4.0,10/103,"10/103,11/101,11/102",
+Compilers,CS 327,"F1,G2",,"L2,N2",5.0,,,"10/203,10/204"
 Machine Learning,ES 678,"D1,D2",H1,,4.0,10/103,,
 Advanced Algorithms,CS 614,"N1,N2",,,4.0,11/206,,
 "Distributed Systems and
-Cloud Computing",CS 616,"M1,M2",,I1,5.0,11/206,,10/104
+Cloud Computing",CS 616,"M1,M2",,"J1,L1",5.0,11/206,,10/104
 Computational Complexity Theory,CS 617,"J1,J2",,,4.0,13/125,,
 Deep Learning,ES 667,"L1,L2",,,4.0,7/208,,
 "Matrix Methods for Signal Processing, Data Science,
@@ -257,7 +259,7 @@ Databases,CS 432,"P1,P2",,,4.0,10/103,,
 "History of Computing and its Applications to Domains
 (second half)",CS 436,"A1,A2",,,2.0,,,
 Ethics of AI (N),CS 621,"K1,K2",,,4.0,7/101,,
-Microprocessors and Embedded Systems,ES 333,"G1,G2",,"C1,C2",4.0,7/202,,EE Lab
+Microprocessors and Embedded Systems,ES 333,G1,G2,"C1,C2",4.0,7/202,7/202,EE Lab
 Advanced Signal Processing,EE 609,"E1,E2",,,4.0,7/204,,
 Artificial Intelligence,ES 612,"I1,I2",,,4.0,7/101,,
 Microelectronics Lab,EE 618,,,"J2,M2",2.0,,,10/104
@@ -272,14 +274,14 @@ Medical Imaging Systems,ES 655,"J1,J2",,,4.0,7/210,,
 VLSI System Design,EE 657,"J1,I2",,,4.0,11/101,,
 Memory Device Technologies and Applications,EE 658,"K1,K2",,,4.0,7/210,,
 Power Management IC Design ,EE 660,"P1,P2",,,4.0,7/101,,
-Advanced Transportation Electrification Technology,ES 665,"I1,I2",,,4.0,7/210,,
-Smart Power Distribution System,EE 668,"I1,I2",,,4.0,7/105,,
+Advanced Transportation Electrification Technology,ES 665,"G1,G2",,,4.0,7/105,,
+Smart Power Distribution System,EE 668,"C1,C2",,,4.0,7/201,,
 Physics inspired Machine Learning for Engineering Design,ES 677,"N1,N2",J2,,4.0,7/105,7/104,
 Advanced Radiating Systems,EE 665,"M1,M2",J1,,4.0,7/104,7/104,
 Fundamentals of Wireless Localization,EE 666,"K1,K2",,,4.0,7/103,,
 Advanced Semiconductor Devices,EE 669,"L1,L2",,,2.0,11/204,,
 Quantum Error Correction,EE 667,"P1,P2",,,2.0,7/210,,
-AI for Electrical Engineering,EE 670,"I1,I2",,,4.0,10/102,,
+AI for Electrical Engineering,EE 670,"E1,E2",,,4.0,10/103,,
 Classical Information Theory,ES 676,"I1,I2",,,4.0,7/204,,
 "Drone Data Acquisition, Processing and Interpretation",EH 304,D1,,"J2,M2",2.0,7/104,,10/105
 Earth Surface Processes in The Anthropocene,EH 601 (N),"B1,B2",,H1,4.0,7/103,,10/102
@@ -294,7 +296,7 @@ Fluid Flow and Reactions in Reservoir Rocks,EH 622,"G1,G2",,,4.0,7/201,,
 Stratigraphic Evolution of Indian Continent,EH 623,"P1,P2",B1,,4.0,13/125,13/125,
 Ceramics in Archaeology ,EH 629,"M1,M2",,,4.0,11/204,,
 Harappan Civilization,EH 630,"D1,D2",,,4.0,7/202,,
-Fundamentals of Structural Geology,EH 632,G1,,"I1,K1",4.0,13/125,,EH Lab
+Fundamentals of Structural Geology,EH 632,G1,,"I2,M1",4.0,13/125,,EH Lab
 Dynamic Earth Surface and Nature Hazards,EH 634,G2,,"I2,M1",4.0,7/104,,EH Lab
 Atmopheric Physics,EH 691-II,"C1,C2",,,4.0,13/125,,
 Interpreting animals in the Human past,EH 691-X,"I1,I2",,,4.0,11/204,,
@@ -311,6 +313,7 @@ Energy Systems,ES 632,"F1,F2",,,4.0,13/124,,
 Special Topics in Mechanical Engineering: Mechanics of Elastic Rods,ME 691-X,"M1,M2",,,4.0,7/106,,
 Special Topics in Mechanical Engineering: Introduction to Computational Solid Mechanics,ME 691-XIX,"F1,F2",J2,,4.0,7/109,7/109,
 Special Topics in Mechanical Engineering: Introduction to Conduction and Radiation Heat Transfer,ME 691-XX,"M1,M2",J1,,4.0,7/205,7/201,
+Special Topics in Mechanical Engineering: Mechatronics Design Studio,ME 691-XXI,D1,,"K1,H1",4.0,Makers Bhavan,,Makers Bhavan
 Special Topics in Mechanical Engineering: Mathematical Tools for Mechanical Engineers,ME 691-XIV,"L1,L2",H1,,4.0,7/207,7/207,
 Special Topics in Mechanical Engineering: Advanced Nonlinear Dynamics,ME 691-XV,"I1,I2",,,4.0,7/102,,
 Aircraft and Rocket Propulsion,ME 643,"P1,P2",,,4.0,7/103,,
