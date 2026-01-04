@@ -21,6 +21,7 @@ def process_timetable(input_file='Timetable.csv', output_file='Updated_Processed
         locations = re.findall(r'\((.*?)\)', text)
         location = ", ".join([loc for loc in locations if len(loc) < 30])
         clean_text = re.sub(r'\(.*?\)', '', text).strip()
+        clean_text = clean_text.replace('\n', ', ')
         
         return clean_text, location
 
