@@ -572,6 +572,18 @@ button {
     gap: 8px;
 }
 
+.download-options .ics-help {
+    margin-top: 10px;
+    font-size: 0.9rem;
+    color: #555;
+    text-align: center;
+}
+
+.download-options .ics-help a {
+    color: #0066cc;
+    text-decoration: underline;
+}
+
 .option-buttons {
     display: flex;
     justify-content: center;
@@ -626,6 +638,16 @@ button {
 
 .option-button.csv:hover {
     background-color: #e08e1c;
+}
+.option-button.ics {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+}
+
+.option-button.ics:hover {
+    background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+    box-shadow: 0 6px 20px rgba(102, 126, 234, 0.6);
 }
 
 .message-box {
