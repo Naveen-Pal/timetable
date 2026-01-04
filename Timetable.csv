@@ -21,11 +21,12 @@ ES 119 (E),Principles of Artificial Intelligence,1.5,0,3,3,"Manisha Padala(I),Ni
 ES 119 (H),Principles of Artificial Intelligence,1.5,0,3,3,"Manisha Padala(I),Nirmal Sancheti(I),Nipun Batra(I),Bireswar Das(L)
 ",,100,,,"C1,A2
 (Jayshree S Sheth Learning Theatre)",,,https://sites.google.com/iitgn.ac.in/principles-ai-2026/home,,,,
-ES 114 (E),"Probability, Statistics, and Data Visualization",1.5,0,1.5,3,Mayank Singh(I+L),,290,,,"C1,A2
+ES 114 (E),"Probability, Statistics, and Data Visualization",1.5,0,1.5,3,Mayank Singh(I+L),,290,,,"C1
 (Jasubhai Auditorium)",,"K2
 (10/104,Jasubhai Auditorium)",https://sites.google.com/iitgn.ac.in/es114-2026/home,,,,
-ES 114 (H),"Probability, Statistics, and Data Visualization",1.5,0,1.5,3,Mayank Singh(I+L),,100,,,"D1,A1
-(11/102)",,"L2
+ES 114 (H),"Probability, Statistics, and Data Visualization",1.5,0,1.5,3,Mayank Singh(I+L),,100,,,"D1
+(11/102)
+",,"L2
 (10/104,10/105)",https://sites.google.com/iitgn.ac.in/es114-2026/home,,,,
 ES 116 (E),Principles and Applications of Electrical Engineering,3,1,1.5,5,"Tarun Agrawal(I+T+L),Dinesh Sharma(T+L),Ragavan K(T),S Rajendran(T+L)
 ",,283,,,"G1,G2
@@ -44,7 +45,8 @@ CE 202,Sustainability and Environment,1,0,3,3,Abhishek Singhal(I+L),,32,,,"B1
 (7/109)",,,,,
 CS 203,Software Tools & Techniques for AI,1.5,0,3,4,Nipun Batra(I+L),,77,,,"I2
 (10/103)",,"B1,B2
-(10/203,10/204)",https://nipunbatra.github.io/stt-ai-26/,,,,
+(10/203,10/204)","B1,B2
+(10/203,10/204)",,,,
 ES 211,Thermodynamics,2,1,0,3,"Atul Bhargav(I),Abinaya Sampath(T)",,121,,,"B1,B2
 (10/103)","I2
 (Jagdish Patel Learning Theatre,7/106,7/107)",,,,,,
@@ -61,7 +63,7 @@ HS 192,Introduction to writing II,1,3,0,2,Jooyoung Kim(I+T),,380,,,,"F1,F2
 MSE 207,Structure of Materials,3,1,0,4,Anagh Bhaumik(I+T),,21,,,"B1,B2
 (7/210)","I2
 (7/101)",,,,,,
-PE 102,Physical Education,0,0,0,0,,,387,,,,,,Course Plan,,,,
+PE 102,Physical Education,0,0,0,0,,,387,,,,,,,,,,
 IN 102,Comprehensive Viva Voce,0,0,0,0,,,383,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,
 Second Year (2024),,,,,,,,,,,,,,,,,,
@@ -163,21 +165,21 @@ ES 301,Data Structures and Algorithms II,3,1,0,4,"Manoj Gupta(I+T),Neeldhara Mis
 (Jagdish Patel Learning Theatre)","J1
 (Jagdish Patel Learning Theatre,7/205)",,https://gmanoj.people.iitgn.ac.in/ES301/,,,,
 ES 336,Computer Organization & Architecture,3,1,0,4,"Sameer Kulkarni(I+T),Joycee Mekie(T)",,89,,,"N1,N2
-(Jasubhai Auditorium)","H1,E2
-(11/101,11/102,7/209,7/108)",,https://docs.google.com/document/d/1AeDFH8CfEIJZvTT4bdDjQwEZJp6lKn_U/edit,,,,
-PE 104,Physical Education,0,0,0,0,,,397,,,,,,Course Plan,,,,
+(Jasubhai Auditorium)","H1 (11/101,7/209)
+E2 (11/101,7/209)",,https://docs.google.com/document/d/1AeDFH8CfEIJZvTT4bdDjQwEZJp6lKn_U/edit,,,,
+PE 104,Physical Education,0,0,0,0,,,397,,,,,,,,,,
 IN 103,Comprehensive Viva Voce,0,0,0,0,,,379,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,
 6th Sem | B Tech Artificial Intelligence,,,,,,,,,,,,,,,,,,
 CS 328,Introduction to Data Science,3,1,0,4,"Anirban Dasgupta(I+T),Neeldhara Misra(T),Yogesh Meena(T)",,182,,,"M1,M2
 (10/103)","J2
 (10/103,11/101,11/102)",,https://sites.google.com/iitgn.ac.in/cs328/home,,,,
-ES 335,Machine Learning,3,1.5,0,4,"Krishna Miyapuram(I+T),Mayank Singh (T)",,249,,,"D1,D2
-(10/103)","H1
+ES 335,Machine Learning,3,1.5,0,4,Krishna Miyapuram(I+T),,249,,,"D1,D2
+(10/103)","H1,N1
 (10/103,Jayshree S Sheth Learning Theatre)",,https://docs.google.com/document/d/1TKeFcOgbI8tUN6Zk79sL1hrSk78RSXjhadblV_1LvcE/edit?tab=t.0,,UG Core,,
 ES 336,Computer Organization & Architecture,3,1,0,4,"Sameer Kulkarni(I+T),Joycee Mekie(T)",,89,,,"N1,N2
-(Jasubhai Auditorium)","H1,E2
-(11/101,11/102,7/209,7/108)",,https://docs.google.com/document/d/1AeDFH8CfEIJZvTT4bdDjQwEZJp6lKn_U/edit,,,,
+(Jasubhai Auditorium)","H1 (11/101,7/209)
+E2 (11/101,7/209)",,https://docs.google.com/document/d/1AeDFH8CfEIJZvTT4bdDjQwEZJp6lKn_U/edit,,,,
 CS XXX,Discipline Elective,,,,,,,,,,,,,,,,,
 CS XXX,Discipline Elective,,,,,,,,,,,,,,,,,
 IN 106,Comprehensive Viva Voce (Third Year B.Tech. Students),0,0,0,0,,,284,,,,,,,,,,
@@ -225,8 +227,8 @@ IN 108,Comprehensive Viva Voce (Fourth Year B.Tech. Students),0,0,0,0,,,223,,,,,
 ,,,,,,,,,,,,,,,,,,
 6th Sem | B Tech Computer Science and Engineering,,,,,,,,,,,,,,,,,,
 ES 336,Computer Organization & Architecture,3,1,0,4,"Sameer Kulkarni(I+T),Joycee Mekie(T)",,89,,,"N1,N2
-(Jasubhai Auditorium)","H1,E2
-(11/101,11/102,7/209,7/108)",,https://docs.google.com/document/d/1AeDFH8CfEIJZvTT4bdDjQwEZJp6lKn_U/edit,,,,
+(Jasubhai Auditorium)","H1 (11/101,7/209)
+E2 (11/101,7/209)",,https://docs.google.com/document/d/1AeDFH8CfEIJZvTT4bdDjQwEZJp6lKn_U/edit,,,,
 IN 106,Comprehensive Viva Voce (Third Year B.Tech. Students),0,0,0,0,,,284,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,
 8th Sem | B Tech Computer Science and Engineering,,,,,,,,,,,,,,,,,,
@@ -251,7 +253,7 @@ IN 108,Comprehensive Viva Voce (Fourth Year B.Tech. Students),0,0,0,0,,,223,,,,,
 6th  Sem | B Tech Mechanical Engineering,,,,,,,,,,,,,,,,,,
 ME 335,Synthesis and Analysis of Mechanisms,2,0,1,3,Vineet Vashista(I),,49,,,"D1,D2
 (7/203)",,"I1
-(Makers Bhavan)",,,,,
+(Makers Bhavan)",Course Plan,,,,
 ME 337,Mechanical Systems Design,3,0,0,3,Prabhat Munshi(I),,50,,,"C1,C2
 (7/203)",,,,,,,
 ES 337,Energy Systems,3,0,0,3,Atul Bhargav(I),,49,,,"F1,F2
@@ -282,8 +284,8 @@ Orientation Programme: ALL New Postgraduate Students,,,,,,,,,,,,,,,,,,
 FP 501,Aarohan (For 2026 MSc and MA students),0,0,0,2,,,107,,,,,,,,,,
 FP 601,"Aarohan (For 2026 MTech, PGDIIT and PhD students)",0,0,0,2,,,276,,,,,,,,,,
 Additional Courses: Physical Education for Postgraduate Students,,,,,,,,,,,,,,,,,,
-PE 500,Physical Education (For 2022 MSc and MA students),0,0,0,0,,,,,,,,,Course Plan,,,,
-PE 600,Physical Education (For 2022 M Tech and PhD students),0,0,0,0,,,,,,,,,Course Plan,,,,
+PE 500,Physical Education (For 2022 MSc and MA students),0,0,0,0,,,,,,,,,,,,,
+PE 600,Physical Education (For 2022 M Tech and PhD students),0,0,0,0,,,,,,,,,,,,,
 Additional Courses: Civil Engineering,,,,,,,,,,,,,,,,,,
 ES 404,Networks and Complex Systems ,3,0,0,4,Udit Bhatia(I),,63,,,"G1,G2
 (7/207,7/110)",,,https://iitgnacin-my.sharepoint.com/:b:/g/personal/bhatia_u_iitgn_ac_in/EUrW8nO53pNDrvxmcbeetJ8BR5mghlr916agoUlIr7rHkw?e=hWVf69,,,,
@@ -346,8 +348,8 @@ ES 658,Molecular Simulations – Theory and Applications,3,1,0,4,Mithun Radhakri
 Additional Courses: Chemistry,,,,,,,,,,,,,,,,,,
 CH 203,Fundamentals and Applications of Spectroscopy,3,0,0,4,"Sairam Swaroop Mallajosyula(I),Saumyakanti Khatua(I)",,221,,,"K1,K2
 (Jayshree S Sheth Learning Theatre,Jagdish Patel Learning Theatre)",,,https://drive.google.com/file/d/1fthx65M3dDohxhDjQQ-tnj-q25rM-VZs/view?usp=drive_link,,,,
-CH 503,Fundamentals of Analytical Chemistry,3,0,0,4,Bhaskar Datta(I),,40,,,"M1,M2
-(7/201)",,,Course Plan and Syllabus,,,,
+CH 503,Fundamentals of Analytical Chemistry,3,0,0,4,Bhaskar Datta(I),,40,,,"N1,N2
+(7/104)",,,Course Plan and Syllabus,,,,
 CH 512,Reactions and Mechanisms in Organic Chemistry,3,0,0,4,Chandrakumar Appayee(I),,41,,,"F1,F2
 (7/108)",,,Course Plan,,,,
 CH 522,Inorganic Chemistry Laboratory,0,0,3,2,Biswajit Mondal(I+L),,40,,,"I1,K1
@@ -363,7 +365,7 @@ CH 526,Group theory and spectroscopy,3,0,0,4,Partha Pratim Roy(I),,34,,,"B1,B2
 CH 527,Organometallic Chemistry,3,0,0,4,Iti Gupta(I),,40,,,"E1,E2
 (7/210)",,,Course Plan Link,,,,
 CH 591-I,Special Topics in Chemistry: Introduction to Polymer Chemistry,3,0,0,4,Kuljeet Kaur(I),,,,,"G1,G2
-(7/104)",,,,,,,
+(7/104)",,,Course Plan,,,,
 CH 592-I,Chemical biology in space (Special topics course),3,0,0,4,"Kasthuri Venkat(I),Sivapriya Kirubakaran(I)",,40,,,"D1,D2
 (11/204,11/205)",,,https://docs.google.com/document/d/1Ph6l5sKsG20qoLsP1c-4JHtIARxkhY2y/edit,,,,
 CH 602,Chemistry of Natural Products,3,0,0,4,Sudipta Basu(I),,13,,,"H1,J2
@@ -394,7 +396,7 @@ CH 642,Non-linear Spectroscopy and its Applications,3,0,0,4,Partha Pratim Roy(I)
 Additional Courses: Mathematics,,,,,,,,,,,,,,,,,,
 MA 513,AI and Mathematics,3,1.5,0,4,"Aditya Nema(I+T),Madhu Gupta(I+T)",,40,,,"K1,K2
 (7/205)","B1
-(7/205)",,https://drive.google.com/open?id=1ehsdhThvE0lFtf53w1OgfOlDnwwt_zY5&usp=drive_fs,,,,
+(7/205)",,Course Plan,,,,
 MA 502,Complex Analysis,3,1.5,0,4,Sanjay Amrutiya(I+T),,48,,,"G1,G2
 (7/109)","A1
 (7/203)",,Course Plan,,,,
@@ -408,7 +410,7 @@ MA 629 (A),Real analysis of several variables,3,1.5,0,4,Rohit Kumar Mishra(I+T),
 (7/202)",,Course Plan,,,,
 MA 637,Numerical Analysis and Computing,3,1.5,0,4,Madhu Gupta(I+T),,88,,,"D1,D2
 (7/209)","H2
-(7/208)",,,,,,
+(7/208)",,Course Plan,,,,
 MA 625,Stochastic Differential Equations,3,0,0,4,Chetan Pahlajani(I),,10,,,"K1,K2
 (7/110)",,,Course Plan,,,,
 MA 628,Algebra II,3,1.5,0,4,Indranath Sengupta(I+T),,30,,,"C1,C2
@@ -527,7 +529,7 @@ HS 642,Structures and Hydrology in Ancient India,3,0,0,4,Alok Kumar Kanungo(I),,
 HS 650,Critical Perspectives in Anthropology,3,0,0,4,Ambika Aiyadurai(I),,44,,,"D1,D2
 (7/107)",,,,,,,
 HS 651,Critical Perspectives in Sociology,3,0,0,4,Tanka B. Subba(I),,40,,,"A1,A2
-(7/110)",,,https://docs.google.com/document/d/1BSUNY85wlyRwUfdRRdVNpY8t5KVzLokCuBosmyfxdI8/edit?usp=sharing,,,,
+(7/110)",,,HS-651: Critical Perspectives in Sociology of India,,,,
 HS 653,Academic Communication: Explanation and Paraphrasing,3,0,0,2,Jooyoung Kim(I),,16,,,"P1,P2
 (11/204)",,,HS653_2025-26_Academic Communication Explanation and Paraphrasing_Syllabus,,,,
 HS 654,Mixed Methods in Research,3,0,0,2,Aditi Kothiyal(I),,35,,,"D1,D2
@@ -605,8 +607,8 @@ HS 392,"Special Topics in HSS: Competitiveness and Ethical Leadership
 Additional Courses: Biological Engineering,,,,,,,,,,,,,,,,,,
 BE 304,Introduction to Biomedical Engineering,3,0,0,4,Karla P. Mercado-Shekhar(I),,45,,,"P1,P2
 (7/109)",,,Course Plan BE 304,,,,
-BE 402,Biomolecular Forensics,3,0,0,2,Bhaskar Datta(I),,70,,,"N1,N2
-(11/101)",,,Course Plan and Syllabus,,,,
+BE 402,Biomolecular Forensics,3,0,0,2,Bhaskar Datta(I),,70,,,"B1,B2
+(7/104)",,,Course Plan and Syllabus,,,,
 BE 407,Introduction to Cell Biology,3,0,0,4,Subramanian Sankaranarayanan(I),,40,,,"L1,L2
 (Jagdish Patel Learning Theatre)",,,Course Plan  BE407_2026.docx,,,,
 BE 603,Biophysical Techniques,3,0,1,4,Vijay Thiruvenkatam(I+L),,11,,,"A1,A2
@@ -627,7 +629,7 @@ BE 626,Metabolic Engineering,3,0,0,4,Ashutosh Srivastava(I),,10,,,"J1,J2
 (7/105)",,,https://drive.google.com/file/d/13E074W606r7qbpc-XICdHg19C8fa02sJ/view?usp=sharing,,,,
 BE 627,Methods in Structural Biology,3,0,1,4,Vijay Thiruvenkatam(I+L),,10,,,"A1,A2
 (13/124)",,"H2
-(BE Lab)",,,,,
+(BE Lab)",Course Plan BE627,,,,
 BE 628,Transport Phenomenon in Biological Systems,3,0,0,4,Rohil Jain(I),,30,,,"A1,A2
 (7/106)",,,Course Plan: BE628,,,,
 BE 691-I,Special Topics in Biological Engineering: Analysis and Characterization of Biologicals,1.5,0,3,4,"Dhiraj Bhatia(I+L),Sharad Gupta(I+L)",,40,,,"I1
@@ -670,25 +672,24 @@ ES 248,Introduction to Data Structures and Algorithms,1.5,0,3,3,Anup Kalbalia(I+
 (11/101)",,"I1,K1
 (10/203)",,,,,
 CS 327,Compilers,3,0,1.5,5,Shouvick Mondal(I+L),,40,,,"F1,G2
-(Surendra C Sheth Learning Theatre)",,"L2,N2
+(Surendra C Sheth Learning Theatre)",,"F2
 (10/203,10/204)",Course Plan,,,,
 CS 328,Introduction to Data Science,3,1,0,4,"Anirban Dasgupta(I+T),Neeldhara Misra(T),Yogesh Meena(T)",,182,,,"M1,M2
 (10/103)","J2
 (10/103,11/101,11/102)",,https://sites.google.com/iitgn.ac.in/cs328/home,,,,
-ES 335,Machine Learning,3,1.5,0,4,"Krishna Miyapuram(I+T),Mayank Singh (T)",,249,,,"D1,D2
-(10/103)","H1
+ES 335,Machine Learning,3,1.5,0,4,Krishna Miyapuram(I+T),,249,,,"D1,D2
+(10/103)","H1,N1
 (10/103,Jayshree S Sheth Learning Theatre)",,https://docs.google.com/document/d/1TKeFcOgbI8tUN6Zk79sL1hrSk78RSXjhadblV_1LvcE/edit?tab=t.0,,UG Core,,
-ES 335,Machine Learning,3,1,0,4,"Krishna Miyapuram(I+T),Mayank Singh (T)",,249,,,"D1,D2
-(10/103)","H1
+ES 335,Machine Learning,3,1,0,4,Krishna Miyapuram(I+T),,249,,,"D1,D2
+(10/103)","H1,N1
 (10/103,Jayshree S Sheth Learning Theatre)",,https://docs.google.com/document/d/1TKeFcOgbI8tUN6Zk79sL1hrSk78RSXjhadblV_1LvcE/edit?tab=t.0,,This course has been replaced by ES 678 (Machine Learning) which is PG Core,,
-ES 678,Machine Learning,3,1.5,0,4,"Krishna Miyapuram(I+T),Mayank Singh (T)",,50,,,"D1,D2
-(10/103)","H1
+ES 678,Machine Learning,3,1.5,0,4,Krishna Miyapuram(I+T),,50,,,"D1,D2
+(10/103)","H1,N1
 (10/103,Jayshree S Sheth Learning Theatre)",,,,PG Core,,
 CS 614,Advanced Algorithms,3,0,0,4,Neeldhara Misra(I),,19,,,"N1,N2
 (11/206)",,,,,,,
-CS 616,"Distributed Systems and
-Cloud Computing",3,0,1.5,5,Abhishek Bichawat(I+L),,16,,,"M1,M2
-(11/206)",,"J1,L1
+CS 616,Distributed Systems and Cloud Computing,3,0,1.5,5,Abhishek Bichawat(I+L),,16,,,"M1,M2
+(11/206)",,"I1
 (10/104)",https://docs.google.com/document/d/1bSIPlNdHxESG_FmWOWV2Nz7UsxGxEVrtrUTDASikfxk ,,,,
 CS 617,Computational Complexity Theory,3,0,0,4,Balagopal Komarath(I),,13,,,"J1,J2
 (13/125)",,,https://docs.google.com/document/d/1TH-T3-9yeOfqReEoOvngwXnkY58RQcuJh9ncLBaL1rY/edit?tab=t.0#heading=h.rrre5s8yzq5,,,,
@@ -747,7 +748,7 @@ EE 660,Power Management IC Design ,3,0,0,4,Madhav Pathak(I),,22,,,"P1,P2
 ES 665,Advanced Transportation Electrification Technology,3,0,0,4,Pallavi Bharadwaj(I),,30,,,"G1,G2
 (7/105)",,,Course Plan,,,,
 EE 668,Smart Power Distribution System,3,0,0,4,Naran Pindoriya(I),,40,,,"C1,C2
-(7/201)",,,,,,,
+(7/201)",,,Course plan,,,,
 ES 677,Physics inspired Machine Learning for Engineering Design,3,1,0,4,Ravi Hegde(I+T),,40,,,"N1,N2
 (7/105)","J2
 (7/104)",,https://docs.google.com/document/d/1UQDrbmUnrKbg0kdt9VMyqGKm2JcbVPccQ2FnN1XHuSk/edit?usp=sharing,,,,
@@ -818,7 +819,8 @@ ES 646,Elastodynamics and Vibrations,3,0,0,4,Jayaprakash K. R.(I),,40,,,"D1,D2
 ES 648,Nonlinear Dynamics and Vibrations,3,0,0,4,Jayaprakash K. R.(I),,,,,"D1,D2
 (7/101)",,,Course plan,,,,
 ES 613,Modern Control Theory,3,0,0,4,Madhu Vadali(I),,14,,,"E1,E2
-(11/204)",,,,,,,
+(11/204)",,,"Google Classroom: f7rusweg
+Course Organization",,,,
 ES 656,Human Robot Interaction,3,0,0,4,Vineet Vashista(I),,29,,,"G1,G2
 (7/105)",,,https://drive.google.com/file/d/1cfkjeuITM2BsI-oMOnxtCMuwbTSMZ1S9/view?usp=drive_link,,,,
 ES 671,Mechanics of Composite Materials,3,0,0,4,Harini Subramanian(I),,7,,,"E1,E2
@@ -841,7 +843,7 @@ ME 691-XX,Special Topics in Mechanical Engineering: Introduction to Conduction a
 (7/201)",,,,,,
 ME 691-XXI,Special Topics in Mechanical Engineering: Mechatronics Design Studio,1.5,0,3,4,Madhu Vadali(I+L),,,,,"D1
 (Makers Bhavan)",,"K1,H1
-(Makers Bhavan)",,,,,
+(Makers Bhavan)",Writeup,,,,
 ME 691-XIV,Special Topics in Mechanical Engineering: Mathematical Tools for Mechanical Engineers,3,1,0,4,Uddipta Ghosh(I+T),,40,,,"L1,L2
 (7/207)","H1
 (7/207)",,,,,,

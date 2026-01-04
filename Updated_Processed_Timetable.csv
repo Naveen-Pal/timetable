@@ -6,8 +6,8 @@ Data-Centric Computing,ES 113 (E),D1,,N1,3.0,Jasubhai Auditorium,,"10/104,10/105
 Data-Centric Computing,ES 113 (H),D2,,L1,3.0,Jasubhai Auditorium,,"10/104,10/105"
 Principles of Artificial Intelligence,ES 119 (E),"D1,A1",,"J1,L1",3.0,Jasubhai Auditorium,,
 Principles of Artificial Intelligence,ES 119 (H),"C1,A2",,,3.0,,,
-"Probability, Statistics, and Data Visualization",ES 114 (E),"C1,A2",,K2,3.0,Jasubhai Auditorium,,"10/104,Jasubhai Auditorium"
-"Probability, Statistics, and Data Visualization",ES 114 (H),"D1,A1",,L2,3.0,11/102,,"10/104,10/105"
+"Probability, Statistics, and Data Visualization",ES 114 (E),C1,,K2,3.0,Jasubhai Auditorium,,"10/104,Jasubhai Auditorium"
+"Probability, Statistics, and Data Visualization",ES 114 (H),D1,,L2,3.0,11/102,,"10/104,10/105"
 Principles and Applications of Electrical Engineering,ES 116 (E),"G1,G2",N2,"I1,J2,M1,L2,M2",5.0,Jasubhai Auditorium,,EE Lab
 Principles and Applications of Electrical Engineering,ES 116 (H),"G1,G2",N2,,5.0,10/103,"7/106,7/202,7/109",
 The World of Engineering,ES 117 (E),,,"K1,H1",2.0,,,Jasubhai Auditorium
@@ -49,11 +49,12 @@ Microstructural Engineering,MSE 210,"A1,A2",,J2,4.0,7/105,,MSE Lab
 Power Systems,EE 224,"G1,G2",H2,,4.0,7/208,"7/102,7/107",
 Control Systems,ES 245,"A1,A2",B1,,4.0,,"7/202,7/203,7/204",
 Data Structures and Algorithms II,ES 301,"M1,M2",J1,,4.0,,,
-Computer Organization & Architecture,ES 336,"N1,N2","H1,E2",,4.0,Jasubhai Auditorium,"11/101,11/102,7/209,7/108",
+Computer Organization & Architecture,ES 336,"N1,N2","H1 
+E2",,4.0,Jasubhai Auditorium,"11/101,7/209, 11/101,7/209",
 Physical Education,PE 104,,,,0.0,,,
 Comprehensive Viva Voce,IN 103,,,,0.0,,,
 Introduction to Data Science,CS 328,"M1,M2",J2,,4.0,10/103,"10/103,11/101,11/102",
-Machine Learning,ES 335,"D1,D2",H1,,4.0,10/103,,
+Machine Learning,ES 335,"D1,D2","H1,N1",,4.0,10/103,,
 Discipline Elective,CS XXX,,,,,,,
 Comprehensive Viva Voce (Third Year B.Tech. Students),IN 106,,,,0.0,,,
 Separation Processes - II,CL 316,"G1,G2","G1,G2",,3.0,7/107,7/107,
@@ -103,7 +104,7 @@ Advanced Separation Processes,CL 632,"A1,A2",B1,,4.0,7/206,7/101,
 Applications of AI in Chemical Engineering,CL 633,"F1,F2",H2,,4.0,10/102,7/110,
 Molecular Simulations – Theory and Applications,ES 658,"N1,N2",P1,,4.0,7/108,7/108,
 Fundamentals and Applications of Spectroscopy,CH 203,"K1,K2",,,4.0,,,
-Fundamentals of Analytical Chemistry,CH 503,"M1,M2",,,4.0,7/201,,
+Fundamentals of Analytical Chemistry,CH 503,"N1,N2",,,4.0,7/104,,
 Reactions and Mechanisms in Organic Chemistry,CH 512,"F1,F2",,,4.0,7/108,,
 Inorganic Chemistry Laboratory,CH 522,"I1,K1",,,2.0,CH Lab,,
 Organic Chemistry Laboratory,CH 523,,,"J2,M2",2.0,,,CH Lab
@@ -219,7 +220,7 @@ Special Topics in HSS: Challenges in the Digital Society,HS 491-VIII,"M1,M2",,,4
 "Special Topics in HSS: Competitiveness and Ethical Leadership 
 (first half)",HS 392,"N1,N2",,,2.0,7/205,,
 Introduction to Biomedical Engineering,BE 304,"P1,P2",,,4.0,7/109,,
-Biomolecular Forensics,BE 402,"N1,N2",,,2.0,11/101,,
+Biomolecular Forensics,BE 402,"B1,B2",,,2.0,7/104,,
 Introduction to Cell Biology,BE 407,"L1,L2",,,4.0,,,
 Biophysical Techniques,BE 603,"A1,A2",,I1,4.0,11/206,,BE Lab
 Molecular Basis of Neurodegenerative Diseases,BE 608,"D1,D2",,,4.0,13/125,,
@@ -244,11 +245,10 @@ Learning and Memory,CG 605,"D1,D2",,,4.0,7/105,,
 Emotion and Cognition,CG 607,"L1,L2",,K1,4.0,7/106,,7/202
 Human Brain Mapping,CG 614,"F1,F2",,,4.0,7/203,,
 Introduction to Data Structures and Algorithms,ES 248,E1,,"I1,K1",3.0,11/101,,10/203
-Compilers,CS 327,"F1,G2",,"L2,N2",5.0,,,"10/203,10/204"
-Machine Learning,ES 678,"D1,D2",H1,,4.0,10/103,,
+Compilers,CS 327,"F1,G2",,F2,5.0,,,"10/203,10/204"
+Machine Learning,ES 678,"D1,D2","H1,N1",,4.0,10/103,,
 Advanced Algorithms,CS 614,"N1,N2",,,4.0,11/206,,
-"Distributed Systems and
-Cloud Computing",CS 616,"M1,M2",,"J1,L1",5.0,11/206,,10/104
+Distributed Systems and Cloud Computing,CS 616,"M1,M2",,I1,5.0,11/206,,10/104
 Computational Complexity Theory,CS 617,"J1,J2",,,4.0,13/125,,
 Deep Learning,ES 667,"L1,L2",,,4.0,7/208,,
 "Matrix Methods for Signal Processing, Data Science,
