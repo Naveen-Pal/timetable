@@ -8,8 +8,8 @@ Principles of Artificial Intelligence,ES 119 (E),"D1,A1",,"J1,L1",3.0,Jasubhai A
 Principles of Artificial Intelligence,ES 119 (H),"C1,A2",,,3.0,Jayshree S Sheth Learning T...,,
 "Probability, Statistics, and Data Visualization",ES 114 (E),C1,,K2,3.0,Jasubhai Auditorium,,"10/104,Jasubhai Auditorium"
 "Probability, Statistics, and Data Visualization",ES 114 (H),D1,,L2,3.0,11/102,,"10/104,10/105"
-Principles and Applications of Electrical Engineering,ES 116 (E),"G1,G2",N2,"I1,J2,M1,L2,M2",5.0,Jasubhai Auditorium,"7/101,7/206,7/103,7/107,7/1...",EE Lab
-Principles and Applications of Electrical Engineering,ES 116 (H),"G1,G2",N2,,5.0,10/103,"7/106,7/202,7/109",
+Principles and Applications of Electrical Engineering,ES 116 (E),"G1,G2",N2,"I1,J2,M1,L2,M2",5.0,Jasubhai Auditorium,"7/101,7/103,7/106,7/107,7/1...",EE Lab
+Principles and Applications of Electrical Engineering,ES 116 (H),"G1,G2",,,5.0,10/103,,
 The World of Engineering,ES 117 (E),,,"K1,H1",2.0,,,Jasubhai Auditorium
 The World of Engineering,ES 117 (H),,,"K1,H1",2.0,,,Harsha Patel Learning Theatre
 Sustainability and Environment,CE 202,B1,,"B2,I2",3.0,7/109,,7/109
@@ -47,7 +47,7 @@ Mechanical Behavior of Materials,MSE 205,"D1,D2",,K1,4.0,7/210,,MSE Lab
 Physics of Materials,MSE 206,"C1,C2",,,4.0,7/103,,
 Microstructural Engineering,MSE 210,"A1,A2",,J2,4.0,7/105,,MSE Lab
 Power Systems,EE 224,"G1,G2",H2,,4.0,7/208,"7/102,7/107",
-Control Systems,ES 245,"A1,A2",B1,,4.0,Jagdish Patel Learning Thea...,"7/202,7/203,7/204",
+Control Systems,ES 245,"A1,A2",K1,,4.0,Jagdish Patel Learning Thea...,"7/202,7/108,7/109",
 Data Structures and Algorithms II,ES 301,"M1,M2",J1,,4.0,Jagdish Patel Learning Thea...,Jagdish Patel Learning Thea...,
 Computer Organization & Architecture,ES 336,"N1,N2","H1 , E2",,4.0,Jasubhai Auditorium,"11/101,7/209, 11/101,7/209",
 Physical Education,PE 104,,,,0.0,,,
@@ -69,7 +69,7 @@ Construction Technology & Management,CE 403,"C1,C2",,,4.0,7/104,,
 Communication Systems,EE 313,"J1,J2",L2,,3.0,7/208,7/209,
 Communication Systems,EE 341,"J1,J2","L2,N2",,4.0,7/208,Harsha Patel Learning Theatre,
 Synthesis and Analysis of Mechanisms,ME 335,"D1,D2",,I1,3.0,7/203,,Makers Bhavan
-Mechanical Systems Design,ME 337,"C1,C2",,,3.0,7/203,,
+Mechanical Systems Design,ME 337,"C1,C2",,,3.0,7/109,,
 Energy Systems,ES 337,"F1,F2",,,3.0,13/124,,
 Materials and Environment,MSE 312,E1,,,2.0,13/124,,
 Corrosion and Degradation of Materials,MSE 316,"L1,L2",M1,P1,4.0,7/110,7/110,MSE Lab

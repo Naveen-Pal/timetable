@@ -30,19 +30,17 @@ ES 114 (H),"Probability, Statistics, and Data Visualization",1.5,0,1.5,3,Mayank 
 (10/104,10/105)",https://sites.google.com/iitgn.ac.in/es114-2026/home,,,,
 ES 116 (E),Principles and Applications of Electrical Engineering,3,1,1.5,5,"Tarun Agrawal(I+T+L),Dinesh Sharma(T+L),Ragavan K(T),S Rajendran(T+L)
 ",,283,,,"G1,G2
-(Jasubhai Auditorium)","N2
-(7/101,7/206,7/103,7/107,7/110,7/207,7/204)","I1,J2,M1,L2,M2
+(Jasubhai Auditorium)","N2 (7/101,7/103,7/106,7/107,7/109,7/110,7/202,7/204,7/206,7/207)","I1,J2,M1,L2,M2
 (EE Lab)",Course Plan,,,,
 ES 116 (H),Principles and Applications of Electrical Engineering,3,1,1.5,5,Dinesh Sharma(I+T),,100,,,"G1,G2
-(10/103)","N2
-(7/106,7/202,7/109)",,,,,,
+(10/103)",,,,,,,
 ES 117 (E),The World of Engineering,0,0,3,2,"Udit Bhatia(L),Himanshu Shekhar(L)",,281,,,,,"K1,H1
 (Jasubhai Auditorium)",Course Plan,,,,
 ES 117 (H),The World of Engineering,0,0,3,2,"Udit Bhatia(L),Himanshu Shekhar(L)",,100,,,,,"K1,H1
 (Harsha Patel Learning Theatre)",,,,,
 CE 202,Sustainability and Environment,1,0,3,3,Abhishek Singhal(I+L),,32,,,"B1
 (7/109)",,"B2,I2
-(7/109)",,,,,
+(7/109)",Course Plan,,,,
 CS 203,Software Tools & Techniques for AI,1.5,0,3,4,Nipun Batra(I+L),,77,,,"I2
 (10/103)",,"B1,B2
 (10/203,10/204)","B1,B2
@@ -113,7 +111,7 @@ ES 214,Discrete Mathematics,3,1,0,4,"Jyothi Krishnan(I+T),Balagopal (T)",,115,,,
 (Jayshree S Sheth Learning Theatre)","I2
 (Surendra C Sheth Learning Theatre,7/201)",,https://docs.google.com/document/d/1O9tdmtwwIew5Vqoa87HhnTo_V6CWURdOMxHHNqJYQiY/edit?usp=drivesdk,,,,
 ES 246,Vacuum Technology Laboratory,0,0,3,2,Emila Panda(L),,70,,,,,"I1,K1
-(10/103,MSE Lab)",,,,,
+(10/103,MSE Lab)",https://classroom.google.com/u/1/w/ODI0MDg0ODA4ODgx/t/all,,,,
 ES 247,IC Fabrication Processes,3,0,0,4,Nihar Mohapatra(I),,70,,,"G1,G2
 (11/101)",,,Course Plan,,,,
 EE 227,CMOS Circuit Design,2,1,1.5,4,Joycee Mekie(I+T+L),,70,,,"D1,D2
@@ -159,8 +157,8 @@ EE 224,Power Systems,3,1.5,0,4,Naran Pindoriya(I+T),,86,,,"G1,G2
 (7/208)","H2
 (7/102,7/107)",,Course plan,,,,
 ES 245,Control Systems,3,1.5,0,4,S Rajendran(I+T),,90,,,"A1,A2
-(Jagdish Patel Learning Theatre)","B1
-(7/202,7/203,7/204)",,Course Plan,,,,
+(Jagdish Patel Learning Theatre)","K1
+(7/202,7/108,7/109)",,Course Plan,,,,
 ES 301,Data Structures and Algorithms II,3,1,0,4,"Manoj Gupta(I+T),Neeldhara Misra (T)",,142,,,"M1,M2
 (Jagdish Patel Learning Theatre)","J1
 (Jagdish Patel Learning Theatre,7/205)",,https://gmanoj.people.iitgn.ac.in/ES301/,,,,
@@ -255,7 +253,7 @@ ME 335,Synthesis and Analysis of Mechanisms,2,0,1,3,Vineet Vashista(I),,49,,,"D1
 (7/203)",,"I1
 (Makers Bhavan)",Course Plan,,,,
 ME 337,Mechanical Systems Design,3,0,0,3,Prabhat Munshi(I),,50,,,"C1,C2
-(7/203)",,,,,,,
+(7/109)",,,,,,,
 ES 337,Energy Systems,3,0,0,3,Atul Bhargav(I),,49,,,"F1,F2
 (13/124)",,,,,,,
 HS XXX,HSS Elective,,,,,,,,,,,,,,,,,
@@ -319,7 +317,7 @@ Additional Courses: Chemical Engineering,,,,,,,,,,,,,,,,,,
 ES 418,Financial Modeling and Engineering,3,0,0,4,Mithun Radhakrishna(I),,40,,,"G1,G2
 (7/203)",,,COURSE PLAN,,,,
 CL 605,Colloidal Domain: Where Science Meets Engineering,3,0,0,4,Prachi Thareja(I),,42,,,"C1,C2
-(7/202)",,,,,,,
+(7/202)",,,course plan,,,,
 CL 353,Introduction to Process Safety,1.5,0,0,2,Chinmay Ghoroi(I),,40,,,"A2
 (7/210)",,,Course Plan,,,,
 ES 617,Design of Experiments,3,0,0,4,Nitin Padhiyar(I),,46,,,"N1,N2
@@ -626,7 +624,7 @@ BE 619,Cellular Communication,3,0,0,4,Sharmistha Majumdar(I),,32,,,"F1,F2
 BE 625,AI Applications in Life Sciences,3,0,0,4,"Sharad Gupta(I),Ashutosh Srivastava(I)",,30,,,"E1,E2
 (7/205,7/206)",,,,,,,
 BE 626,Metabolic Engineering,3,0,0,4,Ashutosh Srivastava(I),,10,,,"J1,J2
-(7/105)",,,https://drive.google.com/file/d/13E074W606r7qbpc-XICdHg19C8fa02sJ/view?usp=sharing,,,,
+(7/105)",,,BE626_course_details.pdf,,,,
 BE 627,Methods in Structural Biology,3,0,1,4,Vijay Thiruvenkatam(I+L),,10,,,"A1,A2
 (13/124)",,"H2
 (BE Lab)",Course Plan BE627,,,,
@@ -640,9 +638,9 @@ BE 692,Special Topics in Biological Engineering: Animal Cell Culture Techniques,
 BE 617,Novel Drug Delivery Technologies: Fundamental Principles and Engineering,3,0,0,4,Mukesh Dhanka(I),,18,,,"G1,G2
 (13/124)",,,https://docs.google.com/document/d/1Qz6f32LrClH885lzn2WL99JGRLZxbJxz/edit?usp=sharing&ouid=107984983868149659120&rtpof=true&sd=true,,,,
 BE 692-I,Special Topics in Biological Engineering: Nucleic Acids Based Therapeutics (first half),3,0,0,2,Dhiraj Bhatia(I),,40,,,"L1,L2
-(7/108)",,,,,,,
+(7/108)",,,https://docs.google.com/document/d/15OhdA1h8APZIFH-hMZuF85dCEerj_Uhc/edit?usp=sharing&ouid=114828150794801814953&rtpof=true&sd=true,,,,
 BE 692-II,Special Topics in Biological Engineering: Medical Device Regulations (second half),3,0,0,2,Karla P. Mercado-Shekhar(I),,40,,,"K1,L1
-(7/104)",,,,,,,
+(7/104)",,,BE 692-II course plan,,,,
 BE 692-III,Special Topics in Biological Engineering: Plant Developmental Biology (first half),3,0,0,2,Subramanian Sankaranarayanan(I),,40,,,"P1,P2
 (7/207)",,,,,,,
 ,,,,,,,,,,,,,,,,,,
@@ -852,7 +850,7 @@ ME 691-XV,Special Topics in Mechanical Engineering: Advanced Nonlinear Dynamics,
 ME 643,Aircraft and Rocket Propulsion,3,0,0,4,Dilip Sundaram(I+L),,40,,,"P1,P2
 (7/103)",,,,,,,
 ME 647,Vapor Liquid Phase Change Phenomena,3,0,0,4,Soumyadip Sett(I),,40,,,"I1,I2
-(7/207)",,,,,,,
+(7/207)",,,Course Plan,,,,
 ME 649,Mathematical Tools for Mechanical Engineers-II,3,1,0,4,Uddipta Ghosh(I+T),,40,,,"L1,L2
 (7/207)","H1
 (7/207)",,,,,,
@@ -866,7 +864,7 @@ MSE 355,Surface Engineering,3,0,0,4,Sriharitha Rowthu(I),,20,,,"N1,N2
 MSE 404,Diffraction Methods for Structure and Stress Analysis,3,0,0,4,Pradipta Ghosh(I),,10,,,"N1,N2
 (11/205)",,,https://drive.google.com/file/d/15Sn9ueaZjHTeJctNrk-V7u4zkXRcmB_L/view?usp=sharing,,,,
 MSE 603,Thin Film Processing and Characterization,3,0,0,4,Emila Panda(I),,17,,,"A1,A2
-(11/205)",,,,,,,
+(11/205)",,,https://classroom.google.com/u/0/w/ODI0MDg0OTM5MDgz/t/all,,,,
 MSE 605,Biomaterials for Tissue Regeneration,3,0,0,4,Superb Misra(I),,10,,,"E1,E2
 (11/205)",,,,,,,
 MSE 621,Process Plant Design – How to Set Up a Process Industry,3,0,0,4,Surya P Mehrotra(I),,27,,,"F1,F2
