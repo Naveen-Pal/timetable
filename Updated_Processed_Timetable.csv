@@ -37,7 +37,7 @@ Fluid Mechanics,ES 212,"G1,G2",H2,,4.0,7/101,7/108,
 Vacuum Technology Laboratory,ES 246,,,"I1,K1",2.0,,,"10/103,MSE Lab"
 IC Fabrication Processes,ES 247,"G1,G2",,,4.0,11/101,,
 CMOS Circuit Design,EE 227,"D1,D2",L1,"E1,H2",4.0,Jayshree S Sheth Learning T...,Jayshree S Sheth Learning T...,"10/104,10/105"
-Fluid Dynamics,ME 207,"D1,D2",A1,I1,5.0,7/108,"7/201,7/204",11/102
+Fluid Dynamics,ME 207,"D1,D2",A1,I1,5.0,Surendra C Sheth Learning T...,"11/101,11/102",Surendra C Sheth Learning T...
 Vibrations,ME 208,"K1,K2",J2,,2.0,7/209,7/209,
 Mechanics of Materials,ME 333,"L1,L2","L1,L2",J2,3.0,7/109,7/109,ME Lab
 Structural Analysis,CE 302,"E1,E2",C1,,4.0,7/101,7/101,
@@ -65,10 +65,10 @@ Comprehensive Viva Voce (Fourth Year B.Tech. Students),IN 108,,,,0.0,,,
 Environmental Science and Engineering,CE 313,"D1,D2",,,4.0,7/103,,
 Design of Reinforced Concrete Structures,CE 311,"G1,G2",L2,N2,5.0,7/103,"7/206,7/102",CE Lab
 Geotechnical Engineering,CE 314,F1,F2,"K1,H1",4.0,7/206,7/206,CE Lab
-Construction Technology & Management,CE 403,"C1,C2",,,4.0,7/104,,
+Construction Technology & Management,CE 403,"C1,C2",,,4.0,7/209,,
 Communication Systems,EE 313,"J1,J2",L2,,3.0,7/208,7/209,
 Communication Systems,EE 341,"J1,J2","L2,N2",,4.0,7/208,Harsha Patel Learning Theatre,
-Synthesis and Analysis of Mechanisms,ME 335,"D1,D2",,I1,3.0,7/203,,Makers Bhavan
+Synthesis and Analysis of Mechanisms,ME 335,"D1,D2",,I1,3.0,7/208,,Makers Bhavan
 Mechanical Systems Design,ME 337,"C1,C2",,,3.0,7/109,,
 Energy Systems,ES 337,"F1,F2",,,3.0,13/124,,
 Materials and Environment,MSE 312,E1,,,2.0,13/124,,
@@ -88,7 +88,7 @@ Advanced Concrete Design,CE 632,"K1,K2",,,4.0,7/204,,
 Traffic and Roadway Engineering,CE 636,"E1,E2",,,4.0,11/206,,
 AI for Civil Engineering,CE 639,"C1,C2",,,4.0,"11/205,11/206",,
 Special Topics in Civil Engineering: Design for Dynamic Loads,CE 691-I,"P1,P2",,,4.0,13/124,,
-Special Topics in Civil Engineering: Geotechnical Infrastructure Projects,CE 691-V,"I1,I2",,,4.0,13/124,,
+Special Topics in Civil Engineering: Geotechnical Infrastructure Projects,CE 691-V,"I1,I2",,,4.0,7/203,,
 Special Topics: Drinking Water Treatment : Engineering Practices,CE 691-VII,"N1,N2",,,4.0,7/102,,
 Financial Modeling and Engineering,ES 418,"G1,G2",,,4.0,7/203,,
 Colloidal Domain: Where Science Meets Engineering,CL 605,"C1,C2",,,4.0,7/202,,
@@ -113,7 +113,7 @@ Group theory and spectroscopy,CH 526,"B1,B2",,,4.0,7/110,,
 Organometallic Chemistry,CH 527,"E1,E2",,,4.0,7/210,,
 Special Topics in Chemistry: Introduction to Polymer Chemistry,CH 591-I,"G1,G2",,,4.0,7/104,,
 Chemical biology in space (Special topics course),CH 592-I,"D1,D2",,,4.0,"11/204,11/205",,
-Chemistry of Natural Products,CH 602,"H1,J2",,,4.0,11/204,,
+Chemistry of Natural Products,CH 602,"H1,J2",,,4.0,7/110,,
 Electrochemistry,CH 615,"G1,G2",,,4.0,7/205,,
 Fluorescence Spectroscopy for Chemists and Biologists,CH 628,"P1,P2",,,4.0,7/105,,
 Medicinal Chemistry for Life,CH 629,"E1,E2",,,4.0,13/125,,
@@ -122,16 +122,16 @@ Solid State Chemistry and Applications,CH 632,"D1,D2",,,4.0,Harsha Patel Learnin
 Single Molecule Spectroscopy,CH 633,J1,,"L1,L2",4.0,7/101,,CH Lab
 Introduction to Molecular Dynamics,CH 634,L1,,"N1,N2",4.0,7/210,,10/104
 Electronic Structure Theory,CH 638,"P1,P2",,,4.0,7/201,,
-Advanced Main Group Chemistry ,CH 639,"I1,I2",,,4.0,13/125,,
+Advanced Main Group Chemistry ,CH 639,"I1,I2",,,4.0,7/105,,
 Non-linear Spectroscopy and its Applications,CH 642,"I1,I2",,,4.0,7/103,,
 AI and Mathematics,MA 513,"K1,K2",B1,,4.0,7/205,7/205,
 Complex Analysis,MA 502,"G1,G2",A1,,4.0,7/109,7/203,
 Ordinary Differential Equations,MA 507,"E1,E2",B1,,4.0,7/109,7/108,
 Differential Topology,MA 606,"I1,I2",,,4.0,7/102,,
 Real analysis of several variables,MA 629 (A),"F1,F2",A2,,4.0,7/107,7/202,
-Numerical Analysis and Computing,MA 637,"D1,D2",H2,,4.0,7/209,7/208,
+Numerical Analysis and Computing,MA 637,"D1,D2",H2,,4.0,7/209,10/203,
 Stochastic Differential Equations,MA 625,"K1,K2",,,4.0,7/110,,
-Algebra II,MA 628,"C1,C2",B2,,4.0,7/105,7/101,
+Algebra II,MA 628,"C1,C2",B2,,4.0,7/108,7/108,
 Algebraic Number theory,MA 634,"J1,J2",,,4.0,7/103,,
 Matrix Lie Groups,MA 638,"P1,P2",,,4.0,7/205,,
 Matrix Analysis,MA 639,"M1,M2",,,4.0,7/208,,
@@ -145,7 +145,7 @@ Advanced Condensed Matter Physics,PH 653,"C1,C2",,,4.0,7/210,,
 Quantum Mechanics II,PH 504,"G1,G2",A1,,4.0,10/102,7/202,
 Methods of Experimental Physics,PH 506,C1,,"J1,L1",4.0,7/107,,PH Lab
 Statistical Mechanics ,PH 507,"E1,E2",B1,,4.0,10/102,10/102,
-Computational Physics,PH 509 (N),"D1,D2",,"I1,K1",4.0,7/109,,PH Lab
+Computational Physics,PH 509 (N),"D1,D2",,"I1,K1",4.0,7/109,,10/204
 Electronic Devices & Digital Systems for Physicists,PH 513,"F1,F2",,,4.0,7/204,,
 AI in Physics,PH 514,"M1,M2",,I1,4.0,7/210,,7/110
 Topics in Quantum and Statistical Mechanics,PH 607,"P1,H1",,,4.0,7/206,,
@@ -187,6 +187,7 @@ Decolonizing Social Sciences,HS 691-IX,"I1,I2",,,4.0,11/205,,
 Strorytelling for the Digital Era,HS 491-III,"P1,P2",,,4.0,7/104,,
 Special Topics in HSS: Understanding and Designing Comics and Graphic Novels,HS 491-XI,"I1,J2",,,4.0,7/201,,
 Drawing Conncetions: Enviranmental Perception and Visula Anthropology,HS 491-XIII,"M1,M2",,,4.0,10/102,,
+Special Topics in HSS: Appreciation of Classical Indian Music,HS 491-XIV,"L1,L2",,,4.0,7/209,,
 Ethanoarchaeology ,HS 656,"N1,N2",,,4.0,7/203,,
 Environmental Economics and Natural Resource Management,HS 527,"M1,M2",,,4.0,7/204,,
 Human Evolution ,IN 402,"P1,P2",,,4.0,7/204,,
@@ -243,10 +244,10 @@ Perception and Attention,CG 603,"L1,L2",,,4.0,7/106,,
 Learning and Memory,CG 605,"D1,D2",,,4.0,7/105,,
 Emotion and Cognition,CG 607,"L1,L2",,K1,4.0,7/106,,7/202
 Human Brain Mapping,CG 614,"F1,F2",,,4.0,7/203,,
-Introduction to Data Structures and Algorithms,ES 248,E1,,"I1,K1",3.0,11/101,,10/203
+Introduction to Data Structures and Algorithms,ES 248,N1,,"A2,C2",3.0,11/101,,10/203
 Compilers,CS 327,"F1,G2",,F2,5.0,Surendra C Sheth Learning T...,,"10/203,10/204"
 Machine Learning,ES 678,"D1,D2","H1,N1",,4.0,10/103,"10/103,Jayshree S Sheth Lea...",
-Advanced Algorithms,CS 614,"N1,N2",,,4.0,11/206,,
+Advanced Algorithms,CS 614,"M1,M2",,,4.0,7/105,,
 Distributed Systems and Cloud Computing,CS 616,"M1,M2",,I1,5.0,11/206,,10/104
 Computational Complexity Theory,CS 617,"J1,J2",,,4.0,13/125,,
 Deep Learning,ES 667,"L1,L2",,,4.0,7/208,,
@@ -257,7 +258,7 @@ Computer and Network Security,CS 431,"H1,H2",,,4.0,7/109,,
 Databases,CS 432,"P1,P2",,,4.0,10/103,,
 "History of Computing and its Applications to Domains
 (second half)",CS 436,"A1,A2",,,2.0,Surendra C Sheth Learning T...,,
-Ethics of AI (N),CS 621,"K1,K2",,,4.0,7/101,,
+Ethics of AI (N),CS 621,"K1,K2",,,4.0,7/208,,
 Microprocessors and Embedded Systems,ES 333,G1,G2,"C1,C2",4.0,7/202,7/202,EE Lab
 Advanced Signal Processing,EE 609,"E1,E2",,,4.0,7/204,,
 Artificial Intelligence,ES 612,"I1,I2",,,4.0,7/101,,
@@ -272,8 +273,8 @@ Regulation of Electricity  Sector,EE 691-V,"M1,M2",,,4.0,7/103,,
 Medical Imaging Systems,ES 655,"J1,J2",,,4.0,7/210,,
 VLSI System Design,EE 657,"J1,I2",,,4.0,11/101,,
 Memory Device Technologies and Applications,EE 658,"K1,K2",,,4.0,7/210,,
-Power Management IC Design ,EE 660,"P1,P2",,,4.0,7/101,,
-Advanced Transportation Electrification Technology,ES 665,"G1,G2",,,4.0,7/105,,
+Power Management IC Design ,EE 660,"P1,P2",,,4.0,11/206,,
+Advanced Transportation Electrification Technology,ES 665,"H1,H2",,,4.0,10/102,,
 Smart Power Distribution System,EE 668,"C1,C2",,,4.0,7/201,,
 Physics inspired Machine Learning for Engineering Design,ES 677,"N1,N2",J2,,4.0,7/105,7/104,
 Advanced Radiating Systems,EE 665,"M1,M2",J1,,4.0,7/104,7/104,
@@ -315,7 +316,7 @@ Special Topics in Mechanical Engineering: Introduction to Conduction and Radiati
 Special Topics in Mechanical Engineering: Mechatronics Design Studio,ME 691-XXI,D1,,"K1,H1",4.0,Makers Bhavan,,Makers Bhavan
 Special Topics in Mechanical Engineering: Mathematical Tools for Mechanical Engineers,ME 691-XIV,"L1,L2",H1,,4.0,7/207,7/207,
 Special Topics in Mechanical Engineering: Advanced Nonlinear Dynamics,ME 691-XV,"I1,I2",,,4.0,7/102,,
-Aircraft and Rocket Propulsion,ME 643,"P1,P2",,,4.0,7/103,,
+Aircraft and Rocket Propulsion,ME 643,"P1,P2",,,4.0,7/202,,
 Vapor Liquid Phase Change Phenomena,ME 647,"I1,I2",,,4.0,7/207,,
 Mathematical Tools for Mechanical Engineers-II,ME 649,"L1,L2",H1,,4.0,7/207,7/207,
 Special Topics in Mechanical Engineering: Data and Observer Design (first half),ME 692-VII,J1,,"K2,L2",2.0,7/206,,ME Lab
