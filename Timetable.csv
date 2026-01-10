@@ -17,7 +17,7 @@ ES 113 (H),Data-Centric Computing,1.5,0,1.5,3,Anup Kalbalia(I+L),,100,,,"D2
 ES 119 (E),Principles of Artificial Intelligence,1.5,0,3,3,"Manisha Padala(I),Nirmal Sancheti(I),Nipun Batra(I),Bireswar Das(L)
 ",,286,,,"D1,A1
 (Jasubhai Auditorium)",,"J1,L1
-(10/203,10/204,Jasubhai Auditorium)",https://sites.google.com/iitgn.ac.in/principles-ai-2026/home,,,,
+(10/103,10/104,Harsha Patel Learning Theatre)",https://sites.google.com/iitgn.ac.in/principles-ai-2026/home,,,,
 ES 119 (H),Principles of Artificial Intelligence,1.5,0,3,3,"Manisha Padala(I),Nirmal Sancheti(I),Nipun Batra(I),Bireswar Das(L)
 ",,100,,,"C1,A2
 (Jayshree S Sheth Learning Theatre)",,,https://sites.google.com/iitgn.ac.in/principles-ai-2026/home,,,,
@@ -43,8 +43,7 @@ CE 202,Sustainability and Environment,1,0,3,3,Abhishek Singhal(I+L),,32,,,"B1
 (7/109)",Course Plan,,,,
 CS 203,Software Tools & Techniques for AI,1.5,0,3,4,Nipun Batra(I+L),,77,,,"I2
 (10/103)",,"B1,B2
-(10/203,10/204)","B1,B2
-(10/203,10/204)",,,,
+(10/105,Jasubhai Auditorium)",,,,,
 ES 211,Thermodynamics,2,1,0,3,"Atul Bhargav(I),Abinaya Sampath(T)",,121,,,"B1,B2
 (10/103)","I2
 (Jagdish Patel Learning Theatre,7/106,7/107)",,,,,,
@@ -73,14 +72,14 @@ PH 201,Introduction to Electrodynamics,3,1,0,4,"Rusa Mandal(I+T),Abhisek Samanta
 (Surendra C Sheth Learning Theatre)","B2
 (7/208,7/209)",,Course Plan,,,,
 PH 203,Solid State Physics ,3,1,0,4,Chandan Kumar Mishra(I+T),,120,,,"E1,E2
-(Surendra C Sheth Learning Theatre)","J1
-(Jayshree S Sheth Learning Theatre)",,Course Plan,,,,
+(Surendra C Sheth Learning Theatre)","H1
+(7/203)",,Course Plan,,,,
 CL 202,Chemical Engineering Thermodynamics,2,1,0,3,Pratyush Dayal(I+T),,50,,,"G1,G2
 (7/108)","G1,G2
 (7/108)",,Course Plan,,,,
 CS 203,Software Tools & Techniques for AI,1.5,0,3,4,Nipun Batra(I+L),,77,,,"I2
 (10/103)",,"B1,B2
-(10/203,10/204)",https://nipunbatra.github.io/stt-ai-26/,,,,
+(10/105,Jasubhai Auditorium)",https://nipunbatra.github.io/stt-ai-26/,,,,
 CL 203,Process Fluid Mechanics,2,1,0,3,Abinaya Sampath(I+T),,48,,,"E1,E2
 (Harsha Patel Learning Theatre)","H2
 (Harsha Patel Learning Theatre)",,https://docs.google.com/document/d/1lngPtqKc7WLuOgt87r9tLKa4dM1F_Ww_/edit?usp=sharing&ouid=113466085440647644318&rtpof=true&sd=true,,,,
@@ -309,7 +308,7 @@ CE 632,Advanced Concrete Design,3,0,0,4,Dhiman Basu(I),,14,,,"K1,K2
 CE 636,Traffic and Roadway Engineering,3,0,0,4,Sushobhan Sen(I),,16,,,"E1,E2
 (11/206)",,,https://iitgnacin-my.sharepoint.com/:b:/g/personal/sushobhan_sen_iitgn_ac_in/IQDd0c-BnJyeQbMAWp3j4FoqAZTAW05Z-V4yNOePhwxjz6A?e=9ZfzXS,,,,
 CE 639,AI for Civil Engineering,3,0,0,4,"Udit Bhatia(I),Sushobhan Sen(I)",,25,,,"C1,C2
-(11/205,11/206)",,,,,,,
+(7/104)",,,,,,,
 CE 691-I,Special Topics in Civil Engineering: Design for Dynamic Loads,3,0,0,4,Manish Kumar(I),,5,,,"P1,P2
 (13/124)",,,Course Plan,,,,
 CE 691-V,Special Topics in Civil Engineering: Geotechnical Infrastructure Projects,3,0,0,4,SR Gandhi(I),,10,,,"I1,I2
@@ -326,8 +325,8 @@ CL 353,Introduction to Process Safety,1.5,0,0,2,Chinmay Ghoroi(I),,40,,,"A2
 (7/210)",,,Course Plan,,,,
 ES 617,Design of Experiments,3,0,0,4,Nitin Padhiyar(I),,46,,,"N1,N2
 (10/102)",,,https://docs.google.com/spreadsheets/d/1py7LJBi2ghk4EJ3Kn7pMghqhuj2xfbJ1/edit?usp=drive_link&ouid=102766002145341627442&rtpof=true&sd=true,,,,
-CL 627,Particulate Solids: Processing & Surface Engineering,3,0,0,4,Chinmay Ghoroi(I),,40,,,"N1,N2
-(7/201)",,,https://drive.google.com/file/d/15lLvSp17CI0Vo1RvrEpFesKSxto1ZHK6/view?usp=sharing,,,,
+CL 627,Particulate Solids: Processing & Surface Engineering,3,0,0,4,Chinmay Ghoroi(I),,40,,,"H1,P2
+(7/103)",,,https://drive.google.com/file/d/15lLvSp17CI0Vo1RvrEpFesKSxto1ZHK6/view?usp=sharing,,,,
 CL 629,Fundamentals of Aerosol Science,3,0,0,4,Sameer Patel(I),,5,,,"I1,K2
 (11/101)",,,https://docs.google.com/document/d/1rp1pRuIuofQY-KT0N2el4pRaWVbtZ9g7q9eTsnuD2JM/edit?usp=sharing,,,,
 CL 628,Liquid State Theory,3,1,0,4,Kaustubh Rane(I+T),,40,,,"E1,D2
@@ -388,8 +387,8 @@ CH 633,Single Molecule Spectroscopy,1.5,0,3,4,Saumyakanti Khatua(I+L),,40,,,"J1
 CH 634,Introduction to Molecular Dynamics,1.5,0,3,4,Sairam Mallajosyula(I),,40,,,"L1
 (7/210)",,"N1,N2
 (10/104)",CH634_project.pdf,,,,
-CH 638,Electronic Structure Theory,3,0,0,4,Anirban Mondal(I),,40,,,"P1,P2
-(7/201)",,,https://drive.google.com/file/d/1DEQAwDiWH_wYYKA8NZ8obAE4UjxBWTOi/view?usp=drive_link,,,,
+CH 638,Electronic Structure Theory,3,0,0,4,Anirban Mondal(I),,40,,,"K1,F2
+(11/206)",,,https://drive.google.com/file/d/1DEQAwDiWH_wYYKA8NZ8obAE4UjxBWTOi/view?usp=drive_link,,,,
 CH 639,Advanced Main Group Chemistry ,3,0,0,4,Priyabrata Ghana(I),,19,,,"I1,I2
 (7/105)",,,https://drive.google.com/file/d/1uipcnm_Ro0Q58OTAAcc6OqrnYHQ2vnym/view?usp=drive_link,,,,
 CH 642,Non-linear Spectroscopy and its Applications,3,0,0,4,Partha Pratim Roy(I),,40,,,"I1,I2
@@ -407,17 +406,17 @@ MA 507,Ordinary Differential Equations,3,1.5,0,4,Tanya Srivastava(I+T),,49,,,"E1
 (7/108)",,Course Plan,,,,
 MA 606,Differential Topology,3,0,0,4,Arnab Saha(I),,15,,,"I1,I2
 (7/102)",,,Course Plan,,,,
-MA 629 (A),Real analysis of several variables,3,1.5,0,4,Rohit Kumar Mishra(I+T),,44,,,"F1,F2
-(7/107)","A2
+MA 629 (A),Real analysis of several variables,3,1.5,0,4,Rohit Kumar Mishra(I+T),,44,,,"C1,C2
+(7/108)","A2
 (7/202)",,Course Plan,,,,
 MA 637,Numerical Analysis and Computing,3,1.5,0,4,Madhu Gupta(I+T),,88,,,"D1,D2
 (7/209)","H2
 (10/203)",,Course Plan,,,,
 MA 625,Stochastic Differential Equations,3,0,0,4,Chetan Pahlajani(I),,10,,,"K1,K2
 (7/110)",,,Course Plan,,,,
-MA 628,Algebra II,3,1.5,0,4,Indranath Sengupta(I+T),,30,,,"C1,C2
-(7/108)","B2
-(7/108)",,Course Plan,,,,
+MA 628,Algebra II,3,1.5,0,4,Indranath Sengupta(I+T),,30,,,"F1,F2
+(Jayshree S Sheth Learning Theatre)","L2
+(5/202)",,Course Plan,,,,
 MA 634,Algebraic Number theory,3,0,0,4,Akshaa Vatwani(I),,40,,,"J1,J2
 (7/103)",,,,,,,
 MA 638,Matrix Lie Groups,3,0,0,4,Bipul Saurabh(I),,40,,,"P1,P2
@@ -434,9 +433,9 @@ MA 691-IV,Elliptic cruves and surfaces,3,0,0,4,Tanya Srivastava(I),,40,,,"A1,A2
 MA 691-V,Commutative Algebra - II,3,1.5,0,4,Jugal K Verma(I+T),,7,,,"E1,E2
 (7/105)","K2
 (7/203)",,course plan,,,,
-MA 691-VII,Special Topics in Mathematics: Hermitian Analysis,3,1.5,0,4,Gadadhar Misra(I+T),,,,,"G1,G2
-(11/206)","A1
-(13/125)",,Course Plan,,,,
+MA 691-VII,Special Topics in Mathematics: Hermitian Analysis,3,1.5,0,4,Gadadhar Misra(I+T),,,,,"E1,E2
+(7/102)","A1
+(7/102)",,Course Plan,,,,
 ,,,,,,,,,,,,,,,,,,
 Additional Courses: Physics,,,,,,,,,,,,,,,,,,
 PH 409,Introduction to Astronomy and Space Science,3,0,0,4,Urjit Yajnik(I),,40,,,"K1,K2
@@ -641,7 +640,7 @@ BE 691-I,Special Topics in Biological Engineering: Analysis and Characterization
 BE 692,Special Topics in Biological Engineering: Animal Cell Culture Techniques,0,0,3,2,Sharmistha Majumdar(L),,17,,,,,"K1,H1
 (BE Lab)",Course plan_Cell Culture Techniques,,,,
 BE 617,Novel Drug Delivery Technologies: Fundamental Principles and Engineering,3,0,0,4,Mukesh Dhanka(I),,18,,,"G1,G2
-(13/124)",,,https://docs.google.com/document/d/1Qz6f32LrClH885lzn2WL99JGRLZxbJxz/edit?usp=sharing&ouid=107984983868149659120&rtpof=true&sd=true,,,,
+(Jayshree S Sheth Learning Theatre)",,,https://docs.google.com/document/d/1Qz6f32LrClH885lzn2WL99JGRLZxbJxz/edit?usp=sharing&ouid=107984983868149659120&rtpof=true&sd=true,,,,
 BE 692-I,Special Topics in Biological Engineering: Nucleic Acids Based Therapeutics (first half),3,0,0,2,Dhiraj Bhatia(I),,40,,,"L1,L2
 (7/108)",,,https://docs.google.com/document/d/15OhdA1h8APZIFH-hMZuF85dCEerj_Uhc/edit?usp=sharing&ouid=114828150794801814953&rtpof=true&sd=true,,,,
 BE 692-II,Special Topics in Biological Engineering: Medical Device Regulations (second half),3,0,0,2,Karla P. Mercado-Shekhar(I),,40,,,"K1,L1
@@ -715,8 +714,8 @@ CS 621,Ethics of AI (N),3,0,0,4,Manisha Padala(I),,50,,,"K1,K2
 ,,,,,,,,,,,,,,,,,,
 Additional Courses: Electrical Engineering,,,,,,,,,,,,,,,,,,
 ES 333,Microprocessors and Embedded Systems,1.5,1,3,4,Jhuma Saha(I+T+L),,50,,,"G1
-(7/202)","G2
-(7/202)","C1,C2
+(Jagdish Patel Learning Theatre)","G2
+(Jagdish Patel Learning Theatre)","C1,C2
 (EE Lab)",Course Plan,,,,
 EE 609,Advanced Signal Processing,3,0,0,4,Nithin George(I),,30,,,"E1,E2
 (7/204)",,,Course Plan,,,,
@@ -752,12 +751,12 @@ ES 665,Advanced Transportation Electrification Technology,3,0,0,4,Pallavi Bharad
 (10/102)",,,Course Plan,,,,
 EE 668,Smart Power Distribution System,3,0,0,4,Naran Pindoriya(I),,40,,,"C1,C2
 (7/201)",,,Course plan,,,,
-ES 677,Physics inspired Machine Learning for Engineering Design,3,1,0,4,Ravi Hegde(I+T),,40,,,"N1,N2
-(7/105)","J2
-(7/104)",,https://docs.google.com/document/d/1UQDrbmUnrKbg0kdt9VMyqGKm2JcbVPccQ2FnN1XHuSk/edit?usp=sharing,,,,
+ES 677,Physics inspired Machine Learning for Engineering Design,3,1,0,4,Ravi Hegde(I+T),,40,,,"N1,G2
+(7/105)","H2
+(13/125)",,https://docs.google.com/document/d/1UQDrbmUnrKbg0kdt9VMyqGKm2JcbVPccQ2FnN1XHuSk/edit?usp=sharing,,,,
 EE 665,Advanced Radiating Systems,3,1,0,4,Kamla Prasan Ray(I+T),,40,,,"M1,M2
-(7/104)","J1
-(7/104)",,Course Plan,,,,
+(11/205)","J1
+(11/205)",,Course Plan,,,,
 EE 666,Fundamentals of Wireless Localization,3,0,0,4,Raghunandan M. Rao(I),,40,,,"K1,K2
 (7/103)",,,Course Plan,,,,
 EE 669,Advanced Semiconductor Devices,3,0,0,2,Jhuma Saha(I),,15,,,"L1,L2
@@ -810,7 +809,7 @@ EH 691-II,Atmopheric Physics,3,0,0,4,P. C. Pandey(I),,17,,,"C1,C2
 (13/125)",,,,,,,
 EH 691-X,Interpreting animals in the Human past,3,0,0,4,Sharada CV(I),,8,,,"I1,I2
 (11/204)",,,Course plan,,,,
-EH 691-XI,Special Topics in Earth Sciences: Stable Isotopes in Earth Systems,3,0,0,4,R. D. Deshpande(I),,,,,"M1,M2
+EH 691-XI,Special Topics in Earth Sciences: Stable Isotopes in Earth Systems,3,0,0,4,R. D. Deshpande(I),,,,,"F1,F2
 (13/125)",,,https://driCourse Plan_EH-691-XI_Stable Isotopes in Earth Systems.pdf,,,,
 ,,,,,,,,,,,,,,,,,,
 Additional Courses: Mechanical Engineering,,,,,,,,,,,,,,,,,,
@@ -871,7 +870,7 @@ MSE 404,Diffraction Methods for Structure and Stress Analysis,3,0,0,4,Pradipta G
 (11/205)",,,https://drive.google.com/file/d/15Sn9ueaZjHTeJctNrk-V7u4zkXRcmB_L/view?usp=sharing,,,,
 MSE 603,Thin Film Processing and Characterization,3,0,0,4,Emila Panda(I),,17,,,"A1,A2
 (11/205)",,,https://classroom.google.com/u/0/w/ODI0MDg0OTM5MDgz/t/all,,,,
-MSE 605,Biomaterials for Tissue Regeneration,3,0,0,4,Superb Misra(I),,10,,,"E1,E2
+MSE 605,Biomaterials for Tissue Regeneration,3,0,0,4,Superb Misra(I),,10,,,"E1,J2
 (11/205)",,,,,,,
 MSE 621,Process Plant Design – How to Set Up a Process Industry,3,0,0,4,Surya P Mehrotra(I),,27,,,"F1,F2
 (7/106)",,,MSE 621 Course Plan,,,,
