@@ -46,7 +46,8 @@ CS 203,Software Tools & Techniques for AI,1.5,0,3,4,Nipun Batra(I+L),,77,,,"I2
 (10/105,Jasubhai Auditorium)",,,,,
 ES 211,Thermodynamics,2,1,0,3,"Atul Bhargav(I),Abinaya Sampath(T)",,121,,,"B1,B2
 (10/103)","I2
-(Jagdish Patel Learning Theatre,7/106,7/107)",,,,,,
+(Jagdish Patel Learning Theatre,7/106,7/107)",,"
+Lecture plan",,,,
 ES 214,Discrete Mathematics,3,1,0,4,"Jyothi Krishnan(I+T),Balagopal (T)",,115,,,"B1,B2
 (Jayshree S Sheth Learning Theatre)","I2
 (Surendra C Sheth Learning Theatre,7/201)",,https://docs.google.com/document/d/1O9tdmtwwIew5Vqoa87HhnTo_V6CWURdOMxHHNqJYQiY/edit?usp=drivesdk,,,,
@@ -100,7 +101,7 @@ ME 209,Principles of Manufacturing Processes,2,0,1.5,3,Rakesh Singhai(I+L),,73,,
 (7/209)",,,,,,
 ES 211,Thermodynamics,2,1,0,3,"Atul Bhargav(I),Abinaya Sampath(T)",,121,,,"B1,B2
 (10/103)","I2
-(Jagdish Patel Learning Theatre,7/106,7/107)",,,,,,
+(Jagdish Patel Learning Theatre,7/106,7/107)",,Lecture plan (with an embedded link to the course policy document),,,,
 ES 221,Mechanics of Solids,3,1.5,0,4,"Harmeet Singh(I+T),Harini Subramanian(T)",,82,,,"C1,C2
 (7/208)","B1
 (7/102,7/107)",,Course plan,,,,
@@ -114,9 +115,9 @@ ES 246,Vacuum Technology Laboratory,0,0,3,2,Emila Panda(L),,70,,,,,"I1,K1
 (10/103,MSE Lab)",https://classroom.google.com/u/1/w/ODI0MDg0ODA4ODgx/t/all,,,,
 ES 247,IC Fabrication Processes,3,0,0,4,Nihar Mohapatra(I),,70,,,"G1,G2
 (11/101)",,,Course Plan,,,,
-EE 227,CMOS Circuit Design,2,1,1.5,4,Joycee Mekie(I+T+L),,70,,,"D1,D2
-(Jayshree S Sheth Learning Theatre)","L1
-(Jayshree S Sheth Learning Theatre)","E1,H2
+EE 227,CMOS Circuit Design,2,1,1.5,4,Joycee Mekie(I+T+L),,70,,,"D1,J2
+(Jayshree S Sheth Learning Theatre)","J2
+(Jayshree S Sheth Learning Theatre)","C2,D2
 (10/104,10/105)",Course Plan,,,,
 CE 202,Sustainability and Environment,1,0,3,3,Abhishek Singhal(I+L),,32,,,"B1
 (7/109)",,"B2,I2
@@ -139,11 +140,11 @@ CS 303,Mathematical Foundations for AI,3,1,0,4,Nirmal Sancheti(I+T),,73,,,"G1,G2
 (Harsha Patel Learning Theatre)","K2
 (Surendra C Sheth Learning Theatre)",,https://docs.google.com/document/d/1rNT6ZndD3x31b6LkcT9GrE2A_lekNPCgPM--6iR6xu0/edit?tab=t.0,,,,
 MSE 315,Introduction to Computational Materials Engineering,2,1,1.5,4,Raghavan Ranganathan(I+T+L),,25,,,"G1,G2
-(7/210)","I2
-(7/202)","I1
+(7/210)","D1
+(7/203)","I1
 (7/202)",Course plan,,,,
-MSE 205,Mechanical Behavior of Materials,3,0,1.5,4,Sriharitha Rowthu(I+L),,30,,,"D1,D2
-(7/210)",,"K1
+MSE 205,Mechanical Behavior of Materials,3,0,1.5,4,Sriharitha Rowthu(I+L),,30,,,"L1,D2
+(7/205)",,"K1
 (MSE Lab)",,,,,
 MSE 206,Physics of Materials,3,0,0,4,Gopinadhan Kalon(I),,25,,,"C1,C2
 (7/103)",,,Course Plan,,,,
@@ -348,7 +349,7 @@ ES 658,Molecular Simulations – Theory and Applications,3,1,0,4,Mithun Radhakri
 ,,,,,,,,,,,,,,,,,,
 Additional Courses: Chemistry,,,,,,,,,,,,,,,,,,
 CH 203,Fundamentals and Applications of Spectroscopy,3,0,0,4,"Sairam Swaroop Mallajosyula(I),Saumyakanti Khatua(I)",,221,,,"K1,K2
-(Jayshree S Sheth Learning Theatre,Jagdish Patel Learning Theatre)",,,https://drive.google.com/file/d/1fthx65M3dDohxhDjQQ-tnj-q25rM-VZs/view?usp=drive_link,,,,
+(Jayshree S Sheth Learning Theatre)",,,https://drive.google.com/file/d/1fthx65M3dDohxhDjQQ-tnj-q25rM-VZs/view?usp=drive_link,,,,
 CH 503,Fundamentals of Analytical Chemistry,3,0,0,4,Bhaskar Datta(I),,40,,,"N1,N2
 (7/104)",,,Course Plan and Syllabus,,,,
 CH 512,Reactions and Mechanisms in Organic Chemistry,3,0,0,4,Chandrakumar Appayee(I),,41,,,"F1,F2
@@ -365,7 +366,7 @@ CH 526,Group theory and spectroscopy,3,0,0,4,Partha Pratim Roy(I),,34,,,"B1,B2
 (7/110)",,,https://drive.google.com/file/d/1YrQgTQF5Wg3EoRdc35Yh8bOgenmgE6EY/view?usp=sharing,,,,
 CH 527,Organometallic Chemistry,3,0,0,4,Iti Gupta(I),,40,,,"D1,D2
 (7/206)",,,Course Plan Link,,,,
-CH 591-I,Special Topics in Chemistry: Introduction to Polymer Chemistry,3,0,0,4,Kuljeet Kaur(I),,,,,"G1,G2
+CH 591-I,Special Topics in Chemistry: Introduction to Polymer Chemistry,3,0,0,4,Kuljeet Kaur(I),,,,,"M1,M2
 (7/104)",,,Course Plan,,,,
 CH 592-I,Chemical biology in space (Special topics course),3,0,0,4,"Kasthuri Venkat(I),Sivapriya Kirubakaran(I)",,40,,,"D1,D2
 (11/204,11/205)",,,https://docs.google.com/document/d/1gL6QqENXx6WjYuigutCFgkYka2zx5wIyzP7Gj6jweDE/edit?tab=t.0,,,,
@@ -688,8 +689,8 @@ ES 335,Machine Learning,3,1,0,4,Krishna Miyapuram(I+T),,249,,,"D1,D2
 ES 678,Machine Learning,3,1.5,0,4,Krishna Miyapuram(I+T),,50,,,"D1,D2
 (10/103)","H1,N1
 (10/103,Jayshree S Sheth Learning Theatre)",,,,PG Core,,
-CS 614,Advanced Algorithms,3,0,0,4,Neeldhara Misra(I),,19,,,"M1,M2
-(7/105)",,,Course Page,,,,
+CS 614,Advanced Algorithms,3,0,0,4,Neeldhara Misra(I),,19,,,"D1,D2
+(7/110)",,,Course Page,,,,
 CS 616,Distributed Systems and Cloud Computing,3,0,1.5,5,Abhishek Bichawat(I+L),,16,,,"M1,M2
 (11/206)",,"I1
 (10/104)",https://docs.google.com/document/d/1bSIPlNdHxESG_FmWOWV2Nz7UsxGxEVrtrUTDASikfxk ,,,,
@@ -733,8 +734,8 @@ EE 639,Lasers,3,0,0,4,Arup Chakraborty(I),,20,,,"N1,N2
 EE 652,IC Design Laboratory,0,0,3,2,Joycee Mekie(L),,31,,,,"I1
 (Jagdish Patel Learning Theatre)","I1,K1
 (10/105)",Course Plan,,,,
-EE 653,Analog IC Design Lab,0,0,3,2,Madhav Pathak(L),,18,,,,,"D2,F2
-(10/104,10/105)",Course Plan,,,,
+EE 653,Analog IC Design Lab,0,0,3,2,Madhav Pathak(L),,18,,,,,"E1,H2
+(10/104)",Course Plan,,,,
 ES 641,Electronic Instrumentation,3,0,0,4,Uttama Lahiri(I),,13,,,"N1,N2
 (13/124)",,,Course Plan,,,,
 EE 691-V,Regulation of Electricity  Sector,3,0,0,4,Anand Kumar(I),,35,,,"M1,M2
