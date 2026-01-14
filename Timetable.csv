@@ -93,8 +93,8 @@ MA 203,Numerical Methods (second half),3,1.5,0,2,Abhinav Jha(I+T),,352,,,"F1,F2
 MA 204,Introduction to Partial Differential Equations (second half),3,1.5,0,2,Jagmohan Tyagi(I+T),,16,,,"D1,D2
 (7/106)","A1
 (7/207)",,Course Plan,,,,
-CL 205,Chemical Reaction Engineering - I,2,1,0,3,Kabeer Jasuja(I+T),,49,,,"I2,J2
-(Harsha Patel Learning Theatre)","I2,J2
+CL 205,Chemical Reaction Engineering - I,2,1,0,3,Kabeer Jasuja(I+T),,49,,,"I1,J2
+(Harsha Patel Learning Theatre)","I1,J2
 (Harsha Patel Learning Theatre)",,Course Plan                                                          Link for Google Classroom,,,,
 ME 209,Principles of Manufacturing Processes,2,0,1.5,3,Rakesh Singhai(I+L),,73,,,"G1,G2
 (7/209)","A2
@@ -115,10 +115,10 @@ ES 246,Vacuum Technology Laboratory,0,0,3,2,Emila Panda(L),,70,,,,,"I1,K1
 (10/103,MSE Lab)",https://classroom.google.com/u/1/w/ODI0MDg0ODA4ODgx/t/all,,,,
 ES 247,IC Fabrication Processes,3,0,0,4,Nihar Mohapatra(I),,70,,,"G1,G2
 (11/101)",,,Course Plan,,,,
-EE 227,CMOS Circuit Design,2,1,1.5,4,Joycee Mekie(I+T+L),,70,,,"D1,J2
+EE 227,CMOS Circuit Design,2,1,1.5,4,Joycee Mekie(I+T+L),,70,,,"D2,J2
 (Jayshree S Sheth Learning Theatre)","J2
-(Jayshree S Sheth Learning Theatre)","C2,D2
-(10/104,10/105)",Course Plan,,,,
+(Jayshree S Sheth Learning Theatre)","B1,D1
+(10/104)",Course Plan,,,,
 CE 202,Sustainability and Environment,1,0,3,3,Abhishek Singhal(I+L),,32,,,"B1
 (7/109)",,"B2,I2
 (7/109)",,,,,
@@ -134,7 +134,7 @@ ME 333,Mechanics of Materials,2,1,1,3,Prabhat Munshi(I+T+L),,69,,,"L1,L2
 (7/109)","J2
 (ME Lab)",,,,,
 CE 302,Structural Analysis,3,1,0,4,"Manish Kumar(I+T),S Chandrasekaran(I+T)",,41,,,"E1,E2
-(7/101)","C1
+(7/101)","A1
 (7/101)",,Course Plan (tentative),,,,
 CS 303,Mathematical Foundations for AI,3,1,0,4,Nirmal Sancheti(I+T),,73,,,"G1,G2
 (Harsha Patel Learning Theatre)","K2
@@ -243,7 +243,7 @@ EE 313,Communication Systems,2,1,0,3,Raghunandan M. Rao(I+T),,83,,,"J1,J2
 (7/208)","L2
 (7/209)",,Course Plan,,,,
 EE 341,Communication Systems,3,1,0,4,Raghunandan M. Rao(I+T),,83,,,"J1,J2
-(7/208)","L2,N2
+(Surendra C Sheth Learning Theatre)","L2,N2
 (Harsha Patel Learning Theatre)",,,,,,
 HS XXX,HSS Elective,,,,,,,,,,,,,,,,,
 IN 106,Comprehensive Viva Voce (Third Year B.Tech. Students),0,0,0,0,,,284,,,,,,,,,,
@@ -323,7 +323,7 @@ ES 418,Financial Modeling and Engineering,3,0,0,4,Mithun Radhakrishna(I),,40,,,"
 CL 605,Colloidal Domain: Where Science Meets Engineering,3,0,0,4,Prachi Thareja(I),,42,,,"C1,C2
 (7/202)",,,course plan,,,,
 CL 353,Introduction to Process Safety,1.5,0,0,2,Chinmay Ghoroi(I),,40,,,"A2
-(7/210)",,,Course Plan,,,,
+(7/208)",,,Course Plan,,,,
 ES 617,Design of Experiments,3,0,0,4,Nitin Padhiyar(I),,46,,,"N1,N2
 (10/102)",,,https://docs.google.com/spreadsheets/d/1py7LJBi2ghk4EJ3Kn7pMghqhuj2xfbJ1/edit?usp=drive_link&ouid=102766002145341627442&rtpof=true&sd=true,,,,
 CL 627,Particulate Solids: Processing & Surface Engineering,3,0,0,4,Chinmay Ghoroi(I),,40,,,"H1,P2
@@ -520,7 +520,7 @@ HS 519,Linguistic Anthropology,3,0,0,4,TBD7(I),,40,,,"N1,N2
 (7/104)",,,,,,,
 HS 523,Quantitative Research Methods in Social Sciences,3,1,0,4,Deepak Singhania(I+T),,28,,,"E1,E2
 (7/103)","B1
-(10/104)",,https://drive.google.com/file/d/1iPiUOLAbzC--BuJ7mJtSyEtMNajFIH_d/view?usp=sharing,,"Only HSS students or those who have not taken any basic Statistics course at IITGN, such as ES 114, are allowed to register for this course.",,
+(10/203)",,https://drive.google.com/file/d/1iPiUOLAbzC--BuJ7mJtSyEtMNajFIH_d/view?usp=sharing,,"Only HSS students or those who have not taken any basic Statistics course at IITGN, such as ES 114, are allowed to register for this course.",,
 HS 610,Critical Journey  through Select Thoughts and Theories,3,0,0,4,Arnapurna Rath(I),,40,,,"F1,F2
 (7/205)",,,Course Plan,,,,
 HS 635,India Through the Writer’s Eye,3,0,0,4,Sharmita Lahiri(I),,47,,,"J1,J2
@@ -644,8 +644,8 @@ BE 617,Novel Drug Delivery Technologies: Fundamental Principles and Engineering,
 (Jayshree S Sheth Learning Theatre)",,,https://docs.google.com/document/d/1Qz6f32LrClH885lzn2WL99JGRLZxbJxz/edit?usp=sharing&ouid=107984983868149659120&rtpof=true&sd=true,,,,
 BE 692-I,Special Topics in Biological Engineering: Nucleic Acids Based Therapeutics (first half),3,0,0,2,Dhiraj Bhatia(I),,40,,,"L1,L2
 (7/108)",,,https://docs.google.com/document/d/15OhdA1h8APZIFH-hMZuF85dCEerj_Uhc/edit?usp=sharing&ouid=114828150794801814953&rtpof=true&sd=true,,,,
-BE 692-II,Special Topics in Biological Engineering: Medical Device Regulations (second half),3,0,0,2,Karla P. Mercado-Shekhar(I),,40,,,"K1,L1
-(7/104)",,,BE 692-II course plan,,,,
+BE 692-II,Special Topics in Biological Engineering: Medical Device Regulations (second half),3,0,0,2,Karla P. Mercado-Shekhar(I),,40,,,"L1,L2
+(Jagdish Patel Learning Theatre)",,,BE 692-II course plan,,,,
 BE 692-III,Special Topics in Biological Engineering: Plant Developmental Biology (first half),3,0,0,2,Subramanian Sankaranarayanan(I),,40,,,"P1,P2
 (7/207)",,,BE692-III Course Plan_Subramanian.docx,,,,
 ,,,,,,,,,,,,,,,,,,
@@ -734,7 +734,7 @@ EE 639,Lasers,3,0,0,4,Arup Chakraborty(I),,20,,,"N1,N2
 EE 652,IC Design Laboratory,0,0,3,2,Joycee Mekie(L),,31,,,,"I1
 (Jagdish Patel Learning Theatre)","I1,K1
 (10/105)",Course Plan,,,,
-EE 653,Analog IC Design Lab,0,0,3,2,Madhav Pathak(L),,18,,,,,"E1,H2
+EE 653,Analog IC Design Lab,0,0,3,2,Madhav Pathak(L),,18,,,,,"D2,F2
 (10/104)",Course Plan,,,,
 ES 641,Electronic Instrumentation,3,0,0,4,Uttama Lahiri(I),,13,,,"N1,N2
 (13/124)",,,Course Plan,,,,

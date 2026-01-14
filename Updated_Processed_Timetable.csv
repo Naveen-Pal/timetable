@@ -30,17 +30,17 @@ Process Fluid Mechanics,CL 203,"A1,H2",C1,,3.0,Harsha Patel Learning Theatre,Har
 Heat Transfer,CL 204,"D1,D2","D1,D2",,3.0,10/102,10/102,
 Numerical Methods (second half),MA 203,"F1,F2",L2,,2.0,Jasubhai Auditorium,"7/101,7/210,7/103,7/104,7/1...",
 Introduction to Partial Differential Equations (second half),MA 204,"D1,D2",A1,,2.0,7/106,7/207,
-Chemical Reaction Engineering - I,CL 205,"I2,J2","I2,J2",,3.0,Harsha Patel Learning Theatre,Harsha Patel Learning Theatre,
+Chemical Reaction Engineering - I,CL 205,"I1,J2","I1,J2",,3.0,Harsha Patel Learning Theatre,Harsha Patel Learning Theatre,
 Principles of Manufacturing Processes,ME 209,"G1,G2",A2,,3.0,7/209,7/209,
 Mechanics of Solids,ES 221,"C1,C2",B1,,4.0,7/208,"7/102,7/107",
 Fluid Mechanics,ES 212,"G1,G2",H2,,4.0,7/101,7/108,
 Vacuum Technology Laboratory,ES 246,,,"I1,K1",2.0,,,"10/103,MSE Lab"
 IC Fabrication Processes,ES 247,"G1,G2",,,4.0,11/101,,
-CMOS Circuit Design,EE 227,"D1,J2",J2,"C2,D2",4.0,Jayshree S Sheth Learning T...,Jayshree S Sheth Learning T...,"10/104,10/105"
+CMOS Circuit Design,EE 227,"D2,J2",J2,"B1,D1",4.0,Jayshree S Sheth Learning T...,Jayshree S Sheth Learning T...,10/104
 Fluid Dynamics,ME 207,"D1,D2",H2,I1,5.0,Surendra C Sheth Learning T...,"7/208,7/209",Surendra C Sheth Learning T...
 Vibrations,ME 208,"K1,K2",J2,,2.0,7/209,7/209,
 Mechanics of Materials,ME 333,"L1,L2","L1,L2",J2,3.0,7/109,7/109,ME Lab
-Structural Analysis,CE 302,"E1,E2",C1,,4.0,7/101,7/101,
+Structural Analysis,CE 302,"E1,E2",A1,,4.0,7/101,7/101,
 Mathematical Foundations for AI,CS 303,"G1,G2",K2,,4.0,Harsha Patel Learning Theatre,Surendra C Sheth Learning T...,
 Introduction to Computational Materials Engineering,MSE 315,"G1,G2",D1,I1,4.0,7/210,7/203,7/202
 Mechanical Behavior of Materials,MSE 205,"L1,D2",,K1,4.0,7/205,,MSE Lab
@@ -67,7 +67,7 @@ Design of Reinforced Concrete Structures,CE 311,"G1,G2",L2,N2,5.0,7/103,"7/206,7
 Geotechnical Engineering,CE 314,F1,F2,"K1,H1",4.0,7/206,7/206,CE Lab
 Construction Technology & Management,CE 403,"C1,C2",,,4.0,7/209,,
 Communication Systems,EE 313,"J1,J2",L2,,3.0,7/208,7/209,
-Communication Systems,EE 341,"J1,J2","L2,N2",,4.0,7/208,Harsha Patel Learning Theatre,
+Communication Systems,EE 341,"J1,J2","L2,N2",,4.0,Surendra C Sheth Learning T...,Harsha Patel Learning Theatre,
 Synthesis and Analysis of Mechanisms,ME 335,"D1,D2",,I1,3.0,7/208,,Makers Bhavan
 Mechanical Systems Design,ME 337,"C1,C2",,,3.0,7/109,,
 Energy Systems,ES 337,"F1,F2",,,3.0,Jagdish Patel Learning Thea...,,
@@ -92,7 +92,7 @@ Special Topics in Civil Engineering: Geotechnical Infrastructure Projects,CE 691
 Special Topics: Drinking Water Treatment : Engineering Practices,CE 691-VII,"N1,N2",,,4.0,7/102,,
 Financial Modeling and Engineering,ES 418,Monday & Wednesday,,,4.0,"6:30 PM to 7:50 PM, Jayshree S Sheth Learning T...",,
 Colloidal Domain: Where Science Meets Engineering,CL 605,"C1,C2",,,4.0,7/202,,
-Introduction to Process Safety,CL 353,A2,,,2.0,7/210,,
+Introduction to Process Safety,CL 353,A2,,,2.0,7/208,,
 Design of Experiments,ES 617,"N1,N2",,,4.0,10/102,,
 Particulate Solids: Processing & Surface Engineering,CL 627,"H1,P2",,,4.0,7/103,,
 Fundamentals of Aerosol Science,CL 629,"I1,K2",,,4.0,11/101,,
@@ -173,7 +173,7 @@ Sociology of Tourism,HS 514,"B1,B2",,,4.0,11/101,,
 The Politics of the Environment,HS 515,"I1,I2",,,4.0,7/208,,
 "Philosophy, Cognition and Psychoanalyis",HS 518,"J1,J2",,,4.0,7/102,,
 Linguistic Anthropology,HS 519,"N1,N2",,,4.0,7/104,,
-Quantitative Research Methods in Social Sciences,HS 523,"E1,E2",B1,,4.0,7/103,10/104,
+Quantitative Research Methods in Social Sciences,HS 523,"E1,E2",B1,,4.0,7/103,10/203,
 Critical Journey  through Select Thoughts and Theories,HS 610,"F1,F2",,,4.0,7/205,,
 India Through the Writer’s Eye,HS 635,"J1,J2",,,4.0,7/202,,
 Structures and Hydrology in Ancient India,HS 642,"M1,M2",,,4.0,7/108,,
@@ -235,7 +235,7 @@ Special Topics in Biological Engineering: Analysis and Characterization of Biolo
 Special Topics in Biological Engineering: Animal Cell Culture Techniques,BE 692,,,"K1,H1",2.0,,,BE Lab
 Novel Drug Delivery Technologies: Fundamental Principles and Engineering,BE 617,"G1,G2",,,4.0,Jayshree S Sheth Learning T...,,
 Special Topics in Biological Engineering: Nucleic Acids Based Therapeutics (first half),BE 692-I,"L1,L2",,,2.0,7/108,,
-Special Topics in Biological Engineering: Medical Device Regulations (second half),BE 692-II,"K1,L1",,,2.0,7/104,,
+Special Topics in Biological Engineering: Medical Device Regulations (second half),BE 692-II,"L1,L2",,,2.0,Jagdish Patel Learning Thea...,,
 Special Topics in Biological Engineering: Plant Developmental Biology (first half),BE 692-III,"P1,P2",,,2.0,7/207,,
 Experimental Techniques in Cognitive Science,CG 506,H2,,K2,4.0,7/203,,7/108
 Introduction to Cognitive Linguistics,CG 517,"G1,G2",,,4.0,7/203,,
@@ -267,7 +267,7 @@ Special Electrical Machines,EE 619,"G1,G2",,,4.0,11/102,,
 Power Electronic Converters,EE 629,"P1,P2",N1,,4.0,11/102,11/102,
 Lasers,EE 639,"N1,N2",,,4.0,13/125,,
 IC Design Laboratory,EE 652,,I1,"I1,K1",2.0,,Jagdish Patel Learning Thea...,10/105
-Analog IC Design Lab,EE 653,,,"E1,H2",2.0,,,10/104
+Analog IC Design Lab,EE 653,,,"D2,F2",2.0,,,10/104
 Electronic Instrumentation,ES 641,"N1,N2",,,4.0,13/124,,
 Regulation of Electricity  Sector,EE 691-V,"M1,M2",,,4.0,7/103,,
 Medical Imaging Systems,ES 655,"J1,J2",,,4.0,7/210,,
