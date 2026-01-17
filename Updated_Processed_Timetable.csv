@@ -37,7 +37,7 @@ Fluid Mechanics,ES 212,"G1,G2",H2,,4.0,7/101,7/108,
 Vacuum Technology Laboratory,ES 246,,,"I1,K1",2.0,,,"10/103,MSE Lab"
 IC Fabrication Processes,ES 247,"G1,G2",,,4.0,11/101,,
 CMOS Circuit Design,EE 227,"D2,J2",J2,"B1,D1",4.0,Jayshree S Sheth Learning T...,Jayshree S Sheth Learning T...,10/104
-Fluid Dynamics,ME 207,"D1,D2",H2,I1,5.0,Surendra C Sheth Learning T...,"7/208,7/209",Surendra C Sheth Learning T...
+Fluid Dynamics,ME 207,"D1,D2",A1,I1,5.0,Surendra C Sheth Learning T...,"7/208,7/209",Surendra C Sheth Learning T...
 Vibrations,ME 208,"K1,K2",J2,,2.0,7/209,7/209,
 Mechanics of Materials,ME 333,"L1,L2","L1,L2",J2,3.0,7/109,7/109,ME Lab
 Structural Analysis,CE 302,"E1,E2",A1,,4.0,7/101,7/101,
@@ -79,7 +79,7 @@ Physical Education (For 2022 MSc and MA students),PE 500,,,,0.0,,,
 Physical Education (For 2022 M Tech and PhD students),PE 600,,,,0.0,,,
 Networks and Complex Systems ,ES 404,"G1,G2",,,4.0,"7/207,7/110",,
 Finite Element Methods,ES 622,Tuesday & Thursday,,,4.0,"6:30 PM to 7:50 PM, 7/202",,
-Analysis and Design of Foundation Systems,CE 602,"M1,M2",,"J1,L1",5.0,13/124,,CE Lab
+Analysis and Design of Foundation Systems,CE 602,"M1,M2",,"J1,L1",5.0,7/207,,CE Lab
 Remote Sensing of Land and Water Resources,CE 605,"M1,M2",,,4.0,7/101,,
 Structural Design for Fire,CE 615,"M1,M2",,,4.0,7/107,,
 Applied Hydraulic Transients,CE 628,"J1,J2",,,4.0,13/124,,
@@ -294,7 +294,7 @@ Physics of the Lithosphere,EH 614,"N1,N2",,,4.0,7/210,,
 Climate of the Past,EH 621,K1,,"J2,L1",4.0,11/204,,7/206
 Fluid Flow and Reactions in Reservoir Rocks,EH 622,"G1,G2",,,4.0,7/201,,
 Stratigraphic Evolution of Indian Continent,EH 623,"P1,P2",B1,,4.0,7/101,7/101,
-Ceramics in Archaeology ,EH 629,"M1,M2",,,4.0,11/204,,
+Ceramics in Archaeology ,EH 629,"J1,M1",,,4.0,11/204,,
 Harappan Civilization,EH 630,"D1,D2",,,4.0,7/202,,
 Fundamentals of Structural Geology,EH 632,K1,,"I2,M1",4.0,13/125,,EH Lab
 Dynamic Earth Surface and Nature Hazards,EH 634,G2,,"I2,M1",4.0,7/104,,EH Lab
