@@ -147,7 +147,7 @@ Methods of Experimental Physics,PH 506,C1,,"J1,L1",4.0,7/107,,PH Lab
 Statistical Mechanics ,PH 507,"E1,E2",B1,,4.0,7/108,7/208,
 Computational Physics,PH 509 (N),"D1,D2",,"I1,K1",4.0,7/109,,10/204
 Electronic Devices & Digital Systems for Physicists,PH 513,"F1,F2",,,4.0,7/204,,
-AI in Physics,PH 514,"M1,M2",,I1,4.0,7/210,,7/110
+AI in Physics,PH 514,"M1,M2",,I1,4.0,7/209,,7/209
 Topics in Quantum and Statistical Mechanics,PH 607,"P1,H1",,,4.0,7/206,,
 Tools of Theoretical Physics ,PH 608,"G1,G2",,,4.0,11/205,,
 Quantum Field Theory-II,PH 612,"F1,F2",,,4.0,5/202,,
@@ -269,13 +269,13 @@ Lasers,EE 639,"N1,N2",,,4.0,13/125,,
 IC Design Laboratory,EE 652,,I1,"I1,K1",2.0,,Jagdish Patel Learning Thea...,10/105
 Analog IC Design Lab,EE 653,,,"D2,F2",2.0,,,10/104
 Electronic Instrumentation,ES 641,"N1,N2",,,4.0,13/124,,
-Regulation of Electricity  Sector,EE 691-V,"M1,M2",,,4.0,7/103,,
+Regulation of Electricity Sector,EE 691-V,"M1,M2",,,4.0,Surendra C Sheth Learning T...,,
 Medical Imaging Systems,ES 655,"J1,J2",,,4.0,7/210,,
 VLSI System Design,EE 657,"A2,I2",,,4.0,11/101,,
 Memory Device Technologies and Applications,EE 658,"F1,K2",,,4.0,10/102,,
 Power Management IC Design ,EE 660,"P1,P2",,,4.0,11/206,,
 Advanced Transportation Electrification Technology,ES 665,"H1,H2",,,4.0,10/102,,
-Smart Power Distribution System,EE 668,"C1,C2",,,4.0,7/201,,
+Smart Power Distribution System,EE 668,"F1,F2",,,4.0,13/124,,
 Physics inspired Machine Learning for Engineering Design,ES 677,"N1,G2",H2,,4.0,7/105,13/125,
 Advanced Radiating Systems,EE 665,"M1,M2",J1,,4.0,11/205,11/205,
 Fundamentals of Wireless Localization,EE 666,"K1,K2",,,4.0,7/103,,
@@ -294,7 +294,7 @@ Physics of the Lithosphere,EH 614,"N1,N2",,,4.0,7/210,,
 Climate of the Past,EH 621,K1,,"J2,L1",4.0,11/204,,7/206
 Fluid Flow and Reactions in Reservoir Rocks,EH 622,"G1,G2",,,4.0,7/201,,
 Stratigraphic Evolution of Indian Continent,EH 623,"P1,P2",B1,,4.0,7/101,7/101,
-Ceramics in Archaeology ,EH 629,"J1,M1",,,4.0,11/204,,
+Ceramics in Archaeology ,EH 629,"M1,F2",,,4.0,11/204,,
 Harappan Civilization,EH 630,"D1,D2",,,4.0,7/202,,
 Fundamentals of Structural Geology,EH 632,K1,,"I2,M1",4.0,13/125,,EH Lab
 Dynamic Earth Surface and Nature Hazards,EH 634,G2,,"I2,M1",4.0,7/104,,EH Lab
@@ -303,7 +303,7 @@ Interpreting animals in the Human past,EH 691-X,"I1,I2",,,4.0,11/204,,
 Special Topics in Earth Sciences: Stable Isotopes in Earth Systems,EH 691-XI,"F1,F2",,,4.0,13/125,,
 Numerical Methods for Engineers,ES 419,"I1,I2",J1,,4.0,7/104,10/105,
 Elastodynamics and Vibrations,ES 646,"D1,D2",,,4.0,7/101,,
-Nonlinear Dynamics and Vibrations,ES 648,"D1,D2",,,4.0,7/101,,
+Nonlinear Dynamics and Vibrations,ES 648,"G1,G2",,,4.0,7/104,,
 Modern Control Theory,ES 613,"E1,E2",,,4.0,11/204,,
 Human Robot Interaction,ES 656,"G1,G2",,,4.0,7/105,,
 Mechanics of Composite Materials,ES 671,"E1,E2",,,4.0,7/207,,
