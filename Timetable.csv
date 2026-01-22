@@ -14,11 +14,11 @@ ES 113 (E),Data-Centric Computing,1.5,0,1.5,3,Anup Kalbalia(I+L),,286,,,"D1
 ES 113 (H),Data-Centric Computing,1.5,0,1.5,3,Anup Kalbalia(I+L),,100,,,"D2
 (Jasubhai Auditorium)",,"L1
 (10/104,10/105)",,,,,
-ES 119 (E),Principles of Artificial Intelligence,1.5,0,3,3,"Manisha Padala(I),Nirmal Sancheti(I),Nipun Batra(I),Bireswar Das(L)
+ES 119 (E),Principles of Artificial Intelligence,3,0,3,4,"Manisha Padala(I),Nirmal Sancheti(I),Nipun Batra(I),Bireswar Das(L)
 ",,286,,,"D1,A1
 (Jasubhai Auditorium)",,"J1,L1
 (10/103,10/104,Harsha Patel Learning Theatre)",https://sites.google.com/iitgn.ac.in/principles-ai-2026/home,,,,
-ES 119 (H),Principles of Artificial Intelligence,1.5,0,3,3,"Manisha Padala(I),Nirmal Sancheti(I),Nipun Batra(I),Bireswar Das(L)
+ES 119 (H),Principles of Artificial Intelligence,3,0,3,4,"Manisha Padala(I),Nirmal Sancheti(I),Nipun Batra(I),Bireswar Das(L)
 ",,100,,,"C1,A2
 (Jayshree S Sheth Learning Theatre)",,,https://sites.google.com/iitgn.ac.in/principles-ai-2026/home,,,,
 ES 114 (E),"Probability, Statistics, and Data Visualization",1.5,0,1.5,3,Mayank Singh(I+L),,290,,,"C1
@@ -400,7 +400,7 @@ MA 513,AI and Mathematics,3,1.5,0,4,"Aditya Nema(I+T),Madhu Gupta(I+T)",,40,,,"K
 (7/205)","B1
 (7/205)",,Course Plan,,,,
 MA 502,Complex Analysis,3,1.5,0,4,Sanjay Amrutiya(I+T),,48,,,"G1,G2
-(7/109)","A1
+(7/203)","A1
 (7/203)",,Course Plan,,,,
 MA 507,Ordinary Differential Equations,3,1.5,0,4,Tanya Srivastava(I+T),,49,,,"E1,E2
 (7/109)","B1
@@ -657,7 +657,7 @@ CG 507,"Evolutionary Neuropsychology
 (Quad 1)",3,0,0,2,Frederick Coolidge(I),,19,,,"M1,M2
 (7/202)",,,,,,,
 CG 517,Introduction to Cognitive Linguistics,3,0,0,4,Jooyoung Kim(I),,76,,,"G1,G2
-(7/203)",,,CG517_2026-Spring_Syllabus_Kim,,,,
+(7/109)",,,CG517_2026-Spring_Syllabus_Kim,,,,
 CG 601,Motor Learning and Memory,3,0,0,4,Pratik Mutha(I),,40,,,"E1,E2
 (7/110)",,,Course Plan,,,,
 CG 603,Perception and Attention,3,0,0,4,Meera Mary Sunny(I),,,,,"L1,L2
@@ -692,7 +692,7 @@ ES 678,Machine Learning,3,1.5,0,4,Krishna Miyapuram(I+T),,50,,,"D1,D2
 CS 614,Advanced Algorithms,3,0,0,4,Neeldhara Misra(I),,19,,,"D1,D2
 (7/110)",,,Course Page,,,,
 CS 616,Distributed Systems and Cloud Computing,3,0,1.5,5,Abhishek Bichawat(I+L),,16,,,"M1,M2
-(11/206)",,"I1
+(7/103)",,"I1
 (10/104)",https://docs.google.com/document/d/1bSIPlNdHxESG_FmWOWV2Nz7UsxGxEVrtrUTDASikfxk ,,,,
 CS 617,Computational Complexity Theory,3,0,0,4,Balagopal Komarath(I),,13,,,"J1,J2
 (13/125)",,,https://docs.google.com/document/d/1TH-T3-9yeOfqReEoOvngwXnkY58RQcuJh9ncLBaL1rY/edit?tab=t.0#heading=h.rrre5s8yzq5,,,,
@@ -710,7 +710,7 @@ CS 432,Databases,3,0,0,4,Yogesh Meena(I),,69,,,"P1,P2
 CS 436,"History of Computing and its Applications to Domains
 (second half)",3,0,0,2,Rajat Moona(I),,70,,,"A1,A2
 (Surendra C Sheth Learning Theatre)",,,Course Plan,,,,
-CS 621,Ethics of AI (N),3,0,0,4,Manisha Padala(I),,50,,,"K1,K2
+CS 621,Ethics of AI (N),3,0,0,4,Manisha Padala(I),,50,,,"K1,P2
 (7/208)",,,https://sites.google.com/iitgn.ac.in/ethicsai/home,,,,
 ,,,,,,,,,,,,,,,,,,
 Additional Courses: Electrical Engineering,,,,,,,,,,,,,,,,,,

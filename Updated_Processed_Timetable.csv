@@ -4,8 +4,8 @@ Ordinary Differential Equations (first half),MA 104 (E),"E1,E2",H2,,2.0,Jasubhai
 Ordinary Differential Equations (first half),MA 104 (H),"E1,E2",H2,,2.0,Jagdish Patel Learning Thea...,"7/205,7/206,7/207",
 Data-Centric Computing,ES 113 (E),D1,,N1,3.0,Jasubhai Auditorium,,"10/104,10/105,10/203,10/204"
 Data-Centric Computing,ES 113 (H),D2,,L1,3.0,Jasubhai Auditorium,,"10/104,10/105"
-Principles of Artificial Intelligence,ES 119 (E),"D1,A1",,"J1,L1",3.0,Jasubhai Auditorium,,"10/103,10/104,Harsha Patel ..."
-Principles of Artificial Intelligence,ES 119 (H),"C1,A2",,,3.0,Jayshree S Sheth Learning T...,,
+Principles of Artificial Intelligence,ES 119 (E),"D1,A1",,"J1,L1",4.0,Jasubhai Auditorium,,"10/103,10/104,Harsha Patel ..."
+Principles of Artificial Intelligence,ES 119 (H),"C1,A2",,,4.0,Jayshree S Sheth Learning T...,,
 "Probability, Statistics, and Data Visualization",ES 114 (E),C1,,K2,3.0,Jasubhai Auditorium,,"10/104,Jasubhai Auditorium"
 "Probability, Statistics, and Data Visualization",ES 114 (H),D1,,L2,3.0,11/102,,"10/104,10/105"
 Principles and Applications of Electrical Engineering,ES 116 (E),"G1,G2",N2,"I1,J2,M1,L2,M2",5.0,Jasubhai Auditorium,"7/101,7/103,7/106,7/107,7/1...",EE Lab
@@ -125,7 +125,7 @@ Electronic Structure Theory,CH 638,"K1,F2",,,4.0,11/206,,
 Advanced Main Group Chemistry ,CH 639,"I1,I2",,,4.0,7/105,,
 Non-linear Spectroscopy and its Applications,CH 642,"I1,I2",,,4.0,7/103,,
 AI and Mathematics,MA 513,"K1,K2",B1,,4.0,7/205,7/205,
-Complex Analysis,MA 502,"G1,G2",A1,,4.0,7/109,7/203,
+Complex Analysis,MA 502,"G1,G2",A1,,4.0,7/203,7/203,
 Ordinary Differential Equations,MA 507,"E1,E2",B1,,4.0,7/109,7/108,
 Differential Topology,MA 606,"I1,I2",,,4.0,7/102,,
 Real analysis of several variables,MA 629 (A),"C1,C2",A2,,4.0,7/108,7/202,
@@ -238,7 +238,7 @@ Special Topics in Biological Engineering: Nucleic Acids Based Therapeutics (firs
 Special Topics in Biological Engineering: Medical Device Regulations (second half),BE 692-II,"L1,L2",,,2.0,Jagdish Patel Learning Thea...,,
 Special Topics in Biological Engineering: Plant Developmental Biology (first half),BE 692-III,"P1,P2",,,2.0,7/207,,
 Experimental Techniques in Cognitive Science,CG 506,H2,,K2,4.0,7/203,,7/108
-Introduction to Cognitive Linguistics,CG 517,"G1,G2",,,4.0,7/203,,
+Introduction to Cognitive Linguistics,CG 517,"G1,G2",,,4.0,7/109,,
 Motor Learning and Memory,CG 601,"E1,E2",,,4.0,7/110,,
 Perception and Attention,CG 603,"L1,L2",,,4.0,7/106,,
 Learning and Memory,CG 605,"D1,D2",,,4.0,7/105,,
@@ -248,7 +248,7 @@ Introduction to Data Structures and Algorithms,ES 248,N1,,"A2,C2",3.0,11/101,,10
 Compilers,CS 327,"F1,G2",,F2,5.0,Surendra C Sheth Learning T...,,"10/203,10/204"
 Machine Learning,ES 678,"D1,D2","H1,N1",,4.0,10/103,"10/103,Jayshree S Sheth Lea...",
 Advanced Algorithms,CS 614,"D1,D2",,,4.0,7/110,,
-Distributed Systems and Cloud Computing,CS 616,"M1,M2",,I1,5.0,11/206,,10/104
+Distributed Systems and Cloud Computing,CS 616,"M1,M2",,I1,5.0,7/103,,10/104
 Computational Complexity Theory,CS 617,"J1,J2",,,4.0,13/125,,
 Deep Learning,ES 667,"L1,L2",,,4.0,7/208,,
 "Matrix Methods for Signal Processing, Data Science,
@@ -258,7 +258,7 @@ Computer and Network Security,CS 431,"H1,H2",,,4.0,7/109,,
 Databases,CS 432,"P1,P2",,,4.0,10/103,,
 "History of Computing and its Applications to Domains
 (second half)",CS 436,"A1,A2",,,2.0,Surendra C Sheth Learning T...,,
-Ethics of AI (N),CS 621,"K1,K2",,,4.0,7/208,,
+Ethics of AI (N),CS 621,"K1,P2",,,4.0,7/208,,
 Microprocessors and Embedded Systems,ES 333,G1,G2,"C1,C2",4.0,Jagdish Patel Learning Thea...,Jagdish Patel Learning Thea...,EE Lab
 Advanced Signal Processing,EE 609,"E1,E2",,,4.0,7/204,,
 Artificial Intelligence,ES 612,"I1,I2",,,4.0,7/101,,
