@@ -102,7 +102,8 @@ ME 209,Principles of Manufacturing Processes,2,0,1.5,3,Rakesh Singhai(I+L),,73,,
 ES 211,Thermodynamics,2,1,0,3,"Atul Bhargav(I),Abinaya Sampath(T)",,121,,,"B1,B2
 (10/103)","I2
 (Jagdish Patel Learning Theatre,7/106,7/107)",,Lecture plan (with an embedded link to the course policy document),,,,
-ES 221,Mechanics of Solids,3,1.5,0,4,"Harmeet Singh(I+T),Harini Subramanian(T)",,82,,,"C1,C2
+ES 221,Mechanics of Solids,3,1.5,0,4,"Harmeet Singh(I+T),Harini Subramanian(T),Ravi Ayyagari(T)
+",,82,,,"C1,C2
 (7/208)","B1
 (7/102,7/107)",,Course plan,,,,
 ES 212,Fluid Mechanics,3,1.5,0,4,Subhasish Dey(I+T),,40,,,"G1,G2
@@ -713,6 +714,8 @@ CS 436,"History of Computing and its Applications to Domains
 (Surendra C Sheth Learning Theatre)",,,Course Plan,,,,
 CS 621,Ethics of AI (N),3,0,0,4,Manisha Padala(I),,50,,,"K1,P2
 (7/208)",,,https://sites.google.com/iitgn.ac.in/ethicsai/home,,,,
+CS 691-XX,Special Topics in Computer Science: Cyber Physical Systems for Industrial Applications,3,0,0,2,Abhishek Bichhawat(I),,,,,"M1,M2
+(7/105)",,,,,,,
 ,,,,,,,,,,,,,,,,,,
 Additional Courses: Electrical Engineering,,,,,,,,,,,,,,,,,,
 ES 333,Microprocessors and Embedded Systems,1.5,1,3,4,Jhuma Saha(I+T+L),,50,,,"G1
