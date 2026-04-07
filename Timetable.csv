@@ -3,9 +3,9 @@ First Year (2026),,,,,,,,,,,,,,,,,
 FP 100,Foundation Programme,0,0,0,4,,,,,,,,,,,,
 ES 101 (E),Engineering Graphics,1.5,0,1.5,3,"Hari Sai Ganesh(I+L),Soumajit Dutta(L),Sameer Patel(L)",,,,"E1
 (Jasubhai Auditorium)",,"N1,N2
-(Surendra C Sheth Learning Theatre,Jayshree S Sheth Learning Theatre,10/203,10/204,7/208,7/209,10/201,10/202,10/104,10/105,11/101,11/102)",,,,,
+(Surendra C Sheth Learning Theatre,Jayshree S Sheth Learning Theatre,10/203,10/204,7/208,7/209,10/201,10/202,10/104,10/105,11/101,11/102)",Course Plan,,,,
 ES 101 (H),Engineering Graphics,1.5,0,1.5,3,Hari Sai Ganesh(I),,,,"G1
-(7/101)",,,,,,,
+(7/101)",,,Course Plan,,,,
 MA 103 (E),Calculus of Single Variable and Linear Algebra,3,1.5,0,4,"Abhinav Jha(I+T),Sudeshna Roy(I+T)",,,,"G1,G2
 (Jasubhai Auditorium)","K1
 (7/101,7/102,7/103,7/104,7/105,7/106,7/107,7/202,7/203,7/204,7/205)",,,,,,
@@ -54,7 +54,7 @@ MSE 317,Materials Processing,2,1,1.5,4,"Emila Panda(I+T+L),Pradipta Ghosh(I+T+L)
 (11/206,7/104)",,I1,,,,,
 ME 207,Fluid Dynamics,3,1.5,1.5,5,"Shubhangi Shamsundar Bansude(I+T),Uddipta Ghosh(T),Lokesh Malik(L)",,,,"E1,E2
 (7/109)","A1
-(7/104,7/105)",K1,,,,,
+(7/104,7/105)",K1,Course Plan (Tentative),,,,
 ME 209,Principles of Manufacturing Processes,2,0,1.5,3,,,,,,,,,,,,
 MA 205,Calculus of Several Variables (first half),3,1.5,0,2,Tanya Kaushal Srivastava(I+T),,,,"F1,F2
 (Jasubhai Auditorium)","B1
@@ -252,7 +252,7 @@ Additional Courses: Biological Engineering																	,,,,,,,,,,,,,,,,,
 BE 303,Bionanotechnology – Principles and Applications,3,0,0,4,Mukesh Dhanka(I),,,,"F1,F2
 (11/204)",,,,,,,
 BE 404,Genetic Engineering – Principles and Applications,3,0,0,4,Sharmistha Majumdar(I),,,,"B1,B2
-(13/125)",,,,,,,
+(13/125)",,,BE404 course plan,,,,
 BE 614,Biostatistics,1.5,0,3,4,Ashutosh Srivastava(I+L),,,,"G1
 (7/201)",,"I1,K1",BE614_course_description.pdf,,,,
 BE 616,Human Physiology,3,0,0,4,Karla Patricia Mercado-Shekhar(I),,,,"E1,E2
@@ -309,7 +309,7 @@ CL 601,Advance Transport Phenomena,3,1,0,4,Prachi Thareja(I+T),,,,"E1,E2
 (7/204)",,,,,,
 CL 602,Advanced Thermodynamics,3,1,0,4,Mithun Radhakrishna(I+T),,,,"D1,D2
 (7/206)","A1
-(7/205)",,,,,,
+(7/205)",,CL 602 Advanced Thermodynamics,,,,
 CL 604,Advanced Reaction Engineering,3,1,0,4,Chinmay Ghorai(I+T),,,,"C1,C2
 (7/107)","H2
 (7/107)",,,,,,
@@ -436,7 +436,7 @@ MA 504 (A),Linear Algebra,3,1.5,0,4,Bipul Saurabh(I+T),,,,"D1,D2
 (10/102)",,,,,,
 MA 509 (A),Real Analysis of One Variable ,3,1.5,0,4,Chetan Pahlajani(I+T),,,,"C1,C2
 (10/102)","B2
-(10/102)",,,,,,
+(10/102)",,Course Plan,,,,
 MA 510,Topology,3,1.5,0,4,Sanjaykumar Amrutiya(I+T),,,,"G1,G2
 (11/102)","A1
 (7/108)",,,,,,
