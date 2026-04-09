@@ -23,7 +23,7 @@ ES 115 (E),"Design, Innovation, and Prototyping",1.5,0,3,5,"TBD1(I+L),TBD2(L)",,
 ES 115 (H),"Design, Innovation, and Prototyping",1.5,0,3,5,"TBD1(I+L),TBD2(L)",,,,"E1
 (7/110)",,"I1,K1
 (7/110)",,,,,
-HS 192,Introduction to writing II,1,3,0,2,Jooyung Kim(I+T),,,,,"B1,B2
+HS 191,Introduction to writing I,1,3,0,2,Jooyung Kim(I+T),,,,,"B1,B2
 (7/101,7/102,7/103,7/104,7/201,7/207,7/208,7/209,11/101)",,HS191_2026-27_Introduction to Writing-I_Syllabus,,,,
 BS 192,Undergraduate Science Laboratory,0,0,3,3,"Partha Pratim Roy(I+L),Chandan Kumar(T),Naveen Sisodia(L),Priyabrata Ghana(L)",,,,,,"A1,A2,H1,H2,I2,L2,M1,P1,K2,P2
 (PH Lab)",,,,,
@@ -41,6 +41,7 @@ CS 202,Software Tools and Techniques for CSE,1.5,0,3,4,Abhishek Bichhawat(I+L),,
 CS 203,Software Tools & Techniques for AI,1.5,0,3,4,Yogesh Kumar Meena(I+L),,,,,,,Course webpage,,,,
 GE 201,General Education II,3,0,0,2,TBD(I),,,,"C1,C2
 (Jasubhai Auditorium)",,,,,,,
+HS 221,Introduction to Philosophy,3,0,0,4,Jaison Manjaly(I),,,,,,,,,,,
 PH 202,Introduction to Quantum Physics,3,1,0,4,"Vinod Chandra(I),Pinaki Banerjee(I+T)",,,,,,,,,,,
 PH 203,Solid State Physics,3,1,0,4,Krista Roluahpuia Khiangte(I+T),,,,,,,Solid State Physics,,,,
 ES 118,Materials for the Future,1.5,0,1.5,3,Amit Arora(I+L),,,,"C1
@@ -61,7 +62,7 @@ ME 209,Principles of Manufacturing Processes,2,0,1.5,3,Rakesh Singhai(I+L),,,,,,
 MA 205,Calculus of Several Variables (first half),3,1.5,0,2,Tanya Kaushal Srivastava(I+T),,,,"F1,F2
 (Jasubhai Auditorium)","B1
 (Jasubhai Auditorium)",,,,Maths Basket,,BS
-MA 206,Introduction to Complex Analysis (second half),3,1.5,0,2,Projesh Nath Choudhury(I+T),,,,,,,,,Maths Basket,,BS
+MA 206,Introduction to Complex Analysis (second half),3,1.5,0,2,Projesh Nath Choudhury(I+T),,,,,,,Course Plan,,Maths Basket,,BS
 MSE 202,Materials Thermodynamics,3,1,0,4,Abhay Raj Singh Gautam(I+T),,,,"E1,E2
 (7/104)","H1
 (7/101)",,,,,,
@@ -140,7 +141,7 @@ CE 301,Soil Mechanics,3,1,2,5,"Amit Prashant(I+T),Ajanta Sachan(L)",,,,"G1,G2
 CE 312,Design of Steel Structures,3,1,0,4,Gaurav(I+T),,,,"D1,D2
 (7/101)","B2
 (7/210)",,,,,,
-CE 310,Hydrology and Hydraulics,3,0,1.5,4,Udit Bhatia(I+L),,,,"E1,E2
+CE 310,Hydrology and Hydraulics,3,0,1.5,4,Pranab Kumar Mohapatra(I+L),,,,"E1,E2
 (7/210)",,J1,,,,,
 CE 404,Transportation Engineering,3,0,0,4,Sushobhan Sen(I),,,,"G1,G2
 (7/104)",,,CE 404 2026-27 Sem I Syllabus.docx,,,,
@@ -162,7 +163,7 @@ CS 330,Operating Systems,3,0,1.5,4,Balagopal Komarath(I+L),,,,"E1,E2
 (Surendra C Sheth Learning Theatre)",,J1,CS 301: OS - Aug 2026,,,,
 CS 331,Computer Networks,3,1.5,0,4,Sameer G Kulkarni(I+T),,,,"D1,D2
 (Surendra C Sheth Learning Theatre)","H2
-(Surendra C Sheth Learning Theatre)",,,,,,
+(Surendra C Sheth Learning Theatre)",,Course Plan,,,,
 CS 329,Foundations of AI: Multiagent Systems,3,0,0,4,Manisha Padala(I),,,,"C1,C2
 (10/103)",,,Course Website,,,,
 HS 3XX,HSS Elective,,,,,,,,,,,,,,,,
@@ -289,7 +290,7 @@ CE 601,Advanced Geotechnical Engineering,3,0,3,5,Ajanta Sachan(I+L),,,,"D1,D2
 (13/125)",,"J1,L1",,,,,
 CE 607,Advanced Structural Analysis,3,0,0,4,Dhiman Basu(I),,,,"E1,E2
 (7/203)",,,,,,,
-CE 611,Advanced Engineering Hydrology,3,0,0,4,Vimal Mishra(I),,,,"D1,D2
+CE 611,Advanced Engineering Hydrology,3,0,0,4,Sharad Kumar Jain(I),,,,"D1,D2
 (13/124)",,,,,,,
 ES 621,Advanced Solid Mechanics,3,0,0,4,Harmeet Singh(I),,,,"D1,D2
 (7/102)",,,course plan,,,,
@@ -363,7 +364,7 @@ ES 616,Digital Control Systems,3,1,0,4,S. Rajendran(I+T),,,,"E1,E2
 ES 626,Microfabrication and Semiconductor Processes,3,0,0,4,Jhuma Saha(I),,,,"N1,N2
 (7/101)",,,Course plan,,,,
 EE 651,CMOS Analog IC Design,3,0,0,4,Tarun Kumar Agarwal(I),,,,"F1,F2
-(7/101)",,,,,,,
+(7/101)",,,Course Plan,,,,
 ES 657,Biomedical Ultrasound,3,0,0,4,Himanshu Shekhar(I),,,,"J1,J2
 (7/210)",,,,,,,
 EE 659,Smart Grid,3,0,0,4,Naran M Pindoriya(I),,,,"G1,G2
@@ -374,8 +375,10 @@ EE 664,High Frequency Engineering,3,0,0,4,Kamla Prasan Ray(I),,,,"K1,K2
 (13/125)",,,,,,,BS
 ES 666,Computer Vision,3,0,0,4,Shanmuganathan Raman(I),,,,"M1,M2
 (Surendra C Sheth Learning Theatre)",,,Course Plan ES 666 Computer Vision - 2026-27,,,,
+ES 668,5G and Beyond,3,0,0,4,"Ravi Hegde(I), Sameer Kulkarni(I)",,,,,,,Course Plan,,,,
 ES 675,Photonics – Principles and Applications,3,0,0,4,Arup Lal Chakraborty(I),,,,,,,,,,,
 EE 662,Mixed Signal IC Design,3,0,0,4,Dinesh Kumar Sharma(I),,,,,,,,,,,
+EE 691-VII,Special Topics in Electrical Engineering: Economics of Regulation in India,3,0,0,4,Anand Kumar(I),,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Mechanical Engineering																	,,,,,,,,,,,,,,,,,
 ME 491-I,Special Topics in Mechanical Engineering: Nondestructive Testing/Evaluation,3,0,0,4,Prabhat Munshi(I),,,,,,,,,,,
@@ -416,7 +419,7 @@ CH 302,Electrochemical Science and Engineering,3,1,0,4,Sudhanshu Sharma(I+T),,,,
 (13/124)","J1
 (13/124)",,,,,,BS
 CH 506,Physical Organic Chemistry,3,0,0,4,Kuljeet Kaur(I),,,,"A1,A2
-(7/107)",,,,,,,BS
+(7/107)",,,Course Plan,,,,BS
 CH 511,Quantum Chemistry,3,0,0,4,Anirban Mondal(I),,,,"D1,D2
 (7/202)",,,,,,,BS
 CH 513,Advanced Organic Chemistry,3,0,0,4,Sivapriya Kirubakaran(I),,,,"C1,C2
@@ -425,7 +428,7 @@ CH 528,Transition Metal Chemistry,3,0,0,4,Priyabrata Ghana(I),,,,,,,,,,,BS
 CH 529,AI in Chemistry,3,0,0,4,Anirban Mondal(I),,,,,,,,,,,
 CH 635,Chemical Crystallography,2,0,1,4,Vijay Thiruvenkatam(I+L),,,,,,,,,,,BS
 CH 616,Applied Chemical Biology,3,0,0,4,Sudipta Basu(I),,,,"D1,D2
-(7/205)",,,,,,,BS
+(7/205)",,,https://drive.google.com/file/d/1OqwohVRh8yTzIjdk5C7XIcQUPtFk3UbA/view?usp=sharing,,,,BS
 CH 622,Interpretative Organic Spectroscopy,3,0,0,4,Sriram V Gundimeda(I),,,,"E1,E2
 (11/101)",,,,,,,BS
 CH 624,Molecular Spectroscopy,3,0,0,4,Saumyakanti Khatua(I),,,,"J1,J2
@@ -471,7 +474,7 @@ MA 642,Fourier Analysis on LCA Groups (first half),3,0,0,2,Bipul Saurabh(I),,,,,
 MA 636,Introduction to Riemannian Geometry,3,0,0,4,Gadadhar Misra(I),,,,,,,,,,,
 MA 643,Numerical Analysis for Partial Differential Equations,3,0,0,4,Abhinav Jha(I),,,,"P1,P2
 (13/124)",,,Course Plan,,,,
-MA 691,Spectral Graph Theory (Special Topics in Mathematics),3,0,0,4,Projesh Nath Choudhury(I),,,,,,,,,,,
+MA 691,Spectral Graph Theory (Special Topics in Mathematics),3,0,0,4,Projesh Nath Choudhury(I),,,,,,,Course Plan,,,,
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Physics																	,,,,,,,,,,,,,,,,,
 PH 502,Mathematical Methods of Physics - I,3,1,0,4,Prasanna Venkatesh Balasubramanian(I+T),,,,"G1,G2
@@ -479,10 +482,10 @@ PH 502,Mathematical Methods of Physics - I,3,1,0,4,Prasanna Venkatesh Balasubram
 (10/102)",,,,,,BS
 PH 503,Quantum Mechanics I,3,1,0,4,Arpan Bhattacharyya(I+T),,,,"E1,E2
 (7/102)","B1
-(7/107)",,,,,,BS
+(7/107)",,Course Plan,,,,BS
 PH 505,Classical Electrodynamics,3,1,0,4,Urjit Yajnik(I+T),,,,"C1,C2
 (7/102)","H2
-(7/102)",,,,,,BS
+(7/102)",,Course plan,,,,BS
 PH 508,Classical Mechanics,3,0,0,4,Rusa Mandal(I),,,,"D1,D2
 (7/107)",,,,,,,BS
 PH 510,Condensed Matter Physics,3,1,0,4,Abhisek Samanta(I+T),,,,"F1,F2
@@ -501,14 +504,14 @@ PH 646,Advanced Statistical Physics,3,0,0,4,R.R. Puri(I),,,,"E1,E2
 (11/206)",,,course plan,,,,BS
 PH 648,Semiconductor Optoelectronics,3,0,0,4,Gopinadhan Kalon(I),,,,,,,,,,,BS
 PH 651,Nanomagnetism and Spintronics,3,0,0,4,Naveen Sisodia(I),,,,,,,,,,,
-PH 609,Introduction to Einstein’s Theory of General Relativity,3,1,0,4,"Urjit Yajnik(I+T),Pinaki Banerjee(I+T)",,,,,,,,,,,BS
+PH 609,Introduction to Einstein’s Theory of General Relativity,3,1,0,4,"Urjit Yajnik(I+T),Pinaki Banerjee(I+T)",,,,,,,course plan,,,,BS
 PH 652,Gravitational Wave Astronomy,3,0,0,4,Anand Sengupta(I),,,,"I1,I2
 (13/125)",,,,,,,
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Earth Sciences																	,,,,,,,,,,,,,,,,,
 EH 605,Modeling of Earth System and Sustainability,3,0,0,4,R.N. Singh(I),50,,,"G1,G2
 (7/102)",,,https://drive.google.com/file/d/1bRaz0EZmUZm_ti2qyMZGRTRvzff1gkyg/view?usp=drive_link,,,,BS
-EH 401,Archaeology: Theory and Methods,3,0,0,4,Sharada V Channarayapatna(I),,,,,,,,,,,
+EH 401,Archaeology: Theory and Methods,3,0,0,4,Sharada V Channarayapatna(I),,,,,,,course contents and policies,,,,
 EH 601,Earth Surface Processes in the Anthropocene,3,0,1.5,4,Vikrant Jain(I+L),,,,"F1,F2
 (7/102)",,J1,,,,,BS
 EH 608,Biodiversity Conservation and Sustainable Development,3,0,0,4,C.N. Pandey(I),50,,,"D1,D2
@@ -524,7 +527,7 @@ EH 626,Reservoir Modelling and Simulation,3,0,0,4,Achyut Mishra(I),,,,"L1,L2
 EH 627,Anthropocene: Human Impact on the Earth,3,0,0,4,Vikrant Jain(I),,,,"N1,N2
 (13/125)",,,,,,,
 EH 691-III,Special Topics in Earth Science: Microwave Remote Sensing,3,0,0,4,Prem Chand Pandey(I),,,,"C1,C2
-(7/103)",,,,,,,BS
+(7/103)",,,Course plan,,,,BS
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Cognitive Science,,,,,,,,,,,,,,,,,
 CG 501,Computation and Cognition,3,0,0,4,Krishna Prasad Miyapuram(I),,,,"F1,F2
@@ -562,10 +565,14 @@ HS 112,Urdu poetry interpretation,3,1,0,4,Mohd. Mubashshir Ahsan(I+T),,,,"F1,F2
 (7/101)",,https://drive.google.com/file/d/1HwlXAVgHAIkaaCPwHk_-fg4Dcu9uETlg/view?usp=drive_link,,,,
 HS 152,Japanese Language for Beginners,3,1,0,4,Sweta Mistry(I),,,,,,,,,,,
 HS 153,Advance Japanese Learning,3,1,0,4,Sweta Mistry(I),,,,,,,,,,,
+MS 408,Financial Considerations in Engineering Decisions,3,0,0,4,K Chelvakumar(I),,,,,,,,,,,
 IN 304,Ancient Indian Technology,3,0,0,4,Alok Kumar Kanungo(I),,,,"K1,K2
 (11/205,11/206)",,,https://drive.google.com/file/d/1N_NVxj1sORQmk_zXLa-apmPmSYxLGNxh/view?usp=sharing,,,,
+IN 491,Special Topics: Foundations of User Experience,3,0,0,4,Nuno Guimaraes(I),,,,,,,,,,,
 HS 491-XI,Special Topics in HSS: Understanding and Designing Comics and Graphic Novels,3,0,0,4,Argha Manna(I),,,,"I1,I2
 (10/102)",,,https://drive.google.com/file/d/1c3XE1qni5TZQtuGVTqdbNWSO9HFVQ7FI/view?usp=drive_link,,,,
+HS 491-XIII,Special Topics in HSS:  Drawing Connections: Environmental Perception and Visual Anthropology,3,0,0,4,Suman Choudhury(I),,,,,,,,,,,
+HS 491-XIV,Special Topics in HSS: Appreciation of Classical Indian Music,3,0,0,4,Pandit Mahendra D. Toke(I),,,,,,,,,,,
 HS 510,Perspectives on Indian Civilization,3,0,0,4,V.N. Prabhakar(I),,,,"E1,E2
 (7/205)",,,https://drive.google.com/file/d/139j3wUYmOV399Z9sBUt0RDI5eHZrQXCS/view?usp=sharing,,,,
 HS 512,Political Thought,3,0,0,4,Tanka Bahadur Subba(I),,,,"G1,G2
