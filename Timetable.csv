@@ -77,7 +77,7 @@ ES 244,"Signals, Systems, and Random Processes",3,1.5,0,4,Uttama Lahiri(I+T),,,,
 (10/103)",,,,,,
 ES 221,Mechanics of Solids,3,1.5,0,4,Manish Kumar(I+T),,,,"G1,G2
 (7/210)","A1
-(7/101)",,,,,,
+(7/101)",,Course Plan,,,,
 CE 203,Geospatial Engineering,1.5,0,3,3,Vimal Mishra(I+L),,,,"E2
 (7/101)",,"J1,L1",,,,,
 EE 223,Electrical Machines,2,1,1.5,4,Ragavan K.(I+T+L),,,,"G1,G2
@@ -188,7 +188,7 @@ EE 323,Digital Signal Processing,3,1.5,0,4,Nithin George(I+T),,,,"D1,D2
 (7/208)","H1
 (7/208)",,Course Plan,,,,
 EE 333,Power Electronics,2,1,1.5,4,Pallavi Bharadwaj(I+T+L),,,,"C1,C2
-(7/208)",,J1,,,,,
+(7/208)",,J1,Course Plan,,,,
 HS XXX,HSS Elective,3,0,0,4,,,,,,,,,,,,
 IN 105,Comprehensive Viva Voce,0,0,0,0,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,
@@ -378,7 +378,7 @@ ES 666,Computer Vision,3,0,0,4,Shanmuganathan Raman(I),,,,"M1,M2
 ES 668,5G and Beyond,3,0,0,4,"Ravi Hegde(I), Sameer Kulkarni(I)",,,,,,,Course Plan,,,,
 ES 675,Photonics – Principles and Applications,3,0,0,4,Arup Lal Chakraborty(I),,,,,,,,,,,
 EE 662,Mixed Signal IC Design,3,0,0,4,Dinesh Kumar Sharma(I),,,,,,,,,,,
-EE 691-VII,Special Topics in Electrical Engineering: Economics of Regulation in India,3,0,0,4,Anand Kumar(I),,,,,,,,,,,
+EE 691-VII,Special Topics in Electrical Engineering: Economics of Regulation in India,3,0,0,4,Anand Kumar(I),,,,,,,Course Plan,,,,
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Mechanical Engineering																	,,,,,,,,,,,,,,,,,
 ME 491-I,Special Topics in Mechanical Engineering: Nondestructive Testing/Evaluation,3,0,0,4,Prabhat Munshi(I),,,,,,,,,,,
@@ -460,13 +460,13 @@ MA 510,Topology,3,1.5,0,4,Sanjaykumar Amrutiya(I+T),,,,"G1,G2
 (11/102)","A1
 (7/108)",,,,,,BS
 MA 513,AI and Mathematics,3,1.5,0,4,Madhu Gupta(I+T),,,,,,,Course Plan,,,,
-MA 605,Commutative Algebra,3,0,0,4,Jugal K. Verma(I),,,,,,,,,,,
-MA 623,Number Theory,3,0,0,4,Atul Abhay Dixit(I),,,,,,,,,,,
+MA 605,Commutative Algebra,3,1.5,0,4,Jugal K. Verma(I+T),,,,,,,,,,,
+MA 623,Number Theory,3,1.5,0,4,Atul Abhay Dixit(I+T),,,,,,,,,,,
 MA 624,Partial Differential Equations,3,1.5,0,4,Jagmohan Tyagi(I+T),,,,"F1,F2
 (7/107)","A2
 (7/102)",,Course Plan,,,,
 MA 626,Functional Analysis,3,1.5,0,4,Rohit Kumar Mishra(I+T),,,,,,,Course Plan,,,,
-MA 627,Algebraic Topology,3,0,0,4,Arnab Saha(I),,,,,,,,,,,
+MA 627,Algebraic Topology,3,1.5,0,4,Arnab Saha(I+T),,,,,,,,,,,
 MA 630 (A),Measure Theory & Probability,3,1.5,0,4,Chetan Pahlajani(I+T),,,,,,,Course Plan,,,,
 MA 640,Integral Geometry in Imaging Sciences,3,0,0,4,Rohit Kumar Mishra(I),,,,"P1,P2
 (13/125)",,,Course Plan,,,,
@@ -487,7 +487,7 @@ PH 505,Classical Electrodynamics,3,1,0,4,Urjit Yajnik(I+T),,,,"C1,C2
 (7/102)","H2
 (7/102)",,Course plan,,,,BS
 PH 508,Classical Mechanics,3,0,0,4,Rusa Mandal(I),,,,"D1,D2
-(7/107)",,,,,,,BS
+(7/107)",,,Course plan,,,,BS
 PH 510,Condensed Matter Physics,3,1,0,4,Abhisek Samanta(I+T),,,,"F1,F2
 (11/205)","B2
 (13/124)",,Course Plan CMP,,,,BS
