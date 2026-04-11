@@ -13,10 +13,10 @@ MA 103 (H),Calculus of Single Variable and Linear Algebra,3,1.5,0,4,"Abhinav Jha
 (13/124,13/125)",,,,,,,
 ES 112 (E),Computing,3,0,3,4,Shouvick Mondal(I+L),,,,"D1,D2
 (Jasubhai Auditorium)",,"J1,L1
-(10/104,10/105,10/203,10/204)",(public) ES112-Course plan-Aug_Nov_2026,,,,
+(10/104,10/105,10/203,10/204)",Course Plan,,,,
 ES 112 (H),Computing,3,0,3,4,Shouvick Mondal(I+L),,,,"C1,C2
 (7/101)",,"J2,M2
-(10/104,10/105,10/203,10/204)",(public) ES112-Course plan-Aug_Nov_2026,,,,
+(10/104,10/105,10/203,10/204)",Course Plan,,,,
 ES 115 (E),"Design, Innovation, and Prototyping",1.5,0,3,5,"TBD1(I+L),TBD2(L)",,,,"E2
 (Jasubhai Auditorium)",,"J2,M2
 (Jasubhai Auditorium)",,,,,
@@ -264,7 +264,7 @@ Viva Voce/ Group Discussion,,,,,,,,,,,,,,,,,
 ,Comprehensive Viva Voce,0,0,0,0,,,,,,,,,,,,
 Additional Courses: Biological Engineering																	,,,,,,,,,,,,,,,,,
 BE 303,Bionanotechnology – Principles and Applications,3,0,0,4,Mukesh Dhanka(I),,,,"F1,F2
-(11/204)",,,,,,,BS
+(11/204)",,,https://docs.google.com/document/d/1rEEnbmdsBKl24_7tMtjQCaVUo768a9Sm/edit?usp=sharing&ouid=107984983868149659120&rtpof=true&sd=true,,,,BS
 BE 404,Genetic Engineering – Principles and Applications,3,0,0,4,Sharmistha Majumdar(I),,,,"B1,B2
 (13/125)",,,BE404 course plan,,,,BS
 BE 614,Biostatistics,1.5,0,3,4,Ashutosh Srivastava(I+L),,,,"G1
@@ -353,14 +353,14 @@ CS 691-XVIII,Special Topics Course: Algebraic Complexity theory,3,0,0,4,Balagopa
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Electrical Engineering																	,,,,,,,,,,,,,,,,,
 EE 617,VLSI Design,3,0,0,4,Joycee Mekie(I),,,,"D1,D2
-(7/210)",,,,,,,
+(7/210)",,,Course plan,,,,
 EE 644,Physics of Transistors,3,0,0,4,Sandip Lashkare(I),,,,"A1,A2
 (7/103)",,,Course Plan,,,,
 EE 648,Dynamic Behaviour of Electric Machines,3,0,1.5,5,Ragavan K.(I+L),,,,"C1,C2
 (13/124)",,H1,,,,,
 ES 616,Digital Control Systems,3,1,0,4,S. Rajendran(I+T),,,,"E1,E2
 (11/204)","B1
-(13/124)",,,,,,
+(13/124)",,Course plan,,,,
 ES 626,Microfabrication and Semiconductor Processes,3,0,0,4,Jhuma Saha(I),,,,"N1,N2
 (7/101)",,,Course plan,,,,
 EE 651,CMOS Analog IC Design,3,0,0,4,Tarun Kumar Agarwal(I),,,,"F1,F2
@@ -372,7 +372,7 @@ EE 659,Smart Grid,3,0,0,4,Naran M Pindoriya(I),,,,"G1,G2
 EE 663,Advanced Wireless Communications,3,0,0,4,Raghunandan M. Rao(I),,,,"L1,L2
 (13/125)",,,,,,,
 EE 664,High Frequency Engineering,3,0,0,4,Kamla Prasan Ray(I),,,,"K1,K2
-(13/125)",,,,,,,BS
+(13/125)",,,course Plan,,,,BS
 ES 666,Computer Vision,3,0,0,4,Shanmuganathan Raman(I),,,,"M1,M2
 (Surendra C Sheth Learning Theatre)",,,Course Plan ES 666 Computer Vision - 2026-27,,,,
 ES 668,5G and Beyond,3,0,0,4,"Ravi Hegde(I), Sameer Kulkarni(I)",,,,,,,Course Plan,,,,
@@ -425,8 +425,8 @@ CH 511,Quantum Chemistry,3,0,0,4,Anirban Mondal(I),,,,"D1,D2
 CH 513,Advanced Organic Chemistry,3,0,0,4,Sivapriya Kirubakaran(I),,,,"C1,C2
 (7/106)",,,https://docs.google.com/document/d/19iUzT5ju2-TF4lM4pmuEiSdFvsBtT20DGIyXNMBUdi8/edit?tab=t.0,,,,BS
 CH 528,Transition Metal Chemistry,3,0,0,4,Priyabrata Ghana(I),,,,,,,,,,,BS
-CH 529,AI in Chemistry,3,0,0,4,Anirban Mondal(I),,,,,,,,,,,
-CH 635,Chemical Crystallography,2,0,1,4,Vijay Thiruvenkatam(I+L),,,,,,,,,,,BS
+CH 529,AI in Chemistry,3,0,0,4,Anirban Mondal(I),,,,,,,Course_Plan_Quantum_Chemistry.docx.pdf,,,,
+CH 635,Chemical Crystallography,2,0,1,4,Vijay Thiruvenkatam(I+L),,,,,,,Course Plan,,,,BS
 CH 616,Applied Chemical Biology,3,0,0,4,Sudipta Basu(I),,,,"D1,D2
 (7/205)",,,https://drive.google.com/file/d/1OqwohVRh8yTzIjdk5C7XIcQUPtFk3UbA/view?usp=sharing,,,,BS
 CH 622,Interpretative Organic Spectroscopy,3,0,0,4,Sriram V Gundimeda(I),,,,"E1,E2
@@ -471,10 +471,11 @@ MA 630 (A),Measure Theory & Probability,3,1.5,0,4,Chetan Pahlajani(I+T),,,,,,,Co
 MA 640,Integral Geometry in Imaging Sciences,3,0,0,4,Rohit Kumar Mishra(I),,,,"P1,P2
 (13/125)",,,Course Plan,,,,
 MA 642,Fourier Analysis on LCA Groups (first half),3,0,0,2,Bipul Saurabh(I),,,,,,,Course Plan,,,,
-MA 636,Introduction to Riemannian Geometry,3,0,0,4,Gadadhar Misra(I),,,,,,,,,,,
+MA 636,Introduction to Riemannian Geometry,3,0,0,4,TBD(I),,,,,,,,,,,
 MA 643,Numerical Analysis for Partial Differential Equations,3,0,0,4,Abhinav Jha(I),,,,"P1,P2
 (13/124)",,,Course Plan,,,,
-MA 691,Spectral Graph Theory (Special Topics in Mathematics),3,0,0,4,Projesh Nath Choudhury(I),,,,,,,Course Plan,,,,
+MA 691-II,Special Topics in Mathematics: Hilbert Modules,3,0,0,4,Gadadhar Misra(I),,,,,,,,,,,
+MA 691-VIII,Special Topics in Mathematics: Spectral Graph Theory,3,0,0,4,Projesh Nath Choudhury(I),,,,,,,Course Plan,,,,
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Physics																	,,,,,,,,,,,,,,,,,
 PH 502,Mathematical Methods of Physics - I,3,1,0,4,Prasanna Venkatesh Balasubramanian(I+T),,,,"G1,G2
