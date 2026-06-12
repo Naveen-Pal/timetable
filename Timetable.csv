@@ -229,7 +229,7 @@ EE 322,Analog & Mixed Signal Circuits,2,1,1.5,4,Madhav Kiritkumar Pathak(I+T+L),
 (Jayshree S Sheth Learning Theatre)","L2
 (Jayshree S Sheth Learning Theatre,Surendra C Sheth Learning Theatre)","B2,K2
 (EE Lab)",,,,,
-EE 323,Digital Signal Processing,3,1.5,0,4,Nithin George(I+T),,,,"D1,D2
+EE 323,Digital Signal Processing,3,1.5,0,4,"Nithin George(I+T),Kartik Patel(T)",,,,"D1,D2
 (Jagdish Patel Learning Theatre)","F1
 (Jagdish Patel Learning Theatre,Harsha Patel Learning Theatre)",,Course Plan,,,,
 EE 333,Power Electronics,2,1,1.5,4,Pallavi Bharadwaj(I+T+L),,,,"E1,E2
@@ -403,6 +403,9 @@ ES 662,"Flexible Electronics: Materials, Methods and Devices",3,0,0,4,Biswajit S
 (7/203)",,,https://iitgnacin-my.sharepoint.com/:w:/g/personal/bsaha_iitgn_ac_in/IQAgc6De535kTI5BHvkyh-otASKy5pbIjDA1L5r_GBQxboI?e=Qyd2Li,,,,
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Computer Science and Engineering																	,,,,,,,,,,,,,,,,,
+ES 248,Introduction to Data Structures and Algorithms,1.5,0,3,3,Anup Kalbalia(I+L),,,,"F1
+(11/101)",,"K2,L2
+(10/203)",,,,,
 CS 435,Human-Computer Interaction,3,0,0,4,Yogesh Kumar Meena(I),,,,"J1,P2
 (11/101)",,,Course webpage,,,,
 CS 610,Algorithms,3,0,0,4,Bireswar Das(I),,,,"G1,G2
