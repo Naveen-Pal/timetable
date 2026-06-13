@@ -113,9 +113,8 @@ MSE 204,Transport Phenomena in Materials Engineering,3,1,0,4,"Anagh Bhaumik(I+T)
 ME 206,Statics and Dynamics,2,1,1.5,4,Harish J Palanthandalam-Madapusi(I+T),,,,"G1,G2
 (Jagdish Patel Learning Theatre)",,"I1
 (ME Lab)",Course Plan,,,,
-EE 322,Analog & Mixed Signal Circuits,2,1,1.5,4,Madhav Kiritkumar Pathak(I+T+L),,,,"M1,M2
-(Jayshree S Sheth Learning Theatre)","L2
-(Jayshree S Sheth Learning Theatre,Surendra C Sheth Learning Theatre)","B2,K2
+EE 322,Analog & Mixed Signal Circuits,2,1,1.5,4,Madhav Kiritkumar Pathak(I+L),,,,"C2,B2
+(Surendra C Sheth Learning Theatre)",,"L2,K2
 (EE Lab)",Course Plan,,,,
 PE 103,Physical Education,0,0,0,0,,,,,,,,,,,,
 IN 103,Comprehensive Viva Voce,0,0,0,0,,,,,,,,,,,,
@@ -225,9 +224,8 @@ HS 151,Economics,3,0,1.5,4,"Deepak Singhania(I),Praharsh Mohanlal Patel(T)",,,,"
 EE 312,Engineering Electromagnetics,3,1,0,4,Ravi Hedge(I+T),,,,"G1,G2
 (Jayshree S Sheth Learning Theatre)","H2
 (7/208)",,,,,,
-EE 322,Analog & Mixed Signal Circuits,2,1,1.5,4,Madhav Kiritkumar Pathak(I+T+L),,,,"M1,M2
-(Jayshree S Sheth Learning Theatre)","L2
-(Jayshree S Sheth Learning Theatre,Surendra C Sheth Learning Theatre)","B2,K2
+EE 322,Analog & Mixed Signal Circuits,2,1,1.5,4,Madhav Kiritkumar Pathak(I+L),,,,"C2,B2
+(Surendra C Sheth Learning Theatre)",,"L2,K2
 (EE Lab)",,,,,
 EE 323,Digital Signal Processing,3,1.5,0,4,"Nithin George(I+T),Kartik Patel(T)",,,,"D1,D2
 (Jagdish Patel Learning Theatre)","F1
