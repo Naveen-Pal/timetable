@@ -68,7 +68,7 @@ Engineering Electromagnetics,EE 312,"G1,G2",H2,,4.0,Jayshree S Sheth Learning T.
 Digital Signal Processing,EE 323,"D1,D2",F1,,4.0,Jagdish Patel Learning Thea...,Jagdish Patel Learning Thea...,
 Power Electronics,EE 333,"E1,E2",C1,"K1,P1,J2,P2",4.0,Jagdish Patel Learning Thea...,Harsha Patel Learning Theatre,EE Lab
 Material Characterization Techniques,MSE 352,A1,,"L1,N1",4.0,7/210,,MSE Lab
-Control Systems,ES 245,"D1,D2",H1,,4.0,Harsha Patel Learning Theatre,7/209,
+Control Systems,ES 245,"D1,D2",H1,,4.0,Harsha Patel Learning Theatre,Harsha Patel Learning Theatre,
 Mechanics of Materials,ME 333,"F1,F2",J2,,3.0,Surendra C Sheth Learning T...,"7/204,7/205",
 Heat and Mass Transfer,ME 334,"C1,C2",B1,J1,4.0,7/209,Jagdish Patel Learning Thea...,ME Lab
 Introduction to Manufacturing Systems and Metrology ,ME 362,"E1,E2",,L2,3.0,Harsha Patel Learning Theatre,,Harsha Patel Learning Theatre
@@ -104,7 +104,7 @@ Hydrodynamics of Sediment Transport,CE 640,"M1,M2",,,4.0,7/109,,
 Special Topics in Civil Engineering: Domestic Wastewater Engineering (Treatment and Reuse),CE 691-VI,"G1,G2",,,4.0,7/203,,
 Special Topics in Civil Engineering: Administration of Contracts in the Infrastructure Industry,CE 691-VIII,"M1,M2",,,4.0,13/124,,
 Introduction to Polymer Science and Engineering,CL 324,,,,4.0,,,
-Chemical Engineering Practice in Industry,CL 328,B2,,,2.0,"7/204,7/205",,
+Chemical Engineering Practice in Industry,CL 328,P2,,,2.0,11/102,,
 Biochemical Engineering,CL 426,"F1,F2",,,4.0,7/106,,
 Nanoscale Science,BS 401,"M1,M2",,,4.0,7/203,,
 Advance Transport Phenomena,CL 601,"E1,E2",K2,,4.0,7/108,7/204,
@@ -141,7 +141,7 @@ Special Topics in Electrical Engineering: Economics of Regulation in India,EE 69
 Special Topics in Mechanical Engineering: Nondestructive Testing/Evaluation,ME 491-I,"M1,M2",,,4.0,7/106,,
 Foundations of Fluid Dynamics,ES 607,"G1,G2",A1,,4.0,7/105,7/106,
 Computational Fluid Dynamics,ME 605,"E1,E2",B1,,4.0,7/103,7/210,
-Human-Robot Interaction,ES 656,"A1,A2",,,4.0,7/201,,
+Human-Robot Interaction,ES 656,"L1,L2",,,4.0,7/201,,
 Introduction to Robotics,ME 639,"E1,E2",,N2,5.0,11/205,,ME Lab
 Elastodynamics and Vibrations,ES 646,"G1,G2",,,4.0,13/125,,
 Mathematical Tools for Mechanical Engineers,ME 648,"C1,C2",H2,,4.0,7/210,7/210,
