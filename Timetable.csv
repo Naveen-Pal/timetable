@@ -1,7 +1,7 @@
 Course Number,Course Name,L,T,P,C,Name of the Instructors and Tutors,Capacity,Number of Students,Sections,Lecture,Tutorial,Lab,Link To Course Plan,Preferred Knowledge Equivalent to,Remarks,Minor in,HSS/BS elective
 First Year (2026),,,,,,,,,,,,,,,,,
 FP 100,Foundation Programme,0,0,0,4,,,,,,,,,,,,
-ES 101 (E),Engineering Graphics,1.5,0,1.5,3,"Hari Sai Ganesh(I+L),Soumajit Dutta(L),Sameer Patel(L)",,,,"E1
+ES 101 (E),Engineering Graphics,1.5,0,1.5,3,"Hari Sai Ganesh(I+L),Soumajit Dutta(L),Sameer Patel(L),S.R.Gandhi(L),Sai Praneeth(L),K.R. Jayaprakash(L)",,,,"E1
 (Jasubhai Auditorium)",,"N1,N2
 (Surendra C Sheth Learning Theatre,Jayshree S Sheth Learning Theatre,10/203,10/204,7/208,7/209,Jagdish Patel Learning Theatre,Harsha Patel Learning Theatre,10/104,10/105,11/101,11/102)",Course Plan,,,,
 ES 101 (H),Engineering Graphics,1.5,0,1.5,3,Hari Sai Ganesh(I),,,,"G1
@@ -86,8 +86,8 @@ MA 206,Introduction to Complex Analysis (second half),3,1.5,0,2,Projesh Nath Cho
 MSE 202,Materials Thermodynamics,3,1,0,4,Abhay Raj Singh Gautam(I+T),,,,"E1,E2
 (7/104)","H1
 (7/101)",,,,,,
-CE 201,Earth Materials and Processes,1.5,0,3,2,"Pankaj Khanna(I+L),Vikrant Jain(I+L)",,,,"E1
-(13/124,13/125)",,"I1,K1
+CE 201,Earth Materials and Processes,1.5,0,3,2,Pankaj Khanna(I+L),,,,"E1
+(13/124)",,"I1,K1
 (CE Lab)",,,,,
 CL 201,Chemical Process Calculations,2,1.5,0,3,Pratyush Dayal(I+T),,,,"G1,G2
 (10/102)","I1
