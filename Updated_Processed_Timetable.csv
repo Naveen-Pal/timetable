@@ -69,7 +69,7 @@ Digital Signal Processing,EE 323,"D1,D2",F1,,4.0,Jagdish Patel Learning Thea...,
 Power Electronics,EE 333,"E1,E2",C1,"K1,P1,J2,P2",4.0,Jagdish Patel Learning Thea...,Harsha Patel Learning Theatre,EE Lab
 Material Characterization Techniques,MSE 352,A1,,"L1,N1",4.0,7/210,,MSE Lab
 Control Systems,ES 245,"D1,D2",H1,,4.0,Harsha Patel Learning Theatre,Harsha Patel Learning Theatre,
-Mechanics of Materials,ME 333,"F1,F2",J2,,3.0,Surendra C Sheth Learning T...,"7/204,7/205",
+Mechanics of Materials,ME 333,"F1,F2",J2,,3.0,7/208,"7/204,7/205",
 Heat and Mass Transfer,ME 334,"C1,C2",B1,J1,4.0,7/209,Jagdish Patel Learning Thea...,ME Lab
 Introduction to Manufacturing Systems and Metrology ,ME 362,"E1,E2",,L2,3.0,Harsha Patel Learning Theatre,,Harsha Patel Learning Theatre
 "Polymers, Ceramics and Composites",MSE 313,"E1,E2",,K1,4.0,7/105,,MSE Lab
@@ -124,6 +124,7 @@ Deep Learning,ES 667,"E1,E2",,,4.0,Jayshree S Sheth Learning T...,,
 Special Topics in Computer Science: Combinatorial and Computational Aspects of Games,CS 691-XVII,,,,4.0,,,
 Combinatorial Game Theory,CS 622,"M1,M2",,,4.0,Jayshree S Sheth Learning T...,,
 Special Topics Course: Algebraic Complexity theory,CS 691-XVIII,"M1,M2",,,4.0,7/207,,
+"Drone Data Acquisition, Processing and Interpretation",EH 304,G1,,"C1,F1",2.0,7/104,,10/104
 Analysis and Design of Marine Structures,MTE 602,"N1,N2",,,4.0,7/110,,
 Dynamics of Maritime Structures,MTE 603,"A1,A2",,,4.0,7/110,,
 VLSI Design,EE 617,"D1,D2",,,4.0,7/210,,
