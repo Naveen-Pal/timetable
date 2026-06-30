@@ -129,8 +129,8 @@ CS 328,Introduction to Data Science,3,1,0,4,Nirmal Kumar Sancheti(I+T),,,,"N1,N2
 (10/103)",,CS328 Introduction to Data Science,,,,
 CS 329,Foundations of AI: Multiagent Systems,3,0,0,4,Manisha Padala(I),,,,"C1,C2
 (10/103)",,,Course Website,,,,
-ES 678,Machine Learning (ES 335),3,1.5,0,4,"Udit Bhatia(I+T),Krishna Prasad Miyapuram(T)",,,,"F1,F2
-(10/103)","B1
+ES 678,Machine Learning (ES 335),3,1.5,0,4,"Udit Bhatia(I+T),Krishna Prasad Miyapuram(T)",,,,"I1,I2
+(10/103)","P2
 (Surendra C Sheth Learning Theatre,Jayshree S Sheth Learning Theatre)",,Course Website,,,,
 HS XXX,HSS Elective,,,,4,,,,,,,,,,,,
 ,Basic Science Elective,,,,4,,,,,,,,,,,,
@@ -232,7 +232,7 @@ EE 323,Digital Signal Processing,3,1.5,0,4,"Nithin George(I+T),Kartik Patel(T)",
 (Jagdish Patel Learning Theatre,Harsha Patel Learning Theatre)",,Course Plan,,,,
 EE 333,Power Electronics,2,1,1.5,4,Pallavi Bharadwaj(I+T+L),,,,"E1,E2
 (Jagdish Patel Learning Theatre)","C1
-(Harsha Patel Learning Theatre)","K1,P1,J2,P2
+(Harsha Patel Learning Theatre)","I2,M1,J2,M2
 (EE Lab)",Course Plan,,,,
 HS XXX,HSS Elective,3,0,0,4,,,,,,,,,,,,
 IN 105,Comprehensive Viva Voce,0,0,0,0,,,,,,,,,,,,
@@ -558,8 +558,8 @@ MA 509 (A),Real Analysis of One Variable ,3,1.5,0,4,Chetan Pahlajani(I+T),,,,"C1
 MA 510,Topology,3,1.5,0,4,Sanjaykumar Amrutiya(I+T),,,,"G1,G2
 (11/102)","A1
 (7/108)",,,,,,BS
-MA 513,AI and Mathematics,3,1.5,0,4,Madhu Gupta(I+T),,,,"M1,M2
-(7/104)","J1
+MA 513,AI and Mathematics,3,1.5,0,4,Madhu Gupta(I+T),,,,"L1,L2
+(7/104)","H1
 (7/103)",,Course Plan,,,,
 MA 605,Commutative Algebra,3,1.5,0,4,Jugal K. Verma(I+T),,,,"J1,J2
 (7/106)","I2
