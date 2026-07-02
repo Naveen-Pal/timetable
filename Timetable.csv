@@ -4,7 +4,7 @@ FP 100,Foundation Programme,0,0,0,4,,,,,,,,,,,,
 ES 101 (E),Engineering Graphics,1.5,0,1.5,3,"Hari Sai Ganesh(I+L),Soumajit Dutta(L),Sameer Patel(L),S.R.Gandhi(L),Sai Praneeth(L),K.R. Jayaprakash(L)",,,,"E1
 (Jasubhai Auditorium)",,"N1,N2
 (Surendra C Sheth Learning Theatre,Jayshree S Sheth Learning Theatre,10/203,10/204,7/208,7/209,Jagdish Patel Learning Theatre,Harsha Patel Learning Theatre,10/104,10/105,11/101,11/102)",Course Plan,,,,
-ES 101 (H),Engineering Graphics,1.5,0,1.5,3,Hari Sai Ganesh(I),,,,"G1
+ES 101 (H),Engineering Graphics,1.5,0,1.5,3,Sameer Patel(I),,,,"G1
 (7/101)",,,Course Plan,,,,
 MA 103 (E),Calculus of Single Variable and Linear Algebra,3,1.5,0,4,"Abhinav Jha(I+T),Sudeshna Roy(I+T)",,,,"G1,G2
 (Jasubhai Auditorium)","K1
@@ -395,6 +395,8 @@ CL 604,Advanced Reaction Engineering,3,1,0,4,Chinmay Ghoroi(I+T),,,,"C1,C2
 CL 633,Applications of AI in ChE,3,1,0,4,Nitin U. Padhiyar(I+T),,,,"H1,N2
 (7/108)","J2
 (7/109)",,https://docs.google.com/spreadsheets/d/1Zx1kEtyE5g7EDXIoiRjVp6-v9PuVhmZDzdBRDxTgGwI/edit?gid=1235957912#gid=1235957912,,,,
+CL 635,Integrated Principles of Chemical Engineering,3,0,0,4,Sameer Dalvi(I),,,,"J1,K1
+(7/208)",,,,,,,
 ES 604,Engineering Optimization,3,0,0,4,Sai Praneeth(I),,,,"G1,G2
 (7/208)",,,,,,,
 ES 662,"Flexible Electronics: Materials, Methods and Devices",3,0,0,4,Biswajit Saha(I),,,,"I1,I2
