@@ -1,6 +1,6 @@
 Course Number,Course Name,L,T,P,C,Name of the Instructors and Tutors,Capacity,Number of Students,Sections,Lecture,Tutorial,Lab,Link To Course Plan,Preferred Knowledge Equivalent to,Remarks,Minor in,HSS/BS elective
 First Year (2026),,,,,,,,,,,,,,,,,
-FP 100,Foundation Programme,0,0,0,4,,,,,,,,,,,,
+FP 100,Foundation Programme,0,0,0,4,"Achyut Mishra(I),Mahalakshmi Ramamurthy(I),Satyakam Kar(I),Kartik Patel(I),Sandip Lashkare(I),Anagh Bhaumik(I)",,,,,,,,,,,
 ES 101 (E),Engineering Graphics,1.5,0,1.5,3,"Hari Sai Ganesh(I+L),Soumajit Dutta(L),Sameer Patel(L),S.R.Gandhi(L),Sai Praneeth(L),K.R. Jayaprakash(L)",,,,"E1
 (Jasubhai Auditorium)",,"N1,N2
 (Surendra C Sheth Learning Theatre,Jayshree S Sheth Learning Theatre,10/203,10/204,7/208,7/209,Jagdish Patel Learning Theatre,Harsha Patel Learning Theatre,10/104,10/105,11/101,11/102)",Course Plan,,,,
@@ -10,7 +10,7 @@ MA 103 (E),Calculus of Single Variable and Linear Algebra,3,1.5,0,4,"Abhinav Jha
 (Jasubhai Auditorium)","K1
 (7/101,7/102,7/103,7/104,7/105,7/106,7/107,7/202,7/203,7/204,7/205)",,Course Plan,,,,
 MA 103 (H),Calculus of Single Variable and Linear Algebra,3,1.5,0,4,"Abhinav Jha(I+T),Sudeshna Roy(I+T)",,,,"F1,F2
-(13/124,13/125)",,,,,,,
+(13/124,13/125)",,,Course Plan,,,,
 ES 112 (E),Computing,3,0,3,4,Shouvick Mondal(I+L),,,,"D1,D2
 (Jasubhai Auditorium)",,"J1,L1
 (10/104,10/105,10/203,10/204)",Course Plan,,B.Tech. ONLY,,
@@ -36,7 +36,7 @@ CL 202,Chemical Engineering Thermodynamics,2,1,0,3,Kaustubh S Rane(I+T),,,,"A1,A
 (7/109)",,Course plan,,,,
 CL 203,Process Fluid Mechanics,2,1,0,3,Abinaya Sampath(I+T),,,,"E1,E2
 (7/208)","L2
-(7/208)",,Missing,,,,
+(7/208)",,Course Plan,,,,
 CL 204,Heat Transfer,2,1,0,3,Sameer V Dalvi(I+T),,,,"D1,D2
 (11/102)","B2
 (11/102)",,Course Plan,,,,
@@ -108,8 +108,8 @@ EE 223,Electrical Machines,2,1,1.5,4,Ragavan K.(I+T+L),,,,"G1,G2
 (7/209)",,"I1,H1,J1,N1
 (EE Lab)",Missing,,,,
 MSE 204,Transport Phenomena in Materials Engineering,3,1,0,4,"Anagh Bhaumik(I+T),Prafull Pandey(I+T)",,,,"G1,G2
-(11/204,11/205)","A1
-(11/204,11/205)",,Missing,,,,
+(7/204)","A1
+(7/201)",,Missing,,,,
 ME 206,Statics and Dynamics,2,1,1.5,4,Harish J Palanthandalam-Madapusi(I+T),,,,"G1,G2
 (Jagdish Patel Learning Theatre)",,"I1
 (ME Lab)",Course Plan,,,,
@@ -343,6 +343,10 @@ BE 625,AI Applications in Life Sciences,3,0,0,4,Sharad Gupta(I),,,,"D1,D2
 Additional Courses: Civil Engineering																	,,,,,,,,,,,,,,,,,
 CE 315,Civil Engineering Materials,3,0,0,4,Krishna Siva Teja Chopperla(I),,,,"J1,J2
 (7/101)",,,https://iitgnacin-my.sharepoint.com/:b:/g/personal/siva_chopperla_iitgn_ac_in/IQBg5Fv7TOB3RoqYHpULkmhHAaB-hEx0eqmwldaQOv5HHOA?e=aS00qS,,,,
+CE 316,Integrated Waste Management and Circular Economy,3,0,0,4,TBD4(I),,,,"I1,I2
+(Harsha Patel Learning Theatre)",,,Missing,,,,
+CE 642,Integrated Waste Management and Circular Economy,3,0,0,4,TBD4(I),,,,"I1,I2
+(Harsha Patel Learning Theatre)",,,Missing,,,,
 CL 353,Introduction to Process Safety,1.5,0,0,2,Chinmay Ghoroi(I),,,,"B1
 (Harsha Patel Learning Theatre)",,,Missing,,,,
 CE 601,Advanced Geotechnical Engineering,3,0,3,5,Ajanta Sachan(I+L),,,,"D1,D2
@@ -361,7 +365,7 @@ CE 625,Advanced Hydraulic Engineering,3,0,0,4,Pranab Kumar Mohapatra(I),,,,"E1,E
 CE 627,Slopes and Retaining Structures,3,0,0,2,S.R.Gandhi(I),,,,"C1,C2
 (11/204)",,,Course Plan CE 627,,,,
 CE 634,Air Pollution Control Engineering,3,0,0,4,Sameer Patel(I),,,,"P1,P2
-(7/210)",,,Missing,,,,
+(7/210)",,,COURSE PLAN,,,,
 CE 635,Pavement Materials and Design,3,0,0,4,Sushobhan Sen(I),,,,"C1,C2
 (7/205)",,,CE 635 2026-27 Sem I Syllabus.docx,,,,
 CE 637,Infrastructure Systems: Planning and Management,3,0,0,4,Udit Bhatia(I),,,,"E1,E2
@@ -410,14 +414,18 @@ CS 435,Human-Computer Interaction,3,0,0,4,Yogesh Kumar Meena(I),,,,"J1,P2
 (11/101)",,,Course webpage,,,,
 CS 610,Algorithms,3,0,0,4,Bireswar Das(I),,,,"G1,G2
 (7/109)",,,Missing,,,,
-CS 612,Computer Systems,3,0,0,4,"Sameer G Kulkarni(I),Abhishek Bichhawat(I)",,,,"A1,A2
+CS 612,Computer Systems,3,0,0,4,Ajay Singh(I),,,,"A1,A2
 (13/124,13/125)",,,CS 612 Computer Systems - Course plan and Syllabus.docx,,,,
 CS 613,Natural Language Processing,3,0,0,4,Mayank Singh(I),,,,"F1,F2
 (Jayshree S Sheth Learning Theatre)",,,Course Webpage,,,,
+CS 614,Advanced Algorithms,3,0,0,4,Arjun Arul(I),,,,"E1,E2
+(11/102)",,,Missing,,,,
 CS 619,CS Theory Toolkit,3,0,0,4,Anirban Dasgupta(I),,,,"L1,L2
 (13/124)",,,Missing,,,,
 CS 620,Incentives and Machine learning ,3,0,0,4,Manisha Padala(I),,,,"K1,K2
 (13/124)",,,Course website,,,,
+ES 666,Computer Vision,3,0,0,4,Shanmuganathan Raman(I),,,,"C1,C2
+(11/101)",,,https://shanmugaiit.github.io/es666.html,,,,
 ES 667,Deep Learning,3,0,0,4,Nipun Batra(I),,,,"E1,E2
 (Jayshree S Sheth Learning Theatre)",,,Course webpage,,,,
 CS 691-XVII,Special Topics in Computer Science: Combinatorial and Computational Aspects of Games,3,0,0,4,,,,,,,,Combinatorial Game Theory Course Plan,,,,
@@ -425,6 +433,8 @@ CS 622,Combinatorial Game Theory,3,0,0,4,Jyothi Krishnan(I),,,,"M1,M2
 (Jayshree S Sheth Learning Theatre)",,,Missing,,,,
 CS 691-XVIII,Special Topics Course: Algebraic Complexity theory,3,0,0,4,Balagopal Komarath(I),,,,"M1,M2
 (7/207)",,,ACT Course Plan (2026-27 sem 1),,,,
+CS 623,Algebraic Complexity Theory,3,0,0,4,Balagopal Komarath(I),,,,"M1,M2
+(7/207)",,,Missing,,,,
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Maritime Engineering                                                                                                                                        ,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,
@@ -460,7 +470,7 @@ EE 663,Advanced Wireless Communications,3,0,0,4,Raghunandan M. Rao(I),,,,"L1,L2
 EE 664,High Frequency Engineering,3,0,0,4,Kamla Prasan Ray(I),,,,"K1,K2
 (13/125)",,,course Plan,,,,BS
 ES 666,Computer Vision,3,0,0,4,Shanmuganathan Raman(I),,,,"C1,C2
-(11/101)",,,Course Plan ES 666 Computer Vision - 2026-27,,,,
+(11/101)",,,https://shanmugaiit.github.io/es666.html,,,,
 ES 668,5G and Beyond,3,0,0,4,"Ravi Hegde(I), Sameer Kulkarni(I)",,,,"M1,M2
 (11/101)",,,Course Plan,,,,
 ES 675,Photonics – Principles and Applications,3,0,0,4,Arup Lal Chakraborty(I),,,,"M1,M2
@@ -565,7 +575,7 @@ MA 513,AI and Mathematics,3,1.5,0,4,Madhu Gupta(I+T),,,,"L1,L2
 (7/103)",,Course Plan,,,,
 MA 605,Commutative Algebra,3,1.5,0,4,Jugal K. Verma(I+T),,,,"J1,J2
 (7/106)","I2
-(7/106)",,Missing,,,,
+(7/106)",,course Plan,,,,
 MA 623,Number Theory,3,1.5,0,4,Atul Abhay Dixit(I+T),,,,"L1,L2
 (7/202)","K2
 (7/202)",,Missing,,,,
@@ -618,7 +628,7 @@ PH 614,Atomic and Molecular Physics,3,0,0,4,Krishna Kanti Dey(I),,,,"I1,I2
 PH 643,Quantum Computing and Information,3,0,0,4,R.R. Puri(I),,,,"F1,F2
 (7/210)",,,course plan ,,,,BS
 PH 645,Topics in Soft and Active Matter Physics,3,0,0,4,Chandan Kumar(I),,,,"C1,C2
-(7/104)",,,Missing,,,,BS
+(7/104)",,,course plan,,,,BS
 PH 646,Advanced Statistical Physics,3,0,0,4,R.R. Puri(I),,,,"E1,E2
 (11/206)",,,course plan,,,,BS
 PH 648,Semiconductor Optoelectronics,3,0,0,4,Gopinadhan Kalon(I),,,,"M1,M2
@@ -658,6 +668,9 @@ EH 626,Reservoir Modelling and Simulation,3,0,0,4,Achyut Mishra(I),,,,"M1,M2
 (7/201)",,,Course details,,,,
 EH 627,Anthropocene: Human Impact on the Earth,3,0,0,4,Vikrant Jain(I),,,,"N1,N2
 (13/125)",,,Missing,,,,
+EH 639,Statistics for Earth Sciences,1.5,0,3,3,Utsav Mannu(I),,,,"J1
+(7/103)",,"I1,K1
+(EH Lab)",Missing,,,,
 EH 691-III,Special Topics in Earth Science: Microwave Remote Sensing,3,0,0,4,Prem Chand Pandey(I),,,,"C1,C2
 (7/103)",,,Course plan,,,,BS
 EH 691-XI,Special Topics in Earth Sciences: Stable Isotopes in Earth Systems,3,0,0,4,R. D. Deshpande(I),,,,"M1,M2
@@ -715,6 +728,8 @@ HS 155,Mandarin for Beginners - II,3,0,0,4,Hao Tsung Kao (I),,,,"L1,L2
 (11/205)",,,Missing,,,,
 MS 408,Financial Considerations in Engineering Decisions,3,0,0,4,K Chelvakumar(I),,,,"M1,M2
 (7/209)",,,Missing,,,,
+MS 492-VIII,Special Topics in Management: Leadership Development & Executive Presence,3,0,0,2,Ramachandran Veetikazhi(I),,,,"L1,L2
+(7/105)",,,Missing,,,,
 IN 304,Ancient Indian Technology,3,0,0,4,Alok Kumar Kanungo(I),,,,"K1,K2
 (11/205,11/206)",,,https://drive.google.com/file/d/1N_NVxj1sORQmk_zXLa-apmPmSYxLGNxh/view?usp=sharing,,,,
 IN 491,Special Topics: Foundations of User Experience,3,0,0,4,Nuno Guimaraes(I),,,,"M1,M2
@@ -725,6 +740,8 @@ HS 491-XIII,Special Topics in HSS:  Drawing Connections: Environmental Perceptio
 (Jagdish Patel Learning Theatre)",,,Missing,,,,
 HS 491-XIV,Special Topics in HSS: Appreciation of Classical Indian Music,3,0,0,4,Pandit Mahendra D. Toke(I),,,,"M1,M2
 (Harsha Patel Learning Theatre)",,,Missing,,,,
+HS 492-XI,Special Topics in HSS: Real World Problem Solving: A Policy and Systems Approach,3,0,0,2,TBD3(I),,,,"N1,N2
+(7/104)",,,Missing,,,,
 HS 510,Perspectives on Indian Civilization,3,0,0,4,V.N. Prabhakar(I),,,,"E1,E2
 (7/205)",,,https://drive.google.com/file/d/139j3wUYmOV399Z9sBUt0RDI5eHZrQXCS/view?usp=sharing,,,,
 HS 512,Political Thought,3,0,0,4,Tanka Bahadur Subba(I),,,,"G1,G2
