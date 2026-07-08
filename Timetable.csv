@@ -58,7 +58,7 @@ PH 203,Solid State Physics,3,1,0,4,Krista Roluahpuia Khiangte(I+T),,,,"M1,M2
 (7/110)",,Solid State Physics,,,,
 ES 118,Materials for the Future,1.5,0,1.5,3,Amit Arora(I+L),,,,"C1
 (Jagdish Patel Learning Theatre)",,"C2
-(CL Lab)",Missing,,,,
+(CL Lab)",,,,,
 ES 204,Digital Systems,2,1,1.5,4,Manu Awasthi(I+T+L),,,,"E1,E2
 (10/103)","L1
 (10/103)","K1
@@ -66,9 +66,13 @@ ES 204,Digital Systems,2,1,1.5,4,Manu Awasthi(I+T+L),,,,"E1,E2
 ES 243,Biology for Engineers,3,1,0,4,TBD(I+T),,,,,,,,,,,
 MSE 206,Physics of Materials,3,0,0,4,Satyakam Kar(I),,,,"D1,D2
 (7/105)",,,Physics of Materials,,,,
-MSE 314,Materials Selection and Design,3,0,0,3,Superb Misra(I),,,,"F1,F2
+MSE 314,Materials Selection and Design,3,0,0,3,Superb Misra(I),150,,,"F1,F2
 (7/103)",,,Missing,,,,
-MSE 317,Materials Processing,2,1,1.5,4,"Emila Panda(I+T+L),Pradipta Ghosh(I+T+L)",,,,"F1,F2
+MSE 318,Introduction to Quantum Materials and Devices,3,0,0,3,Anagh Bhaumik(I),150,,,"B1,B2
+(Jayshree S Sheth Learning Theatre)",,,Missing,,,,
+MSE 319,Additive Manufacturing and 3D Printing of Materials,3,0,0,3,Avinash Hariharan(I),150,,,"I1,I2
+(Jayshree S Sheth Learning Theatre)",,,Missing,,,,
+MSE 317,Materials Processing,2,1,1.5,4,"Emila Panda(I+T+L),Pradipta Ghosh(I+T+L)",,,,"D1,D2
 (11/206,7/104)",,I1,,,,,
 ME 207,Fluid Dynamics,3,1.5,1.5,5,"Shubhangi Shamsundar Bansude(I+T),Uddipta Ghosh(T),Lokesh Malik(L)",,,,"E1,E2
 (7/109)","A1
@@ -83,9 +87,9 @@ MA 205,Calculus of Several Variables (first half),3,1.5,0,2,Tanya Kaushal Srivas
 MA 206,Introduction to Complex Analysis (second half),3,1.5,0,2,Projesh Nath Choudhury(I+T),,,,"F1,F2
 (7/205)","B1
 (7/205)",,Course Plan,,Maths Basket,,BS
-MSE 202,Materials Thermodynamics,3,1,0,4,Abhay Raj Singh Gautam(I+T),,,,"E1,E2
+MSE 202,Materials Thermodynamics,3,1,0,4,Sesha Sai Behara(I+T),,,,"E1,E2
 (7/104)","H1
-(7/101)",,Missing,,,,
+(7/101)",,Course Plan,,,,
 CE 201,Earth Materials and Processes,1.5,0,3,2,Pankaj Khanna(I+L),,,,"E1
 (13/124)",,"I1,K1
 (CE Lab)",Missing,,,,
@@ -107,13 +111,13 @@ CE 203,Geospatial Engineering,1.5,0,3,3,Vimal Mishra(I+L),,,,"E2
 EE 223,Electrical Machines,2,1,1.5,4,Ragavan K.(I+T+L),,,,"G1,G2
 (7/209)",,"I1,H1,J1,N1
 (EE Lab)",Missing,,,,
-MSE 204,Transport Phenomena in Materials Engineering,3,1,0,4,"Anagh Bhaumik(I+T),Prafull Pandey(I+T)",,,,"G1,G2
+MSE 204,Transport Phenomena in Materials Engineering,3,1,0,4,Amit Arora(I+T),,,,"G1,G2
 (7/204)","A1
 (7/201)",,Missing,,,,
 ME 206,Statics and Dynamics,2,1,1.5,4,Harish J Palanthandalam-Madapusi(I+T),,,,"G1,G2
 (Jagdish Patel Learning Theatre)",,"I1
 (ME Lab)",Course Plan,,,,
-EE 322,Analog & Mixed Signal Circuits,2,1,1.5,4,Madhav Kiritkumar Pathak(I+L),,,,"C2,B2
+EE 322,Analog & Mixed Signal Circuits,2,1,1.5,4,"Madhav Kiritkumar Pathak(I+T+L),Dinesh Kumar Sharma(T+L)",,,,"C2,B2
 (Surendra C Sheth Learning Theatre)",,"L2,K2
 (EE Lab)",Course Plan,,,,
 PE 103,Physical Education,0,0,0,0,,,,,,,,,,,,
@@ -224,9 +228,9 @@ HS 151,Economics,3,1,0,4,"Deepak Singhania(I),Praharsh Mohanlal Patel(T)",,,,"A1
 EE 312,Engineering Electromagnetics,3,1,0,4,Ravi Hedge(I+T),,,,"G1,G2
 (Jayshree S Sheth Learning Theatre)","H2
 (7/208)",,Missing,,,,
-EE 322,Analog & Mixed Signal Circuits,2,1,1.5,4,Madhav Kiritkumar Pathak(I+L),,,,"C2,B2
+EE 322,Analog & Mixed Signal Circuits,2,1,1.5,4,"Madhav Kiritkumar Pathak(I+T+L),Dinesh Kumar Sharma(T+L)",,,,"C2,B2
 (Surendra C Sheth Learning Theatre)",,"L2,K2
-(EE Lab)",Missing,,,,
+(EE Lab)",Course Plan,,,,
 EE 323,Digital Signal Processing,3,1.5,0,4,"Nithin George(I+T),Kartik Patel(T)",,,,"D1,D2
 (Jagdish Patel Learning Theatre)","F1
 (Jagdish Patel Learning Theatre,Harsha Patel Learning Theatre)",,Course Plan,,,,
@@ -291,7 +295,7 @@ MSE 313,"Polymers, Ceramics and Composites",3,0,1.5,4,Abhijit Mishra(I+L),,,,"E1
 (MSE Lab)",Missing,,,,
 MSE 304,Principles of Metal Extraction and Refining,3,0,0,4,S.P. Mehrotra(I),,,,"J1,J2
 (11/204)",,,Missing,,,,
-MSE 317,Materials Processing,2,1,1.5,4,"Emila Panda(I+T+L),Pradipta Ghosh(I+T+L)",,,,"F1,F2
+MSE 317,Materials Processing,2,1,1.5,4,"Emila Panda(I+T+L),Pradipta Ghosh(I+T+L)",,,,"D1,D2
 (11/206,7/104)","I2
 (11/206,7/104)","I1
 (MSE Lab)",Missing,,,,
@@ -386,7 +390,7 @@ CL 328,Chemical Engineering Practice in Industry,1.5,0,0,2,"Kaustubh S Rane(I),N
 CL 426,Biochemical Engineering,3,0,0,4,Karthik Subramaniam Pushpavanam(I),,,,"F1,F2
 (7/106)",,,Missing,,,,
 BS 401,Nanoscale Science,3,0,0,4,Kabeer Jasuja(I),,,,"M1,M2
-(7/203)",,,Missing,,,,BS
+(7/203)",,,,,,,BS
 CL 601,Advance Transport Phenomena,3,1,0,4,Prachi Thareja(I+T),,,,"E1,E2
 (7/108)","K2
 (7/204)",,course plan CL 601,,,,
@@ -412,10 +416,12 @@ ES 248,Introduction to Data Structures and Algorithms,1.5,0,3,3,Anup Kalbalia(I+
 (10/203)",Missing,,,,
 CS 435,Human-Computer Interaction,3,0,0,4,Yogesh Kumar Meena(I),,,,"J1,P2
 (11/101)",,,Course webpage,,,,
+CS 437,AI-Assisted Software Development Lab,0,0,3,2,"Arjun Arul(L),Anup Kalbalia(L)",,,,,,"M1,P1
+(10/105)",Missing,,,,
 CS 610,Algorithms,3,0,0,4,Bireswar Das(I),,,,"G1,G2
 (7/109)",,,Missing,,,,
 CS 612,Computer Systems,3,0,0,4,Ajay Singh(I),,,,"A1,A2
-(13/124,13/125)",,,CS 612 Computer Systems - Course plan and Syllabus.docx,,,,
+(11/101)",,,CS 612 Computer Systems - Course plan and Syllabus.docx,,,,
 CS 613,Natural Language Processing,3,0,0,4,Mayank Singh(I),,,,"F1,F2
 (Jayshree S Sheth Learning Theatre)",,,Course Webpage,,,,
 CS 614,Advanced Algorithms,3,0,0,4,Arjun Arul(I),,,,"E1,E2
@@ -437,7 +443,6 @@ CS 623,Algebraic Complexity Theory,3,0,0,4,Balagopal Komarath(I),,,,"M1,M2
 (7/207)",,,Missing,,,,
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Maritime Engineering                                                                                                                                        ,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
 EH 304,"Drone Data Acquisition, Processing and Interpretation",1,0,2,2,Pankaj Khanna(I+L),,,,"G1
 (7/104)",,"C1,F1
 (10/104)",Missing,,,,
@@ -475,7 +480,7 @@ ES 668,5G and Beyond,3,0,0,4,"Ravi Hegde(I), Sameer Kulkarni(I)",,,,"M1,M2
 (11/101)",,,Course Plan,,,,
 ES 675,Photonics – Principles and Applications,3,0,0,4,Arup Lal Chakraborty(I),,,,"M1,M2
 (7/108)",,,Missing,,,,
-EE 662,Mixed Signal IC Design,3,0,0,4,Dinesh Kumar Sharma(I),,,,"N1,N2
+EE 662,Mixed Signal IC Design,3,0,0,4,"Dinesh Kumar Sharma(I),Madhav Kiritkumar Pathak(I)",,,,"N1,N2
 (7/105)",,,EE 662 course plan,,,,
 EE 691-VII,Special Topics in Electrical Engineering: Economics of Regulation in India,3,0,0,4,Anand Kumar(I),,,,"M1,M2
 (7/208)",,,Course Plan,,,,
@@ -615,14 +620,15 @@ PH 505,Classical Electrodynamics,3,1,0,4,Urjit Yajnik(I+T),,,,"C1,C2
 (7/102)","H2
 (7/102)",,Course plan,,,,BS
 PH 508,Classical Mechanics,3,0,0,4,Rusa Mandal(I),,,,"D1,D2
-(7/107)",,,Course plan,,,,BS
+(7/108)","F2
+(7/108)",,Course plan,,,,BS
 PH 510,Condensed Matter Physics,3,1,0,4,Abhisek Samanta(I+T),,,,"F1,F2
 (11/205)","B2
 (13/124)",,Course Plan CMP,,,,BS
-PH 610,Quantum Field Theory I,3,0,0,4,Baradhwaj Coleppa(I),,,,"G1,G2
-(7/106)",,,Course Plan QFT,,,,BS
-PH 611,X-ray Scattering: Concepts and Applications,3,0,0,4,Rupak Banerjee(I),,,,"D1,D2
-(7/104)",,,Missing,,,,BS
+PH 610,Quantum Field Theory I,3,0,0,4,Baradhwaj Coleppa(I),,,,"D1,D2
+(5/202)",,,Course Plan QFT,,,,BS
+PH 611,X-ray Scattering: Concepts and Applications,3,0,0,4,Rupak Banerjee(I),,,,"G1,G2
+(7/106)",,,Course Plan,,,,BS
 PH 614,Atomic and Molecular Physics,3,0,0,4,Krishna Kanti Dey(I),,,,"I1,I2
 (7/202)",,,Course Plan,,,,BS
 PH 643,Quantum Computing and Information,3,0,0,4,R.R. Puri(I),,,,"F1,F2
