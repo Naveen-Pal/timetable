@@ -20,7 +20,7 @@ Software Tools & Techniques for AI,CS 203,K2,,"I2,M1",4.0,Surendra C Sheth Learn
 General Education II,GE 201,"P1,P2",,,2.0,Jasubhai Auditorium,,
 Introduction to Philosophy,HS 221,"N1,N2",,,4.0,Jasubhai Auditorium,,
 Introduction to Quantum Physics,PH 202,"B1,B2",H2,,4.0,7/206,"13/125,11/204",
-Solid State Physics,PH 203,"M1,M2",D1,,4.0,7/110,7/110,
+Solid State Physics,PH 203,"M1,M2",G1,,4.0,7/110,7/204,
 Materials for the Future,ES 118,C1,,C2,3.0,Jagdish Patel Learning Thea...,,CL Lab
 Digital Systems,ES 204,"E1,E2",L1,K1,4.0,10/103,10/103,"10/104,10/105,10/203,10/204"
 Biology for Engineers,ES 243,,,,4.0,,,
@@ -41,7 +41,7 @@ Data Structures and Algorithms I,ES 242,"G1,G2",,I1,4.0,10/103,,"10/104,10/105,1
 Mechanics of Solids,ES 221,"G1,G2",A1,,4.0,7/210,7/101,
 Geospatial Engineering,CE 203,E2,,"J1,L1",3.0,7/101,,CE Lab
 Electrical Machines,EE 223,"G1,G2",,"I1,H1,J1,N1",4.0,7/209,,EE Lab
-Transport Phenomena in Materials Engineering,MSE 204,"G1,G2",A1,,4.0,7/204,7/201,
+Transport Phenomena in Materials Engineering,MSE 204,"G1,G2",H2,,4.0,Harsha Patel Learning Theatre,Harsha Patel Learning Theatre,
 Statics and Dynamics,ME 206,"G1,G2",,I1,4.0,Jagdish Patel Learning Thea...,,ME Lab
 Analog & Mixed Signal Circuits,EE 322,"C2,B2",,"L2,K2",4.0,Surendra C Sheth Learning T...,,EE Lab
 Physical Education,PE 103,,,,0.0,,,
@@ -148,6 +148,7 @@ Advanced Wireless Communications,EE 663,"L1,L2",,,4.0,13/125,,
 High Frequency Engineering,EE 664,"K1,K2",,,4.0,13/125,,
 5G and Beyond,ES 668,"M1,M2",,,4.0,11/101,,
 Photonics – Principles and Applications,ES 675,"M1,M2",,,4.0,7/108,,
+Lasers,EE 639,"M1,M2",,,4.0,7/108,,
 Mixed Signal IC Design,EE 662,"N1,N2",,,4.0,7/105,,
 Special Topics in Electrical Engineering: Economics of Regulation in India,EE 691-VII,"M1,M2",,,4.0,7/208,,
 Special Topics in Mechanical Engineering: Nondestructive Testing/Evaluation,ME 491-I,"M1,M2",,,4.0,7/106,,
@@ -161,7 +162,7 @@ Deformation Behaviour of Materials,MSE 604,"K1,K2",,,4.0,7/206,,
 Structure and Defects of Materials,MSE 629,"F1,F2",,,4.0,10/102,,
 Characterization of Materials,MSE 632,"G1,G2",,"I2,M1",4.0,7/107,,MSE Lab
 AI for Materials Engineering,MSE 636,"E1,E2",,H1,4.0,7/204,,MSE Lab
-Thermo-mechanical Processing,MSE 624,"D1,D2",,,4.0,7/201,,
+Thermo-mechanical Processing,MSE 624,"M1,M2",,,4.0,7/104,,
 Electrochemical Science and Engineering,CH 302,"I1,I2",J1,,4.0,13/124,13/124,
 Physical Organic Chemistry,CH 506,"A1,A2",,,4.0,7/107,,
 Quantum Chemistry,CH 511,"F1,F2",,,4.0,7/202,,

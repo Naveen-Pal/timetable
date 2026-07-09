@@ -54,8 +54,8 @@ PH 202,Introduction to Quantum Physics,3,1,0,4,"Vinod Chandra(I),Pinaki Banerjee
 (7/206)","H2
 (13/125,11/204)",,Missing,,,,
 PH 203,Solid State Physics,3,1,0,4,Krista Roluahpuia Khiangte(I+T),,,,"M1,M2
-(7/110)","D1
-(7/110)",,Solid State Physics,,,,
+(7/110)","G1
+(7/204)",,Solid State Physics,,,,
 ES 118,Materials for the Future,1.5,0,1.5,3,Amit Arora(I+L),,,,"C1
 (Jagdish Patel Learning Theatre)",,"C2
 (CL Lab)",,,,,
@@ -112,8 +112,8 @@ EE 223,Electrical Machines,2,1,1.5,4,Ragavan K.(I+T+L),,,,"G1,G2
 (7/209)",,"I1,H1,J1,N1
 (EE Lab)",Missing,,,,
 MSE 204,Transport Phenomena in Materials Engineering,3,1,0,4,Amit Arora(I+T),,,,"G1,G2
-(7/204)","A1
-(7/201)",,Missing,,,,
+(Harsha Patel Learning Theatre)","H2
+(Harsha Patel Learning Theatre)",,Missing,,,,
 ME 206,Statics and Dynamics,2,1,1.5,4,Harish J Palanthandalam-Madapusi(I+T),,,,"G1,G2
 (Jagdish Patel Learning Theatre)",,"I1
 (ME Lab)",Course Plan,,,,
@@ -160,7 +160,7 @@ CL 315,Process Dynamics and Control,2,1,0,3,Mithun Radhakrishna(I+T),,,,"D1,D2
 (10/102)","K1
 (10/102)",,Missing,,,,
 CL 326,Integrated Chemical Engineering Lab-I,0,0,4.5,3,Biswajit Saha(L),,,,,,"J1,L1,N1
-(CL Lab)",Missing,,,,
+(CL Lab)",https://iitgnacin-my.sharepoint.com/:b:/g/personal/bsaha_iitgn_ac_in/IQB_Rgl0TgbkToHNbFSrEWxeAaWb4yVCjqBd423XZHJWJLU?e=9eNIBR,,,,
 CL XXX,Discipline Elective,,,,4,,,,,,,,,,,,
 ,Basic Science Elective,,,,4,,,,,,,,,,,,
 IN 105,Comprehensive Viva Voce,0,0,0,0,,,,,,,,,,,,
@@ -338,7 +338,7 @@ BE 621,Peptide Technologies ,1.5,0,3,2,Sharad Gupta(I+L),,,,"C1
 (13/125)",,"I2,M1
 (BE Lab)",Peptide Technologies course plan,,,,
 BE 622,Applied Stem Cells Technologies,3,0,0,4,Dhiraj D Bhatia(I),,,,"A1,A2
-(7/204)",,,Missing,,,,BS
+(7/204)",,,https://docs.google.com/document/d/1KdClKDUCfOw-lyAqLro2DI1JBJnyJZJy/edit?usp=sharing&ouid=114828150794801814953&rtpof=true&sd=true,,,,BS
 BE 623,Biocomputing,0,0,3,2,Ashutosh Srivastava(I+L),,,,,,"K2,L2
 (BE Lab)",BE623_course_description.pdf,,,,
 BE 625,AI Applications in Life Sciences,3,0,0,4,Sharad Gupta(I),,,,"D1,D2
@@ -479,7 +479,9 @@ ES 666,Computer Vision,3,0,0,4,Shanmuganathan Raman(I),,,,"C1,C2
 ES 668,5G and Beyond,3,0,0,4,"Ravi Hegde(I), Sameer Kulkarni(I)",,,,"M1,M2
 (11/101)",,,Course Plan,,,,
 ES 675,Photonics – Principles and Applications,3,0,0,4,Arup Lal Chakraborty(I),,,,"M1,M2
-(7/108)",,,Missing,,,,
+(7/108)",,,,,,,
+EE 639,Lasers,3,0,0,4,Arup Lal Chakraborty(I),,,,"M1,M2
+(7/108)",,,EE639 course plan,,,,
 EE 662,Mixed Signal IC Design,3,0,0,4,"Dinesh Kumar Sharma(I),Madhav Kiritkumar Pathak(I)",,,,"N1,N2
 (7/105)",,,EE 662 course plan,,,,
 EE 691-VII,Special Topics in Electrical Engineering: Economics of Regulation in India,3,0,0,4,Anand Kumar(I),,,,"M1,M2
@@ -502,7 +504,7 @@ ME 639,Introduction to Robotics,3,0,1.5,5,Venkata Madhukanth Vadali(I+L),,,,"E1,
 (11/205)",,"N2
 (ME Lab)",Missing,,,,
 ES 646,Elastodynamics and Vibrations,3,0,0,4,K.R. Jayaprakash(I),,,,"G1,G2
-(13/125)",,,Missing,,,,
+(13/125)",,,Course plan,,,,
 ME 648,Mathematical Tools for Mechanical Engineers,3,1,0,4,Dilip S. Sundaram(I+T),,,,"C1,C2
 (7/210)","H2
 (7/210)",,Missing,,,,
@@ -521,8 +523,8 @@ MSE 632,Characterization of Materials,3,0,3,4,Sriharitha Rowthu(I+L),,,,"G1,G2
 MSE 636,AI for Materials Engineering,3,0,1.5,4,Raghavan Ranganathan(I+L),,,,"E1,E2
 (7/204)",,"H1
 (MSE Lab)",Missing,,,,
-MSE 624,Thermo-mechanical Processing,3,0,0,4,Amit Arora(I),,,,"D1,D2
-(7/201)",,,Missing,,,,
+MSE 624,Thermo-mechanical Processing,3,0,0,4,Amit Arora(I),,,,"M1,M2
+(7/104)",,,Missing,,,,
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Chemistry																	,,,,,,,,,,,,,,,,,
 CH 302,Electrochemical Science and Engineering,3,1,0,4,Sudhanshu Sharma(I+T),,,,"I1,I2
@@ -531,7 +533,7 @@ CH 302,Electrochemical Science and Engineering,3,1,0,4,Sudhanshu Sharma(I+T),,,,
 CH 506,Physical Organic Chemistry,3,0,0,4,Kuljeet Kaur(I),,,,"A1,A2
 (7/107)",,,Course Plan,,,,BS
 CH 511,Quantum Chemistry,3,0,0,4,Anirban Mondal(I),,,,"F1,F2
-(7/202)",,,Missing,,,,BS
+(7/202)",,,Course Plan,,,,BS
 CH 513,Advanced Organic Chemistry,3,0,0,4,Sivapriya Kirubakaran(I),,,,"C1,C2
 (7/106)",,,https://docs.google.com/document/d/19iUzT5ju2-TF4lM4pmuEiSdFvsBtT20DGIyXNMBUdi8/edit?tab=t.0,,,,BS
 CH 528,Transition Metal Chemistry,3,0,0,4,Priyabrata Ghana(I),,,,"J1,J2
@@ -541,7 +543,7 @@ CH 635,Chemical Crystallography,2,0,1,4,Vijay Thiruvenkatam(I+L),,,,"M1,M2
 (7/205)",,"I2
 (CH Lab)",Course Plan,,,,BS
 CH 616,Applied Chemical Biology,3,0,0,4,Sudipta Basu(I),,,,"D1,D2
-(7/205)",,,https://drive.google.com/file/d/1OqwohVRh8yTzIjdk5C7XIcQUPtFk3UbA/view?usp=sharing,,,,BS
+(7/205)",,,https://drive.google.com/file/d/13aHcvY0HF-0uqXoD8DvgIO38Ocro_UMH/view?usp=sharing,,,,BS
 CH 622,Interpretative Organic Spectroscopy,3,0,0,4,Sriram V Gundimeda(I),,,,"E1,E2
 (11/101)",,,Missing,,,,BS
 CH 624,Molecular Spectroscopy,3,0,0,4,Saumyakanti Khatua(I),,,,"J1,J2
@@ -735,7 +737,7 @@ HS 155,Mandarin for Beginners - II,3,0,0,4,Hao Tsung Kao (I),,,,"L1,L2
 MS 408,Financial Considerations in Engineering Decisions,3,0,0,4,K Chelvakumar(I),,,,"M1,M2
 (7/209)",,,Missing,,,,
 MS 492-VIII,Special Topics in Management: Leadership Development & Executive Presence,3,0,0,2,Ramachandran Veetikazhi(I),,,,"L1,L2
-(7/105)",,,Missing,,,,
+(7/105)",,,LD&EP_CLASSWISE SCHEDULE_IITGn_DrVeetikazhi_2026.pdf,,,,
 IN 304,Ancient Indian Technology,3,0,0,4,Alok Kumar Kanungo(I),,,,"K1,K2
 (11/205,11/206)",,,https://drive.google.com/file/d/1N_NVxj1sORQmk_zXLa-apmPmSYxLGNxh/view?usp=sharing,,,,
 IN 491,Special Topics: Foundations of User Experience,3,0,0,4,Nuno Guimaraes(I),,,,"M1,M2
