@@ -353,13 +353,13 @@ CE 642,Integrated Waste Management and Circular Economy,3,0,0,4,TBD4(I),,,,"I1,I
 (Harsha Patel Learning Theatre)",,,Missing,,,,
 CL 353,Introduction to Process Safety,1.5,0,0,2,Chinmay Ghoroi(I),,,,"B1
 (Harsha Patel Learning Theatre)",,,Missing,,,,
-CE 601,Advanced Geotechnical Engineering,3,0,3,5,Ajanta Sachan(I+L),,,,"D1,D2
-(13/125)",,"J2,M2
+CE 601,Advanced Geotechnical Engineering,3,0,3,5,Ajanta Sachan(I+L),,,,"K1,L1
+(7/209)",,"J2,M2
 (CE Lab)",Missing,,,,
 CE 607,Advanced Structural Analysis,3,0,0,4,Dhiman Basu(I),,,,"E1,E2
 (7/203)",,,Course Plan,,,,
 CE 611,Advanced Engineering Hydrology,3,0,0,4,Sharad Kumar Jain(I),,,,"D1,D2
-(13/124)",,,Missing,,,,
+(13/124)",,,Course plan CE 611,,,,
 ES 621,Advanced Solid Mechanics,3,0,0,4,Harmeet Singh(I),,,,"D1,D2
 (7/102)",,,course plan,,,,
 CE 622,Structural Dynamics,3,0,0,4,Srinivasan Chandrasekaran(I),,,,"D1,D2
@@ -549,7 +549,7 @@ CH 622,Interpretative Organic Spectroscopy,3,0,0,4,Sriram V Gundimeda(I),,,,"E1,
 CH 624,Molecular Spectroscopy,3,0,0,4,Saumyakanti Khatua(I),,,,"J1,J2
 (13/125)",,,https://drive.google.com/file/d/1o_4bi7BrdQ1NOSvZYXaXR39-2JJ1AgvH/view?usp=sharing,,,,BS
 CH 626,Asymmetric Synthesis and Catalysis,3,0,0,4,Chandrakumar Appayee(I),,,,"D1,D2
-(11/205)",,,Missing,,,,BS
+(11/205)",,,https://drive.google.com/file/d/189iW2Xo26exm_Q0RHM6V0vtHsChlnxMh/view?usp=drive_link,,,,BS
 CH 627,Metabolism & Biosynthesis,3,0,0,4,Bhaskar Datta(I),,,,"K1,K2
 (11/204)",,,Course Policy & Syllabus,,,,BS
 CH 634,Introduction to Molecular Dynamics,1.5,0,3,4,Sairam Swaroop Mallajosyula(I+L),,,,"M1
@@ -607,7 +607,7 @@ MA 636,Introduction to Riemannian Geometry,3,0,0,4,TBD(I),,,,"L1,L2
 MA 643,Numerical Analysis for Partial Differential Equations,3,0,0,4,Abhinav Jha(I),,,,"P1,P2
 (13/124)",,,Course Plan,,,,
 MA 691-II,Special Topics in Mathematics: Hilbert Modules,3,0,0,4,Gadadhar Misra(I),,,,"M1,M2
-(7/105)",,,Missing,,,,
+(7/105)",,,Course Plan,,,,
 MA 691-VIII,Special Topics in Mathematics: Spectral Graph Theory,3,0,0,4,Projesh Nath Choudhury(I),,,,"J1,J2
 (7/104)",,,Course Plan,,,,
 ,,,,,,,,,,,,,,,,,
@@ -640,7 +640,7 @@ PH 645,Topics in Soft and Active Matter Physics,3,0,0,4,Chandan Kumar(I),,,,"C1,
 PH 646,Advanced Statistical Physics,3,0,0,4,R.R. Puri(I),,,,"E1,E2
 (11/206)",,,course plan,,,,BS
 PH 648,Semiconductor Optoelectronics,3,0,0,4,Gopinadhan Kalon(I),,,,"M1,M2
-(7/206)",,,Missing,,,,BS
+(7/206)",,,PH 648-SemiconductorOptoelectronics.pdf,,,,BS
 PH 651,Nanomagnetism and Spintronics,3,0,0,4,Naveen Sisodia(I),,,,"J1,J2
 (7/201)",,,Missing,,,,
 PH 609,Introduction to Einstein’s Theory of General Relativity,3,1,0,4,"Urjit Yajnik(I+T),Pinaki Banerjee(I+T)",,,,"M1,M2
@@ -699,14 +699,14 @@ CG 607,Emotion and Cognition,3,0,1,4,Meera Mary Sunny(I+T),,,,"B1,B2
 (7/105)",,"H1
 (7/105)",Missing,,,,BS
 CG 612,Neural Plasticity,3,0,0,4,Leslee Lazar(I),,,,"A1,A2
-(11/206)",,,Missing,,,,BS
+(11/206)",,,https://iitgnacin-my.sharepoint.com/:b:/g/personal/leslee_lazar_iitgn_ac_in/IQA8BAWD_qOqTJ2APbJmw4kyATTGGM11tUJa0f9-o7XuCjM?e=dyuuEe,,,,BS
 ES 673,NeuroAI: Neuroscience & Artificial Intelligence ,3,0,0,4,Vaibhav Tripathi(I),,,,"E1,E2
 (7/206)",,,Course Plan Final,,,,
 CG 691-V,Special Topics in Cognitive Science: The Multilingual Brain,3,0,0,4,Jooyung Kim(I),,,,"C1,C2
 (7/201)",,,Missing,,,,
 CG 691-VIII,Special Topics in Cognitive Sciences: Advanced Writing for Cognitive and Brain Sciences,1,0,3,4,Leslee Lazar(I+T),,,,"G1
 (7/110)",,"I1,K1
-(7/201)",Missing,,,,
+(7/201)",https://iitgnacin-my.sharepoint.com/:b:/g/personal/leslee_lazar_iitgn_ac_in/IQBn8rw_FuGwSrdyBK18zvPMAe5OkrciqywpkZxGzugMRpQ?e=wNzZVR,,,,
 ,,,,,,,,,,,,,,,,,
 "Additional Courses HSS, MS, Design, IN",,,,,,,,,,,,,,,,,
 FP 602,Writing (For Engineering PhD students and MTech Students),1,0,3,4,Sharmita Lahiri(I+L),,,,"H1
@@ -775,3 +775,7 @@ HS 647,"Literature, Theory and Social Context",3,0,0,4,Arka Chattopadhyay(I),,,,
 (7/202)",,,https://docs.google.com/document/d/1bJY9XxKFeaMph9iXwo6s0XXEMsWDSGLk/edit?usp=drive_link&ouid=103637075532236333832&rtpof=true&sd=true,,,,
 HS 651,Critical Perspectives in Sociology,3,0,0,4,Tanka Bahadur Subba(I),,,,"J1,J2
 (7/108)",,,https://docs.google.com/document/d/1nOk4PSP-NOLFFYGJxB7eqqQy7ZY_Ypri/edit?usp=drive_link&ouid=112722193455628803222&rtpof=true&sd=true,,,,
+DES 601,Visual Design for Academia,1.5,0,3,4,Sameer Sahasrabudhe(I+L),20,,,"M2
+(13/125)",,"M1,P1
+(13/125)","Course details
+Google Classroom link",,,,
