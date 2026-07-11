@@ -12,10 +12,10 @@ MA 103 (E),Calculus of Single Variable and Linear Algebra,3,1.5,0,4,"Abhinav Jha
 MA 103 (H),Calculus of Single Variable and Linear Algebra,3,1.5,0,4,"Abhinav Jha(I+T),Sudeshna Roy(I+T)",,,,"F1,F2
 (13/124,13/125)",,,Course Plan,,,,
 ES 112 (E),Computing,3,0,3,4,Shouvick Mondal(I+L),,,,"D1,D2
-(Jasubhai Auditorium)",,"J1,L1
+(Jasubhai Auditorium)",,"J1,L1 (first 240 students)
 (10/104,10/105,10/203,10/204)",Course Plan,,B.Tech. ONLY,,
 ES 112 (H),Computing,3,0,3,4,Shouvick Mondal(I+L),,,,"C1,C2
-(7/101)",,"J2,M2
+(7/101)",,"J2,M2 (remaining students)
 (10/104,10/105)",Course Plan,,B.Tech. ONLY,,
 ES 115 (E),"Design, Innovation, and Prototyping",1.5,0,3,5,"TBD1(I+L),TBD2(L)",,,,"E2
 (Jasubhai Auditorium)",,"J2,M2
@@ -342,7 +342,7 @@ BE 622,Applied Stem Cells Technologies,3,0,0,4,Dhiraj D Bhatia(I),,,,"A1,A2
 BE 623,Biocomputing,0,0,3,2,Ashutosh Srivastava(I+L),,,,,,"K2,L2
 (BE Lab)",BE623_course_description.pdf,,,,
 BE 625,AI Applications in Life Sciences,3,0,0,4,Sharad Gupta(I),,,,"D1,D2
-(7/103)",,,Missing,,,,
+(7/103)",,,Course Plan,,,,
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Civil Engineering																	,,,,,,,,,,,,,,,,,
 CE 315,Civil Engineering Materials,3,0,0,4,Krishna Siva Teja Chopperla(I),,,,"J1,J2
@@ -355,7 +355,7 @@ CL 353,Introduction to Process Safety,1.5,0,0,2,Chinmay Ghoroi(I),,,,"B1
 (Harsha Patel Learning Theatre)",,,Missing,,,,
 CE 601,Advanced Geotechnical Engineering,3,0,3,5,Ajanta Sachan(I+L),,,,"K1,L1
 (7/209)",,"J2,M2
-(CE Lab)",Missing,,,,
+(CE Lab)",CE 601 Course plan.,,,,
 CE 607,Advanced Structural Analysis,3,0,0,4,Dhiman Basu(I),,,,"E1,E2
 (7/203)",,,Course Plan,,,,
 CE 611,Advanced Engineering Hydrology,3,0,0,4,Sharad Kumar Jain(I),,,,"D1,D2
@@ -369,7 +369,7 @@ CE 625,Advanced Hydraulic Engineering,3,0,0,4,Pranab Kumar Mohapatra(I),,,,"E1,E
 CE 627,Slopes and Retaining Structures,3,0,0,2,S.R.Gandhi(I),,,,"C1,C2
 (11/204)",,,Course Plan CE 627,,,,
 CE 634,Air Pollution Control Engineering,3,0,0,4,Sameer Patel(I),,,,"P1,P2
-(7/210)",,,COURSE PLAN,,,,
+(7/210)",,,Missing,,,,
 CE 635,Pavement Materials and Design,3,0,0,4,Sushobhan Sen(I),,,,"C1,C2
 (7/205)",,,CE 635 2026-27 Sem I Syllabus.docx,,,,
 CE 637,Infrastructure Systems: Planning and Management,3,0,0,4,Udit Bhatia(I),,,,"E1,E2
@@ -620,7 +620,7 @@ PH 503,Quantum Mechanics I,3,1,0,4,Arpan Bhattacharyya(I+T),,,,"E1,E2
 (7/107)",,Course Plan,,,,BS
 PH 505,Classical Electrodynamics,3,1,0,4,Urjit Yajnik(I+T),,,,"C1,C2
 (7/102)","H2
-(7/102)",,Course plan,,,,BS
+(7/102)",,Course plan Electrodynamics,,,,BS
 PH 508,Classical Mechanics,3,0,0,4,Rusa Mandal(I),,,,"D1,D2
 (7/108)","F2
 (7/108)",,Course plan,,,,BS
@@ -735,7 +735,7 @@ HS 154,Mandarin for Beginners,3,0,0,4,Hao Tsung Kao (I),,,,"M1,M2
 HS 155,Mandarin for Beginners - II,3,0,0,4,Hao Tsung Kao (I),,,,"L1,L2
 (11/205)",,,Missing,,,,
 MS 408,Financial Considerations in Engineering Decisions,3,0,0,4,K Chelvakumar(I),,,,"M1,M2
-(7/209)",,,Missing,,,,
+(7/209)",,,https://docs.google.com/document/d/19J5s3WCoh9IF7OkWe3yKJvwg7GoFemiXVX8HBSubZCw/edit?usp=sharing,,,,
 MS 492-VIII,Special Topics in Management: Leadership Development & Executive Presence,3,0,0,2,Ramachandran Veetikazhi(I),,,,"L1,L2
 (7/105)",,,LD&EP_CLASSWISE SCHEDULE_IITGn_DrVeetikazhi_2026.pdf,,,,
 IN 304,Ancient Indian Technology,3,0,0,4,Alok Kumar Kanungo(I),,,,"K1,K2
