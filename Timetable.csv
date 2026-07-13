@@ -347,9 +347,9 @@ BE 625,AI Applications in Life Sciences,3,0,0,4,Sharad Gupta(I),,,,"D1,D2
 Additional Courses: Civil Engineering																	,,,,,,,,,,,,,,,,,
 CE 315,Civil Engineering Materials,3,0,0,4,Krishna Siva Teja Chopperla(I),,,,"J1,J2
 (7/101)",,,https://iitgnacin-my.sharepoint.com/:b:/g/personal/siva_chopperla_iitgn_ac_in/IQBg5Fv7TOB3RoqYHpULkmhHAaB-hEx0eqmwldaQOv5HHOA?e=aS00qS,,,,
-CE 316,Integrated Waste Management and Circular Economy,3,0,0,4,TBD4(I),,,,"I1,I2
+CE 316,Integrated Waste Management and Circular Economy,3,0,0,4,Abhishek Singhal(I),,,,"I1,I2
 (Harsha Patel Learning Theatre)",,,Course Plan,,,,
-CE 642,Integrated Waste Management and Circular Economy,3,0,0,4,TBD4(I),,,,"I1,I2
+CE 642,Integrated Waste Management and Circular Economy,3,0,0,4,Abhishek Singhal(I),,,,"I1,I2
 (Harsha Patel Learning Theatre)",,,Course Plan,,,,
 CL 353,Introduction to Process Safety,1.5,0,0,2,Chinmay Ghoroi(I),,,,"B1
 (Harsha Patel Learning Theatre)",,,Missing,,,,
@@ -373,7 +373,7 @@ CE 634,Air Pollution Control Engineering,3,0,0,4,Sameer Patel(I),,,,"P1,P2
 CE 635,Pavement Materials and Design,3,0,0,4,Sushobhan Sen(I),,,,"C1,C2
 (7/205)",,,CE 635 2026-27 Sem I Syllabus.docx,,,,
 CE 637,Infrastructure Systems: Planning and Management,3,0,0,4,Udit Bhatia(I),,,,"E1,E2
-(7/209)",,,Missing,,,,
+(7/209)",,,https://infra2026.floodresq.com/,,,,
 CE 638,Advanced Concrete Technology,3,0,0,4,Krishna Siva Teja Chopperla(I),,,,"C1,C2
 (11/205)",,,https://iitgnacin-my.sharepoint.com/:b:/g/personal/siva_chopperla_iitgn_ac_in/IQDViUd4Rm2jQ5lweXtnY_YbAVSy0yPJ510k8dxXX30yl7U?e=Pp67wQ,,,,
 CE 640,Hydrodynamics of Sediment Transport,3,0,0,4,Subhasish Dey(I),,,,"M1,M2
@@ -411,7 +411,7 @@ ES 662,"Flexible Electronics: Materials, Methods and Devices",3,0,0,4,Biswajit S
 (7/203)",,,https://iitgnacin-my.sharepoint.com/:w:/g/personal/bsaha_iitgn_ac_in/IQAgc6De535kTI5BHvkyh-otASKy5pbIjDA1L5r_GBQxboI?e=Qyd2Li,,,,
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Computer Science and Engineering																	,,,,,,,,,,,,,,,,,
-ES 248,Introduction to Data Structures and Algorithms,1.5,0,3,3,Anup Kalbalia(I+L),,,,"F1
+ES 248,Introduction to Data Structures and Algorithms,1.5,0,3,3,"Anup Kalbalia(I+L),Arjun Arul(I+L)",,,,"F1
 (11/101)",,"K2,L2
 (10/203)",Missing,,,,
 CS 435,Human-Computer Interaction,3,0,0,4,Yogesh Kumar Meena(I),,,,"J1,P2
@@ -419,13 +419,13 @@ CS 435,Human-Computer Interaction,3,0,0,4,Yogesh Kumar Meena(I),,,,"J1,P2
 CS 437,AI-Assisted Software Development Lab,0,0,3,2,"Arjun Arul(L),Anup Kalbalia(L)",,,,,,"M1,P1
 (10/105)",Missing,,,,
 CS 610,Algorithms,3,0,0,4,Bireswar Das(I),,,,"G1,G2
-(7/109)",,,Missing,,,,
+(7/109)",,,Course Plan,,,,
 CS 612,Computer Systems,3,0,0,4,Ajay Singh(I),,,,"A1,A2
 (11/101)",,,CS 612 Computer Systems - Course plan and Syllabus.docx,,,,
 CS 613,Natural Language Processing,3,0,0,4,Mayank Singh(I),,,,"F1,F2
 (Jayshree S Sheth Learning Theatre)",,,Course Webpage,,,,
 CS 614,Advanced Algorithms,3,0,0,4,Arjun Arul(I),,,,"E1,E2
-(11/102)",,,Missing,,,,
+(11/102)",,,,,,,
 CS 619,CS Theory Toolkit,3,0,0,4,Anirban Dasgupta(I),,,,"L1,L2
 (13/124)",,,Missing,,,,
 CS 620,Incentives and Machine learning ,3,0,0,4,Manisha Padala(I),,,,"K1,K2
@@ -435,8 +435,8 @@ ES 666,Computer Vision,3,0,0,4,Shanmuganathan Raman(I),,,,"C1,C2
 ES 667,Deep Learning,3,0,0,4,Nipun Batra(I),,,,"E1,E2
 (Jayshree S Sheth Learning Theatre)",,,Course webpage,,,,
 CS 691-XVII,Special Topics in Computer Science: Combinatorial and Computational Aspects of Games,3,0,0,4,,,,,,,,Combinatorial Game Theory Course Plan,,,,
-CS 622,Combinatorial Game Theory,3,0,0,4,Jyothi Krishnan(I),,,,"M1,M2
-(Jayshree S Sheth Learning Theatre)",,,Missing,,,,
+CS 622,Combinatorial Game Theory,3,0,0,4,Jyothi Krishnan(I),,,,"L1,L2
+(7/207)",,,Combinatorial Game Theory Course Plan,,,,
 CS 691-XVIII,Special Topics Course: Algebraic Complexity theory,3,0,0,4,Balagopal Komarath(I),,,,"M1,M2
 (7/207)",,,ACT Course Plan (2026-27 sem 1),,,,
 CS 623,Algebraic Complexity Theory,3,0,0,4,Balagopal Komarath(I),,,,"M1,M2
