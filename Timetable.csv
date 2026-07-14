@@ -363,7 +363,7 @@ CE 611,Advanced Engineering Hydrology,3,0,0,4,Sharad Kumar Jain(I),,,,"D1,D2
 ES 621,Advanced Solid Mechanics,3,0,0,4,Harmeet Singh(I),,,,"D1,D2
 (7/102)",,,course plan,,,,
 CE 622,Structural Dynamics,3,0,0,4,Srinivasan Chandrasekaran(I),,,,"D1,D2
-(11/204)",,,Missing,,,,
+(11/204)",,,course plan,,,,
 CE 625,Advanced Hydraulic Engineering,3,0,0,4,Pranab Kumar Mohapatra(I),,,,"E1,E2
 (7/207)",,,Missing,,,,
 CE 627,Slopes and Retaining Structures,3,0,0,2,S.R.Gandhi(I),,,,"C1,C2
@@ -413,7 +413,7 @@ ES 662,"Flexible Electronics: Materials, Methods and Devices",3,0,0,4,Biswajit S
 Additional Courses: Computer Science and Engineering																	,,,,,,,,,,,,,,,,,
 ES 248,Introduction to Data Structures and Algorithms,1.5,0,3,3,"Anup Kalbalia(I+L),Arjun Arul(I+L)",,,,"F1
 (11/101)",,"K2,L2
-(10/203)",Missing,,,,
+(10/203)",https://anup.github.io/courses/es248-2026-27/course-plan/,,,,
 CS 435,Human-Computer Interaction,3,0,0,4,Yogesh Kumar Meena(I),,,,"J1,P2
 (11/101)",,,Course webpage,,,,
 CS 437,AI-Assisted Software Development Lab,0,0,3,2,"Arjun Arul(L),Anup Kalbalia(L)",,,,,,"M1,P1
@@ -447,9 +447,9 @@ EH 304,"Drone Data Acquisition, Processing and Interpretation",1,0,2,2,Pankaj Kh
 (7/104)",,"C1,F1
 (10/104)",Missing,,,,
 MTE 602,Analysis and Design of Marine Structures,3,0,0,4,Srinivasan Chandrasekaran(I),,,,"N1,N2
-(7/110)",,,Missing,,,,
+(7/110)",,,Course plan,,,,
 MTE 603,Dynamics of Maritime Structures,3,0,0,4,Srinivasan Chandrasekaran(I),,,,"A1,A2
-(7/110)",,,Missing,,,,
+(7/110)",,,course plan,,,,
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Electrical Engineering																	,,,,,,,,,,,,,,,,,
 EE 617,VLSI Design,3,0,0,4,Joycee Mekie(I),,,,"D1,D2
@@ -614,7 +614,7 @@ MA 691-VIII,Special Topics in Mathematics: Spectral Graph Theory,3,0,0,4,Projesh
 Additional Courses: Physics																	,,,,,,,,,,,,,,,,,
 PH 502,Mathematical Methods of Physics - I,3,1,0,4,Prasanna Venkatesh Balasubramanian(I+T),,,,"G1,G2
 (11/101)","A1
-(10/102)",,Missing,,,,BS
+(10/102)",,Course Plan,,,,BS
 PH 503,Quantum Mechanics I,3,1,0,4,Arpan Bhattacharyya(I+T),,,,"E1,E2
 (7/102)","B1
 (7/107)",,Course Plan,,,,BS
@@ -678,11 +678,11 @@ EH 627,Anthropocene: Human Impact on the Earth,3,0,0,4,Vikrant Jain(I),,,,"N1,N2
 (13/125)",,,Missing,,,,
 EH 639,Statistics for Earth Sciences,1.5,0,3,3,Utsav Mannu(I),,,,"J1
 (7/103)",,"I1,K1
-(EH Lab)",Missing,,,,
+(EH Lab)",Course Detail,,,,
 EH 691-III,Special Topics in Earth Science: Microwave Remote Sensing,3,0,0,4,Prem Chand Pandey(I),,,,"C1,C2
 (7/103)",,,Course plan,,,,BS
 EH 691-XI,Special Topics in Earth Sciences: Stable Isotopes in Earth Systems,3,0,0,4,R. D. Deshpande(I),,,,"M1,M2
-(7/202)",,,Missing,,,,
+(7/202)",,,Course Details_Stable Isotopes in Earth Systems.pdf,,,,
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Cognitive Science,,,,,,,,,,,,,,,,,
 CG 501,Computation and Cognition,3,0,0,4,Krishna Prasad Miyapuram(I),,,,"F1,F2
@@ -748,16 +748,16 @@ HS 491-XIII,Special Topics in HSS:  Drawing Connections: Environmental Perceptio
 (Jagdish Patel Learning Theatre)",,,Missing,,,,
 HS 491-XIV,Special Topics in HSS: Appreciation of Classical Indian Music,3,0,0,4,Pandit Mahendra D. Toke(I),,,,"M1,M2
 (Harsha Patel Learning Theatre)",,,Missing,,,,
-HS 492-XI,Special Topics in HSS: Real World Problem Solving: A Policy and Systems Approach,3,0,0,2,TBD3(I),,,,"N1,N2
+HS 492-XI,Special Topics in HSS: Real World Problem Solving: A Policy and Systems Approach,3,0,0,2,Raj Kumar (IAS)(I),,,,"N1,N2
 (7/104)",,,Missing,,,,
 HS 510,Perspectives on Indian Civilization,3,0,0,4,V.N. Prabhakar(I),,,,"E1,E2
-(7/205)",,,https://drive.google.com/file/d/139j3wUYmOV399Z9sBUt0RDI5eHZrQXCS/view?usp=sharing,,,,
+(7/205)",,,HS 510_Course Plan,,,,
 HS 512,Political Thought,3,0,0,4,Tanka Bahadur Subba(I),,,,"G1,G2
 (7/205)",,,https://docs.google.com/document/d/1-mZGG5iu3RfLAODe5jS6O8ywv9V_QMkg/edit?usp=drive_link&ouid=112722193455628803222&rtpof=true&sd=true,,,,
 HS 515,The Politics of the Environment,3,0,0,4,Ambika Aiyadurai(I),,,,"C1,C2
 (7/105)",,,,,,,
 HS 520,Ancient Indian Architecture,3,0,0,4,V.N. Prabhakar(I),,,,"M1,M2
-(7/103)",,,https://drive.google.com/file/d/1A8C0hu04YyalbTvT4cd55EelxYb6CFAK/view?usp=sharing,,,,
+(7/103)",,,HS 520_Course Plan.pdf,,,,
 HS 523,Quantitative Research Methods in Social Sciences,3,1,0,4,Praharsh Mohanlal Patel(I+T),,,,"G1,G2
 (7/202)","A1
 (7/102)",,Missing,,,,
