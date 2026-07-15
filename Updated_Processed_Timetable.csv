@@ -29,7 +29,7 @@ Materials Selection and Design,MSE 314,"F1,F2",,,3.0,7/103,,
 Introduction to Quantum Materials and Devices,MSE 318,"B1,B2",,,3.0,Jayshree S Sheth Learning T...,,
 Additive Manufacturing and 3D Printing of Materials,MSE 319,"I1,I2",,,3.0,Jayshree S Sheth Learning T...,,
 Materials Processing,MSE 317,"D1,D2",,I1,4.0,"11/206,7/104",,
-Fluid Dynamics,ME 207,"E1,E2",A1,K1,5.0,7/109,"7/104,7/105",ME Lab
+Fluid Dynamics,ME 207,"E1,E2",M2,K1,5.0,7/109,"7/101,7/204",ME Lab
 Principles of Manufacturing Processes,ME 209,"F1,F2",,A2,3.0,7/209,,7/209
 Calculus of Several Variables (first half),MA 205,"F1,F2",B1,,2.0,Jasubhai Auditorium,Jasubhai Auditorium,
 Introduction to Complex Analysis (second half),MA 206,"F1,F2",B1,,2.0,7/205,7/205,
@@ -71,8 +71,8 @@ Digital Signal Processing,EE 323,"D1,D2",F1,,4.0,Jagdish Patel Learning Thea...,
 Power Electronics,EE 333,"E1,E2",C1,"I2,M1,J2,M2",4.0,Jagdish Patel Learning Thea...,Harsha Patel Learning Theatre,EE Lab
 Material Characterization Techniques,MSE 352,A1,,"L1,N1",4.0,7/210,,MSE Lab
 Control Systems,ES 245,"D1,D2",H1,,4.0,Harsha Patel Learning Theatre,Harsha Patel Learning Theatre,
-Mechanics of Materials,ME 333,"F1,F2",J2,,3.0,7/208,"7/204,7/205",
-Heat and Mass Transfer,ME 334,"C1,C2",B1,J1,4.0,7/209,Jagdish Patel Learning Thea...,ME Lab
+Mechanics of Materials,ME 333,"B1,B2",J2,,3.0,7/108,"7/204,7/205",
+Heat and Mass Transfer,ME 334,"C1,C2",L1,J1,4.0,Jagdish Patel Learning Thea...,Jagdish Patel Learning Thea...,ME Lab
 Introduction to Manufacturing Systems and Metrology ,ME 362,"E1,E2",,L2,3.0,Harsha Patel Learning Theatre,,Harsha Patel Learning Theatre
 "Polymers, Ceramics and Composites",MSE 313,"E1,E2",,K1,4.0,7/105,,MSE Lab
 Principles of Metal Extraction and Refining,MSE 304,"J1,J2",,,4.0,11/204,,
@@ -136,9 +136,12 @@ Algebraic Complexity Theory,CS 623,"M1,M2",,,4.0,7/207,,
 "Drone Data Acquisition, Processing and Interpretation",EH 304,G1,,"C1,F1",2.0,7/104,,10/104
 Analysis and Design of Marine Structures,MTE 602,"N1,N2",,,4.0,7/110,,
 Dynamics of Maritime Structures,MTE 603,"A1,A2",,,4.0,7/110,,
+Special Topics in Maritime Engineering: French Language for Maritime Engineers (second half),MTE 692-I,"G1,G2",,,2.0,7/110,,
+Industrial Control and Process Instrumentation,ES 420,"N1,N2",,"M1,P1",5.0,11/204,,EE Lab
 VLSI Design,EE 617,"D1,D2",,,4.0,7/210,,
 Physics of Transistors,EE 644,"A1,A2",,,4.0,7/103,,
 Dynamic Behaviour of Electric Machines,EE 648,"C1,C2",,I2,5.0,13/124,,EE Lab
+Wireless System Design and Implementation (EE 434),EE 671,J1,,"A2,B2",4.0,7/110,,EE Lab
 Digital Control Systems,ES 616,"E1,E2",B1,,4.0,7/210,7/110,
 Microfabrication and Semiconductor Processes,ES 626,"N1,N2",,,4.0,7/101,,
 CMOS Analog IC Design,EE 651,"F1,F2",,,4.0,7/101,,
@@ -152,10 +155,10 @@ Lasers,EE 639,"M1,M2",,,4.0,7/108,,
 Mixed Signal IC Design,EE 662,"N1,N2",,,4.0,7/105,,
 Special Topics in Electrical Engineering: Economics of Regulation in India,EE 691-VII,"M1,M2",,,4.0,7/208,,
 Special Topics in Mechanical Engineering: Nondestructive Testing/Evaluation,ME 491-I,"M1,M2",,,4.0,7/106,,
-Foundations of Fluid Dynamics,ES 607,"G1,G2",A1,,4.0,7/105,7/106,
-Computational Fluid Dynamics,ME 605,"E1,E2",B1,,4.0,7/103,7/210,
+Foundations of Fluid Dynamics,ES 607,"G1,G2",M1,,4.0,7/105,Jayshree S Sheth Learning T...,
+Computational Fluid Dynamics,ME 605,"M1,M2",K1,,4.0,5/202,7/109,
 Human-Robot Interaction,ES 656,"L1,L2",,,4.0,7/201,,
-Introduction to Robotics,ME 639,"E1,E2",,N2,5.0,11/205,,ME Lab
+Introduction to Robotics,ME 639,"M1,M2",,P1,5.0,7/203,,ME Lab
 Elastodynamics and Vibrations,ES 646,"G1,G2",,,4.0,13/125,,
 Mathematical Tools for Mechanical Engineers,ME 648,"C1,C2",H2,,4.0,7/210,7/210,
 Deformation Behaviour of Materials,MSE 604,"K1,K2",,,4.0,7/206,,
@@ -171,7 +174,7 @@ Transition Metal Chemistry,CH 528,"J1,J2",,,4.0,7/107,,
 AI in Chemistry,CH 529,,,,4.0,,,
 Chemical Crystallography,CH 635,"M1,M2",,I2,4.0,7/205,,CH Lab
 Applied Chemical Biology,CH 616,"D1,D2",,,4.0,7/205,,
-Interpretative Organic Spectroscopy,CH 622,"E1,E2",,,4.0,11/101,,
+Interpretative Organic Spectroscopy,CH 622,"A1,A2",,,4.0,7/208,,
 Molecular Spectroscopy,CH 624,"J1,J2",,,4.0,13/125,,
 Asymmetric Synthesis and Catalysis,CH 626,"D1,D2",,,4.0,11/205,,
 Metabolism & Biosynthesis,CH 627,"K1,K2",,,4.0,11/204,,
@@ -229,16 +232,17 @@ Special Topics in Earth Science: Microwave Remote Sensing,EH 691-III,"C1,C2",,,4
 Special Topics in Earth Sciences: Stable Isotopes in Earth Systems,EH 691-XI,"M1,M2",,,4.0,7/202,,
 Computation and Cognition,CG 501,"F1,F2",,,4.0,7/201,,
 Fundamentals of Cognitive Psychology,CG 503,"G1,G2",,,4.0,7/207,,
-Research Methods in Cognitive Science,CG 504,"E1,I1",,,4.0,7/101,,
-Fundamental Neuroscience,CG 505,"D1,D2",,,4.0,11/101,,
+Research Methods in Cognitive Science,CG 504,"J1,I1",,,4.0,7/109,,
+Fundamental Neuroscience,CG 505,"D1,D2",,,4.0,7/208,,
 Philosophy of Mind,CG 606,"C1,C2",,,4.0,Jayshree S Sheth Learning T...,,
-Emotion and Cognition,CG 607,"B1,B2",,H1,4.0,7/105,,7/105
-Neural Plasticity,CG 612,"A1,A2",,,4.0,11/206,,
+Emotion and Cognition,CG 607,"L1,L2",,H1,4.0,7/110,,7/110
+Neural Plasticity,CG 612,"D1,D2",,,4.0,7/201,,
 NeuroAI: Neuroscience & Artificial Intelligence ,ES 673,"E1,E2",,,4.0,7/206,,
 Special Topics in Cognitive Science: The Multilingual Brain,CG 691-V,"C1,C2",,,4.0,7/201,,
 Special Topics in Cognitive Sciences: Advanced Writing for Cognitive and Brain Sciences,CG 691-VIII,G1,,"I1,K1",4.0,7/110,,7/201
 Writing (For Engineering PhD students and MTech Students),FP 602,H1,,"P1,P2",4.0,Jasubhai Auditorium,,"7/101,7/102,7/103,7/104,7/1..."
 Writing (PG Mathematics),FP 602 (MA),H1,,"P1,P2",4.0,Jayshree S Sheth Learning T...,,"7/108,7/109,7/110"
+Writing (PG Cognitive and Brain Science),FP 602 (CG),H2,,"I1,K1",4.0,Jayshree S Sheth Learning T...,,"7/201,7/207,7/210,7/108"
 Foundational Sanskrit,HS 104,"L1,L2",J2,,4.0,7/210,7/103,
 Urdu script and poetry,HS 111,"G1,G2",H2,,4.0,7/206,13/124,
 Urdu poetry interpretation,HS 112,"F1,F2",M1,,4.0,7/105,7/101,
