@@ -25,9 +25,9 @@ Materials for the Future,ES 118,C1,,C2,3.0,Jagdish Patel Learning Thea...,,CL La
 Digital Systems,ES 204,"E1,E2",L1,K1,4.0,10/103,10/103,"10/104,10/105,10/203,10/204"
 Biology for Engineers,ES 243,,,,4.0,,,
 Physics of Materials,MSE 206,"D1,D2",,,4.0,7/105,,
-Materials Selection and Design,MSE 314,"F1,F2",,,3.0,7/103,,
+Materials Selection and Design,MSE 314,"F1,F2",,,3.0,Surendra C Sheth Learning T...,,
 Introduction to Quantum Materials and Devices,MSE 318,"B1,B2",,,3.0,Jayshree S Sheth Learning T...,,
-Additive Manufacturing and 3D Printing of Materials,MSE 319,"I1,I2",,,3.0,Jayshree S Sheth Learning T...,,
+Additive Manufacturing and 3D Printing of Materials,MSE 319,"C1,I2",,,3.0,Surendra C Sheth Learning T...,,
 Materials Processing,MSE 317,"D1,D2",,I1,4.0,"11/206,7/104",,
 Fluid Dynamics,ME 207,"E1,E2",M2,K1,5.0,7/109,"7/101,7/204",ME Lab
 Principles of Manufacturing Processes,ME 209,"F1,F2",,A2,3.0,7/209,,7/209
@@ -40,10 +40,11 @@ Data Structures and Algorithms I,ES 242,"G1,G2",,I1,4.0,10/103,,"10/104,10/105,1
 "Signals, Systems, and Random Processes",ES 244,"D1,D2",H2,,4.0,10/103,10/103,
 Mechanics of Solids,ES 221,"G1,G2",A1,,4.0,7/210,7/101,
 Geospatial Engineering,CE 203,E2,,"J1,L1",3.0,7/101,,CE Lab
-Electrical Machines,EE 223,"G1,G2",,"I1,H1,J1,N1",4.0,7/209,,EE Lab
+Electrical Machines,EE 223,"M1 , M2",,"I1,H1,J1,N1",4.0,"Jasubhai Auditorium, Jayshree S Sheth Learning T...",,EE Lab
 Transport Phenomena in Materials Engineering,MSE 204,"G1,G2",H2,,4.0,Harsha Patel Learning Theatre,Harsha Patel Learning Theatre,
 Statics and Dynamics,ME 206,"G1,G2",,I1,4.0,Jagdish Patel Learning Thea...,,ME Lab
 Analog & Mixed Signal Circuits,EE 322,"C2,B2",,"L2,K2",4.0,Surendra C Sheth Learning T...,,EE Lab
+Integrated Circuit Fabrication Lab,ES 339,,,"I1,K1,K2,L2",2.0,,,5/202
 Physical Education,PE 103,,,,0.0,,,
 Comprehensive Viva Voce,IN 103,,,,0.0,,,
 Science Basket Course,ES XXX,,,,4.0,,,
@@ -55,9 +56,9 @@ HSS Elective,HS XXX,,,,4.0,,,
 Comprehensive Viva Voce,IN 105,,,,0.0,,,
 HSS Elective,HS 3XX,,,,,,,
 Comprehensive Viva Voce,IN 107,,,,0.0,,,
-Chemical Reaction Engineering - II,CL 313,"G1,G2",H1,,3.0,7/108,7/109,
-Separation Processes - I,CL 314,"E1,E2",K2,,3.0,10/102,10/102,
-Process Dynamics and Control,CL 315,"D1,D2",K1,,3.0,10/102,10/102,
+Chemical Reaction Engineering - II,CL 313,"G1,G2","G1,G2",,3.0,7/108,7/108,
+Separation Processes - I,CL 314,"E1,E2","E1,E2",,3.0,10/102,10/102,
+Process Dynamics and Control,CL 315,"D1,D2","D1,D2",,3.0,10/102,10/102,
 Integrated Chemical Engineering Lab-I,CL 326,,,"J1,L1,N1",3.0,,,CL Lab
 Discipline Elective,CL XXX,,,,4.0,,,
 Soil Mechanics,CE 301,"G1,G2",H2,"L2,N2",5.0,7/103,7/101,CE Lab
@@ -137,9 +138,9 @@ Algebraic Complexity Theory,CS 623,"M1,M2",,,4.0,7/207,,
 Analysis and Design of Marine Structures,MTE 602,"N1,N2",,,4.0,7/110,,
 Dynamics of Maritime Structures,MTE 603,"A1,A2",,,4.0,7/110,,
 Special Topics in Maritime Engineering: French Language for Maritime Engineers (second half),MTE 692-I,"G1,G2",,,2.0,7/110,,
-Industrial Control and Process Instrumentation,ES 420,"N1,N2",,"M1,P1",5.0,11/204,,EE Lab
+Industrial Control and Process Instrumentation,ES 420,"N1,N2",,"C1,F1",5.0,11/204,,EE Lab
 VLSI Design,EE 617,"D1,D2",,,4.0,7/210,,
-Physics of Transistors,EE 644,"A1,A2",,,4.0,7/103,,
+Physics of Transistors,EE 644,"A1,A2",,,4.0,Surendra C Sheth Learning T...,,
 Dynamic Behaviour of Electric Machines,EE 648,"C1,C2",,I2,5.0,13/124,,EE Lab
 Wireless System Design and Implementation (EE 434),EE 671,J1,,"A2,B2",4.0,7/110,,EE Lab
 Digital Control Systems,ES 616,"E1,E2",B1,,4.0,7/210,7/110,
@@ -227,6 +228,7 @@ Applied Micropaleontology,EH 624,"M1,M2",,,4.0,7/107,,
 Environmental Geosciences,EH 625,"P1,P2",,,4.0,7/201,,
 Reservoir Modelling and Simulation,EH 626,"M1,M2",,,4.0,7/201,,
 Anthropocene: Human Impact on the Earth,EH 627,"N1,N2",,,4.0,13/125,,
+Rock Mechanics and Rock Engineering,EH 638,"J1,J2",,,4.0,7/206,,
 Statistics for Earth Sciences,EH 639,J1,,"I1,K1",3.0,7/103,,EH Lab
 Special Topics in Earth Science: Microwave Remote Sensing,EH 691-III,"C1,C2",,,4.0,7/103,,
 Special Topics in Earth Sciences: Stable Isotopes in Earth Systems,EH 691-XI,"M1,M2",,,4.0,7/202,,
@@ -269,5 +271,5 @@ A Critical Journey Through Select Thoughts and Theories,HS 610,"D1,D2",,,6.0,7/2
 Digital Cultures and New Media,HS 631,"M1,M2",,,4.0,11/204,,
 Scarred Nations: Partition in the Indian Subcontinent,HS 633,"L1,L2",,,4.0,7/206,,
 "Literature, Theory and Social Context",HS 647,"E1,E2",,,4.0,7/202,,
-Critical Perspectives in Sociology,HS 651,"J1,J2",,,4.0,7/108,,
+Critical Perspectives in Sociology,HS 651,"N1,P2",,,4.0,7/203,,
 Visual Design for Academia,DES 601,M2,,"M1,P1",4.0,13/125,,13/125

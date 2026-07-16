@@ -17,10 +17,10 @@ ES 112 (E),Computing,3,0,3,4,Shouvick Mondal(I+L),,,,"D1,D2
 ES 112 (H),Computing,3,0,3,4,Shouvick Mondal(I+L),,,,"C1,C2
 (7/101)",,"J2,M2 (remaining students)
 (10/104,10/105)",Course Plan,,B.Tech. ONLY,,
-ES 115 (E),"Design, Innovation, and Prototyping",1.5,0,3,5,"TBD1(I+L),TBD2(L)",,,,"E2
+ES 115 (E),"Design, Innovation, and Prototyping",1.5,0,3,5,"K Chelvakumar(I),Manasi Anand Kanetkar(L),Malay Dhamelia(L)",,,,"E2
 (Jasubhai Auditorium)",,"J2,M2
 (Jasubhai Auditorium)",Missing,,,,
-ES 115 (H),"Design, Innovation, and Prototyping",1.5,0,3,5,"TBD1(I+L),TBD2(L)",,,,"E1
+ES 115 (H),"Design, Innovation, and Prototyping",1.5,0,3,5,"Malay Dhamelia(I+L),Manasi Anand Kanetkar(L)",,,,"E1
 (7/110)",,"I1,K1
 (7/110)",Missing,,,,
 HS 191,Introduction to writing I,1,3,0,2,Jooyung Kim(I+T),,,,,"B1,B2
@@ -62,16 +62,16 @@ ES 118,Materials for the Future,1.5,0,1.5,3,Amit Arora(I+L),,,,"C1
 ES 204,Digital Systems,2,1,1.5,4,Manu Awasthi(I+T+L),,,,"E1,E2
 (10/103)","L1
 (10/103)","K1
-(10/104,10/105,10/203,10/204)",Missing,,,,
+(10/104,10/105,10/203,10/204)",Course Plan,,,,
 ES 243,Biology for Engineers,3,1,0,4,TBD(I+T),,,,,,,,,,,
 MSE 206,Physics of Materials,3,0,0,4,Satyakam Kar(I),,,,"D1,D2
 (7/105)",,,Physics of Materials,,,,
 MSE 314,Materials Selection and Design,3,0,0,3,Superb Misra(I),150,,,"F1,F2
-(7/103)",,,Missing,,,,
+(Surendra C Sheth Learning Theatre)",,,Missing,,,,
 MSE 318,Introduction to Quantum Materials and Devices,3,0,0,3,Anagh Bhaumik(I),150,,,"B1,B2
 (Jayshree S Sheth Learning Theatre)",,,Missing,,,,
-MSE 319,Additive Manufacturing and 3D Printing of Materials,3,0,0,3,Avinash Hariharan(I),150,,,"I1,I2
-(Jayshree S Sheth Learning Theatre)",,,Missing,,,,
+MSE 319,Additive Manufacturing and 3D Printing of Materials,3,0,0,3,Avinash Hariharan(I),150,,,"C1,I2
+(Surendra C Sheth Learning Theatre)",,,Missing,,,,
 MSE 317,Materials Processing,2,1,1.5,4,"Emila Panda(I+T+L),Pradipta Ghosh(I+T+L)",,,,"D1,D2
 (11/206,7/104)",,I1,,,,,
 ME 207,Fluid Dynamics,3,1.5,1.5,5,"Shubhangi Shamsundar Bansude(I+T),Uddipta Ghosh(T),Lokesh Malik(L)",,,,"E1,E2
@@ -108,8 +108,8 @@ ES 221,Mechanics of Solids,3,1.5,0,4,Manish Kumar(I+T),,,,"G1,G2
 CE 203,Geospatial Engineering,1.5,0,3,3,Vimal Mishra(I+L),,,,"E2
 (7/101)",,"J1,L1
 (CE Lab)",Missing,,,,
-EE 223,Electrical Machines,2,1,1.5,4,Ragavan K.(I+T+L),,,,"G1,G2
-(7/209)",,"I1,H1,J1,N1
+EE 223,Electrical Machines,2,1,1.5,4,Ragavan K.(I+T+L),,,,"M1 (Jasubhai Auditorium)
+M2 (Jayshree S Sheth Learning Theatre)",,"I1,H1,J1,N1
 (EE Lab)",Electrical Machines,,,,
 MSE 204,Transport Phenomena in Materials Engineering,3,1,0,4,Amit Arora(I+T),,,,"G1,G2
 (Harsha Patel Learning Theatre)","H2
@@ -120,6 +120,8 @@ ME 206,Statics and Dynamics,2,1,1.5,4,Harish J Palanthandalam-Madapusi(I+T),,,,"
 EE 322,Analog & Mixed Signal Circuits,2,1,1.5,4,"Madhav Kiritkumar Pathak(I+T+L),Dinesh Kumar Sharma(T+L)",,,,"C2,B2
 (Surendra C Sheth Learning Theatre)",,"L2,K2
 (EE Lab)",Course Plan,,,,
+ES 339,Integrated Circuit Fabrication Lab,0,0,3,2,"Sandip Lashkare(L),Anagh Bhaumik(L)",,,,,,"I1,K1,K2,L2
+(5/202)",Missing,,,,
 PE 103,Physical Education,0,0,0,0,,,,,,,,,,,,
 IN 103,Comprehensive Viva Voce,0,0,0,0,,,,,,,,,,,,
 ES XXX,Science Basket Course,-,-,-,4,,,,,,,,,,,,
@@ -151,13 +153,13 @@ HS 151,Economics,3,1,0,4,"Deepak Singhania(I),Praharsh Mohanlal Patel(T)",,,,"A1
 (Jasubhai Auditorium)","I2
 (Jasubhai Auditorium,7/101,7/102,7/103,7/105,7/107,7/110,7/201,7/204,7/205)",,https://drive.google.com/file/d/1rHrc62tPltvkY5TUoBjNl3fV_2tuz-SC/view?usp=sharing,,,,
 CL 313,Chemical Reaction Engineering - II,2,1,0,3,Kabeer Jasuja(I+T),,,,"G1,G2
-(7/108)","H1
-(7/109)",,Missing,,,,
+(7/108)","G1,G2
+(7/108)",,Missing,,,,
 CL 314,Separation Processes - I,2,1,0,3,Karthik Subramaniam Pushpavanam(I+T),,,,"E1,E2
-(10/102)","K2
+(10/102)","E1,E2
 (10/102)",,Missing,,,,
 CL 315,Process Dynamics and Control,2,1,0,3,Mithun Radhakrishna(I+T),,,,"D1,D2
-(10/102)","K1
+(10/102)","D1,D2
 (10/102)",,Missing,,,,
 CL 326,Integrated Chemical Engineering Lab-I,0,0,4.5,3,Biswajit Saha(L),,,,,,"J1,L1,N1
 (CL Lab)",https://iitgnacin-my.sharepoint.com/:b:/g/personal/bsaha_iitgn_ac_in/IQB_Rgl0TgbkToHNbFSrEWxeAaWb4yVCjqBd423XZHJWJLU?e=9eNIBR,,,,
@@ -440,7 +442,7 @@ CS 622,Combinatorial Game Theory,3,0,0,4,Jyothi Krishnan(I),,,,"L1,L2
 CS 691-XVIII,Special Topics Course: Algebraic Complexity theory,3,0,0,4,Balagopal Komarath(I),,,,"M1,M2
 (7/207)",,,ACT Course Plan (2026-27 sem 1),,,,
 CS 623,Algebraic Complexity Theory,3,0,0,4,Balagopal Komarath(I),,,,"M1,M2
-(7/207)",,,Missing,,,,
+(7/207)",,,Course plan,,,,
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Maritime Engineering                                                                                                                                        ,,,,,,,,,,,,,,,,,
 EH 304,"Drone Data Acquisition, Processing and Interpretation",1,0,2,2,Pankaj Khanna(I+L),,,,"G1
@@ -455,12 +457,12 @@ MTE 692-I,Special Topics in Maritime Engineering: French Language for Maritime E
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Electrical Engineering																	,,,,,,,,,,,,,,,,,
 ES 420,Industrial Control and Process Instrumentation,3,0,3,5,S. Rajendran(I+L),15,,,"N1,N2
-(11/204)",,"M1,P1
+(11/204)",,"C1,F1
 (EE Lab)",Course plan,,,,
 EE 617,VLSI Design,3,0,0,4,Joycee Mekie(I),,,,"D1,D2
 (7/210)",,,Course plan,,,,
 EE 644,Physics of Transistors,3,0,0,4,Sandip Lashkare(I),,,,"A1,A2
-(7/103)",,,Course Plan,,,,
+(Surendra C Sheth Learning Theatre)",,,Course Plan,,,,
 EE 648,Dynamic Behaviour of Electric Machines,3,0,1.5,5,Ragavan K.(I+L),,,,"C1,C2
 (13/124)",,"I2
 (EE Lab)",DBEM course plan,,,,
@@ -470,7 +472,7 @@ EE 671,Wireless System Design and Implementation (EE 434),1.5,0,3,4,Kartik Patel
 ES 616,Digital Control Systems,3,1,0,4,S. Rajendran(I+T),,,,"E1,E2
 (7/210)","B1
 (7/110)",,Course plan,,,,
-ES 626,Microfabrication and Semiconductor Processes,3,0,0,4,Jhuma Saha(I),,,,"N1,N2
+ES 626,Microfabrication and Semiconductor Processes,3,0,0,4,"Jhuma Saha(I),Nihar Ranjan Mohapatra(I)",,,,"N1,N2
 (7/101)",,,Course plan,,,,
 EE 651,CMOS Analog IC Design,3,0,0,4,Tarun Kumar Agarwal(I),,,,"F1,F2
 (7/101)",,,Course Plan,,,,
@@ -684,6 +686,8 @@ EH 626,Reservoir Modelling and Simulation,3,0,0,4,Achyut Mishra(I),,,,"M1,M2
 (7/201)",,,Course details,,,,
 EH 627,Anthropocene: Human Impact on the Earth,3,0,0,4,Vikrant Jain(I),,,,"N1,N2
 (13/125)",,,Missing,,,,
+EH 638,Rock Mechanics and Rock Engineering,3,0,0,4,Manab Mukherjee(I),,,,"J1,J2
+(7/206)",,,Course Plan,,,,
 EH 639,Statistics for Earth Sciences,1.5,0,3,3,Utsav Mannu(I),,,,"J1
 (7/103)",,"I1,K1
 (EH Lab)",Course Detail,,,,
@@ -784,8 +788,8 @@ HS 633,Scarred Nations: Partition in the Indian Subcontinent,3,0,0,4,Madhumita S
 (7/206)",,, https://iitgnacin-my.sharepoint.com/:b:/g/personal/madhumitasg_iitgn_ac_in/IQBdJ0hTz8IER6rXG_FvDVuNAaqflnhH2Zcubjz2xkzgmtg?e=2pXgXW,,,,
 HS 647,"Literature, Theory and Social Context",3,0,0,4,Arka Chattopadhyay(I),,,,"E1,E2
 (7/202)",,,https://docs.google.com/document/d/1bJY9XxKFeaMph9iXwo6s0XXEMsWDSGLk/edit?usp=drive_link&ouid=103637075532236333832&rtpof=true&sd=true,,,,
-HS 651,Critical Perspectives in Sociology,3,0,0,4,Tanka Bahadur Subba(I),,,,"J1,J2
-(7/108)",,,https://docs.google.com/document/d/1nOk4PSP-NOLFFYGJxB7eqqQy7ZY_Ypri/edit?usp=drive_link&ouid=112722193455628803222&rtpof=true&sd=true,,,,
+HS 651,Critical Perspectives in Sociology,3,0,0,4,Tanka Bahadur Subba(I),,,,"N1,P2
+(7/203)",,,https://docs.google.com/document/d/1nOk4PSP-NOLFFYGJxB7eqqQy7ZY_Ypri/edit?usp=drive_link&ouid=112722193455628803222&rtpof=true&sd=true,,,,
 DES 601,Visual Design for Academia,1.5,0,3,4,Sameer Sahasrabudhe(I+L),20,,,"M2
 (13/125)",,"M1,P1
 (13/125)","Course details
