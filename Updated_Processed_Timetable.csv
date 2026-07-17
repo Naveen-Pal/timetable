@@ -1,15 +1,15 @@
 Course Name,Course Number,Lecture Time,Tutorial Time,Lab Time,Credit,Lecture Location,Tutorial Location,Lab Location
 Foundation Programme,FP 100,,,,4.0,,,
 Engineering Graphics,ES 101 (E),E1,,"N1,N2",3.0,Jasubhai Auditorium,,Surendra C Sheth Learning T...
-Engineering Graphics,ES 101 (H),G1,,,3.0,7/101,,
-Calculus of Single Variable and Linear Algebra,MA 103 (E),"G1,G2",K1,,4.0,Jasubhai Auditorium,"7/101,7/102,7/103,7/104,7/1...",
+Engineering Graphics,ES 101 (H),H2,,,3.0,7/108,,
+Calculus of Single Variable and Linear Algebra,MA 103 (E),"G1,G2",H1,,4.0,Jasubhai Auditorium,"7/102,7/104,7/105,7/106,7/1...",
 Calculus of Single Variable and Linear Algebra,MA 103 (H),"F1,F2",,,4.0,"13/124,13/125",,
-Computing,ES 112 (E),"D1,D2",,"J1,L1",4.0,Jasubhai Auditorium,,"first 240 students, 10/104,10/105,10/203,10/204"
-Computing,ES 112 (H),"C1,C2",,"J2,M2",4.0,7/101,,"remaining students, 10/104,10/105"
-"Design, Innovation, and Prototyping",ES 115 (E),E2,,"J2,M2",5.0,Jasubhai Auditorium,,Jasubhai Auditorium
-"Design, Innovation, and Prototyping",ES 115 (H),E1,,"I1,K1",5.0,7/110,,7/110
+Computing,ES 112 (E),"D1,D2",,"J1,L1",4.0,Jasubhai Auditorium,,"10/104,10/105,10/203,10/204..."
+Computing,ES 112 (H),"A2,C2",,,4.0,Harsha Patel Learning Theatre,,
+"Design, Innovation, and Prototyping",ES 115 (E),E2,,"A1,C1,I1,K1,I2,M1,K2,L2,M2,P2",5.0,Jasubhai Auditorium,,Makers Bhavan
+"Design, Innovation, and Prototyping",ES 115 (H),E1,,,5.0,7/110,,
 Introduction to writing I,HS 191,,"B1,B2",,2.0,,"7/101,7/102,7/103,7/104,7/2...",
-Undergraduate Science Laboratory,BS 192,,,"A1,A2,H1,H2,I2,L2,M1,P1,K2,P2",3.0,,,PH Lab
+Undergraduate Science Laboratory,BS 192,,,"I1,K1,I2,M1,K2,L2,M2,P2",3.0,,,PH Lab
 Physical Education,PE 101,,,,0.0,,,
 Comprehensive Viva Voce,IN 101,,,,0.0,,,
 Chemical Engineering Thermodynamics,CL 202,"A1,A2",L1,,3.0,7/109,7/109,
@@ -26,9 +26,9 @@ Digital Systems,ES 204,"E1,E2",L1,K1,4.0,10/103,10/103,"10/104,10/105,10/203,10/
 Biology for Engineers,ES 243,,,,4.0,,,
 Physics of Materials,MSE 206,"D1,D2",,,4.0,7/105,,
 Materials Selection and Design,MSE 314,"F1,F2",,,3.0,Surendra C Sheth Learning T...,,
-Introduction to Quantum Materials and Devices,MSE 318,"B1,B2",,,3.0,Jayshree S Sheth Learning T...,,
+Introduction to Quantum Materials and Devices,MSE 318,"C1 , I2",,,3.0,"Jasubhai Auditorium, Jayshree S Sheth Learning T...",,
 Additive Manufacturing and 3D Printing of Materials,MSE 319,"C1,I2",,,3.0,Surendra C Sheth Learning T...,,
-Materials Processing,MSE 317,"D1,D2",,I1,4.0,"11/206,7/104",,
+Materials Processing,MSE 317,,,,4.0,,,
 Fluid Dynamics,ME 207,"E1,E2",M2,K1,5.0,7/109,"7/101,7/204",ME Lab
 Principles of Manufacturing Processes,ME 209,"F1,F2",,A2,3.0,7/209,,7/209
 Calculus of Several Variables (first half),MA 205,"F1,F2",B1,,2.0,Jasubhai Auditorium,Jasubhai Auditorium,
@@ -70,7 +70,7 @@ Computer Networks,CS 331,"G1,G2",H2,,4.0,Surendra C Sheth Learning T...,Surendra
 Engineering Electromagnetics,EE 312,"G1,G2",H2,,4.0,Jayshree S Sheth Learning T...,7/208,
 Digital Signal Processing,EE 323,"D1,D2",F1,,4.0,Jagdish Patel Learning Thea...,Jagdish Patel Learning Thea...,
 Power Electronics,EE 333,"E1,E2",C1,"I2,M1,J2,M2",4.0,Jagdish Patel Learning Thea...,Harsha Patel Learning Theatre,EE Lab
-Material Characterization Techniques,MSE 352,A1,,"L1,N1",4.0,7/210,,MSE Lab
+Material Characterization Techniques,MSE 352,"N2,P2",,"L1,N1",4.0,10/102,,MSE Lab
 Control Systems,ES 245,"D1,D2",H1,,4.0,Harsha Patel Learning Theatre,Harsha Patel Learning Theatre,
 Mechanics of Materials,ME 333,"B1,B2",J2,,3.0,7/108,"7/204,7/205",
 Heat and Mass Transfer,ME 334,"C1,C2",L1,J1,4.0,Jagdish Patel Learning Thea...,Jagdish Patel Learning Thea...,ME Lab
@@ -139,6 +139,8 @@ Analysis and Design of Marine Structures,MTE 602,"N1,N2",,,4.0,7/110,,
 Dynamics of Maritime Structures,MTE 603,"A1,A2",,,4.0,7/110,,
 Special Topics in Maritime Engineering: French Language for Maritime Engineers (second half),MTE 692-I,"G1,G2",,,2.0,7/110,,
 Industrial Control and Process Instrumentation,ES 420,"N1,N2",,"C1,F1",5.0,11/204,,EE Lab
+Semiconductor Foundry Engineering,ES 422,"L1,L2",,,4.0,7/106,,
+RFIC Design (ES 421),ES 679,"N2,P2",,"B1,D1",5.0,7/202,,EE Lab
 VLSI Design,EE 617,"D1,D2",,,4.0,7/210,,
 Physics of Transistors,EE 644,"A1,A2",,,4.0,Surendra C Sheth Learning T...,,
 Dynamic Behaviour of Electric Machines,EE 648,"C1,C2",,I2,5.0,13/124,,EE Lab
@@ -245,6 +247,7 @@ Special Topics in Cognitive Sciences: Advanced Writing for Cognitive and Brain S
 Writing (For Engineering PhD students and MTech Students),FP 602,H1,,"P1,P2",4.0,Jasubhai Auditorium,,"7/101,7/102,7/103,7/104,7/1..."
 Writing (PG Mathematics),FP 602 (MA),H1,,"P1,P2",4.0,Jayshree S Sheth Learning T...,,"7/108,7/109,7/110"
 Writing (PG Cognitive and Brain Science),FP 602 (CG),H2,,"I1,K1",4.0,Jayshree S Sheth Learning T...,,"7/201,7/207,7/210,7/108"
+Writing (PG Chemistry),FP 602 (CH),G1,,"I1,K1",4.0,7/209,,Surendra C Sheth Learning T...
 Foundational Sanskrit,HS 104,"L1,L2",J2,,4.0,7/210,7/103,
 Urdu script and poetry,HS 111,"G1,G2",H2,,4.0,7/206,13/124,
 Urdu poetry interpretation,HS 112,"F1,F2",M1,,4.0,7/105,7/101,

@@ -4,29 +4,27 @@ FP 100,Foundation Programme,0,0,0,4,"Achyut Mishra(I),Mahalakshmi Ramamurthy(I),
 ES 101 (E),Engineering Graphics,1.5,0,1.5,3,"Hari Sai Ganesh(I+L),Soumajit Dutta(L),Sameer Patel(L),S.R.Gandhi(L),Sai Praneeth(L),K.R. Jayaprakash(L)",,,,"E1
 (Jasubhai Auditorium)",,"N1,N2
 (Surendra C Sheth Learning Theatre,Jayshree S Sheth Learning Theatre,10/203,10/204,7/208,7/209,Jagdish Patel Learning Theatre,Harsha Patel Learning Theatre,10/104,10/105,11/101,11/102)",Course Plan,,,,
-ES 101 (H),Engineering Graphics,1.5,0,1.5,3,Sameer Patel(I),,,,"G1
-(7/101)",,,Course Plan,,,,
+ES 101 (H),Engineering Graphics,1.5,0,1.5,3,Sameer Patel(I),,,,"H2
+(7/108)",,,Course Plan,,,,
 MA 103 (E),Calculus of Single Variable and Linear Algebra,3,1.5,0,4,"Abhinav Jha(I+T),Sudeshna Roy(I+T)",,,,"G1,G2
-(Jasubhai Auditorium)","K1
-(7/101,7/102,7/103,7/104,7/105,7/106,7/107,7/202,7/203,7/204,7/205)",,Course Plan,,,,
+(Jasubhai Auditorium)","H1
+(7/102,7/104,7/105,7/106,7/107,7/202,7/203,7/204,7/205,7/206,7/207)",,Course Plan,,,,
 MA 103 (H),Calculus of Single Variable and Linear Algebra,3,1.5,0,4,"Abhinav Jha(I+T),Sudeshna Roy(I+T)",,,,"F1,F2
 (13/124,13/125)",,,Course Plan,,,,
 ES 112 (E),Computing,3,0,3,4,Shouvick Mondal(I+L),,,,"D1,D2
-(Jasubhai Auditorium)",,"J1,L1 (first 240 students)
-(10/104,10/105,10/203,10/204)",Course Plan,,B.Tech. ONLY,,
-ES 112 (H),Computing,3,0,3,4,Shouvick Mondal(I+L),,,,"C1,C2
-(7/101)",,"J2,M2 (remaining students)
-(10/104,10/105)",Course Plan,,B.Tech. ONLY,,
+(Jasubhai Auditorium)",,"J1,L1
+(10/104,10/105,10/203,10/204,Surendra C Sheth Learning Theatre)",Course Plan,,B.Tech. ONLY,,
+ES 112 (H),Computing,3,0,3,4,Shouvick Mondal(I+L),,,,"A2,C2
+(Harsha Patel Learning Theatre)",,,Course Plan,,B.Tech. ONLY,,
 ES 115 (E),"Design, Innovation, and Prototyping",1.5,0,3,5,"K Chelvakumar(I),Manasi Anand Kanetkar(L),Malay Dhamelia(L)",,,,"E2
-(Jasubhai Auditorium)",,"J2,M2
-(Jasubhai Auditorium)",Missing,,,,
+(Jasubhai Auditorium)",,"A1,C1,I1,K1,I2,M1,K2,L2,M2,P2
+(Makers Bhavan)",Missing,,,,
 ES 115 (H),"Design, Innovation, and Prototyping",1.5,0,3,5,"Malay Dhamelia(I+L),Manasi Anand Kanetkar(L)",,,,"E1
-(7/110)",,"I1,K1
-(7/110)",Missing,,,,
+(7/110)",,,Missing,,,,
 HS 191,Introduction to writing I,1,3,0,2,Jooyung Kim(I+T),,,,,"B1,B2
 (7/101,7/102,7/103,7/104,7/201,7/207,7/208,7/209,7/109,11/101)",,HS191_2026-27_Introduction to Writing-I_Syllabus,,,,
-BS 192,Undergraduate Science Laboratory,0,0,3,3,"Partha Pratim Roy(I+L),Chandan Kumar(T),Naveen Sisodia(L),Priyabrata Ghana(L)",,,,,,"A1,A2,H1,H2,I2,L2,M1,P1,K2,P2
-(PH Lab)",Missing,,,,
+BS 192,Undergraduate Science Laboratory,0,0,3,3,"Partha Pratim Roy(I+L),Chandan Kumar(T),Naveen Sisodia(L),Priyabrata Ghana(L)",,,,,,"I1,K1,I2,M1,K2,L2,M2,P2
+(PH Lab)",Course_Policy_Chemistry.pdf,,,,
 PE 101,Physical Education,0,0,0,0,,,,,,,,,,,,
 IN 101,Comprehensive Viva Voce,0,0,0,0,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,
@@ -68,12 +66,12 @@ MSE 206,Physics of Materials,3,0,0,4,Satyakam Kar(I),,,,"D1,D2
 (7/105)",,,Physics of Materials,,,,
 MSE 314,Materials Selection and Design,3,0,0,3,Superb Misra(I),150,,,"F1,F2
 (Surendra C Sheth Learning Theatre)",,,Missing,,,,
-MSE 318,Introduction to Quantum Materials and Devices,3,0,0,3,Anagh Bhaumik(I),150,,,"B1,B2
-(Jayshree S Sheth Learning Theatre)",,,Missing,,,,
+MSE 318,Introduction to Quantum Materials and Devices,3,0,0,3,Anagh Bhaumik(I),150,,,"C1 (Jasubhai Auditorium)
+I2 (Jayshree S Sheth Learning Theatre)
+",,,Missing,,,,
 MSE 319,Additive Manufacturing and 3D Printing of Materials,3,0,0,3,Avinash Hariharan(I),150,,,"C1,I2
 (Surendra C Sheth Learning Theatre)",,,Missing,,,,
-MSE 317,Materials Processing,2,1,1.5,4,"Emila Panda(I+T+L),Pradipta Ghosh(I+T+L)",,,,"D1,D2
-(11/206,7/104)",,I1,,,,,
+MSE 317,Materials Processing,2,1,1.5,4,"Emila Panda(I+T+L),Pradipta Ghosh(I+T+L)",,,,,,,,,,,
 ME 207,Fluid Dynamics,3,1.5,1.5,5,"Shubhangi Shamsundar Bansude(I+T),Uddipta Ghosh(T),Lokesh Malik(L)",,,,"E1,E2
 (7/109)","M2
 (7/101,7/204)","K1
@@ -254,8 +252,8 @@ IN 107,Comprehensive Viva Voce,0,0,0,0,,,,,,,,,,,,
 HS 151,Economics,3,1,0,4,"Deepak Singhania(I),Praharsh Mohanlal Patel(T)",,,,"A1,A2
 (Jasubhai Auditorium)","I2
 (Jasubhai Auditorium,7/101,7/102,7/103,7/105,7/107,7/110,7/201,7/204,7/205)",,https://drive.google.com/file/d/1rHrc62tPltvkY5TUoBjNl3fV_2tuz-SC/view?usp=sharing,,,,
-MSE 352,Material Characterization Techniques,1.5,0,3,4,Emila Panda(I+L),,,,"A1
-(7/210)",,"L1,N1
+MSE 352,Material Characterization Techniques,1.5,0,3,4,Emila Panda(I+L),,,,"N2,P2
+(10/102)",,"L1,N1
 (MSE Lab)",Missing,,,,
 ,Discipline Elective #1,-,-,-,4,,,,,,,,,,,,
 ,Discipline Elective #2,-,-,-,4,,,,,,,,,,,,
@@ -298,8 +296,8 @@ MSE 313,"Polymers, Ceramics and Composites",3,0,1.5,4,Abhijit Mishra(I+L),,,,"E1
 MSE 304,Principles of Metal Extraction and Refining,3,0,0,4,S.P. Mehrotra(I),,,,"J1,J2
 (11/204)",,,Missing,,,,
 MSE 317,Materials Processing,2,1,1.5,4,"Emila Panda(I+T+L),Pradipta Ghosh(I+T+L)",,,,"D1,D2
-(11/206,7/104)","I2
-(11/206,7/104)","I1
+(11/206)","I2
+(11/206)","I1
 (MSE Lab)",Missing,,,,
 HS XXX,HSS Elective,,,,,,,,,,,,,,,,
 IN 105,Comprehensive Viva Voce,0,0,0,0,,,,,,,,,,,,
@@ -429,7 +427,7 @@ CS 613,Natural Language Processing,3,0,0,4,Mayank Singh(I),,,,"F1,F2
 CS 614,Advanced Algorithms,3,0,0,4,Arjun Arul(I),,,,"E1,E2
 (11/102)",,,,,,,
 CS 619,CS Theory Toolkit,3,0,0,4,Anirban Dasgupta(I),,,,"L1,L2
-(13/124)",,,Missing,,,,
+(13/124)",,,https://docs.google.com/document/d/1DHyg6VoBb9hcpkJw1rTl6zxPpNmRReedm6YgFTSNZHA/edit?usp=drivesdk,,,,
 CS 620,Incentives and Machine learning ,3,0,0,4,Manisha Padala(I),,,,"K1,K2
 (13/124)",,,Course website,,,,
 ES 666,Computer Vision,3,0,0,4,Shanmuganathan Raman(I),,,,"C1,C2
@@ -459,6 +457,11 @@ Additional Courses: Electrical Engineering																	,,,,,,,,,,,,,,,,,
 ES 420,Industrial Control and Process Instrumentation,3,0,3,5,S. Rajendran(I+L),15,,,"N1,N2
 (11/204)",,"C1,F1
 (EE Lab)",Course plan,,,,
+ES 422,Semiconductor Foundry Engineering,3,0,0,4,Amitabh Jain(I),25,,,"L1,L2
+(7/106)",,,Missing,,,,
+ES 679,RFIC Design (ES 421),3,0,3,5,"Kamla Prasan Ray(I),Tarun Kumar Agarwal(L)",25,,,"N2,P2
+(7/202)",,"B1,D1
+(EE Lab)",Missing,,,,
 EE 617,VLSI Design,3,0,0,4,Joycee Mekie(I),,,,"D1,D2
 (7/210)",,,Course plan,,,,
 EE 644,Physics of Transistors,3,0,0,4,Sandip Lashkare(I),,,,"A1,A2
@@ -520,8 +523,8 @@ ME 648,Mathematical Tools for Mechanical Engineers,3,1,0,4,Dilip S. Sundaram(I+T
 (7/210)",,Missing,,,,
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Materials Engineering																	,,,,,,,,,,,,,,,,,
-MSE 352,Material Characterization Techniques,1.5,0,3,4,Emila Panda(I+L),,,,"A2
-(7/210)",,"L1,N1
+MSE 352,Material Characterization Techniques,1.5,0,3,4,Emila Panda(I+L),,,,"N2,P2
+(10/102)",,"L1,N1
 (MSE Lab)",Missing,,,,
 MSE 604,Deformation Behaviour of Materials,3,0,0,4,Pradipta Ghosh(I),,,,"K1,K2
 (7/206)",,,Missing,,,,
@@ -665,7 +668,7 @@ EH 605,Modeling of Earth System and Sustainability,3,0,0,4,R.N. Singh(I),50,,,"G
 EH 401,Archaeology: Theory and Methods,3,0,0,4,Sharada V Channarayapatna(I),,,,"M1,M2
 (7/102)",,,course contents and policies,,,,
 EH 635,Archaeology: Theory and Methods,3,0,0,4,Sharada V Channarayapatna(I),,,,"M1,M2
-(7/102)",,,Missing,,,,
+(7/102)",,,course contents and policies,,,,
 EH 601,Earth Surface Processes in the Anthropocene,3,0,1.5,4,Vikrant Jain(I+L),,,,"F1,F2
 (7/102)",,"J1
 (EH Lab)",Missing,,,,BS
@@ -730,6 +733,9 @@ FP 602 (MA),Writing (PG Mathematics),1,0,3,4,Indranath Sengupta(I+L),,,,"H1
 FP 602 (CG),Writing (PG Cognitive and Brain Science),1,0,3,4,Leslee Lazar(I+L),,,,"H2
 (Jayshree S Sheth Learning Theatre)",,"I1,K1
 (7/201,7/207,7/210,7/108)",Missing,,,,
+FP 602 (CH),Writing (PG Chemistry),1.5,0,3,4,"Partha Pratim Roy(I),Manisha Samanta(L)",,,,"G1
+(7/209)",,"I1,K1
+(Surendra C Sheth Learning Theatre)",Missing,,,,
 HS 104,Foundational Sanskrit,3,1,0,4,Mana A Shah(I+T),,,,"L1,L2
 (7/210)","J2
 (7/103)",,https://docs.google.com/document/d/1nE3ISsoIzfwDzc-OcSw82HHaf_h8qIOMmaKJBaQhl4Y/edit?usp=sharing,,,,
