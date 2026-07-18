@@ -4,23 +4,23 @@ FP 100,Foundation Programme,0,0,0,4,"Achyut Mishra(I),Mahalakshmi Ramamurthy(I),
 ES 101 (E),Engineering Graphics,1.5,0,1.5,3,"Hari Sai Ganesh(I+L),Soumajit Dutta(L),Sameer Patel(L),S.R.Gandhi(L),Sai Praneeth(L),K.R. Jayaprakash(L)",,,,"E1
 (Jasubhai Auditorium)",,"N1,N2
 (Surendra C Sheth Learning Theatre,Jayshree S Sheth Learning Theatre,10/203,10/204,7/208,7/209,Jagdish Patel Learning Theatre,Harsha Patel Learning Theatre,10/104,10/105,11/101,11/102)",Course Plan,,,,
-ES 101 (H),Engineering Graphics,1.5,0,1.5,3,Sameer Patel(I),,,,"H2
-(7/108)",,,Course Plan,,,,
+ES 101 (H),Engineering Graphics,1.5,0,1.5,3,Sameer Patel(I),,,,"E1
+(11/101)",,,Course Plan,,,,
 MA 103 (E),Calculus of Single Variable and Linear Algebra,3,1.5,0,4,"Abhinav Jha(I+T),Sudeshna Roy(I+T)",,,,"G1,G2
 (Jasubhai Auditorium)","H1
 (7/102,7/104,7/105,7/106,7/107,7/202,7/203,7/204,7/205,7/206,7/207)",,Course Plan,,,,
 MA 103 (H),Calculus of Single Variable and Linear Algebra,3,1.5,0,4,"Abhinav Jha(I+T),Sudeshna Roy(I+T)",,,,"F1,F2
-(13/124,13/125)",,,Course Plan,,,,
+(7/109,7/203)",,,Course Plan,,,,
 ES 112 (E),Computing,3,0,3,4,Shouvick Mondal(I+L),,,,"D1,D2
 (Jasubhai Auditorium)",,"J1,L1
 (10/104,10/105,10/203,10/204,Surendra C Sheth Learning Theatre)",Course Plan,,B.Tech. ONLY,,
 ES 112 (H),Computing,3,0,3,4,Shouvick Mondal(I+L),,,,"A2,C2
 (Harsha Patel Learning Theatre)",,,Course Plan,,B.Tech. ONLY,,
-ES 115 (E),"Design, Innovation, and Prototyping",1.5,0,3,5,"K Chelvakumar(I),Manasi Anand Kanetkar(L),Malay Dhamelia(L)",,,,"E2
+ES 115 (E),"Design, Innovation, and Prototyping",1.5,0,3,5,"K Chelvakumar(I+L),Manasi Anand Kanetkar(I+L),Malay Dhamelia(I+L)",,,,"E2
 (Jasubhai Auditorium)",,"A1,C1,I1,K1,I2,M1,K2,L2,M2,P2
-(Makers Bhavan)",Missing,,,,
-ES 115 (H),"Design, Innovation, and Prototyping",1.5,0,3,5,"Malay Dhamelia(I+L),Manasi Anand Kanetkar(L)",,,,"E1
-(7/110)",,,Missing,,,,
+(Makers' Bhavan, Tinkerers' Lab, etc.)",Missing,,,,
+ES 115 (H),"Design, Innovation, and Prototyping",1.5,0,3,5,"K Chelvakumar(I+L),Manasi Anand Kanetkar(I+L),Malay Dhamelia(I+L)",,,,"H2
+(7/209)",,,Missing,,,,
 HS 191,Introduction to writing I,1,3,0,2,Jooyung Kim(I+T),,,,,"B1,B2
 (7/101,7/102,7/103,7/104,7/201,7/207,7/208,7/209,7/109,11/101)",,HS191_2026-27_Introduction to Writing-I_Syllabus,,,,
 BS 192,Undergraduate Science Laboratory,0,0,3,3,"Partha Pratim Roy(I+L),Chandan Kumar(T),Naveen Sisodia(L),Priyabrata Ghana(L)",,,,,,"I1,K1,I2,M1,K2,L2,M2,P2
@@ -109,7 +109,7 @@ CE 203,Geospatial Engineering,1.5,0,3,3,Vimal Mishra(I+L),,,,"E2
 EE 223,Electrical Machines,2,1,1.5,4,Ragavan K.(I+T+L),,,,"M1 (Jasubhai Auditorium)
 M2 (Jayshree S Sheth Learning Theatre)",,"I1,H1,J1,N1
 (EE Lab)",Electrical Machines,,,,
-MSE 204,Transport Phenomena in Materials Engineering,3,1,0,4,Amit Arora(I+T),,,,"G1,G2
+MSE 204,Transport Phenomena in Materials Engineering,3,1,0,4,Amit Arora(I+T),,,,"J1,K2
 (Harsha Patel Learning Theatre)","H2
 (Harsha Patel Learning Theatre)",,Missing,,,,
 ME 206,Statics and Dynamics,2,1,1.5,4,Harish J Palanthandalam-Madapusi(I+T),,,,"G1,G2
@@ -709,7 +709,7 @@ CG 504,Research Methods in Cognitive Science,1.5,0,1.5,4,Mahalakshmi Ramamurthy(
 CG 505,Fundamental Neuroscience,3,0,0,4,Pratik Mutha(I),,,,"D1,D2
 (7/208)",,,Missing,,,,BS
 CG 606,Philosophy of Mind,3,0,0,4,Jaison A. Manjaly(I),,,,"C1,C2
-(Jayshree S Sheth Learning Theatre)",,,Missing,,,,BS
+(Jayshree S Sheth Learning Theatre)",,,Course Plan,,,,BS
 CG 607,Emotion and Cognition,3,0,1,4,Meera Mary Sunny(I+T),,,,"L1,L2
 (7/110)",,"H1
 (7/110)",Missing,,,,BS

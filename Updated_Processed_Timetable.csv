@@ -1,13 +1,13 @@
 Course Name,Course Number,Lecture Time,Tutorial Time,Lab Time,Credit,Lecture Location,Tutorial Location,Lab Location
 Foundation Programme,FP 100,,,,4.0,,,
 Engineering Graphics,ES 101 (E),E1,,"N1,N2",3.0,Jasubhai Auditorium,,Surendra C Sheth Learning T...
-Engineering Graphics,ES 101 (H),H2,,,3.0,7/108,,
+Engineering Graphics,ES 101 (H),E1,,,3.0,11/101,,
 Calculus of Single Variable and Linear Algebra,MA 103 (E),"G1,G2",H1,,4.0,Jasubhai Auditorium,"7/102,7/104,7/105,7/106,7/1...",
-Calculus of Single Variable and Linear Algebra,MA 103 (H),"F1,F2",,,4.0,"13/124,13/125",,
+Calculus of Single Variable and Linear Algebra,MA 103 (H),"F1,F2",,,4.0,"7/109,7/203",,
 Computing,ES 112 (E),"D1,D2",,"J1,L1",4.0,Jasubhai Auditorium,,"10/104,10/105,10/203,10/204..."
 Computing,ES 112 (H),"A2,C2",,,4.0,Harsha Patel Learning Theatre,,
-"Design, Innovation, and Prototyping",ES 115 (E),E2,,"A1,C1,I1,K1,I2,M1,K2,L2,M2,P2",5.0,Jasubhai Auditorium,,Makers Bhavan
-"Design, Innovation, and Prototyping",ES 115 (H),E1,,,5.0,7/110,,
+"Design, Innovation, and Prototyping",ES 115 (E),E2,,"A1,C1,I1,K1,I2,M1,K2,L2,M2,P2",5.0,Jasubhai Auditorium,,"Makers' Bhavan, Tinkerers' ..."
+"Design, Innovation, and Prototyping",ES 115 (H),H2,,,5.0,7/209,,
 Introduction to writing I,HS 191,,"B1,B2",,2.0,,"7/101,7/102,7/103,7/104,7/2...",
 Undergraduate Science Laboratory,BS 192,,,"I1,K1,I2,M1,K2,L2,M2,P2",3.0,,,PH Lab
 Physical Education,PE 101,,,,0.0,,,
@@ -41,7 +41,7 @@ Data Structures and Algorithms I,ES 242,"G1,G2",,I1,4.0,10/103,,"10/104,10/105,1
 Mechanics of Solids,ES 221,"G1,G2",A1,,4.0,7/210,7/101,
 Geospatial Engineering,CE 203,E2,,"J1,L1",3.0,7/101,,CE Lab
 Electrical Machines,EE 223,"M1 , M2",,"I1,H1,J1,N1",4.0,"Jasubhai Auditorium, Jayshree S Sheth Learning T...",,EE Lab
-Transport Phenomena in Materials Engineering,MSE 204,"G1,G2",H2,,4.0,Harsha Patel Learning Theatre,Harsha Patel Learning Theatre,
+Transport Phenomena in Materials Engineering,MSE 204,"J1,K2",H2,,4.0,Harsha Patel Learning Theatre,Harsha Patel Learning Theatre,
 Statics and Dynamics,ME 206,"G1,G2",,I1,4.0,Jagdish Patel Learning Thea...,,ME Lab
 Analog & Mixed Signal Circuits,EE 322,"C2,B2",,"L2,K2",4.0,Surendra C Sheth Learning T...,,EE Lab
 Integrated Circuit Fabrication Lab,ES 339,,,"I1,K1,K2,L2",2.0,,,5/202
