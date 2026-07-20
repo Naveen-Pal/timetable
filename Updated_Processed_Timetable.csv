@@ -20,12 +20,12 @@ Software Tools & Techniques for AI,CS 203,K2,,"I2,M1",4.0,Surendra C Sheth Learn
 General Education II,GE 201,"P1,P2",,,2.0,Jasubhai Auditorium,,
 Introduction to Philosophy,HS 221,"N1,N2",,,4.0,Jasubhai Auditorium,,
 Introduction to Quantum Physics,PH 202,"B1,B2",H2,,4.0,7/206,"13/125,11/204",
-Solid State Physics,PH 203,"M1,M2",G1,,4.0,7/110,7/204,
+Solid State Physics,PH 203,"M1,M2",J1,,4.0,7/110,7/205,
 Materials for the Future,ES 118,C1,,C2,3.0,Jagdish Patel Learning Thea...,,CL Lab
 Digital Systems,ES 204,"E1,E2",L1,K1,4.0,10/103,10/103,"10/104,10/105,10/203,10/204"
 Biology for Engineers,ES 243,,,,4.0,,,
 Physics of Materials,MSE 206,"D1,D2",,,4.0,7/105,,
-Materials Selection and Design,MSE 314,"F1,F2",,,3.0,Surendra C Sheth Learning T...,,
+Materials Selection and Design,MSE 314,"C2 , I2",,,3.0,"Jasubhai Auditorium, Jagdish Patel Learning Thea...",,
 Introduction to Quantum Materials and Devices,MSE 318,"C1 , I2",,,3.0,"Jasubhai Auditorium, Jayshree S Sheth Learning T...",,
 Additive Manufacturing and 3D Printing of Materials,MSE 319,"C1,I2",,,3.0,Surendra C Sheth Learning T...,,
 Materials Processing,MSE 317,,,,4.0,,,
@@ -72,7 +72,7 @@ Digital Signal Processing,EE 323,"D1,D2",F1,,4.0,Jagdish Patel Learning Thea...,
 Power Electronics,EE 333,"E1,E2",C1,"I2,M1,J2,M2",4.0,Jagdish Patel Learning Thea...,Harsha Patel Learning Theatre,EE Lab
 Material Characterization Techniques,MSE 352,"N2,P2",,"L1,N1",4.0,10/102,,MSE Lab
 Control Systems,ES 245,"D1,D2",H1,,4.0,Harsha Patel Learning Theatre,Harsha Patel Learning Theatre,
-Mechanics of Materials,ME 333,"B1,B2",J2,,3.0,7/108,"7/204,7/205",
+Mechanics of Materials,ME 333,"H2,F2",J2,,3.0,7/108,"7/204,7/205",
 Heat and Mass Transfer,ME 334,"C1,C2",L1,J1,4.0,Jagdish Patel Learning Thea...,Jagdish Patel Learning Thea...,ME Lab
 Introduction to Manufacturing Systems and Metrology ,ME 362,"E1,E2",,L2,3.0,Harsha Patel Learning Theatre,,Harsha Patel Learning Theatre
 "Polymers, Ceramics and Composites",MSE 313,"E1,E2",,K1,4.0,7/105,,MSE Lab
@@ -190,13 +190,13 @@ Basic Algebra,MA 501,"E1,E2",B1,,4.0,7/107,7/202,
 Linear Algebra,MA 504 (A),"D1,D2",H2,,4.0,7/109,10/102,
 Real Analysis of One Variable ,MA 509 (A),"C1,C2",B2,,4.0,10/102,10/102,
 Topology,MA 510,"G1,G2",A1,,4.0,11/102,7/108,
-AI and Mathematics,MA 513,"L1,L2",H1,,4.0,7/104,7/103,
+AI and Mathematics,MA 513,"N1,N2",H1,,4.0,7/210,7/103,
 Commutative Algebra,MA 605,"J1,J2",I2,,4.0,7/106,7/106,
 Number Theory,MA 623,"L1,L2",K2,,4.0,7/202,7/202,
 Partial Differential Equations,MA 624,"F1,F2",A2,,4.0,7/107,7/102,
 Functional Analysis,MA 626,"N1,N2",I1,,4.0,7/102,7/102,
 Algebraic Topology,MA 627,"M1,M2",K1,,4.0,11/206,11/101,
-Measure Theory & Probability,MA 630 (A),"B1,A1",I1,,4.0,11/102,11/102,
+Measure Theory & Probability,MA 630 (A),"B1,A1",H2,,4.0,11/102,11/102,
 Integral Geometry in Imaging Sciences,MA 640,"B1,B2",,,4.0,13/125,,
 Fourier Analysis on LCA Groups (first half),MA 642,"J1,J2",,,2.0,7/207,,
 Introduction to Riemannian Geometry,MA 636,"L1,L2",,,4.0,7/103,,
