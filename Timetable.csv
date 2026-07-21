@@ -81,7 +81,7 @@ ME 209,Principles of Manufacturing Processes,2,0,1.5,3,Rakesh Singhai(I+L),,,,"F
 (7/209)",Missing,,,,
 MA 205,Calculus of Several Variables (first half),3,1.5,0,2,Tanya Kaushal Srivastava(I+T),,,,"F1,F2
 (Jasubhai Auditorium)","B1
-(Jasubhai Auditorium)",,Missing,,Maths Basket,,BS
+(Jasubhai Auditorium)",,Course Plan,,Maths Basket,,BS
 MA 206,Introduction to Complex Analysis (second half),3,1.5,0,2,Projesh Nath Choudhury(I+T),,,,"F1,F2
 (7/205)","B1
 (7/205)",,Course Plan,,Maths Basket,,BS
@@ -461,7 +461,7 @@ ES 422,Semiconductor Foundry Engineering,3,0,0,4,Amitabh Jain(I),25,,,"L1,L2
 (7/106)",,,Missing,,,,
 ES 679,RFIC Design (ES 421),3,0,3,5,"Kamla Prasan Ray(I),Tarun Kumar Agarwal(L)",25,,,"N2,P2
 (7/202)",,"B1,D1
-(EE Lab)",Missing,,,,
+(EE Lab)",Course plan,,,,
 EE 617,VLSI Design,3,0,0,4,Joycee Mekie(I),,,,"D1,D2
 (7/210)",,,Course plan,,,,
 EE 644,Physics of Transistors,3,0,0,4,Sandip Lashkare(I),,,,"A1,A2
@@ -538,6 +538,8 @@ MSE 636,AI for Materials Engineering,3,0,1.5,4,Raghavan Ranganathan(I+L),,,,"E1,
 (MSE Lab)",Missing,,,,
 MSE 624,Thermo-mechanical Processing,3,0,0,4,Amit Arora(I),,,,"M1,M2
 (7/104)",,,Missing,,,,
+MSE 631,Thermodynamics of Materials,3,0,0,4,Abhay Raj Singh Gautam(I),,,,"D1,D2
+(7/104)",,,Missing,,,,
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Chemistry																	,,,,,,,,,,,,,,,,,
 CH 302,Electrochemical Science and Engineering,3,1,0,4,Sudhanshu Sharma(I+T),,,,"I1,I2
@@ -602,8 +604,8 @@ MA 623,Number Theory,3,1.5,0,4,Atul Abhay Dixit(I+T),,,,"L1,L2
 MA 624,Partial Differential Equations,3,1.5,0,4,Jagmohan Tyagi(I+T),,,,"F1,F2
 (7/107)","A2
 (7/102)",,Course Plan,,,,
-MA 626,Functional Analysis,3,1.5,0,4,Rohit Kumar Mishra(I+T),,,,"N1,N2
-(7/102)","I1
+MA 626,Functional Analysis,3,1.5,0,4,Rohit Kumar Mishra(I+T),,,,"D1,D2
+(7/203)","I1
 (7/102)",,Course Plan,,,,
 MA 627,Algebraic Topology,3,1.5,0,4,Arnab Saha(I+T),,,,"M1,M2
 (11/206)","K1
@@ -655,7 +657,7 @@ PH 646,Advanced Statistical Physics,3,0,0,4,R.R. Puri(I),,,,"E1,E2
 PH 648,Semiconductor Optoelectronics,3,0,0,4,Gopinadhan Kalon(I),,,,"M1,M2
 (7/206)",,,PH 648-SemiconductorOptoelectronics.pdf,,,,BS
 PH 651,Nanomagnetism and Spintronics,3,0,0,4,Naveen Sisodia(I),,,,"J1,J2
-(7/201)",,,Missing,,,,
+(7/201)",,,coursepolicy_PH651_nanomagnetism_and_spintronics_sem1_2627.pdf,,,,
 PH 609,Introduction to Einstein’s Theory of General Relativity,3,1,0,4,"Urjit Yajnik(I+T),Pinaki Banerjee(I+T)",,,,"M1,M2
 (11/205)","J1
 (11/205)",,course plan,,,,BS
@@ -688,7 +690,7 @@ EH 625,Environmental Geosciences,3,0,0,4,Achyut Mishra(I),,,,"P1,P2
 EH 626,Reservoir Modelling and Simulation,3,0,0,4,Achyut Mishra(I),,,,"M1,M2
 (7/201)",,,Course details,,,,
 EH 627,Anthropocene: Human Impact on the Earth,3,0,0,4,Vikrant Jain(I),,,,"N1,N2
-(13/125)",,,Missing,,,,
+(13/125)",,,https://drive.google.com/file/d/1Ako_ydenPXNgD0Gbye7kRTlY74I0OZ-9/view?usp=drive_link,,,,
 EH 638,Rock Mechanics and Rock Engineering,3,0,0,4,Manab Mukherjee(I),,,,"J1,J2
 (7/206)",,,Course Plan,,,,
 EH 639,Statistics for Earth Sciences,1.5,0,3,3,Utsav Mannu(I),,,,"J1
@@ -718,7 +720,7 @@ CG 612,Neural Plasticity,3,0,0,4,Leslee Lazar(I),,,,"D1,D2
 ES 673,NeuroAI: Neuroscience & Artificial Intelligence ,3,0,0,4,Vaibhav Tripathi(I),,,,"E1,E2
 (7/206)",,,Course Plan Final,,,,
 CG 691-V,Special Topics in Cognitive Science: The Multilingual Brain,3,0,0,4,Jooyung Kim(I),,,,"C1,C2
-(7/201)",,,Missing,,,,
+(7/201)",,,CG691-V_The Multilingual Brain_2026-27_SEM1_Syllabus_Kim,,,,
 CG 691-VIII,Special Topics in Cognitive Sciences: Advanced Writing for Cognitive and Brain Sciences,1,0,3,4,Leslee Lazar(I+T),,,,"G1
 (7/110)",,"I1,K1
 (7/201)",https://iitgnacin-my.sharepoint.com/:b:/g/personal/leslee_lazar_iitgn_ac_in/IQBn8rw_FuGwSrdyBK18zvPMAe5OkrciqywpkZxGzugMRpQ?e=wNzZVR,,,,
