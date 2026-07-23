@@ -76,7 +76,7 @@ ME 207,Fluid Dynamics,3,1.5,1.5,5,"Shubhangi Shamsundar Bansude(I+T),Uddipta Gho
 (7/109)","M2
 (7/101,7/204)","K1
 (ME Lab)",Course Plan ,,,,
-ME 209,Principles of Manufacturing Processes,2,0,1.5,3,Rakesh Singhai(I+L),,,,"F1,F2
+ME 209,Principles of Manufacturing Processes,2,0,1.5,3,Rakesh Singhai(I+L),,,,"D1,D2
 (7/209)",,"A2
 (7/209)",Missing,,,,
 MA 205,Calculus of Several Variables (first half),3,1.5,0,2,Tanya Kaushal Srivastava(I+T),,,,"F1,F2
@@ -131,7 +131,7 @@ HS 151,Economics,3,1,0,4,"Deepak Singhania(I),Praharsh Mohanlal Patel(T)",,,,"A1
 CS 328,Introduction to Data Science,3,1,0,4,Nirmal Kumar Sancheti(I+T),,,,"N1,N2
 (10/103)","L2
 (10/103)",,CS328 Introduction to Data Science,,,,
-CS 329,Foundations of AI: Multiagent Systems,3,0,0,4,Manisha Padala(I),,,,"C1,C2
+CS 329,Foundations of AI: Multiagent Systems,3,0,0,4,Manisha Padala(I),,,,"B1,B2
 (10/103)",,,Course Website,,,,
 ES 678,Machine Learning (ES 335),3,1.5,0,4,"Udit Bhatia(I+T),Krishna Prasad Miyapuram(T)",,,,"I1,I2
 (10/103)","P2
@@ -184,7 +184,7 @@ CE 312,Design of Steel Structures,3,1,0,4,Gaurav(I+T),,,,"D1,D2
 (7/210)",,Missing,,,,
 CE 310,Hydrology and Hydraulics,3,0,1.5,4,Pranab Kumar Mohapatra(I+L),,,,"C1,C2
 (7/204)",,"J1
-(7/204)",Missing,,,,
+(7/204)",Lesson Plan,,,,
 CE 404,Transportation Engineering,3,0,0,4,Sushobhan Sen(I),,,,"F1,F2
 (7/204)",,,CE 404 2026-27 Sem I Syllabus.docx,,,,
 HS XXX,HSS Elective,3,0,0,4,,,,,,,,,,,,
@@ -209,7 +209,7 @@ CS 330,Operating Systems,3,0,1.5,4,Balagopal Komarath(I+L),,,,"E1,E2
 CS 331,Computer Networks,3,1.5,0,4,Sameer G Kulkarni(I+T),,,,"G1,G2
 (Surendra C Sheth Learning Theatre)","H2
 (Surendra C Sheth Learning Theatre)",,Course Plan,,,,
-CS 329,Foundations of AI: Multiagent Systems,3,0,0,4,Manisha Padala(I),,,,"C1,C2
+CS 329,Foundations of AI: Multiagent Systems,3,0,0,4,Manisha Padala(I),,,,"B1,B2
 (10/103)",,,Course Website,,,,
 HS 3XX,HSS Elective,,,,,,,,,,,,,,,,
 ,BS Elective,,,,,,,,,,,,,,,,
@@ -227,7 +227,7 @@ HS 151,Economics,3,1,0,4,"Deepak Singhania(I),Praharsh Mohanlal Patel(T)",,,,"A1
 (Jasubhai Auditorium,7/101,7/102,7/103,7/105,7/107,7/110,7/201,7/204,7/205)",,https://drive.google.com/file/d/1rHrc62tPltvkY5TUoBjNl3fV_2tuz-SC/view?usp=sharing,,,,
 EE 312,Engineering Electromagnetics,3,1,0,4,Ravi Hedge(I+T),,,,"G1,G2
 (Jayshree S Sheth Learning Theatre)","H2
-(7/208)",,Missing,,,,
+(7/208)",,https://docs.google.com/document/d/1Mitg2tScGQkx5Uf_YOHr7_RVZp7UcnQsSYWoLQXkq0I/edit?usp=drivesdk,,,,
 EE 322,Analog & Mixed Signal Circuits,2,1,1.5,4,"Madhav Kiritkumar Pathak(I+T+L),Dinesh Kumar Sharma(T+L)",,,,"C2,B2
 (Surendra C Sheth Learning Theatre)",,"L2,K2
 (EE Lab)",Course Plan,,,,
@@ -238,6 +238,8 @@ EE 333,Power Electronics,2,1,1.5,4,Pallavi Bharadwaj(I+T+L),,,,"E1,E2
 (Jagdish Patel Learning Theatre)","C1
 (Harsha Patel Learning Theatre)","I2,M1,J2,M2
 (EE Lab)",Course Plan,,,,
+ES 339,Integrated Circuit Fabrication Lab,0,0,3,2,"Sandip Lashkare(L),Anagh Bhaumik(L)",,,,,,"I1,K1,K2,L2
+(5/202)",Course Plan,,,,
 HS XXX,HSS Elective,3,0,0,4,,,,,,,,,,,,
 IN 105,Comprehensive Viva Voce,0,0,0,0,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,
@@ -433,7 +435,7 @@ CS 619,CS Theory Toolkit,3,0,0,4,Anirban Dasgupta(I),,,,"L1,L2
 CS 620,Incentives and Machine learning ,3,0,0,4,Manisha Padala(I),,,,"K1,K2
 (13/124)",,,Course website,,,,
 ES 666,Computer Vision,3,0,0,4,Shanmuganathan Raman(I),,,,"C1,C2
-(11/101)",,,https://shanmugaiit.github.io/es666.html,,,,
+(10/103)",,,https://shanmugaiit.github.io/es666.html,,,,
 ES 667,Deep Learning,3,0,0,4,Nipun Batra(I),,,,"E1,E2
 (Jayshree S Sheth Learning Theatre)",,,Course webpage,,,,
 CS 691-XVII,Special Topics in Computer Science: Combinatorial and Computational Aspects of Games,3,0,0,4,,,,,,,,Combinatorial Game Theory Course Plan,,,,
@@ -465,7 +467,7 @@ ES 679,RFIC Design (ES 421),3,0,3,5,"Kamla Prasan Ray(I),Tarun Kumar Agarwal(L)"
 (7/202)",,"B1,D1
 (EE Lab)",Course plan,,,,
 EE 617,VLSI Design,3,0,0,4,Joycee Mekie(I),,,,"D1,D2
-(7/210)",,,Course plan,,,,
+(Surendra C Sheth Learning Theatre)",,,Course plan,,,,
 EE 644,Physics of Transistors,3,0,0,4,Sandip Lashkare(I),,,,"A1,A2
 (Surendra C Sheth Learning Theatre)",,,Course Plan,,,,
 EE 648,Dynamic Behaviour of Electric Machines,3,0,1.5,5,Ragavan K.(I+L),,,,"C1,C2
@@ -482,15 +484,15 @@ ES 626,Microfabrication and Semiconductor Processes,3,0,0,4,"Jhuma Saha(I),Nihar
 EE 651,CMOS Analog IC Design,3,0,0,4,Tarun Kumar Agarwal(I),,,,"G1,G2
 (Harsha Patel Learning Theatre)",,,Course Plan,,,,
 ES 657,Biomedical Ultrasound,3,0,0,4,Himanshu Shekhar(I),,,,"J1,J2
-(7/210)",,,Missing,,,,
+(7/210)",,,Course Plan,,,,
 EE 659,Smart Grid,3,0,0,4,Naran M Pindoriya(I),,,,"G1,G2
-(13/124)",,,Missing,,,,
+(13/124)",,,Course plan,,,,
 EE 663,Advanced Wireless Communications,3,0,0,4,Raghunandan M. Rao(I),,,,"L1,L2
 (13/125)",,,Missing,,,,
 EE 664,High Frequency Engineering,3,0,0,4,Kamla Prasan Ray(I),,,,"K1,K2
 (13/125)",,,course Plan,,,,BS
 ES 666,Computer Vision,3,0,0,4,Shanmuganathan Raman(I),,,,"C1,C2
-(11/101)",,,https://shanmugaiit.github.io/es666.html,,,,
+(10/103)",,,https://shanmugaiit.github.io/es666.html,,,,
 ES 668,5G and Beyond,3,0,0,4,"Ravi Hegde(I), Sameer Kulkarni(I)",,,,"M1,M2
 (11/101)",,,Course Plan,,,,
 ES 675,Photonics – Principles and Applications,3,0,0,4,Arup Lal Chakraborty(I),,,,"M1,M2
@@ -522,7 +524,7 @@ ES 646,Elastodynamics and Vibrations,3,0,0,4,K.R. Jayaprakash(I),,,,"G1,G2
 (13/125)",,,Course plan,,,,
 ME 648,Mathematical Tools for Mechanical Engineers,3,1,0,4,Dilip S. Sundaram(I+T),,,,"C1,C2
 (7/210)","H2
-(7/210)",,Missing,,,,
+(7/210)",,Course Plan,,,,
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Materials Engineering																	,,,,,,,,,,,,,,,,,
 MSE 352,Material Characterization Techniques,1.5,0,3,4,Emila Panda(I+L),,,,"N2,P2
@@ -730,7 +732,7 @@ CG 691-VIII,Special Topics in Cognitive Sciences: Advanced Writing for Cognitive
 "Additional Courses HSS, MS, Design, IN",,,,,,,,,,,,,,,,,
 FP 602,Writing (For Engineering PhD students and MTech Students),1,0,3,4,Sharmita Lahiri(I+L),,,,"H1
 (Jasubhai Auditorium)",,"P1,P2
-(7/101,7/102,7/103,7/104,7/105,7/204,7/205,7/206)",Missing,,,,
+(7/101,7/102,7/103,7/104,7/105,7/204,7/205,7/206)",https://drive.google.com/file/d/1CA1z_AAB4S7DtStNdOVW2gCOzdfAi1E1/view?usp=sharing,,,,
 FP 602 (MA),Writing (PG Mathematics),1,0,3,4,Indranath Sengupta(I+L),,,,"H1
 (Jayshree S Sheth Learning Theatre)",,"P1,P2
 (7/108,7/109,7/110)",Missing,,,,
@@ -787,7 +789,7 @@ HS 523,Quantitative Research Methods in Social Sciences,3,1,0,4,Praharsh Mohanla
 (7/202)","A1
 (7/102)",,Missing,,,,
 HS 524,Qualitative Research Methods,3,0,0,4,Ambika Aiyadurai(I),,,,"M1,M2
-(10/103)",,,Missing,,,,
+(10/103)",,,https://drive.google.com/file/d/1TfdWZS0PBr0eLMgLXqznxEMHsml2XuKO/view?usp=drive_link,,,,
 HS 526,"Education, Technology and Society",3,0,0,4,Aditi Kothiyal(I),,,,"J1,J2
 (7/102)",,,https://drive.google.com/file/d/177KoxxgHJtDs3c5q9O0fdS-yg3TPBE8W/view?usp=sharing,,,,
 HS 610,A Critical Journey Through Select Thoughts and Theories,3,0,0,6,Arnapurna Rath(I),,,,"D1,D2
