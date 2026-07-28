@@ -23,11 +23,20 @@ ES 115 (H),"Design, Innovation, and Prototyping",1.5,0,3,5,"K Chelvakumar(I+L),M
 (7/209)",,,,,,,
 HS 191,Introduction to writing I,1,3,0,2,Jooyung Kim(I+T),,,,,"B1,B2
 (7/101,7/102,7/103,7/104,7/201,7/207,7/208,7/209,7/109,11/101)",,HS191_2026-27_Introduction to Writing-I_Syllabus,,,,
-BS 192,Undergraduate Science Laboratory,0,0,3,3,"Partha Pratim Roy(I+L),Chandan Kumar(T),Naveen Sisodia(L),Priyabrata Ghana(L)",,,,,,"I1,K1,I2,M1,K2,L2,M2,P2
+BS 192,Undergraduate Science Laboratory,0,0,3,3,"Partha Pratim Roy(I+L),Priya Tiwari(T),Naveen Sisodia(L),Priyabrata Ghana(L)",,,,,,"I1,K1,I2,M1,K2,L2,M2,P2
 (PH Lab)",Course_Policy_Chemistry_Physics.pdf,,,,
 PE 101,Physical Education,0,0,0,0,,,,,,,,,,,,
 IN 101,Comprehensive Viva Voce,0,0,0,0,,,,,,,,,,,,
-,Preparatory Courses,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Preparatory Courses,,,,,,,,,,,,,,,,,
+PH 001,Preparatory Courses,3,0,0,4,Baradhwaj Colleppa(I),,,,"E1,E2
+(5/202)",,,,,,,
+CH 001,Preparatory Courses,3,0,0,4,Biswajit Mondal(I),,,,"B1,C2
+(5/202)",,,,,,,
+MA 001,Preparatory Courses,3,0,0,4,Sakshi Gupta(I),,,,"K1,K2
+(7/101)",,,,,,,
+HS 001,Preparatory Courses,3,0,0,4,Aditi Kothiyal(I),,,,"G1,G2
+(11/205)",,,,,,,
 ,,,,,,,,,,,,,,,,,
 Second Year (2025),,,,,,,,,,,,,,,,,
 CL 202,Chemical Engineering Thermodynamics,2,1,0,3,Kaustubh S Rane(I+T),,,,"A1,A2
@@ -61,7 +70,7 @@ ES 118,Materials for the Future,1.5,0,1.5,3,Amit Arora(I+L),,,,"C1
 ES 204,Digital Systems,2,1,1.5,4,Manu Awasthi(I+T+L),,,,"E1,E2
 (10/103)","L1
 (10/103)","K1
-(10/104,10/105,10/203,10/204)",Course Plan,,,,
+(10/103)",Course Plan,,,,
 ES 243,Biology for Engineers,3,1,0,4,TBD(I+T),,,,,,,,,,,
 MSE 206,Physics of Materials,3,0,0,4,Satyakam Kar(I),,,,"D1,D2
 (7/105)",,,Physics of Materials,,,,
@@ -275,7 +284,7 @@ ME 333,Mechanics of Materials,2,1,1,3,"Harini Subramanian(I+T),Ravi Sastri Ayyag
 ME 334,Heat and Mass Transfer,3,1,1,4,"Atul Bhargav(I+T),Soumyadip Sett(L)",,,,"C1,C2
 (Jagdish Patel Learning Theatre)","L1
 (Jagdish Patel Learning Theatre)","J1
-(ME Lab)",,,,,
+(ME Lab)",https://docs.google.com/spreadsheets/d/1xpeBE-BrDwbWADbGkZL81OL_LJQp8lJkLuGkDOvilVo/edit?gid=251186736#gid=251186736,,,,
 ME 362,Introduction to Manufacturing Systems and Metrology ,2,0,1.5,3,Rakesh Singhai(I+L),,,,"E1,E2
 (Harsha Patel Learning Theatre)",,"L2
 (Harsha Patel Learning Theatre)",,,,,
@@ -515,7 +524,7 @@ ES 607,Foundations of Fluid Dynamics,3,1,0,4,Vinod Narayanan(I+T),,,,"G1,G2
 (Jayshree S Sheth Learning Theatre)",,Course plan,,,,
 ME 605,Computational Fluid Dynamics,3,1.5,0,4,Uddipta Ghosh(I+T),,,,"M1,M2
 (5/202)","K1
-(7/109)",,,,,,
+(7/109)",,Course Plan,,,,
 ES 656,Human-Robot Interaction,3,0,0,4,Vineet Vashista(I),,,,"L1,L2
 (7/201)",,,https://drive.google.com/file/d/1cfkjeuITM2BsI-oMOnxtCMuwbTSMZ1S9/view?usp=drive_link,,,,
 ES 621,Advanced Solid Mechanics,3,0,0,4,Harmeet Singh(I),,,,"D1,D2

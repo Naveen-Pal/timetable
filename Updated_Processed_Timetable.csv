@@ -12,6 +12,10 @@ Introduction to writing I,HS 191,,"B1,B2",,2.0,,"7/101,7/102,7/103,7/104,7/2..."
 Undergraduate Science Laboratory,BS 192,,,"I1,K1,I2,M1,K2,L2,M2,P2",3.0,,,PH Lab
 Physical Education,PE 101,,,,0.0,,,
 Comprehensive Viva Voce,IN 101,,,,0.0,,,
+Preparatory Courses,PH 001,"E1,E2",,,4.0,5/202,,
+Preparatory Courses,CH 001,"B1,C2",,,4.0,5/202,,
+Preparatory Courses,MA 001,"K1,K2",,,4.0,7/101,,
+Preparatory Courses,HS 001,"G1,G2",,,4.0,11/205,,
 Chemical Engineering Thermodynamics,CL 202,"A1,A2",L1,,3.0,7/109,7/109,
 Process Fluid Mechanics,CL 203,"E1,E2",L2,,3.0,7/208,7/208,
 Heat Transfer,CL 204,"D1,D2",B2,,3.0,11/102,11/102,
@@ -22,7 +26,7 @@ Introduction to Philosophy,HS 221,"N1,N2",,,4.0,Jasubhai Auditorium,,
 Introduction to Quantum Physics,PH 202,"B1,B2",H2,,4.0,7/206,"13/125,11/204",
 Solid State Physics,PH 203,"M1,M2",J1,,4.0,7/110,7/205,
 Materials for the Future,ES 118,C1,,C2,3.0,Jagdish Patel Learning Thea...,,CL Lab
-Digital Systems,ES 204,"E1,E2",L1,K1,4.0,10/103,10/103,"10/104,10/105,10/203,10/204"
+Digital Systems,ES 204,"E1,E2",L1,K1,4.0,10/103,10/103,10/103
 Biology for Engineers,ES 243,,,,4.0,,,
 Physics of Materials,MSE 206,"D1,D2",,,4.0,7/105,,
 Materials Selection and Design,MSE 314,"C2 , I2",,,3.0,"Jasubhai Auditorium, Jagdish Patel Learning Thea...",,
