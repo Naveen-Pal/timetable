@@ -35,6 +35,26 @@ header h1 {
     gap: 10px;
 }
 
+.timetable-link {
+    color: #ffffff;
+    text-decoration: none; 
+    margin-top: 10px;
+    display: inline-block;
+    font-size: 0.9em;
+    opacity: 0.9;
+    transition: all 0.2s ease-in-out; 
+  }
+
+  .timetable-link:hover {
+    text-decoration: underline;
+    opacity: 1; 
+  }
+
+  .timetable-link h1 {
+    color: inherit; 
+    margin: 0;
+  }
+
 .header-subtitle {
     margin: 5px 0 0 0;
     font-size: 1rem;

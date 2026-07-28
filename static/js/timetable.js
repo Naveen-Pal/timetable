@@ -73,10 +73,23 @@ document.addEventListener('DOMContentLoaded', function() {
             return;
         }
         
-        tbody.innerHTML = filteredCourses.map(course => `
-            <tr>
+        tbody.innerHTML = filteredCourses.map(course => {
+            const isMissingInstructor = !course.instructor || 
+                                        course.instructor === 'nan' || 
+                                        course.instructor === 'None' || 
+                                        course.instructor.trim() === '';
+            const instructor = isMissingInstructor ? 'Instructor not assigned' : course.instructor;
+            const hasPlan = (course.plan_link && course.plan_link !== 'nan' && course.plan_link.trim() !== '');
+            
+            // Generate link HTML if a course plan exists
+            const planLinkHtml = hasPlan 
+                ? ` <a href="${course.plan_link}" target="_blank" style="color: #0056b3; margin-left: 5px;" title="View Course Plan"><i class="fa fa-external-link"></i></a>` 
+                : '';
+            
+            return`
+            <tr title="Instructor(s): ${instructor}">
                 <td>${course.code}</td>
-                <td>${course.name}</td>
+                <td>${course.name}${planLinkHtml}</td>
                 <td>${course.credits}</td>
                 <td>
                     <div class="course-checkbox-wrapper">
@@ -85,7 +98,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     </div>
                 </td>
             </tr>
-        `).join('');
+        `}).join('');
         
         // Add event listeners to checkboxes
         tbody.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {

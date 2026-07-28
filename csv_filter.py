@@ -37,6 +37,8 @@ def process_timetable(input_file='Timetable.csv', output_file='Updated_Processed
     df.reset_index(drop=True, inplace=True)
     df.to_csv(output_file, index=False)
     print(f"Processed timetable saved to {output_file}")
+
+
 def extract_slots(text):
     if pd.isna(text):
         return set()
@@ -94,3 +96,11 @@ def get_available_courses(selected_courses, file_path='Timetable.csv'):
             })
             
     return available
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--input", default="Timetable.csv")
+    parser.add_argument("--output", default="Updated_Processed_Timetable.csv")
+    args = parser.parse_args()
+    process_timetable(args.input, args.output)
