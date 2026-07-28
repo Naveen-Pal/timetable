@@ -54,6 +54,13 @@
                 <!-- Selected courses will be displayed here -->
             </div>
         </div>
+
+        <div class="selected-courses-container" id="suggested-courses-container" style="display: none; background-color: #f4fdf8; border-left-color: #28a745;">
+            <h4 class="selected-courses-heading" style="color: #28a745;"><i class="fa fa-lightbulb-o" aria-hidden="true"></i> Courses that fit your remaining schedule</h4>
+            <div class="selected-courses-list" id="suggested-courses-list">
+                <!-- Suggested courses will be displayed here -->
+            </div>
+        </div>
         
         <div class="search-container">
             <i class="fa fa-search search-icon" aria-hidden="true"></i>
@@ -89,6 +96,9 @@
             </button>
         </div>
         <div class="buttons-container">
+            <button type="button" id="suggest-button" class="secondary-btn" aria-label="Suggest Courses">
+                <i class="fa fa-magic" aria-hidden="true"></i> <span class="btn-text">Suggest</span>
+            </button>
             <button type="button" id="preview-button" class="primary-btn" aria-label="Preview Timetable">
                 <i class="fa fa-eye" aria-hidden="true"></i> <span class="btn-text">Generate</span>
             </button>
