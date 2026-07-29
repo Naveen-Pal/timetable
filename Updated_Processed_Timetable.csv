@@ -80,20 +80,21 @@ Mechanics of Materials,ME 333,"H2,F2",J2,,3.0,7/108,"7/204,7/205",
 Heat and Mass Transfer,ME 334,"C1,C2",L1,J1,4.0,Jagdish Patel Learning Thea...,Jagdish Patel Learning Thea...,ME Lab
 Introduction to Manufacturing Systems and Metrology ,ME 362,"E1,E2",,L2,3.0,Harsha Patel Learning Theatre,,Harsha Patel Learning Theatre
 "Polymers, Ceramics and Composites",MSE 313,"E1,E2",,K1,4.0,7/105,,MSE Lab
-Principles of Metal Extraction and Refining,MSE 304,"J1,J2",,,4.0,11/204,,
+Principles of Metal Extraction and Refining,MSE 304,"J1,J2",,,4.0,7/105,,
 Aarohan (For 2025 MSc and MA students),FP 501,,,,2.0,,,
 "Aarohan (For 2025 MTech, PGDIIT and PhD students)",FP 601,,,,2.0,,,
 Physical Education (For 2022 MSc and MA students),PE 500,,,,0.0,,,
 Physical Education (For 2022 M Tech and PhD students),PE 600,,,,0.0,,,
-Bionanotechnology – Principles and Applications,BE 303,"F1,F2",,,4.0,11/204,,
+Bionanotechnology – Principles and Applications,BE 303,"F1,F2",,,4.0,7/101,,
+Origins of Species,BE 305,"A1,A2",,,4.0,7/202,,
 Genetic Engineering – Principles and Applications,BE 404,"N1,N2",,,4.0,7/103,,
 Biostatistics,BE 614,G1,,"I1,K1",4.0,7/201,,BE Lab
 Human Physiology,BE 616,"E1,E2",,,4.0,7/106,,
 Molecular Biotechnology ,BE 618,G2,,"J1,L1",4.0,7/101,,BE Lab
 Peptide Technologies ,BE 621,C1,,"I2,M1",2.0,13/125,,BE Lab
 Applied Stem Cells Technologies,BE 622,"A1,A2",,,4.0,7/204,,
-Biocomputing,BE 623,,,"K2,L2",2.0,,,BE Lab
-AI Applications in Life Sciences,BE 625,"D1,D2",,,4.0,7/103,,
+Biocomputing,BE 623,,,"K2,L2",2.0,,,10/104
+AI Applications in Life Sciences,BE 625,"D1,D2",,,4.0,"7/103,7/110",,
 Civil Engineering Materials,CE 315,"J1,J2",,,4.0,7/101,,
 Integrated Waste Management and Circular Economy,CE 316,"I1,I2",,,4.0,Harsha Patel Learning Theatre,,
 River Engineering,CE 624,"G1,G2",,,4.0,7/204,,
@@ -191,7 +192,7 @@ Asymmetric Synthesis and Catalysis,CH 626,"D1,D2",,,4.0,11/205,,
 Metabolism & Biosynthesis,CH 627,"K1,K2",,,4.0,11/204,,
 Introduction to Molecular Dynamics,CH 634,M1,,"I1,K1",4.0,7/204,,CH Lab
 Statistical thermodynamics and its applications in chemistry,CH 636,"N1,N2",,,4.0,13/124,,
-Organic Electronics,CH 637,"J1,J2",,,4.0,7/105,,
+Organic Electronics,CH 637,"J1,J2",,,4.0,7/108,,
 Bio-inorganic Chemistry,CH 640,"L1,L2",,,4.0,7/101,,
 Chemistry of Energy Materials,CH 641,"M1,M2",,,4.0,7/210,,
 Basic Algebra,MA 501,"E1,E2",B1,,4.0,7/107,7/202,
@@ -238,6 +239,7 @@ Applied Micropaleontology,EH 624,"M1,M2",,,4.0,7/107,,
 Environmental Geosciences,EH 625,"P1,P2",,,4.0,7/201,,
 Reservoir Modelling and Simulation,EH 626,"M1,M2",,,4.0,7/201,,
 Anthropocene: Human Impact on the Earth,EH 627,"N1,N2",,,4.0,13/125,,
+Dynamic Earth Surface and Nature Hazards,EH 634,F1,,"J1,L1",4.0,7/102,,EH Lab
 Rock Mechanics and Rock Engineering,EH 638,"J1,J2",,,4.0,7/206,,
 Statistics for Earth Sciences,EH 639,J1,,"I1,K1",3.0,7/103,,EH Lab
 Special Topics in Earth Science: Microwave Remote Sensing,EH 691-III,"C1,C2",,,4.0,7/103,,
@@ -264,6 +266,9 @@ Advance Japanese Learning,HS 153,"L1,L2",I1,,4.0,11/206,11/206,
 Mandarin for Beginners,HS 154,"M1,M2",,,4.0,10/102,,
 Mandarin for Beginners - II,HS 155,"L1,L2",,,4.0,11/205,,
 Financial Considerations in Engineering Decisions,MS 408,"M1,M2",,,4.0,7/209,,
+Special Topics in Management: Marketing Analytics,MS 491,"M1,M2",,,4.0,Online,,
+"Special Topics in Management: An Introduction to Business, Organization & Finance",MS 491-XIII,"P1,P2 , Saturday",,,4.0,"Jayshree S Sheth Learning T..., 10:30 AM–12:30 PM, 11/102",,
+Special Topics in Management: Lean Six Sigma,MS 491-XVI,"M1,M2",,,4.0,,,
 Special Topics in Management: Leadership Development & Executive Presence,MS 492-VIII,"L1,L2",,,2.0,7/105,,
 Special Topics in Management: Managing People and Workplace Behaviour,MS 492-IX,"P1,P2",,,2.0,7/106,,
 Ancient Indian Technology,IN 304,"K1,K2",,,4.0,"11/205,11/206",,

@@ -77,8 +77,7 @@ MSE 206,Physics of Materials,3,0,0,4,Satyakam Kar(I),,,,"D1,D2
 MSE 314,Materials Selection and Design,3,0,0,3,Superb Misra(I),150,,,"C2 (Jasubhai Auditorium)
 I2 (Jagdish Patel Learning Theatre)",,,,,,,
 MSE 318,Introduction to Quantum Materials and Devices,3,0,0,3,Anagh Bhaumik(I),150,,,"C1 (Jasubhai Auditorium)
-I2 (Jayshree S Sheth Learning Theatre)
-",,,,,,,
+I2 (Jayshree S Sheth Learning Theatre)",,,Course Plan_MSE 318.pdf,,,,
 MSE 319,Additive Manufacturing and 3D Printing of Materials,3,0,0,3,Avinash Hariharan(I),150,,,"C1,I2
 (Surendra C Sheth Learning Theatre)",,,,,,,
 MSE 317,Materials Processing,2,1,1.5,4,"Emila Panda(I+T+L),Pradipta Ghosh(I+T+L)",,,,,,,,,,,
@@ -162,13 +161,13 @@ HS 151,Economics,3,1,0,4,"Deepak Singhania(I),Praharsh Mohanlal Patel(T)",,,,"A1
 (Jasubhai Auditorium,7/101,7/102,7/103,7/105,7/107,7/110,7/201,7/204,7/205)",,https://drive.google.com/file/d/1rHrc62tPltvkY5TUoBjNl3fV_2tuz-SC/view?usp=sharing,,,,
 CL 313,Chemical Reaction Engineering - II,2,1,0,3,Kabeer Jasuja(I+T),,,,"G1,G2
 (7/108)","G1,G2
-(7/108)",,,,,,
+(7/108)",,Course Plan                          Google classroom link,,,,
 CL 314,Separation Processes - I,2,1,0,3,Karthik Subramaniam Pushpavanam(I+T),,,,"E1,E2
 (10/102)","E1,E2
 (10/102)",,,,,,
 CL 315,Process Dynamics and Control,2,1,0,3,Mithun Radhakrishna(I+T),,,,"D1,D2
 (10/102)","D1,D2
-(10/102)",,,,,,
+(10/102)",,Course Plan,,,,
 CL 326,Integrated Chemical Engineering Lab-I,0,0,4.5,3,Biswajit Saha(L),,,,,,"J1,L1,N1
 (CL Lab)",https://iitgnacin-my.sharepoint.com/:b:/g/personal/bsaha_iitgn_ac_in/IQB_Rgl0TgbkToHNbFSrEWxeAaWb4yVCjqBd423XZHJWJLU?e=9eNIBR,,,,
 CL XXX,Discipline Elective,,,,4,,,,,,,,,,,,
@@ -306,7 +305,7 @@ MSE 313,"Polymers, Ceramics and Composites",3,0,1.5,4,Abhijit Mishra(I+L),,,,"E1
 (7/105)",,"K1
 (MSE Lab)",https://docs.google.com/document/d/1M2_czf-0yC-0w2R-K1vtllVxyzIcHId4/edit?usp=sharing&ouid=107364619680903589902&rtpof=true&sd=true,,,,
 MSE 304,Principles of Metal Extraction and Refining,3,0,0,4,S.P. Mehrotra(I),,,,"J1,J2
-(11/204)",,,,,,,
+(7/105)",,,,,,,
 MSE 317,Materials Processing,2,1,1.5,4,"Emila Panda(I+T+L),Pradipta Ghosh(I+T+L)",,,,"D1,D2
 (11/206)","I2
 (11/206)","I1
@@ -335,7 +334,9 @@ Viva Voce/ Group Discussion,,,,,,,,,,,,,,,,,
 ,Comprehensive Viva Voce,0,0,0,0,,,,,,,,,,,,
 Additional Courses: Biological Engineering																	,,,,,,,,,,,,,,,,,
 BE 303,Bionanotechnology – Principles and Applications,3,0,0,4,Mukesh Dhanka(I),,,,"F1,F2
-(11/204)",,,https://docs.google.com/document/d/1rEEnbmdsBKl24_7tMtjQCaVUo768a9Sm/edit?usp=sharing&ouid=107984983868149659120&rtpof=true&sd=true,,,,BS
+(7/101)",,,https://docs.google.com/document/d/1rEEnbmdsBKl24_7tMtjQCaVUo768a9Sm/edit?usp=sharing&ouid=107984983868149659120&rtpof=true&sd=true,,,,BS
+BE 305,Origins of Species,3,0,0,4,Umashankar Singh(I),,,,"A1,A2
+(7/202)",,,,,,,
 BE 404,Genetic Engineering – Principles and Applications,3,0,0,4,Sharmistha Majumdar(I),,,,"N1,N2
 (7/103)",,,BE404 course plan,,,,BS
 BE 614,Biostatistics,1.5,0,3,4,Ashutosh Srivastava(I+L),,,,"G1
@@ -352,9 +353,9 @@ BE 621,Peptide Technologies ,1.5,0,3,2,Sharad Gupta(I+L),,,,"C1
 BE 622,Applied Stem Cells Technologies,3,0,0,4,Dhiraj D Bhatia(I),,,,"A1,A2
 (7/204)",,,https://docs.google.com/document/d/1KdClKDUCfOw-lyAqLro2DI1JBJnyJZJy/edit?usp=sharing&ouid=114828150794801814953&rtpof=true&sd=true,,,,BS
 BE 623,Biocomputing,0,0,3,2,Ashutosh Srivastava(I+L),,,,,,"K2,L2
-(BE Lab)",BE623_course_description.pdf,,,,
+(10/104)",BE623_course_description.pdf,,,,
 BE 625,AI Applications in Life Sciences,3,0,0,4,Sharad Gupta(I),,,,"D1,D2
-(7/103)",,,Course Plan,,,,
+(7/103,7/110)",,,Course Plan,,,,
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Civil Engineering																	,,,,,,,,,,,,,,,,,
 CE 315,Civil Engineering Materials,3,0,0,4,Krishna Siva Teja Chopperla(I),,,,"J1,J2
@@ -500,7 +501,7 @@ ES 657,Biomedical Ultrasound,3,0,0,4,Himanshu Shekhar(I),,,,"J1,J2
 EE 659,Smart Grid,3,0,0,4,Naran M Pindoriya(I),,,,"G1,G2
 (13/124)",,,Course plan,,,,
 EE 663,Advanced Wireless Communications,3,0,0,4,Raghunandan M. Rao(I),,,,"L1,L2
-(13/125)",,,,,,,
+(13/125)",,,EE663 Course Plan,,,,
 EE 664,High Frequency Engineering,3,0,0,4,Kamla Prasan Ray(I),,,,"K1,K2
 (13/125)",,,course Plan,,,,BS
 ES 666,Computer Vision,3,0,0,4,Shanmuganathan Raman(I),,,,"C1,C2
@@ -583,7 +584,7 @@ CH 622,Interpretative Organic Spectroscopy,3,0,0,4,Sriram V Gundimeda(I),,,,"A1,
 CH 624,Molecular Spectroscopy,3,0,0,4,Saumyakanti Khatua(I),,,,"J1,J2
 (13/125)",,,https://drive.google.com/file/d/1o_4bi7BrdQ1NOSvZYXaXR39-2JJ1AgvH/view?usp=sharing,,,,BS
 CH 626,Asymmetric Synthesis and Catalysis,3,0,0,4,Chandrakumar Appayee(I),,,,"D1,D2
-(11/205)",,,https://drive.google.com/file/d/189iW2Xo26exm_Q0RHM6V0vtHsChlnxMh/view?usp=drive_link,,,,BS
+(11/205)",,,https://drive.google.com/file/d/1Q5zm6LFXPnFa7g3OQGRJs4AiztQiyoXW/view?usp=sharing,,,,BS
 CH 627,Metabolism & Biosynthesis,3,0,0,4,Bhaskar Datta(I),,,,"K1,K2
 (11/204)",,,Course Policy & Syllabus,,,,BS
 CH 634,Introduction to Molecular Dynamics,1.5,0,3,4,Sairam Swaroop Mallajosyula(I+L),,,,"M1
@@ -592,7 +593,7 @@ CH 634,Introduction to Molecular Dynamics,1.5,0,3,4,Sairam Swaroop Mallajosyula(
 CH 636,Statistical thermodynamics and its applications in chemistry,3,0,0,4,Sairam Swaroop Mallajosyula(I),,,,"N1,N2
 (13/124)",,,Course Plan,,,,BS
 CH 637,Organic Electronics,3,0,0,4,Partha Pratim Roy(I),,,,"J1,J2
-(7/105)",,,,,,,BS
+(7/108)",,,,,,,BS
 CH 640,Bio-inorganic Chemistry,3,0,0,4,Biswajit Mondal(I),,,,"L1,L2
 (7/101)",,,Course plan for CH640_Bio-inorganic Chemistry.pdf,,,,BS
 CH 641,Chemistry of Energy Materials,3,0,0,4,Manisha Samanta(I),,,,"M1,M2
@@ -710,6 +711,9 @@ EH 626,Reservoir Modelling and Simulation,3,0,0,4,Achyut Mishra(I),,,,"M1,M2
 (7/201)",,,Course details,,,,
 EH 627,Anthropocene: Human Impact on the Earth,3,0,0,4,Vikrant Jain(I),,,,"N1,N2
 (13/125)",,,https://drive.google.com/file/d/1Ako_ydenPXNgD0Gbye7kRTlY74I0OZ-9/view?usp=drive_link,,,,
+EH 634,Dynamic Earth Surface and Nature Hazards,1.5,0,3,4,Vikrant Jain(I+L),,,,"F1
+(7/102)",,"J1,L1
+(EH Lab)",https://drive.google.com/file/d/18LniBcuUGOlWh2_yuM99ISU3EyR0q9yj/view?usp=sharing,,,,
 EH 638,Rock Mechanics and Rock Engineering,3,0,0,4,Manab Mukherjee(I),,,,"J1,J2
 (7/206)",,,Course Plan,,,,
 EH 639,Statistics for Earth Sciences,1.5,0,3,3,Utsav Mannu(I),,,,"J1
@@ -778,6 +782,12 @@ HS 155,Mandarin for Beginners - II,3,0,0,4,Hao Tsung Kao (I),,,,"L1,L2
 (11/205)",,,,,,,
 MS 408,Financial Considerations in Engineering Decisions,3,0,0,4,K Chelvakumar(I),,,,"M1,M2
 (7/209)",,,https://docs.google.com/document/d/19J5s3WCoh9IF7OkWe3yKJvwg7GoFemiXVX8HBSubZCw/edit?usp=sharing,,,,
+MS 491,Special Topics in Management: Marketing Analytics,3,0,0,4,Marcos Severos(I),,,,"M1,M2
+(Online)",,,,,,,
+MS 491-XIII,"Special Topics in Management: An Introduction to Business, Organization & Finance",3,0,0,4,Praveen Gupta(I),,,,"P1,P2 (Jayshree S Sheth Learning Theatre)
+Saturday (10:30 AM–12:30 PM) (11/102)",,,,,,,
+MS 491-XVI,Special Topics in Management: Lean Six Sigma,3,0,0,4,Alok Bhatnagar(I),,,,"M1,M2
+()",,,,,,,
 MS 492-VIII,Special Topics in Management: Leadership Development & Executive Presence,3,0,0,2,Ramachandran Veetikazhi(I),,,,"L1,L2
 (7/105)",,,LD&EP_CLASSWISE SCHEDULE_IITGn_DrVeetikazhi_2026.pdf,,,,
 MS 492-IX,Special Topics in Management: Managing People and Workplace Behaviour,3,0,0,2,Ramachandran Veetikazhi(I),,,,"P1,P2
@@ -804,7 +814,7 @@ HS 520,Ancient Indian Architecture,3,0,0,4,V.N. Prabhakar(I),,,,"M1,M2
 (7/103)",,,HS 520_Course Plan.pdf,,,,
 HS 523,Quantitative Research Methods in Social Sciences,3,1,0,4,Praharsh Mohanlal Patel(I+T),,,,"G1,G2
 (7/202)","H1
-(7/109)",,,,,,
+(7/109)",,Syllabus_Quantitative Methods.docx,,,,
 HS 524,Qualitative Research Methods,3,0,0,4,Ambika Aiyadurai(I),,,,"M1,M2
 (10/103)",,,https://drive.google.com/file/d/1TfdWZS0PBr0eLMgLXqznxEMHsml2XuKO/view?usp=drive_link,,,,
 HS 526,"Education, Technology and Society",3,0,0,4,Aditi Kothiyal(I),,,,"J1,J2
