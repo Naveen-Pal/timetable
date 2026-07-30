@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
     let courseData = [];
     let totalCredits = 0;
     let timetableData = null;
+    let availableCourseCodes = null;
     
     // DOM elements
     const $ = id => document.getElementById(id);
@@ -22,9 +23,7 @@ document.addEventListener('DOMContentLoaded', function() {
         successBox: $('success-box'),
         selectedCoursesContainer: $('selected-courses-container'),
         selectedCoursesList: $('selected-courses-list'),
-        suggestButton: $('suggest-button'),
-        suggestedCoursesContainer: $('suggested-courses-container'),
-        suggestedCoursesList: $('suggested-courses-list')
+        clashToggle: $('clash-toggle')
     };
     
     // Initialize
@@ -46,8 +45,14 @@ document.addEventListener('DOMContentLoaded', function() {
     function setupEventListeners() {
         elements.searchField.addEventListener('input', e => renderCourseTable(e.target.value.toLowerCase()));
         elements.previewButton.addEventListener('click', () => validateAndGenerate(generateTimetable));
-        elements.suggestButton.addEventListener('click', () => validateAndGenerate(fetchSuggestedCourses));
         elements.deselectAllButton.addEventListener('click', deselectAll);
+        elements.clashToggle.addEventListener('change', () => {
+            if (elements.clashToggle.checked) {
+                fetchAvailableForTable();
+            } else {
+                renderCourseTable(elements.searchField.value.toLowerCase());
+            }
+        });
         
         // Go to top button
         $('go-to-top').addEventListener('click', scrollToTop);
@@ -67,6 +72,16 @@ document.addEventListener('DOMContentLoaded', function() {
             course.code.toLowerCase().includes(searchQuery) || 
             course.name.toLowerCase().includes(searchQuery)
         );
+
+        if (elements.clashToggle && elements.clashToggle.checked && availableCourseCodes) {
+            filteredCourses.sort((a, b) => {
+                const aSafe = availableCourseCodes.includes(a.code) || selectedCourses.includes(a.code);
+                const bSafe = availableCourseCodes.includes(b.code) || selectedCourses.includes(b.code);
+                if (aSafe && !bSafe) return -1;
+                if (!aSafe && bSafe) return 1;
+                return 0; 
+            });
+        }
         
         if (filteredCourses.length === 0) {
             tbody.innerHTML = '<tr><td colspan="4">No courses found.</td></tr>';
@@ -85,9 +100,20 @@ document.addEventListener('DOMContentLoaded', function() {
             const planLinkHtml = hasPlan 
                 ? ` <a href="${course.plan_link}" target="_blank" style="color: #0056b3; margin-left: 5px;" title="View Course Plan"><i class="fa fa-external-link"></i></a>` 
                 : '';
+
+            let isClashing = false;
+            if (elements.clashToggle && elements.clashToggle.checked && availableCourseCodes && selectedCourses.length > 0) {
+                if (!availableCourseCodes.includes(course.code) && !selectedCourses.includes(course.code)) {
+                    isClashing = true;
+                }
+            }
+
+            const rowOpacity = isClashing ? 'opacity: 0.4; background-color: #f8f9fa;' : '';
+            const rowTitle = isClashing ? 'Clashes with your selected courses' : `Instructor(s): ${instructor}`;
+            const checkboxDisabled = isClashing ? 'disabled' : '';
             
             return`
-            <tr title="Instructor(s): ${instructor}">
+            <tr title="Instructor(s): ${instructor}" style="${rowOpacity}">
                 <td>${course.code}</td>
                 <td>${course.name}${planLinkHtml}</td>
                 <td>${course.credits}</td>
@@ -115,6 +141,9 @@ document.addEventListener('DOMContentLoaded', function() {
             if (!selectedCourses.includes(courseCode)) {
                 selectedCourses.push(courseCode);
                 totalCredits += creditsNum;
+                if(elements.clashToggle && elements.clashToggle.checked) {
+                    fetchAvailableForTable();
+                }
             }
         } else {
             const index = selectedCourses.indexOf(courseCode);
@@ -126,6 +155,9 @@ document.addEventListener('DOMContentLoaded', function() {
         
         updateTotalCredits();
         updateSelectedCourses();
+        if (elements.clashToggle && elements.clashToggle.checked) {
+            fetchAvailableForTable();
+        }
     }
     
     // Update total credits display
@@ -167,6 +199,12 @@ document.addEventListener('DOMContentLoaded', function() {
             renderCourseTable(elements.searchField.value.toLowerCase());
             updateSelectedCourses();
             showMessage(`${courseCode} removed from selection.`, 'success');
+
+            if (elements.clashToggle && elements.clashToggle.checked) {
+                fetchAvailableForTable(); 
+            } else {
+                renderCourseTable(elements.searchField.value.toLowerCase());
+            }
         }
     };
     
@@ -383,11 +421,13 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    function fetchSuggestedCourses() {
-        elements.suggestedCoursesContainer.style.display = 'block';
-        elements.suggestedCoursesList.innerHTML = '<div style="padding: 10px;">Finding courses that fit...</div>';
+    function fetchAvailableForTable() {
+        if (selectedCourses.length === 0) {
+            availableCourseCodes = null; 
+            renderCourseTable(elements.searchField.value.toLowerCase());
+            return;
+        }
         
-        // Assumes your backend endpoint is setup at /api/available-courses
         fetch('/api/available-courses', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
@@ -395,68 +435,11 @@ document.addEventListener('DOMContentLoaded', function() {
         })
         .then(response => response.json())
         .then(data => {
-            if (data.error) {
-                showMessage(data.error, 'error');
-                elements.suggestedCoursesContainer.style.display = 'none';
-                return;
+            if (!data.error) {
+                availableCourseCodes = data.courses.map(c => c.code || c['Course Number']);
+                renderCourseTable(elements.searchField.value.toLowerCase());
             }
-            renderSuggestedCourses(data.courses);
-        })
-        .catch(() => {
-            showMessage('Failed to fetch course suggestions.', 'error');
-            elements.suggestedCoursesContainer.style.display = 'none';
         });
     }
     
-    function renderSuggestedCourses(suggestedCourses) {
-        if (!suggestedCourses || suggestedCourses.length === 0) {
-            elements.suggestedCoursesList.innerHTML = '<div style="padding: 10px;">No additional courses fit into your remaining schedule slots.</div>';
-            return;
-        }
-        
-        elements.suggestedCoursesList.innerHTML = suggestedCourses.map(course => `
-            <div class="selected-course-item" style="border: 1px solid #c3e6cb;">
-                <span class="selected-course-code">${course.code || course['Course Number']}</span>
-                <span class="selected-course-name">${course.name || course['Course Name']}</span>
-                <button class="remove-course-btn"  
-                        onclick="addSuggestedCourse('${course.code || course['Course Number']}')" title="Add this course">
-                    <i class="fa fa-plus"></i> 
-                </button>
-            </div>
-        `).join('');
-    }
-    
-    // Global function so it can be called from the inline onclick handler
-    window.addSuggestedCourse = function(courseCode) {
-        // Find the checkbox for this course in the main table
-        const checkbox = document.querySelector(`input[data-course-code="${courseCode}"]`);
-        
-        if (checkbox) {
-            if (!checkbox.checked) {
-                checkbox.checked = true;
-                // Dispatch change event to trigger the existing handleCourseSelection logic
-                checkbox.dispatchEvent(new Event('change'));
-                showMessage(`${courseCode} added!`, 'success');
-                
-                // Refresh suggestions based on the newly added course
-                fetchSuggestedCourses(); 
-            } else {
-                showMessage(`${courseCode} is already selected.`, 'error');
-            }
-        } else {
-            // Fallback if the course isn't currently rendered in the table view (e.g., due to search filtering)
-            elements.searchField.value = courseCode;
-            renderCourseTable(courseCode.toLowerCase());
-            
-            setTimeout(() => {
-                const newCheckbox = document.querySelector(`input[data-course-code="${courseCode}"]`);
-                if (newCheckbox && !newCheckbox.checked) {
-                    newCheckbox.checked = true;
-                    newCheckbox.dispatchEvent(new Event('change'));
-                    showMessage(`${courseCode} added!`, 'success');
-                    fetchSuggestedCourses();
-                }
-            }, 100);
-        }
-    };
 });

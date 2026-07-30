@@ -13,15 +13,15 @@
 <body>
     <header>
         <div class="container">
-            <a href="https://docs.google.com/spreadsheets/d/1Nwk7j3CZcgzGcClgCut7wmn-9P8OlQSvW_Rs22AJ1T8/edit?gid=333133726#gid=333133726" 
-            target="_blank" 
-            class="timetable-link">
             <h1>
                 <i class="fa fa-calendar" aria-hidden="true"></i> 
                 IIT Gandhinagar Timetable 
+                <a href="https://docs.google.com/spreadsheets/d/1Nwk7j3CZcgzGcClgCut7wmn-9P8OlQSvW_Rs22AJ1T8/edit?gid=333133726#gid=333133726" 
+                target="_blank" 
+                class="timetable-link">   
                 <i class="fa fa-external-link" aria-hidden="true" style="font-size: 0.6em; margin-left: 5px; vertical-align: middle;"></i>
+                </a>
             </h1>
-            </a>
             <p class="header-subtitle">Academic Year 2026-27 <b>Semester-I</b></p>
         </div>
     </header>
@@ -63,16 +63,22 @@
             </div>
         </div>
 
-        <div class="selected-courses-container" id="suggested-courses-container" style="display: none; background-color: #f4fdf8; border-left-color: #28a745;">
-            <h4 class="selected-courses-heading" style="color: #28a745;"><i class="fa fa-lightbulb-o" aria-hidden="true"></i> Courses that fit your remaining schedule</h4>
-            <div class="selected-courses-list" id="suggested-courses-list">
-                <!-- Suggested courses will be displayed here -->
-            </div>
-        </div>
         
-        <div class="search-container">
-            <i class="fa fa-search search-icon" aria-hidden="true"></i>
-            <input name="search-field" id="search-field" placeholder="Search for courses...">
+        <div class="search-filter-bar">
+            <div class="search-section">
+                <i class="fa fa-search search-icon" aria-hidden="true"></i>
+                <input name="search-field" id="search-field" placeholder="Search for courses...">
+            </div>
+            
+            <div class="divider"></div>
+            
+            <div class="filter-section">
+                <span class="toggle-label">Hide Clashes</span>
+                <label class="switch">
+                    <input type="checkbox" id="clash-toggle">
+                    <span class="slider round"></span>
+                </label>
+            </div>
         </div>
         
         <table class="courses-table" role="table">
@@ -104,9 +110,6 @@
             </button>
         </div>
         <div class="buttons-container">
-            <button type="button" id="suggest-button" class="secondary-btn" aria-label="Suggest Courses">
-                <i class="fa fa-magic" aria-hidden="true"></i> <span class="btn-text">Suggest</span>
-            </button>
             <button type="button" id="preview-button" class="primary-btn" aria-label="Preview Timetable">
                 <i class="fa fa-eye" aria-hidden="true"></i> <span class="btn-text">Generate</span>
             </button>

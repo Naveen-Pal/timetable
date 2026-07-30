@@ -428,40 +428,126 @@ button {
 }
 
 /* Search styling */
-.search-container {
-    position: relative;
-    margin: 20px auto;
-    max-width: 100%;
-    width: 600px;
+.search-filter-bar {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 600px;
+    margin: 25px auto 30px;
+    background: #ffffff;
+    border-radius: 50px; /* Gives the premium pill shape */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.06);
+    border: 1px solid #eaeaea;
+    padding: 4px 8px 4px 20px;
+    transition: all 0.3s ease;
     box-sizing: border-box;
 }
 
+/* Lights up the entire bar when the user is typing */
+.search-filter-bar:focus-within {
+    box-shadow: 0 6px 20px rgba(0, 102, 204, 0.12);
+    border-color: #0066cc;
+}
+
+.search-section {
+    display: flex;
+    align-items: center;
+    flex: 1; /* Pushes the toggle to the right */
+    position: relative;
+}
+
 .search-icon {
-    position: absolute;
-    left: 15px;
-    top: 35%;
-    transform: translateY(-50%);
-    color: #666;
+    color: #999;
+    font-size: 16px;
 }
 
 #search-field {
     width: 100%;
-    box-sizing: border-box;
-    padding: 12px 12px 12px 40px;
+    height: 48px;
+    padding: 0 15px;
+    border: none; /* Removes the box around the input itself */
+    background: transparent;
     font-size: 16px;
-    border: 1px solid #ddd;
-    border-radius: 25px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
-    transition: all 0.3s ease;
-    margin-bottom: 15px;
-    max-width: 100%;
+    color: #333;
+    outline: none;
 }
 
-#search-field:focus {
-    outline: none;
-    border: 1px solid #0066cc;
-    box-shadow: 0 2px 12px rgba(0, 102, 204, 0.15);
+#search-field::placeholder {
+    color: #aaa;
 }
+
+/* Subtle separator line */
+.divider {
+    width: 1px;
+    height: 28px;
+    background-color: #e0e0e0;
+    margin: 0 15px;
+}
+
+.filter-section {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding-right: 5px;
+}
+
+.toggle-label {
+    font-size: 14px;
+    font-weight: 600;
+    color: #666;
+    user-select: none;
+}
+
+/* --- Modern UI Switch --- */
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 44px;
+    height: 24px;
+}
+
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background-color: #cbd5e1; /* Neutral off-state */
+    transition: .4s;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 18px;
+    width: 18px;
+    left: 3px;
+    bottom: 3px;
+    background-color: white;
+    transition: .4s;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2); /* Depth to the toggle knob */
+}
+
+input:checked + .slider {
+    background-color: #10b981; /* Modern vivid green when active */
+}
+
+input:checked + .slider:before {
+    transform: translateX(20px);
+}
+
+.slider.round {
+    border-radius: 34px;
+}
+
+.slider.round:before {
+    border-radius: 50%;
+}
+
 
 .loader {
     display: none;
