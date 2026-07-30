@@ -57,7 +57,7 @@ CS 203,Software Tools & Techniques for AI,1.5,0,3,4,Yogesh Kumar Meena(I+L),,,,"
 GE 201,General Education II,3,0,0,2,TBD(I),,,,"P1,P2
 (Jasubhai Auditorium)",,,,,,,
 HS 221,Introduction to Philosophy,3,0,0,4,Jaison Manjaly(I),,,,"N1,N2
-(Jasubhai Auditorium)",,,,,,,
+(Jasubhai Auditorium)",,,Course Outline,,,,
 PH 202,Introduction to Quantum Physics,3,1,0,4,"Vinod Chandra(I),Pinaki Banerjee(I+T)",,,,"B1,B2
 (7/206)","H2
 (13/125,11/204)",,Course Plan:PH202,,,,
@@ -102,7 +102,7 @@ CE 201,Earth Materials and Processes,1.5,0,3,2,Pankaj Khanna(I+L),,,,"E1
 (CE Lab)",,,,,
 CL 201,Chemical Process Calculations,2,1.5,0,3,Pratyush Dayal(I+T),,,,"G1,G2
 (10/102)","I1
-(11/101)",,,,,,
+(11/101)",,Course Plan,,,,
 ES 242,Data Structures and Algorithms I,3,0,1.5,4,"Manoj D Gupta(I+L),Anup Kalbalia(L)",,,,"G1,G2
 (10/103)",,"I1
 (10/104,10/105,10/203,10/204)",Course Webpage,,,,
@@ -120,7 +120,7 @@ M2 (Jayshree S Sheth Learning Theatre)",,"I1,H1,J1,N1
 (EE Lab)",Electrical Machines,,,,
 MSE 204,Transport Phenomena in Materials Engineering,3,1,0,4,Amit Arora(I+T),,,,"J1,K2
 (Harsha Patel Learning Theatre)","H2
-(Harsha Patel Learning Theatre)",,,,,,
+(Harsha Patel Learning Theatre)",,Course Plan,,,,
 ME 206,Statics and Dynamics,2,1,1.5,4,Harish J Palanthandalam-Madapusi(I+T),,,,"G1,G2
 (Jagdish Patel Learning Theatre)",,"I1
 (ME Lab)",Course Plan,,,,
@@ -142,7 +142,10 @@ CS 328,Introduction to Data Science,3,1,0,4,Nirmal Kumar Sancheti(I+T),,,,"N1,N2
 (10/103)",,CS328 Introduction to Data Science,,,,
 CS 329,Foundations of AI: Multiagent Systems,3,0,0,4,Manisha Padala(I),,,,"P1,P2
 (10/103)",,,Course Website,,,,
-ES 678,Machine Learning (ES 335),3,1.5,0,4,"Udit Bhatia(I+T),Krishna Prasad Miyapuram(T)",,,,"J1,K2
+ES 335,Machine Learning,3,1.5,0,4,"Udit Bhatia(I+T),Krishna Prasad Miyapuram(T)",,,,"J1,K2
+(10/103)","B2
+(Jagdish Patel Learning Theatre,Harsha Patel Learning Theatre)",,Course Website,,,,
+ES 678,Machine Learning,3,1.5,0,4,"Udit Bhatia(I+T),Krishna Prasad Miyapuram(T)",,,,"J1,K2
 (10/103)","B2
 (Jagdish Patel Learning Theatre,Harsha Patel Learning Theatre)",,Course Website,,,,
 HS XXX,HSS Elective,,,,4,,,,,,,,,,,,
@@ -336,7 +339,7 @@ Additional Courses: Biological Engineering																	,,,,,,,,,,,,,,,,,
 BE 303,Bionanotechnology – Principles and Applications,3,0,0,4,Mukesh Dhanka(I),,,,"F1,F2
 (7/101)",,,https://docs.google.com/document/d/1rEEnbmdsBKl24_7tMtjQCaVUo768a9Sm/edit?usp=sharing&ouid=107984983868149659120&rtpof=true&sd=true,,,,BS
 BE 305,Origins of Species,3,0,0,4,Umashankar Singh(I),,,,"A1,A2
-(7/202)",,,,,,,
+(7/202)",,,BE305,,,,
 BE 404,Genetic Engineering – Principles and Applications,3,0,0,4,Sharmistha Majumdar(I),,,,"N1,N2
 (7/103)",,,BE404 course plan,,,,BS
 BE 614,Biostatistics,1.5,0,3,4,Ashutosh Srivastava(I+L),,,,"G1
@@ -421,7 +424,7 @@ CL 633,Applications of AI in ChE,3,1,0,4,Nitin U. Padhiyar(I+T),,,,"H1,N2
 (7/108)","J2
 (7/109)",,https://docs.google.com/spreadsheets/d/1Zx1kEtyE5g7EDXIoiRjVp6-v9PuVhmZDzdBRDxTgGwI/edit?gid=1235957912#gid=1235957912,,,,
 CL 635,Integrated Principles of Chemical Engineering,3,0,0,4,Sameer Dalvi(I),,,,"J1,K1
-(7/208)",,,,,,,
+(7/208)",,,CL 635-Course Plan,,,,
 ES 604,Engineering Optimization,3,0,0,4,Sai Praneeth(I),,,,"G1,G2
 (7/208)",,,,,,,
 ES 662,"Flexible Electronics: Materials, Methods and Devices",3,0,0,4,Biswajit Saha(I),,,,"I1,I2
@@ -476,7 +479,10 @@ ES 420,Industrial Control and Process Instrumentation,3,0,3,5,S. Rajendran(I+L),
 (EE Lab)",Course plan,,,,
 ES 422,Semiconductor Foundry Engineering,3,0,0,4,Amitabh Jain(I),25,,,"L1,L2
 (7/106)",,,,,,,
-ES 679,RFIC Design (ES 421),3,0,3,5,"Kamla Prasan Ray(I),Tarun Kumar Agarwal(L)",25,,,"N2,P2
+ES 421,RFIC Design,3,0,3,5,"Kamla Prasan Ray(I),Tarun Kumar Agarwal(L)",25,,,"N2,P2
+(7/202)",,"B1,D1
+(EE Lab)",Course plan,,,,
+ES 679,RFIC Design,3,0,3,5,"Kamla Prasan Ray(I),Tarun Kumar Agarwal(L)",25,,,"N2,P2
 (7/202)",,"B1,D1
 (EE Lab)",Course plan,,,,
 EE 617,VLSI Design,3,0,0,4,Joycee Mekie(I),,,,"D1,D2
@@ -486,7 +492,10 @@ EE 644,Physics of Transistors,3,0,0,4,Sandip Lashkare(I),,,,"A1,A2
 EE 648,Dynamic Behaviour of Electric Machines,3,0,1.5,5,Ragavan K.(I+L),,,,"C1,C2
 (13/124)",,"I2
 (EE Lab)",DBEM course plan,,,,
-EE 671,Wireless System Design and Implementation (EE 434),1.5,0,3,4,Kartik Patel(I+L),15,,,"J1
+EE 434,Wireless System Design and Implementation,1.5,0,3,4,Kartik Patel(I+L),15,,,"J1
+(7/110)",,"A2,B2
+(EE Lab)",Course Plan,,,,
+EE 671,Wireless System Design and Implementation,1.5,0,3,4,Kartik Patel(I+L),15,,,"J1
 (7/110)",,"A2,B2
 (EE Lab)",Course Plan,,,,
 ES 616,Digital Control Systems,3,1,0,4,S. Rajendran(I+T),,,,"E1,E2
@@ -557,7 +566,7 @@ MSE 636,AI for Materials Engineering,3,0,1.5,4,Raghavan Ranganathan(I+L),,,,"E1,
 (7/204)",,"H1
 (MSE Lab)",,,,,
 MSE 624,Thermo-mechanical Processing,3,0,0,4,Amit Arora(I),,,,"M1,M2
-(7/104)",,,,,,,
+(7/104)",,,Course Outline,,,,
 MSE 631,Thermodynamics of Materials,3,0,0,4,Abhay Raj Singh Gautam(I),,,,"D1,D2
 (7/104)",,,,,,,
 ,,,,,,,,,,,,,,,,,
@@ -639,8 +648,8 @@ MA 642,Fourier Analysis on LCA Groups (first half),3,0,0,2,Bipul Saurabh(I),,,,"
 (7/207)",,,Course Plan,,,,
 MA 636,Introduction to Riemannian Geometry,3,0,0,4,TBD(I),,,,"L1,L2
 (7/103)",,,,,,,
-MA 643,Numerical Analysis for Partial Differential Equations,3,0,0,4,Abhinav Jha(I),,,,"P1,P2
-(13/124)",,,Course Plan,,,,
+MA 643,Numerical Analysis for Partial Differential Equations,3,0,0,4,Abhinav Jha(I),,,,"K1,K2
+(7/110)",,,Course Plan,,,,
 MA 691-II,Special Topics in Mathematics: Hilbert Modules,3,0,0,4,Gadadhar Misra(I),,,,"M1,M2
 (7/105)",,,Course Plan,,,,
 MA 691-VIII,Special Topics in Mathematics: Spectral Graph Theory,3,0,0,4,Projesh Nath Choudhury(I),,,,"J1,J2
@@ -709,14 +718,14 @@ EH 625,Environmental Geosciences,3,0,0,4,Achyut Mishra(I),,,,"P1,P2
 (7/201)",,,Course details,,,,
 EH 626,Reservoir Modelling and Simulation,3,0,0,4,Achyut Mishra(I),,,,"M1,M2
 (7/201)",,,Course details,,,,
-EH 627,Anthropocene: Human Impact on the Earth,3,0,0,4,Vikrant Jain(I),,,,"N1,N2
+EH 627,Anthropocene: Human Impact on the Earth,3,0,0,4,"Vikrant Jain(I),S. K. Tandon(I)",,,,"N1,N2
 (13/125)",,,https://drive.google.com/file/d/1Ako_ydenPXNgD0Gbye7kRTlY74I0OZ-9/view?usp=drive_link,,,,
 EH 634,Dynamic Earth Surface and Nature Hazards,1.5,0,3,4,Vikrant Jain(I+L),,,,"F1
-(7/102)",,"J1,L1
+(7/102)",,"B1,D1
 (EH Lab)",https://drive.google.com/file/d/18LniBcuUGOlWh2_yuM99ISU3EyR0q9yj/view?usp=sharing,,,,
 EH 638,Rock Mechanics and Rock Engineering,3,0,0,4,Manab Mukherjee(I),,,,"J1,J2
 (7/206)",,,Course Plan,,,,
-EH 639,Statistics for Earth Sciences,1.5,0,3,3,Utsav Mannu(I),,,,"J1
+EH 639,Statistics for Earth Sciences,1.5,0,3,4,Utsav Mannu(I),,,,"J1
 (7/103)",,"I1,K1
 (EH Lab)",Course Detail,,,,
 EH 691-III,Special Topics in Earth Science: Microwave Remote Sensing,3,0,0,4,Prem Chand Pandey(I),,,,"C1,C2
@@ -728,9 +737,9 @@ Additional Courses: Cognitive Science,,,,,,,,,,,,,,,,,
 CG 501,Computation and Cognition,3,0,0,4,Krishna Prasad Miyapuram(I),,,,"F1,F2
 (7/201)",,,Course Plan ,,,,BS
 CG 503,Fundamentals of Cognitive Psychology,3,0,0,4,Meera Mary Sunny(I),,,,"G1,G2
-(7/207)",,,,,,,BS
+(7/207)",,,Course plan ,,,,BS
 CG 504,Research Methods in Cognitive Science,1.5,0,1.5,4,Mahalakshmi Ramamurthy(I+L),,,,"J1,I1
-(7/109)",,,,,,,BS
+(7/109)",,,Course plan ,,,,BS
 CG 505,Fundamental Neuroscience,3,0,0,4,Pratik Mutha(I),,,,"D1,D2
 (7/208)",,,,,,,BS
 CG 606,Philosophy of Mind,3,0,0,4,Jaison A. Manjaly(I),,,,"C1,C2
@@ -780,14 +789,18 @@ HS 154,Mandarin for Beginners,3,0,0,4,Hao Tsung Kao (I),,,,"M1,M2
 (10/102)",,,,,,,
 HS 155,Mandarin for Beginners - II,3,0,0,4,Hao Tsung Kao (I),,,,"L1,L2
 (11/205)",,,,,,,
+HS 221,Introduction to Philosophy,3,0,0,4,Jaison Manjaly(I),,,,"N1,N2
+(Jasubhai Auditorium)",,,Course Outline,,,,
+HS 392,Special Topics in HSS: Competitiveness and Ethical Leadership (first half),3,0,0,2,Anurima Chatterjee(I),,,,"N1,P2
+(7/107)",,,,,,,
 MS 408,Financial Considerations in Engineering Decisions,3,0,0,4,K Chelvakumar(I),,,,"M1,M2
 (7/209)",,,https://docs.google.com/document/d/19J5s3WCoh9IF7OkWe3yKJvwg7GoFemiXVX8HBSubZCw/edit?usp=sharing,,,,
 MS 491,Special Topics in Management: Marketing Analytics,3,0,0,4,Marcos Severos(I),,,,"M1,M2
 (Online)",,,,,,,
 MS 491-XIII,"Special Topics in Management: An Introduction to Business, Organization & Finance",3,0,0,4,Praveen Gupta(I),,,,"P1,P2 (Jayshree S Sheth Learning Theatre)
 Saturday (10:30 AM–12:30 PM) (11/102)",,,,,,,
-MS 491-XVI,Special Topics in Management: Lean Six Sigma,3,0,0,4,Alok Bhatnagar(I),,,,"M1,M2
-()",,,,,,,
+MS 491-XVI,Special Topics in Management: Lean Six Sigma,3,0,0,4,Alok Bhatnagar(I),,,,"P1,P2
+(7/208)",,,,,,,
 MS 492-VIII,Special Topics in Management: Leadership Development & Executive Presence,3,0,0,2,Ramachandran Veetikazhi(I),,,,"L1,L2
 (7/105)",,,LD&EP_CLASSWISE SCHEDULE_IITGn_DrVeetikazhi_2026.pdf,,,,
 MS 492-IX,Special Topics in Management: Managing People and Workplace Behaviour,3,0,0,2,Ramachandran Veetikazhi(I),,,,"P1,P2
@@ -812,8 +825,8 @@ HS 515,The Politics of the Environment,3,0,0,4,Ambika Aiyadurai(I),,,,"C1,C2
 (7/105)",,,,,,,
 HS 520,Ancient Indian Architecture,3,0,0,4,V.N. Prabhakar(I),,,,"M1,M2
 (7/103)",,,HS 520_Course Plan.pdf,,,,
-HS 523,Quantitative Research Methods in Social Sciences,3,1,0,4,Praharsh Mohanlal Patel(I+T),,,,"G1,G2
-(7/202)","H1
+HS 523,Quantitative Research Methods in Social Sciences,3,1,0,4,Praharsh Mohanlal Patel(I+T),,,,"B1,B2
+(7/203)","H1
 (7/109)",,Syllabus_Quantitative Methods.docx,,,,
 HS 524,Qualitative Research Methods,3,0,0,4,Ambika Aiyadurai(I),,,,"M1,M2
 (10/103)",,,https://drive.google.com/file/d/1TfdWZS0PBr0eLMgLXqznxEMHsml2XuKO/view?usp=drive_link,,,,
