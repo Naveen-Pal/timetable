@@ -114,7 +114,7 @@ ES 221,Mechanics of Solids,3,1.5,0,4,Manish Kumar(I+T),,,,"G1,G2
 (7/101)",,Course Plan,,,,
 CE 203,Geospatial Engineering,1.5,0,3,3,Vimal Mishra(I+L),,,,"E2
 (7/101)",,"J1,L1
-(CE Lab)",,,,,
+(10/102)",,,,,
 EE 223,Electrical Machines,2,1,1.5,4,Ragavan K.(I+T+L),,,,"M1 (Jasubhai Auditorium)
 M2 (Jayshree S Sheth Learning Theatre)",,"I1,H1,J1,N1
 (EE Lab)",Electrical Machines,,,,
@@ -193,7 +193,7 @@ CE 301,Soil Mechanics,3,1,2,5,"Amit Prashant(I+T),Ajanta Sachan(L)",,,,"G1,G2
 (CE Lab)",,,,,
 CE 312,Design of Steel Structures,3,1,0,4,Gaurav(I+T),,,,"D1,D2
 (7/101)","B2
-(7/210)",,,,,,
+(7/210)",,https://gauravs.people.iitgn.ac.in/310.1_CE312_Fall2026.html,,,,
 CE 310,Hydrology and Hydraulics,3,0,1.5,4,Pranab Kumar Mohapatra(I+L),,,,"C1,C2
 (7/204)",,"J1
 (7/204)",Lesson Plan,,,,
@@ -342,9 +342,9 @@ BE 305,Origins of Species,3,0,0,4,Umashankar Singh(I),,,,"A1,A2
 (7/202)",,,BE305,,,,
 BE 404,Genetic Engineering – Principles and Applications,3,0,0,4,Sharmistha Majumdar(I),,,,"N1,N2
 (7/103)",,,BE404 course plan,,,,BS
-BE 614,Biostatistics,1.5,0,3,4,Ashutosh Srivastava(I+L),,,,"G1
-(7/201)",,"I1,K1
-(BE Lab)",BE614_course_description.pdf,,,,BS
+BE 614,Biostatistics,1.5,0,3,4,Ashutosh Srivastava(I+L),,,,"H2
+(7/201)",,"B1,D1
+(10/105)",BE614_course_description.pdf,,,,BS
 BE 616,Human Physiology,3,0,0,4,Karla Patricia Mercado-Shekhar(I),,,,"E1,E2
 (7/106)",,,BE 616 Human Physiology Course Plan Sem I 2026-27.pdf,,,,BS
 BE 618,Molecular Biotechnology ,1.5,0,3,4,Subramanian Sankaranarayanan(I+L),,,,"G2
@@ -357,8 +357,8 @@ BE 622,Applied Stem Cells Technologies,3,0,0,4,Dhiraj D Bhatia(I),,,,"A1,A2
 (7/204)",,,https://docs.google.com/document/d/1KdClKDUCfOw-lyAqLro2DI1JBJnyJZJy/edit?usp=sharing&ouid=114828150794801814953&rtpof=true&sd=true,,,,BS
 BE 623,Biocomputing,0,0,3,2,Ashutosh Srivastava(I+L),,,,,,"K2,L2
 (10/104)",BE623_course_description.pdf,,,,
-BE 625,AI Applications in Life Sciences,3,0,0,4,Sharad Gupta(I),,,,"D1,D2
-(7/103,7/110)",,,Course Plan,,,,
+BE 625,AI Applications in Life Sciences,3,0,0,4,Sharad Gupta(I),,,,"G1 (7/101)
+D2 (7/110)",,,Course Plan,,,,
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Civil Engineering																	,,,,,,,,,,,,,,,,,
 CE 315,Civil Engineering Materials,3,0,0,4,Krishna Siva Teja Chopperla(I),,,,"J1,J2
@@ -542,6 +542,8 @@ ES 621,Advanced Solid Mechanics,3,0,0,4,Harmeet Singh(I),,,,"D1,D2
 ME 639,Introduction to Robotics,3,0,1.5,5,Madhu Vadali(I+L),,,,"M1,M2
 (7/203)",,"P1
 (ME Lab)",Course Org,,,,
+ME 640,Fracture Mechanics,3,0,0,4,Ravi Sastri Ayyagari(I),,,,"E1,E2
+(7/110)",,,,,,,
 ES 646,Elastodynamics and Vibrations,3,0,0,4,K.R. Jayaprakash(I),,,,"G1,G2
 (13/125)",,,Course plan,,,,
 ME 648,Mathematical Tools for Mechanical Engineers,3,1,0,4,Dilip S. Sundaram(I+T),,,,"C1,C2
@@ -722,7 +724,7 @@ EH 627,Anthropocene: Human Impact on the Earth,3,0,0,4,"Vikrant Jain(I),S. K. Ta
 (13/125)",,,https://drive.google.com/file/d/1Ako_ydenPXNgD0Gbye7kRTlY74I0OZ-9/view?usp=drive_link,,,,
 EH 634,Dynamic Earth Surface and Nature Hazards,1.5,0,3,4,Vikrant Jain(I+L),,,,"F1
 (7/102)",,"B1,D1
-(EH Lab)",https://drive.google.com/file/d/18LniBcuUGOlWh2_yuM99ISU3EyR0q9yj/view?usp=sharing,,,,
+(10/104)",https://drive.google.com/file/d/18LniBcuUGOlWh2_yuM99ISU3EyR0q9yj/view?usp=sharing,,,,
 EH 638,Rock Mechanics and Rock Engineering,3,0,0,4,Manab Mukherjee(I),,,,"J1,J2
 (7/206)",,,Course Plan,,,,
 EH 639,Statistics for Earth Sciences,1.5,0,3,4,Utsav Mannu(I),,,,"J1
@@ -760,13 +762,13 @@ CG 691-VIII,Special Topics in Cognitive Sciences: Advanced Writing for Cognitive
 "Additional Courses HSS, MS, Design, IN",,,,,,,,,,,,,,,,,
 FP 602,Writing (For Engineering PhD students and MTech Students),1,0,3,4,Sharmita Lahiri(I+L),,,,"H1
 (Jasubhai Auditorium)",,"P1,P2
-(7/101,7/102,7/103,7/104,7/105,7/204,7/205,7/206)",https://drive.google.com/file/d/1CA1z_AAB4S7DtStNdOVW2gCOzdfAi1E1/view?usp=sharing,,,,
+(7/101,7/102,7/103,7/104,7/105,7/204,7/205,7/206,7/207)",https://drive.google.com/file/d/1CA1z_AAB4S7DtStNdOVW2gCOzdfAi1E1/view?usp=sharing,,,,
 FP 602 (MA),Writing (PG Mathematics),1,0,3,4,Indranath Sengupta(I+L),,,,"H1
 (Jayshree S Sheth Learning Theatre)",,"P1,P2
 (7/108,7/109,7/110)",,,,,
 FP 602 (CG),Writing (PG Cognitive and Brain Science),1,0,3,4,Leslee Lazar(I+L),,,,"H2
 (Jayshree S Sheth Learning Theatre)",,"I1,K1
-(7/201,7/207,7/210,7/108)",,,,,
+(7/201,7/207,7/210,7/108)",FP-602 (CG) - Course Policy-.pdf,,,,
 FP 602 (CH),Writing (PG Chemistry),1.5,0,3,4,"Partha Pratim Roy(I),Manisha Samanta(L)",,,,"G1
 (7/209)",,"I1,K1
 (Surendra C Sheth Learning Theatre)",,,,,
@@ -775,7 +777,7 @@ HS 104,Foundational Sanskrit,3,1,0,4,Mana A Shah(I+T),,,,"L1,L2
 (7/103)",,https://docs.google.com/document/d/1nE3ISsoIzfwDzc-OcSw82HHaf_h8qIOMmaKJBaQhl4Y/edit?usp=sharing,,,,
 HS 111,Urdu script and poetry,3,1,0,4,Mohd. Mubashshir Ahsan(I+T),,,,"G1,G2
 (7/206)","H2
-(13/124)",,https://drive.google.com/file/d/1HwlXAVgHAIkaaCPwHk_-fg4Dcu9uETlg/view?usp=drive_link,,,,
+(13/124)",,https://docs.google.com/document/d/1Z6Y-tkPtrLE9OhBIJF7T8y2HDJrxH3DiVPpC4nOOOBs/edit?usp=sharing,,,,
 HS 112,Urdu poetry interpretation,3,1,0,4,Mohd. Mubashshir Ahsan(I+T),,,,"F1,F2
 (7/105)","M1
 (7/101)",,https://drive.google.com/file/d/1HwlXAVgHAIkaaCPwHk_-fg4Dcu9uETlg/view?usp=drive_link,,,,

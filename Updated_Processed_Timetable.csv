@@ -43,7 +43,7 @@ Chemical Process Calculations,CL 201,"G1,G2",I1,,3.0,10/102,11/101,
 Data Structures and Algorithms I,ES 242,"G1,G2",,I1,4.0,10/103,,"10/104,10/105,10/203,10/204"
 "Signals, Systems, and Random Processes",ES 244,"D1,D2",H2,,4.0,10/103,10/103,
 Mechanics of Solids,ES 221,"G1,G2",A1,,4.0,7/210,7/101,
-Geospatial Engineering,CE 203,E2,,"J1,L1",3.0,7/101,,CE Lab
+Geospatial Engineering,CE 203,E2,,"J1,L1",3.0,7/101,,10/102
 Electrical Machines,EE 223,"M1 , M2",,"I1,H1,J1,N1",4.0,"Jasubhai Auditorium, Jayshree S Sheth Learning T...",,EE Lab
 Transport Phenomena in Materials Engineering,MSE 204,"J1,K2",H2,,4.0,Harsha Patel Learning Theatre,Harsha Patel Learning Theatre,
 Statics and Dynamics,ME 206,"G1,G2",,I1,4.0,Jagdish Patel Learning Thea...,,ME Lab
@@ -89,13 +89,13 @@ Physical Education (For 2022 M Tech and PhD students),PE 600,,,,0.0,,,
 Bionanotechnology – Principles and Applications,BE 303,"F1,F2",,,4.0,7/101,,
 Origins of Species,BE 305,"A1,A2",,,4.0,7/202,,
 Genetic Engineering – Principles and Applications,BE 404,"N1,N2",,,4.0,7/103,,
-Biostatistics,BE 614,G1,,"I1,K1",4.0,7/201,,BE Lab
+Biostatistics,BE 614,H2,,"B1,D1",4.0,7/201,,10/105
 Human Physiology,BE 616,"E1,E2",,,4.0,7/106,,
 Molecular Biotechnology ,BE 618,G2,,"J1,L1",4.0,7/101,,BE Lab
 Peptide Technologies ,BE 621,C1,,"I2,M1",2.0,13/125,,BE Lab
 Applied Stem Cells Technologies,BE 622,"A1,A2",,,4.0,7/204,,
 Biocomputing,BE 623,,,"K2,L2",2.0,,,10/104
-AI Applications in Life Sciences,BE 625,"D1,D2",,,4.0,"7/103,7/110",,
+AI Applications in Life Sciences,BE 625,"G1 , D2",,,4.0,"7/101, 7/110",,
 Civil Engineering Materials,CE 315,"J1,J2",,,4.0,7/101,,
 Integrated Waste Management and Circular Economy,CE 316,"I1,I2",,,4.0,Harsha Patel Learning Theatre,,
 River Engineering,CE 624,"G1,G2",,,4.0,7/204,,
@@ -172,6 +172,7 @@ Foundations of Fluid Dynamics,ES 607,"G1,G2",M1,,4.0,7/105,Jayshree S Sheth Lear
 Computational Fluid Dynamics,ME 605,"M1,M2",K1,,4.0,5/202,7/109,
 Human-Robot Interaction,ES 656,"L1,L2",,,4.0,7/201,,
 Introduction to Robotics,ME 639,"M1,M2",,P1,5.0,7/203,,ME Lab
+Fracture Mechanics,ME 640,"E1,E2",,,4.0,7/110,,
 Elastodynamics and Vibrations,ES 646,"G1,G2",,,4.0,13/125,,
 Mathematical Tools for Mechanical Engineers,ME 648,"C1,C2",H2,,4.0,7/210,7/210,
 Special Topics in Mechanical Engineering: Wind Engineering,ME 692-X,J2,,M2,2.0,7/203,,ME Lab
@@ -242,7 +243,7 @@ Applied Micropaleontology,EH 624,"M1,M2",,,4.0,7/107,,
 Environmental Geosciences,EH 625,"P1,P2",,,4.0,7/201,,
 Reservoir Modelling and Simulation,EH 626,"M1,M2",,,4.0,7/201,,
 Anthropocene: Human Impact on the Earth,EH 627,"N1,N2",,,4.0,13/125,,
-Dynamic Earth Surface and Nature Hazards,EH 634,F1,,"B1,D1",4.0,7/102,,EH Lab
+Dynamic Earth Surface and Nature Hazards,EH 634,F1,,"B1,D1",4.0,7/102,,10/104
 Rock Mechanics and Rock Engineering,EH 638,"J1,J2",,,4.0,7/206,,
 Statistics for Earth Sciences,EH 639,J1,,"I1,K1",4.0,7/103,,EH Lab
 Special Topics in Earth Science: Microwave Remote Sensing,EH 691-III,"C1,C2",,,4.0,7/103,,
