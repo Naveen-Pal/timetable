@@ -7,7 +7,7 @@ import pandas as pd
 from flask import Flask, jsonify, render_template, request, Response
 from flask_cors import CORS
 from icalendar import Calendar, Event
-from csv-filter import get_available_courses 
+from csv_filter import get_available_courses 
 
 app = Flask(__name__, template_folder="templates")
 app.secret_key = os.urandom(24)
