@@ -1,7 +1,7 @@
 Course Number,Course Name,L,T,P,C,Name of the Instructors and Tutors,Capacity,Number of Students,Sections,Lecture,Tutorial,Lab,Link To Course Plan,Preferred Knowledge Equivalent to,Remarks,Minor in,HSS/BS elective
 First Year (2026),,,,,,,,,,,,,,,,,
 FP 100,Foundation Programme,0,0,0,4,"Achyut Mishra(I),Mahalakshmi Ramamurthy(I),Satyakam Kar(I),Kartik Patel(I),Sandip Lashkare(I),Anagh Bhaumik(I)",,,,,,,,,,,
-ES 101 (E),Engineering Graphics,1.5,0,1.5,3,"Hari Sai Ganesh(I+L),Soumajit Dutta(L),Sameer Patel(L),S.R.Gandhi(L),Sai Praneeth(L),K.R. Jayaprakash(L)",,,,"E1
+ES 101 (E),Engineering Graphics,1.5,0,1.5,3,"Hari Sai Ganesh(I+L),Soumajit Dutta(L),Sameer Patel(L),S.R.Gandhi(L),Sai Praneeth(L),K.R. Jayaprakash(L),Uthraa K R(GTF/L),Prince Vats(GTF/L)",,,,"E1
 (Jasubhai Auditorium)",,"N1,N2
 (Surendra C Sheth Learning Theatre,Jayshree S Sheth Learning Theatre,10/203,10/204,7/208,7/209,Jagdish Patel Learning Theatre,Harsha Patel Learning Theatre,10/104,10/105,11/101,11/102)",Course Plan,,,,
 ES 101 (H),Engineering Graphics,1.5,0,1.5,3,Sameer Patel(I),,,,"E1
@@ -308,11 +308,11 @@ MSE 313,"Polymers, Ceramics and Composites",3,0,1.5,4,Abhijit Mishra(I+L),,,,"E1
 (7/105)",,"K1
 (MSE Lab)",https://docs.google.com/document/d/1M2_czf-0yC-0w2R-K1vtllVxyzIcHId4/edit?usp=sharing&ouid=107364619680903589902&rtpof=true&sd=true,,,,
 MSE 304,Principles of Metal Extraction and Refining,3,0,0,4,S.P. Mehrotra(I),,,,"J1,J2
-(7/105)",,,,,,,
+(7/105)",,,Course Plan,,,,
 MSE 317,Materials Processing,2,1,1.5,4,"Emila Panda(I+T+L),Pradipta Ghosh(I+T+L)",,,,"D1,D2
 (11/206)","I2
 (11/206)","I1
-(MSE Lab)",,,,,
+(MSE Lab)",https://drive.google.com/file/d/1jxK2NU_AkUNFHAiWbOCLyzjTBDTHdOId/view?usp=sharing,,,,
 HS XXX,HSS Elective,,,,,,,,,,,,,,,,
 IN 105,Comprehensive Viva Voce,0,0,0,0,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,
@@ -369,8 +369,6 @@ CE 624,River Engineering,3,0,0,4,Subhasish Dey(I),,,,"G1,G2
 (7/204)",,,,,,,
 CE 642,Integrated Waste Management and Circular Economy,3,0,0,4,Abhishek Singhal(I),,,,"I1,I2
 (Harsha Patel Learning Theatre)",,,Course Plan,,,,
-CL 353,Introduction to Process Safety,1.5,0,0,2,Chinmay Ghoroi(I),,,,"B1
-(Harsha Patel Learning Theatre)",,,,,,,
 CE 601,Advanced Geotechnical Engineering,3,0,3,5,Ajanta Sachan(I+L),,,,"K1,L1
 (7/209)",,"J2,M2
 (CE Lab)",CE 601 Course plan.,,,,
@@ -407,6 +405,8 @@ Additional Courses: Chemical Engineering																	,,,,,,,,,,,,,,,,,
 CL 324,Introduction to Polymer Science and Engineering,3,0,0,4,,,,,,,,,,,,
 CL 328,Chemical Engineering Practice in Industry,1.5,0,0,2,"Kaustubh S Rane(I),Nitin U. Padhiyar(I)",,,,"P2
 (11/102)",,,Course plan,,,,
+CL 353,Introduction to Process Safety,1.5,0,0,2,Chinmay Ghoroi(I),,,,"B1
+(Harsha Patel Learning Theatre)",,,,,,,
 CL 426,Biochemical Engineering,3,0,0,4,Karthik Subramaniam Pushpavanam(I),,,,"F1,F2
 (7/106)",,,,,,,
 BS 401,Nanoscale Science,3,0,0,4,Kabeer Jasuja(I),,,,"M1,M2
@@ -426,7 +426,7 @@ CL 633,Applications of AI in ChE,3,1,0,4,Nitin U. Padhiyar(I+T),,,,"H1,N2
 CL 635,Integrated Principles of Chemical Engineering,3,0,0,4,Sameer Dalvi(I),,,,"J1,K1
 (7/208)",,,CL 635-Course Plan,,,,
 ES 604,Engineering Optimization,3,0,0,4,Sai Praneeth(I),,,,"G1,G2
-(7/208)",,,,,,,
+(7/208)",,,ES 604 course plan,,,,
 ES 662,"Flexible Electronics: Materials, Methods and Devices",3,0,0,4,Biswajit Saha(I),,,,"I1,I2
 (7/203)",,,https://iitgnacin-my.sharepoint.com/:w:/g/personal/bsaha_iitgn_ac_in/IQAgc6De535kTI5BHvkyh-otASKy5pbIjDA1L5r_GBQxboI?e=Qyd2Li,,,,
 ,,,,,,,,,,,,,,,,,
@@ -437,7 +437,7 @@ ES 248,Introduction to Data Structures and Algorithms,1.5,0,3,3,"Anup Kalbalia(I
 CS 435,Human-Computer Interaction,3,0,0,4,Yogesh Kumar Meena(I),,,,"J1,P2
 (11/101)",,,Course webpage,,,,
 CS 437,AI-Assisted Software Development Lab,0,0,3,2,"Arjun Arul(L),Anup Kalbalia(L)",,,,,,"M1,P1
-(10/105)",,,,,
+(10/105)",https://docs.google.com/document/d/15bylbWLm5ylzU4_RrZUUwUBbkBrQozCJfZginxrwfns/edit?usp=drivesdk,,,,
 CS 610,Algorithms,3,0,0,4,Bireswar Das(I),,,,"G1,G2
 (7/109)",,,Course Plan,,,,
 CS 612,Computer Systems,3,0,0,4,Ajay Singh(I),,,,"A1,A2
@@ -558,7 +558,7 @@ MSE 352,Material Characterization Techniques,1.5,0,3,4,Emila Panda(I+L),,,,"N2,P
 (10/102)",,"L1,N1
 (MSE Lab)",,,,,
 MSE 604,Deformation Behaviour of Materials,3,0,0,4,Pradipta Ghosh(I),,,,"K1,K2
-(7/206)",,,,,,,
+(7/206)",,,Course Pan,,,,
 MSE 629,Structure and Defects of Materials,3,0,0,4,Prafull Pandey(I),,,,"F1,F2
 (10/102)",,,,,,,
 MSE 632,Characterization of Materials,3,0,3,4,Sriharitha Rowthu(I+L),,,,"G1,G2
@@ -800,9 +800,9 @@ MS 408,Financial Considerations in Engineering Decisions,3,0,0,4,K Chelvakumar(I
 MS 491,Special Topics in Management: Marketing Analytics,3,0,0,4,Marcos Severos(I),,,,"M1,M2
 (Online)",,,,,,,
 MS 491-XIII,"Special Topics in Management: An Introduction to Business, Organization & Finance",3,0,0,4,Praveen Gupta(I),,,,"P1,P2 (Jayshree S Sheth Learning Theatre)
-Saturday (10:30 AM–12:30 PM) (11/102)",,,,,,,
+Saturday (10:30 AM–12:30 PM) (11/102)",,,https://docs.google.com/spreadsheets/d/1Q69LRre_CMxErJsZ7MDzi-Grju4LwzgJ/edit?usp=sharing&ouid=108217837746585842388&rtpof=true&sd=true,,,,
 MS 491-XVI,Special Topics in Management: Lean Six Sigma,3,0,0,4,Alok Bhatnagar(I),,,,"P1,P2
-(7/208)",,,,,,,
+(7/208)",,,Course Plan,,,,
 MS 492-VIII,Special Topics in Management: Leadership Development & Executive Presence,3,0,0,2,Ramachandran Veetikazhi(I),,,,"L1,L2
 (7/105)",,,LD&EP_CLASSWISE SCHEDULE_IITGn_DrVeetikazhi_2026.pdf,,,,
 MS 492-IX,Special Topics in Management: Managing People and Workplace Behaviour,3,0,0,2,Ramachandran Veetikazhi(I),,,,"P1,P2
@@ -833,7 +833,7 @@ HS 523,Quantitative Research Methods in Social Sciences,3,1,0,4,Praharsh Mohanla
 HS 524,Qualitative Research Methods,3,0,0,4,Ambika Aiyadurai(I),,,,"M1,M2
 (10/103)",,,https://drive.google.com/file/d/1TfdWZS0PBr0eLMgLXqznxEMHsml2XuKO/view?usp=drive_link,,,,
 HS 526,"Education, Technology and Society",3,0,0,4,Aditi Kothiyal(I),,,,"J1,J2
-(7/102)",,,https://drive.google.com/file/d/177KoxxgHJtDs3c5q9O0fdS-yg3TPBE8W/view?usp=sharing,,,,
+(7/102)",,,ETandS.pdf,,,,
 HS 610,A Critical Journey Through Select Thoughts and Theories,3,0,0,6,Arnapurna Rath(I),,,,"D1,D2
 (7/204)",,,A Critical Journey through Select Thoughts and Theories_January-April-2026_Sem-II.pdf,,,,
 HS 631,Digital Cultures and New Media,3,0,0,4,Arnapurna Rath(I),,,,"M1,M2
