@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
     let courseData = [];
     let totalCredits = 0;
     let timetableData = null;
+    let availableCourseCodes = null;
     
     // DOM elements
     const $ = id => document.getElementById(id);
@@ -21,7 +22,8 @@ document.addEventListener('DOMContentLoaded', function() {
         errorBox: $('error-box'),
         successBox: $('success-box'),
         selectedCoursesContainer: $('selected-courses-container'),
-        selectedCoursesList: $('selected-courses-list')
+        selectedCoursesList: $('selected-courses-list'),
+        clashToggle: $('clash-toggle')
     };
     
     // Initialize
@@ -44,6 +46,13 @@ document.addEventListener('DOMContentLoaded', function() {
         elements.searchField.addEventListener('input', e => renderCourseTable(e.target.value.toLowerCase()));
         elements.previewButton.addEventListener('click', () => validateAndGenerate(generateTimetable));
         elements.deselectAllButton.addEventListener('click', deselectAll);
+        elements.clashToggle.addEventListener('change', () => {
+            if (elements.clashToggle.checked) {
+                fetchAvailableForTable();
+            } else {
+                renderCourseTable(elements.searchField.value.toLowerCase());
+            }
+        });
         
         // Go to top button
         $('go-to-top').addEventListener('click', scrollToTop);
@@ -63,16 +72,50 @@ document.addEventListener('DOMContentLoaded', function() {
             course.code.toLowerCase().includes(searchQuery) || 
             course.name.toLowerCase().includes(searchQuery)
         );
+
+        if (elements.clashToggle && elements.clashToggle.checked && availableCourseCodes) {
+            filteredCourses.sort((a, b) => {
+                const aSafe = availableCourseCodes.includes(a.code) || selectedCourses.includes(a.code);
+                const bSafe = availableCourseCodes.includes(b.code) || selectedCourses.includes(b.code);
+                if (aSafe && !bSafe) return -1;
+                if (!aSafe && bSafe) return 1;
+                return 0; 
+            });
+        }
         
         if (filteredCourses.length === 0) {
             tbody.innerHTML = '<tr><td colspan="4">No courses found.</td></tr>';
             return;
         }
         
-        tbody.innerHTML = filteredCourses.map(course => `
-            <tr>
+        tbody.innerHTML = filteredCourses.map(course => {
+            const isMissingInstructor = !course.instructor || 
+                                        course.instructor === 'nan' || 
+                                        course.instructor === 'None' || 
+                                        course.instructor.trim() === '';
+            const instructor = isMissingInstructor ? 'Instructor not assigned' : course.instructor;
+            const hasPlan = (course.plan_link && course.plan_link !== 'nan' && course.plan_link.trim() !== '');
+            
+            // Generate link HTML if a course plan exists
+            const planLinkHtml = hasPlan 
+                ? ` <a href="${course.plan_link}" target="_blank" style="color: #0056b3; margin-left: 5px;" title="View Course Plan"><i class="fa fa-external-link"></i></a>` 
+                : '';
+
+            let isClashing = false;
+            if (elements.clashToggle && elements.clashToggle.checked && availableCourseCodes && selectedCourses.length > 0) {
+                if (!availableCourseCodes.includes(course.code) && !selectedCourses.includes(course.code)) {
+                    isClashing = true;
+                }
+            }
+
+            const rowOpacity = isClashing ? 'opacity: 0.4; background-color: #f8f9fa;' : '';
+            const rowTitle = isClashing ? 'Clashes with your selected courses' : `Instructor(s): ${instructor}`;
+            const checkboxDisabled = isClashing ? 'disabled' : '';
+            
+            return`
+            <tr title="Instructor(s): ${instructor}" style="${rowOpacity}">
                 <td>${course.code}</td>
-                <td>${course.name}</td>
+                <td>${course.name}${planLinkHtml}</td>
                 <td>${course.credits}</td>
                 <td>
                     <div class="course-checkbox-wrapper">
@@ -81,7 +124,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     </div>
                 </td>
             </tr>
-        `).join('');
+        `}).join('');
         
         // Add event listeners to checkboxes
         tbody.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
@@ -98,6 +141,9 @@ document.addEventListener('DOMContentLoaded', function() {
             if (!selectedCourses.includes(courseCode)) {
                 selectedCourses.push(courseCode);
                 totalCredits += creditsNum;
+                if(elements.clashToggle && elements.clashToggle.checked) {
+                    fetchAvailableForTable();
+                }
             }
         } else {
             const index = selectedCourses.indexOf(courseCode);
@@ -109,6 +155,9 @@ document.addEventListener('DOMContentLoaded', function() {
         
         updateTotalCredits();
         updateSelectedCourses();
+        if (elements.clashToggle && elements.clashToggle.checked) {
+            fetchAvailableForTable();
+        }
     }
     
     // Update total credits display
@@ -150,6 +199,12 @@ document.addEventListener('DOMContentLoaded', function() {
             renderCourseTable(elements.searchField.value.toLowerCase());
             updateSelectedCourses();
             showMessage(`${courseCode} removed from selection.`, 'success');
+
+            if (elements.clashToggle && elements.clashToggle.checked) {
+                fetchAvailableForTable(); 
+            } else {
+                renderCourseTable(elements.searchField.value.toLowerCase());
+            }
         }
     };
     
@@ -162,6 +217,7 @@ document.addEventListener('DOMContentLoaded', function() {
         elements.timetableContainer.innerHTML = '';
         elements.downloadOptions.style.display = 'none';
         elements.selectedCoursesContainer.style.display = 'none';
+        elements.suggestedCoursesContainer.style.display = 'none';
         showMessage('All courses deselected.', 'success');
     }
     
@@ -364,4 +420,26 @@ document.addEventListener('DOMContentLoaded', function() {
             behavior: 'smooth'
         });
     }
+
+    function fetchAvailableForTable() {
+        if (selectedCourses.length === 0) {
+            availableCourseCodes = null; 
+            renderCourseTable(elements.searchField.value.toLowerCase());
+            return;
+        }
+        
+        fetch('/api/available-courses', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ courses: selectedCourses })
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (!data.error) {
+                availableCourseCodes = data.courses.map(c => c.code || c['Course Number']);
+                renderCourseTable(elements.searchField.value.toLowerCase());
+            }
+        });
+    }
+    
 });

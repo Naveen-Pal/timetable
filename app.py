@@ -7,6 +7,7 @@ import pandas as pd
 from flask import Flask, jsonify, render_template, request, Response
 from flask_cors import CORS
 from icalendar import Calendar, Event
+from csv_filter import get_available_courses 
 
 app = Flask(__name__, template_folder="templates")
 app.secret_key = os.urandom(24)
@@ -38,6 +39,8 @@ def get_courses():
                 "code": row["Course Number"],
                 "name": row["Course Name"],
                 "credits": row["Credit"],
+                "instructor": str(row.get("Instructor", "")),
+                "plan_link": str(row.get("Course Plan", ""))
             }
             for _, row in timetable_data.iterrows()
             if not pd.isna(row["Credit"])
@@ -105,6 +108,22 @@ def get_timetable():
         return jsonify({"error": f"Failed to generate timetable: {str(e)}"}), 500
 
 
+@app.route('/api/available-courses', methods=['POST'])
+def available_courses():
+    try:
+        data = request.get_json()
+        selected_courses = data.get('courses', [])
+        matches = get_available_courses(selected_courses, 'Timetable.csv')
+        
+        return jsonify({
+            'success': True, 
+            'courses': matches
+        })
+    except Exception as e:
+        print(f"Error generating suggestions: {e}")
+        return jsonify({"error": "An error occurred while fetching course suggestions."}), 500
+
+    
 @app.route("/api/download-ics", methods=["POST"])
 def download_ics():
     try:

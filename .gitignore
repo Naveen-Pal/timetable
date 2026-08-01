@@ -1,6 +1,8 @@
 .venv/
 token.pickle
 .env
+credentials.json
+token_b64.txt
 
 # Testing
 .pytest_cache/
