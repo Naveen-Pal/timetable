@@ -12,8 +12,8 @@ MA 103 (E),Calculus of Single Variable and Linear Algebra,3,1.5,0,4,"Abhinav Jha
 MA 103 (H),Calculus of Single Variable and Linear Algebra,3,1.5,0,4,"Abhinav Jha(I+T),Sudeshna Roy(I+T)",,,,"F1,F2
 (7/109,7/203)",,,https://drive.google.com/file/d/1d0RhjkTuC7e_2ltABtkgR9GeBQWXK6gt/view?usp=sharing,,,,
 ES 112 (E),Computing,3,0,3,4,Shouvick Mondal(I+L),,,,"D1,D2
-(Jasubhai Auditorium)",,"J1,L1
-(10/104,10/105,10/203,10/204,Surendra C Sheth Learning Theatre)",https://docs.google.com/document/d/1dARPkWk7oEEVaBsc9wIZvHxwGhbiouv9HakxrYSI0h4/edit?usp=sharing,,B.Tech. ONLY,,
+(Jasubhai Auditorium)",,"J2 (10/103,10/104,10/105)
+P1 (10/105,10/204,Jagdish Patel Learning Theatre,Harsha Patel Learning Theatre)",https://docs.google.com/document/d/1dARPkWk7oEEVaBsc9wIZvHxwGhbiouv9HakxrYSI0h4/edit?usp=sharing,,B.Tech. ONLY,,
 ES 112 (H),Computing,3,0,3,4,Shouvick Mondal(I+L),,,,"A2,C2
 (Harsha Patel Learning Theatre)",,,https://docs.google.com/document/d/1dARPkWk7oEEVaBsc9wIZvHxwGhbiouv9HakxrYSI0h4/edit?usp=sharing,,B.Tech. ONLY,,
 ES 115 (E),"Design, Innovation, and Prototyping",1.5,0,3,5,"K Chelvakumar(I+L),Manasi Anand Kanetkar(I+L),Malay Dhamelia(I+L)",,,,"E2
@@ -23,7 +23,7 @@ ES 115 (H),"Design, Innovation, and Prototyping",1.5,0,3,5,"K Chelvakumar(I+L),M
 (7/209)",,,,,,,
 HS 191,Introduction to writing I,1,3,0,2,Jooyung Kim(I+T),,,,,"B1,B2
 (7/101,7/102,7/103,7/104,7/201,7/207,7/208,7/209,7/109,11/101)",,https://docs.google.com/document/d/1ckYtp1ER3XJ_86QWtu9mY6RUeYxUT-iIm25mHQ9PfSw/edit?tab=t.0,,,,
-BS 192,Undergraduate Science Laboratory,0,0,3,3,"Partha Pratim Roy(I+L),Priya Tiwari(T),Naveen Sisodia(L),Priyabrata Ghana(L)",,,,,,"I1,K1,I2,M1,K2,L2,M2,P2
+BS 192,Undergraduate Science Laboratory,0,0,3,3,"Partha Pratim Roy(I+L),Priya Tiwari(T),Chandan Kumar(T),Naveen Sisodia(L),Priyabrata Ghana(L)",,,,,,"I1,K1,I2,M1,K2,L2,M2,P2
 (PH Lab)",Course_Policy_Chemistry_Physics.pdf,,,,
 PE 101,Physical Education,0,0,0,0,,,,,,,,,,,,
 IN 101,Comprehensive Viva Voce,0,0,0,0,,,,,,,,,,,,
@@ -41,7 +41,7 @@ HS 001,Preparatory Courses,3,0,0,4,Aditi Kothiyal(I),,,,"G1,G2
 Second Year (2025),,,,,,,,,,,,,,,,,
 CL 202,Chemical Engineering Thermodynamics,2,1,0,3,Kaustubh S Rane(I+T),,,,"A1,A2
 (7/109)","A1,A2
-(7/109)",,https://docs.google.com/document/d/1N_SDsI0k6nRLghiboiZiFI0eYUD-DEbN/edit?usp=sharing&rtpof=true&sd=true,,,,
+(7/109)",,https://docs.google.com/document/d/1iLomF3xbnss6e7bxCiaWdNX2dH7iS6zNzz_cTWwbuaQ/edit?usp=sharing,,,,
 CL 203,Process Fluid Mechanics,2,1,0,3,Abinaya Sampath(I+T),,,,"E1,E2
 (7/208)","E1,E2
 (7/208)",,https://drive.google.com/file/d/1Gvd40vpa5zTfV5A5ibZG0gcXMR0eayFP/view?usp=sharing,,,,
@@ -115,8 +115,8 @@ ES 221,Mechanics of Solids,3,1.5,0,4,Manish Kumar(I+T),,,,"G1,G2
 CE 203,Geospatial Engineering,1.5,0,3,3,Vimal Mishra(I+L),,,,"E2
 (7/101)",,"J1,L1
 (10/102)",,,,,
-EE 223,Electrical Machines,2,1,1.5,4,Ragavan K.(I+T+L),,,,"M1 (Jasubhai Auditorium)
-M2 (Jayshree S Sheth Learning Theatre)",,"I1,H1,J1,N1
+EE 223,Electrical Machines,2,1,1.5,4,Ragavan K.(I+T+L),,,,"M1,M2
+(Surendra C Sheth Learning Theatre)",,"I1,H1,J1,N1
 (EE Lab)",https://drive.google.com/file/d/12QVGXFPpgdC4SI_c4nVJdnYjmwEeflr6/view?usp=sharing,,,,
 MSE 204,Transport Phenomena in Materials Engineering,3,1,0,4,Amit Arora(I+T),,,,"J1,K2
 (Harsha Patel Learning Theatre)","H2
@@ -390,7 +390,7 @@ CE 635,Pavement Materials and Design,3,0,0,4,Sushobhan Sen(I),,,,"C1,C2
 CE 637,Infrastructure Systems: Planning and Management,3,0,0,4,Udit Bhatia(I),,,,"E1,E2
 (7/209)",,,https://infra2026.floodresq.com/,,,,
 CE 638,Advanced Concrete Technology,3,0,0,4,Krishna Siva Teja Chopperla(I),,,,"C1,C2
-(11/205)",,,https://iitgnacin-my.sharepoint.com/:b:/g/personal/siva_chopperla_iitgn_ac_in/IQDViUd4Rm2jQ5lweXtnY_YbAVSy0yPJ510k8dxXX30yl7U?e=Pp67wQ,,,,
+(7/202)",,,https://iitgnacin-my.sharepoint.com/:b:/g/personal/siva_chopperla_iitgn_ac_in/IQDViUd4Rm2jQ5lweXtnY_YbAVSy0yPJ510k8dxXX30yl7U?e=Pp67wQ,,,,
 CE 640,Hydrodynamics of Sediment Transport,3,0,0,4,Subhasish Dey(I),,,,"M1,M2
 (7/109)",,,https://docs.google.com/document/d/1qTdZyUilgbww7hzate9tt6ZaH0--F9EU/edit?usp=share_link&ouid=108119040002855153213&rtpof=true&sd=true,,,,
 CE 691-VI,Special Topics in Civil Engineering: Domestic Wastewater Engineering (Treatment and Reuse),3,0,0,4,Sudhir Kumar Arora(I),,,,"G1,G2
@@ -488,8 +488,8 @@ EE 617,VLSI Design,3,0,0,4,Joycee Mekie(I),,,,"D1,D2
 (Surendra C Sheth Learning Theatre)",,,https://docs.google.com/document/d/1Yd1UWR5dlTjHVpQrEvGT5XebozcdRpaulQbP5kYYbHE/edit?usp=sharing,,,,
 EE 644,Physics of Transistors,3,0,0,4,Sandip Lashkare(I),,,,"E2,H2
 (11/101)",,,https://iitgnacin-my.sharepoint.com/:b:/g/personal/sandip_lashkare_iitgn_ac_in/IQCB5CYF5hrKQKJrK0ATpMB3AcSsNovmoEeK0Ns31IyTy9I?e=Y2hwtF,,,,
-EE 648,Dynamic Behaviour of Electric Machines,3,0,1.5,5,Ragavan K.(I+L),,,,"C1,C2
-(13/124)",,"I2
+EE 648,Dynamic Behaviour of Electric Machines,3,0,1.5,5,Ragavan K.(I+L),,,,"C1,A2
+(11/102)",,"I2
 (EE Lab)",https://drive.google.com/file/d/127It-hnkS17e9gmGGFruDWSYVQAST0dI/view?usp=sharing,,,,
 EE 434,Wireless System Design and Implementation,1.5,0,3,4,Kartik Patel(I+L),15,,,"J1
 (7/110)",,"A2,B2
@@ -584,7 +584,7 @@ CH 302,Electrochemical Science and Engineering,3,1,0,4,Sudhanshu Sharma(I+T),,,,
 CH 506,Physical Organic Chemistry,3,0,0,4,Kuljeet Kaur(I),,,,"A1,A2
 (7/107)",,,https://drive.google.com/file/d/1I2oe8jr08K0lhzyKZWHxWLJBmy-5uLle/view?usp=sharing,,,,BS
 CH 511,Quantum Chemistry,3,0,0,4,Anirban Mondal(I),,,,"F1,F2
-(7/202)",,,https://drive.google.com/file/d/1XEEqhDckROp6hc2T8junq4VnEOqgLkYV/view?usp=drive_link,,,,BS
+(7/209)",,,https://drive.google.com/file/d/1XEEqhDckROp6hc2T8junq4VnEOqgLkYV/view?usp=drive_link,,,,BS
 CH 513,Advanced Organic Chemistry,3,0,0,4,Sivapriya Kirubakaran(I),,,,"C1,C2
 (7/106)",,,https://docs.google.com/document/d/19iUzT5ju2-TF4lM4pmuEiSdFvsBtT20DGIyXNMBUdi8/edit?tab=t.0,,,,BS
 CH 528,Transition Metal Chemistry,3,0,0,4,Priyabrata Ghana(I),,,,"J1,J2
@@ -717,8 +717,8 @@ EH 618,Computational Tools for Earth System Modeling,0,0,6,4,Utsav Mannu(L),,,,,
 EH 619,Geobiology,3,0,0,4,Sonal Khanolkar(I),,,,"E1,E2
 (7/201)",,,https://docs.google.com/document/d/18g4dsyA4wiFEFUEhOuIkMSusFLqUo69X/edit?usp=sharing&ouid=110875805035146007034&rtpof=true&sd=true,,,,
 EH 620,Sequence Stratigraphy,1.5,0,3,4,Pankaj Khanna(I+L),,,,"F2
-(11/101)",,"K2,L2
-(11/101)",https://drive.google.com/file/d/146y5crnH01yYh26pHw38UiwAzbbAVMiD/view?usp=sharing,,,,
+(EH Lab)",,"K2,L2
+(EH Lab)",https://drive.google.com/file/d/146y5crnH01yYh26pHw38UiwAzbbAVMiD/view?usp=sharing,,,,
 EH 624,Applied Micropaleontology,3,0,0,4,Sonal Khanolkar(I),,,,"M1,M2
 (7/107)",,,https://docs.google.com/document/d/1YDCjd2zAPYgx1DB-VtU9oBmg-0df6eyE/edit?usp=drive_link&ouid=110875805035146007034&rtpof=true&sd=true,,,,
 EH 625,Environmental Geosciences,3,0,0,4,Achyut Mishra(I),,,,"P1,P2
@@ -726,7 +726,7 @@ EH 625,Environmental Geosciences,3,0,0,4,Achyut Mishra(I),,,,"P1,P2
 EH 626,Reservoir Modelling and Simulation,3,0,0,4,Achyut Mishra(I),,,,"M1,M2
 (7/201)",,,https://drive.google.com/file/d/1UYXAlvySPYS-pZh5KNeprKSdARSbGkaQ/view?usp=sharing,,,,
 EH 627,Anthropocene: Human Impact on the Earth,3,0,0,4,"Vikrant Jain(I),S. K. Tandon(I)",,,,"N1,N2
-(13/125)",,,https://drive.google.com/file/d/1Ako_ydenPXNgD0Gbye7kRTlY74I0OZ-9/view?usp=drive_link,,,,
+(7/203)",,,https://drive.google.com/file/d/1Ako_ydenPXNgD0Gbye7kRTlY74I0OZ-9/view?usp=drive_link,,,,
 EH 634,Dynamic Earth Surface and Nature Hazards,1.5,0,3,4,Vikrant Jain(I+L),,,,"F1
 (7/102)",,"B1,D1
 (10/104)",https://drive.google.com/file/d/18LniBcuUGOlWh2_yuM99ISU3EyR0q9yj/view?usp=sharing,,,,
@@ -841,7 +841,7 @@ HS 523,Quantitative Research Methods in Social Sciences,3,1,0,4,Praharsh Mohanla
 (7/203)","H1
 (7/109)",,Syllabus_Quantitative Methods.docx,,,,
 HS 524,Qualitative Research Methods,3,0,0,4,Ambika Aiyadurai(I),,,,"M1,M2
-(10/103)",,,https://drive.google.com/file/d/1TfdWZS0PBr0eLMgLXqznxEMHsml2XuKO/view?usp=drive_link,,,,
+(11/205)",,,https://drive.google.com/file/d/1TfdWZS0PBr0eLMgLXqznxEMHsml2XuKO/view?usp=drive_link,,,,
 HS 526,"Education, Technology and Society",3,0,0,4,Aditi Kothiyal(I),,,,"J1,J2
 (7/102)",,,ETandS.pdf,,,,
 HS 610,A Critical Journey Through Select Thoughts and Theories,3,0,0,4,Arnapurna Rath(I),,,,"D1,D2
@@ -852,8 +852,8 @@ HS 633,Scarred Nations: Partition in the Indian Subcontinent,3,0,0,4,Madhumita S
 (7/102)",,,https://iitgnacin-my.sharepoint.com/:b:/g/personal/madhumitasg_iitgn_ac_in/IQBdJ0hTz8IER6rXG_FvDVuNAaqflnhH2Zcubjz2xkzgmtg?e=2pXgXW,,,,
 HS 647,"Literature, Theory and Social Context",3,0,0,4,Arka Chattopadhyay(I),,,,"I2,J2
 (7/208)",,,https://docs.google.com/document/d/1bJY9XxKFeaMph9iXwo6s0XXEMsWDSGLk/edit?usp=drive_link&ouid=103637075532236333832&rtpof=true&sd=true,,,,
-HS 651,Critical Perspectives in Sociology,3,0,0,4,Tanka Bahadur Subba(I),,,,"N1,P2
-(7/203)",,,https://docs.google.com/document/d/1nOk4PSP-NOLFFYGJxB7eqqQy7ZY_Ypri/edit?usp=drive_link&ouid=112722193455628803222&rtpof=true&sd=true,,,,
+HS 651,Critical Perspectives in Sociology,3,0,0,4,Tanka Bahadur Subba(I),,,,"N1,N2
+(7/206)",,,https://docs.google.com/document/d/1nOk4PSP-NOLFFYGJxB7eqqQy7ZY_Ypri/edit?usp=drive_link&ouid=112722193455628803222&rtpof=true&sd=true,,,,
 DES 601,Visual Design for Academia,1.5,0,3,4,Sameer Sahasrabudhe(I+L),20,,,"M2
 (13/125)",,"M1,P1
 (13/125)",https://drive.google.com/file/d/1NYHulfB1a-ZwDvPDA0ZaO4IXb9kwzx_w/view?usp=drive_link,,,,
