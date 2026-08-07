@@ -36,7 +36,14 @@ document.addEventListener('DOMContentLoaded', function() {
             .then(response => response.json())
             .then(data => {
                 courseData = data.courses;
-                selectedCourses = (JSON.parse(localStorage.getItem('selectedCourses')) || []).filter(code => courseData.some(c => c.code === code));
+                let savedCourses = [];
+                try {
+                    const parsed = JSON.parse(localStorage.getItem('selectedCourses') || '[]');
+                    savedCourses = Array.isArray(parsed) ? parsed : [];
+                } catch {
+                    savedCourses = [];
+                }
+                selectedCourses = savedCourses.filter(code => courseData.some(c => c.code === code));
                 totalCredits = courseData.reduce((s, c) => selectedCourses.includes(c.code) ? s + parseInt(c.credits || 0) : s, 0);
                 updateTotalCredits();
                 updateSelectedCourses();
