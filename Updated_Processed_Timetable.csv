@@ -19,7 +19,7 @@ Preparatory Courses,HS 001,"G1,G2",,,4.0,Aditi Kothiyal(I),,11/205,,
 Chemical Engineering Thermodynamics,CL 202,"A1,A2","A1,A2",,3.0,Kaustubh S Rane(I+T),https://docs.google.com/document/d/1iLomF3xbnss6e7bxCiaWdNX2dH7iS6zNzz_cTWwbuaQ/edit?usp=sharing,7/109,7/109,
 Process Fluid Mechanics,CL 203,"E1,E2","E1,E2",,3.0,Abinaya Sampath(I+T),https://drive.google.com/file/d/1Gvd40vpa5zTfV5A5ibZG0gcXMR0eayFP/view?usp=sharing,7/208,7/208,
 Heat Transfer,CL 204,"D1,D2","D1,D2",,3.0,Sameer V Dalvi(I+T),https://drive.google.com/file/d/1x1xzqRx0BIM2ZYxNlUrfnst5JWBAnCoN/view?usp=drive_link,11/102,11/102,
-Software Tools and Techniques for CSE,CS 202,D1,,"J2,M2",4.0,Abhishek Bichhawat(I+L),https://docs.google.com/document/d/14IvvU2aCu9HGfI2FIht64dEG_BJjAqhoZMftEI5PWis/edit?usp=sharing,Jayshree S Sheth Learning T...,,"10/203,10/204"
+Software Tools and Techniques for CSE,CS 202,D1,,"J2,M2",4.0,Abhishek Bichhawat(I+L),https://docs.google.com/document/d/14IvvU2aCu9HGfI2FIht64dEG_BJjAqhoZMftEI5PWis/edit?usp=sharing,Jayshree S Sheth Learning T...,,Harsha Patel Learning Theat...
 Software Tools & Techniques for AI,CS 203,D2,,"I2,M1",4.0,Yogesh Kumar Meena(I+L),https://yogeshkmeena.github.io/Teaching/,Jayshree S Sheth Learning T...,,"10/203,10/204"
 General Education II,GE 201,"P1,P2",,,2.0,Argha Manna(I),,"Jasubhai Auditorium,Surendr...",,
 Introduction to Philosophy,HS 221,"N1,N2",,,4.0,Jaison Manjaly(I),https://drive.google.com/file/d/1C_aSRcOgmMaYgNqDZ25tHxIaxROsqYbs/view?usp=sharing,Jasubhai Auditorium,,
@@ -40,7 +40,7 @@ Introduction to Complex Analysis (second half),MA 206,"F1,F2",B1,,2.0,Projesh Na
 Materials Thermodynamics,MSE 202,"E1,E2",H1,,4.0,Sesha Sai Behara(I+T),https://drive.google.com/file/d/1EVFsTZH6wrZTfJTknnTuPW3_g8PKSt1p/view?usp=sharing,7/104,7/101,
 Earth Materials and Processes,CE 201,E1,,"I1,K1",2.0,Pankaj Khanna(I+L),https://drive.google.com/file/d/1vyNn95PZYkZMhlRpY66kT3XCDtt7QV75/view?usp=sharing,13/124,,CE Lab
 Chemical Process Calculations,CL 201,"G1,G2",I1,,3.0,Pratyush Dayal(I+T),https://iitgnacin-my.sharepoint.com/:b:/g/personal/pdayal_iitgn_ac_in/IQDQ_tCc1TY2RIGDi97pFvdvAUKIYc_ADcdK-Yy0gw-iC6k?e=YCfr6a,10/102,11/101,
-Data Structures and Algorithms I,ES 242,"G1,G2",,I1,4.0,"Manoj D Gupta(I+L),Anup Kalbalia(L)",https://drive.google.com/file/d/1j1EHOzvWNk7LJ0fLmThCUqBmNcfUTjSD/view?usp=sharing,10/103,,"10/104,10/105,10/203,10/204"
+Data Structures and Algorithms I,ES 242,"G1,G2",,I1,4.0,"Manoj D Gupta(I+L),Anup Kalbalia(L)",https://anup.github.io/courses/es242-2026-27-sem1/,10/103,,"10/104,10/105,10/203,10/204"
 "Signals, Systems, and Random Processes",ES 244,"D1,D2",H2,,4.0,Uttama Lahiri(I+T),https://drive.google.com/file/d/1XwAH5oaeGiHCihXdgUxrtU8lYoo7MKut/view?usp=sharing,10/103,10/103,
 Mechanics of Solids,ES 221,"G1,G2",A1,,4.0,Manish Kumar(I+T),https://drive.google.com/file/d/1qr2j1c6lTxCJtIJk6oJkx06RH63vpT8U/view?usp=drive_link,7/210,7/101,
 Geospatial Engineering,CE 203,E2,,"J1,L1",3.0,Vimal Mishra(I+L),,7/101,,10/102
@@ -96,7 +96,7 @@ Peptide Technologies ,BE 621,C1,,"I2,M1",2.0,Sharad Gupta(I+L),https://docs.goog
 Applied Stem Cells Technologies,BE 622,"A1,A2",,,4.0,Dhiraj D Bhatia(I),https://docs.google.com/document/d/1KdClKDUCfOw-lyAqLro2DI1JBJnyJZJy/edit?usp=sharing&ouid=114828150794801814953&rtpof=true&sd=true,7/204,,
 Biocomputing,BE 623,,,"K2,L2",2.0,Ashutosh Srivastava(I+L),https://iitgnacin-my.sharepoint.com/:b:/g/personal/ashutosh_s_iitgn_ac_in/IQCHhjucngCCT6TI_rZAlonlAV--s72ddhRjtuOfln0LGSg?e=H9PJWw,,,10/104
 AI Applications in Life Sciences,BE 625,"G1 , D2",,,4.0,"Sharad Gupta(I),Krishna Prasad Miyapuram(I),Ashutosh Srivastava(I)",https://docs.google.com/document/d/1H2KmwC490Oqeg5AVBP0io7QlBxusLcV8ElPygN0uDNw/edit?usp=sharing,"7/101, 7/110",,
-Civil Engineering Materials,CE 315,"J1,J2",,,4.0,Krishna Siva Teja Chopperla(I),https://iitgnacin-my.sharepoint.com/:b:/g/personal/siva_chopperla_iitgn_ac_in/IQBg5Fv7TOB3RoqYHpULkmhHAaB-hEx0eqmwldaQOv5HHOA?e=aS00qS,7/101,,
+Civil Engineering Materials,CE 315,"H1,K2",,,4.0,Krishna Siva Teja Chopperla(I),https://iitgnacin-my.sharepoint.com/:b:/g/personal/siva_chopperla_iitgn_ac_in/IQBg5Fv7TOB3RoqYHpULkmhHAaB-hEx0eqmwldaQOv5HHOA?e=aS00qS,7/209,,
 Integrated Waste Management and Circular Economy,CE 316,"I1,I2",,,4.0,Abhishek Singhal(I),https://drive.google.com/file/d/1YQfG-UtElN34CoR0vNtSXkS1qgUx5H_E/view?usp=sharing,Harsha Patel Learning Theatre,,
 River Engineering,CE 624,"G1,G2",,,4.0,Subhasish Dey(I),https://docs.google.com/document/d/1qTdZyUilgbww7hzate9tt6ZaH0--F9EU/edit?usp=share_link&ouid=108119040002855153213&rtpof=true&sd=true,7/204,,
 Integrated Waste Management and Circular Economy,CE 642,"I1,I2",,,4.0,Abhishek Singhal(I),https://drive.google.com/file/d/1YQfG-UtElN34CoR0vNtSXkS1qgUx5H_E/view?usp=sharing,Harsha Patel Learning Theatre,,
@@ -147,14 +147,14 @@ Analysis and Design of Marine Structures,MTE 602,"B1 , C2",,,4.0,Srinivasan Chan
 Dynamics of Maritime Structures,MTE 603,"D1,D2",,,4.0,Srinivasan Chandrasekaran(I),https://drive.google.com/file/d/1OdMX220ZYxx2DT3l-z8u--TYML-YPoXu/view?usp=sharing,7/103,,
 Special Topics in Maritime Engineering: French Language for Maritime Engineers (second half),MTE 692-I,"G1,G2",,,2.0,Manshika Mehta(I),,7/110,,
 Industrial Control and Process Instrumentation,ES 420,"N1,N2",,"C1,F1",5.0,S. Rajendran(I+L),https://drive.google.com/file/d/1ooqgeSKLfi0I5id5GgIGuXTesmrAy6SB/view?usp=drive_link,11/204,,EE Lab
-Semiconductor Foundry Engineering,ES 422,"L1,L2",,,4.0,Amitabh Jain(I),https://docs.google.com/document/d/1qLH1z9ybBSNzYMs4KxO9LruQgvLNv4yHN-urNCqHunQ/edit?tab=t.0,7/106,,
-RFIC Design,ES 421,"N2,P2",,"B1,D1",5.0,"Kamla Prasan Ray(I),Tarun Kumar Agarwal(L)",https://docs.google.com/document/d/184bxetlzX-eSL8kSFU4ea17kSGH1MUei/edit?usp=sharing&ouid=106706293449739761250&rtpof=true&sd=true,7/202,,EE Lab
-RFIC Design,ES 679,"N2,P2",,"B1,D1",5.0,"Kamla Prasan Ray(I),Tarun Kumar Agarwal(L)",https://docs.google.com/document/d/184bxetlzX-eSL8kSFU4ea17kSGH1MUei/edit?usp=sharing&ouid=106706293449739761250&rtpof=true&sd=true,7/202,,EE Lab
+Semiconductor Foundry Engineering,ES 422,"H1,P1",,,4.0,Amitabh Jain(I),https://docs.google.com/document/d/1qLH1z9ybBSNzYMs4KxO9LruQgvLNv4yHN-urNCqHunQ/edit?tab=t.0,7/210,,
+RFIC Design,ES 421,"N2,P2",,"B1,D1",5.0,"Kamla Prasan Ray(I),Tarun Kumar Agarwal(L)",https://docs.google.com/document/d/184bxetlzX-eSL8kSFU4ea17kSGH1MUei/edit?usp=sharing&ouid=106706293449739761250&rtpof=true&sd=true,13/125,,EE Lab
+RFIC Design,ES 679,"N2,P2",,"B1,D1",5.0,"Kamla Prasan Ray(I),Tarun Kumar Agarwal(L)",https://docs.google.com/document/d/184bxetlzX-eSL8kSFU4ea17kSGH1MUei/edit?usp=sharing&ouid=106706293449739761250&rtpof=true&sd=true,13/125,,EE Lab
 VLSI Design,EE 617,"D1,D2",,,4.0,Joycee Mekie(I),https://docs.google.com/document/d/1Yd1UWR5dlTjHVpQrEvGT5XebozcdRpaulQbP5kYYbHE/edit?usp=sharing,Surendra C Sheth Learning T...,,
 Physics of Transistors,EE 644,"E2,H2",,,4.0,Sandip Lashkare(I),https://iitgnacin-my.sharepoint.com/:b:/g/personal/sandip_lashkare_iitgn_ac_in/IQCB5CYF5hrKQKJrK0ATpMB3AcSsNovmoEeK0Ns31IyTy9I?e=Y2hwtF,11/101,,
 Dynamic Behaviour of Electric Machines,EE 648,"C1,A2",,I2,5.0,Ragavan K.(I+L),https://drive.google.com/file/d/127It-hnkS17e9gmGGFruDWSYVQAST0dI/view?usp=sharing,11/102,,EE Lab
-Wireless System Design and Implementation,EE 434,J1,,"A2,B2",4.0,Kartik Patel(I+L),https://drive.google.com/file/d/1A7Y_yRGU1g_bR2CpjokWzduK3JfUDvqd/view?usp=sharing,7/110,,EE Lab
-Wireless System Design and Implementation,EE 671,J1,,"A2,B2",4.0,Kartik Patel(I+L),https://drive.google.com/file/d/1A7Y_yRGU1g_bR2CpjokWzduK3JfUDvqd/view?usp=sharing,7/110,,EE Lab
+Wireless System Design and Implementation,EE 434,K2,,"A1,A2",4.0,Kartik Patel(I+L),https://drive.google.com/file/d/1A7Y_yRGU1g_bR2CpjokWzduK3JfUDvqd/view?usp=sharing,7/102,,EE Lab
+Wireless System Design and Implementation,EE 671,K2,,"A1,A2",4.0,Kartik Patel(I+L),https://drive.google.com/file/d/1A7Y_yRGU1g_bR2CpjokWzduK3JfUDvqd/view?usp=sharing,7/102,,EE Lab
 Digital Control Systems,ES 616,"E1,E2",B1,,4.0,S. Rajendran(I+T),https://drive.google.com/file/d/1kRe1j1mw-ScS4GBQWbrLvWI20zkrSgTn/view?usp=drive_link,7/210,7/110,
 Microfabrication and Semiconductor Processes,ES 626,"N1,N2",,,4.0,"Jhuma Saha(I),Nihar Ranjan Mohapatra(I)",https://drive.google.com/file/d/1Ds3tjD8J9P_u1d_fQIZXHB36gVibP0kR/view?usp=sharing,7/101,,
 CMOS Analog IC Design,EE 651,"G1,G2",,,4.0,Tarun Kumar Agarwal(I),https://iitgnacin-my.sharepoint.com/:w:/g/personal/tagarwal_iitgn_ac_in/IQCadTuRO8shQbhNg-T2PUD8AYMVUXYaj3L8gp9UubMIApI?e=mjdx8r,Harsha Patel Learning Theatre,,
@@ -194,7 +194,7 @@ Chemical Crystallography,CH 635,"M1,M2",,I2,4.0,Vijay Thiruvenkatam(I+L),https:/
 Applied Chemical Biology,CH 616,"D1,D2",,,4.0,Sudipta Basu(I),https://drive.google.com/file/d/13aHcvY0HF-0uqXoD8DvgIO38Ocro_UMH/view?usp=sharing,7/205,,
 Interpretative Organic Spectroscopy,CH 622,"B1,B2",,,4.0,Sriram V Gundimeda(I),https://docs.google.com/document/d/1HRo7a5vf166d4I7NHb_u5lNFA9MdrRQZ/edit?usp=drive_link&ouid=100922624225150130455&rtpof=true&sd=true,7/108,,
 Molecular Spectroscopy,CH 624,"J1,J2",,,4.0,Saumyakanti Khatua(I),https://drive.google.com/file/d/1o_4bi7BrdQ1NOSvZYXaXR39-2JJ1AgvH/view?usp=sharing,13/125,,
-Asymmetric Synthesis and Catalysis,CH 626,"E1,E2",,,4.0,Chandrakumar Appayee(I),https://drive.google.com/file/d/17wjv8Rr4-30mr0Zp0oPE5fQuRVkBu2AV/view?usp=sharing,11/205,,
+Asymmetric Synthesis and Catalysis,CH 626,"E1,E2",N2,,4.0,"Chandrakumar Appayee(I), Vatsal Chande(GTF/T)",https://drive.google.com/file/d/1K8q7ie60YTPp0yCOhZQy-4_riBhnTOvQ/view?usp=sharing,11/205,11/205,
 Metabolism & Biosynthesis,CH 627,"K1,K2",,,4.0,Bhaskar Datta(I),https://drive.google.com/file/d/1QaTSeZA2O2oJ2fdXMJOmlmIVom8YH4qD/view?usp=drive_link,11/204,,
 Introduction to Molecular Dynamics,CH 634,M1,,"I1,K1",4.0,Sairam Swaroop Mallajosyula(I+L),https://iitgnacin-my.sharepoint.com/:b:/g/personal/msairam_iitgn_ac_in/IQDvZkQN3loHR5Q9iQxK0aqjAYN5aofIqJCvHPoVYogVXv0?e=LEUl0v,7/204,,CH Lab
 Statistical thermodynamics and its applications in chemistry,CH 636,"N1,N2",,,4.0,Sairam Swaroop Mallajosyula(I),https://iitgnacin-my.sharepoint.com/:b:/g/personal/msairam_iitgn_ac_in/IQBd-2M10pI1RZxW3tUUAYKlAYV-6e77xfkINavOgEkpHEY?e=uHD2jp,13/124,,
@@ -239,13 +239,13 @@ Archaeology: Theory and Methods,EH 635,"M1,M2",,,4.0,Sharada V Channarayapatna(I
 Earth Surface Processes in the Anthropocene,EH 601,"F1,F2",,J1,4.0,Vikrant Jain(I+L),,7/102,,EH Lab
 Biodiversity Conservation and Sustainable Development,EH 608,"D1,D2",,,4.0,C.N. Pandey(I),https://docs.google.com/document/d/1_qctL71zjm1Gjj1cs3XgWJeU03RzpV_g/edit?usp=sharing&ouid=113799156655520473260&rtpof=true&sd=true,7/108,,
 Computational Tools for Earth System Modeling,EH 618,,,"G1,I2,M1,P1",4.0,Utsav Mannu(L),https://drive.google.com/file/d/1mm2WJ5qodjEOMHEC5A3E7Hd1O6-eHz4r/view?usp=sharing,,,10/104
-Geobiology,EH 619,"E1,E2",,,4.0,Sonal Khanolkar(I),https://docs.google.com/document/d/18g4dsyA4wiFEFUEhOuIkMSusFLqUo69X/edit?usp=sharing&ouid=110875805035146007034&rtpof=true&sd=true,7/201,,
+Geobiology,EH 619,"E1,E2",,,4.0,Sonal Khanolkar(I),https://docs.google.com/document/d/18g4dsyA4wiFEFUEhOuIkMSusFLqUo69X/edit?usp=sharing&ouid=110875805035146007034&rtpof=true&sd=true,Jayshree S Sheth Learning T...,,
 Sequence Stratigraphy,EH 620,F2,,"K2,L2",4.0,Pankaj Khanna(I+L),https://drive.google.com/file/d/146y5crnH01yYh26pHw38UiwAzbbAVMiD/view?usp=sharing,EH Lab,,EH Lab
 Applied Micropaleontology,EH 624,"M1,M2",,,4.0,Sonal Khanolkar(I),https://docs.google.com/document/d/1YDCjd2zAPYgx1DB-VtU9oBmg-0df6eyE/edit?usp=drive_link&ouid=110875805035146007034&rtpof=true&sd=true,7/107,,
 Environmental Geosciences,EH 625,"P1,P2",,,4.0,Achyut Mishra(I),https://drive.google.com/file/d/1QDZF3H7RGPWIv3EP7h5uBsXMv8rhoY9Z/view?usp=drive_link,7/201,,
 Reservoir Modelling and Simulation,EH 626,"M1,M2",,,4.0,Achyut Mishra(I),https://drive.google.com/file/d/1UYXAlvySPYS-pZh5KNeprKSdARSbGkaQ/view?usp=sharing,7/201,,
 Anthropocene: Human Impact on the Earth,EH 627,"N1,N2",,,4.0,"Vikrant Jain(I),S. K. Tandon(I)",https://drive.google.com/file/d/1Ako_ydenPXNgD0Gbye7kRTlY74I0OZ-9/view?usp=drive_link,7/203,,
-Dynamic Earth Surface and Nature Hazards,EH 634,F1,,"B1,D1",4.0,Vikrant Jain(I+L),https://drive.google.com/file/d/18LniBcuUGOlWh2_yuM99ISU3EyR0q9yj/view?usp=sharing,7/102,,10/104
+Dynamic Earth Surface and Nature Hazards,EH 634,F1,,"B1,D1",4.0,Vikrant Jain(I+L),https://drive.google.com/file/d/18LniBcuUGOlWh2_yuM99ISU3EyR0q9yj/view?usp=sharing,7/102,,11/204
 Rock Mechanics and Rock Engineering,EH 638,"J1,J2",,,4.0,Manab Mukherjee(I),https://drive.google.com/file/d/1Brdolv5aKMG5A8rbqfB_uRjQ2a2FCuec/view?usp=sharing,7/206,,
 Statistics for Earth Sciences,EH 639,J1,,"I1,K1",4.0,Utsav Mannu(I),https://docs.google.com/document/d/14vmw_O29cy-9hrvdd7v6nwu2J5TdyHfazBLl4WzjgzM/edit?usp=sharing,7/103,,EH Lab
 Special Topics in Earth Science: Microwave Remote Sensing,EH 691-III,"C1,C2",,,4.0,Prem Chand Pandey(I),https://drive.google.com/file/d/1etOHz8sfBpVHO7s70CsxHmoq9JTE1CKh/view?usp=sharing,7/103,,
