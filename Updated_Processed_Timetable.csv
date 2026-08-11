@@ -129,7 +129,7 @@ Engineering Optimization,ES 604,"G1,G2",,,4.0,Sai Praneeth(I),https://docs.googl
 "Flexible Electronics: Materials, Methods and Devices",ES 662,"I1,I2",,,4.0,Biswajit Saha(I),https://iitgnacin-my.sharepoint.com/:w:/g/personal/bsaha_iitgn_ac_in/IQAgc6De535kTI5BHvkyh-otASKy5pbIjDA1L5r_GBQxboI?e=Qyd2Li,7/203,,
 Introduction to Data Structures and Algorithms,ES 248,F1,,"K2,L2",3.0,"Anup Kalbalia(I+L),Arjun Arul(I+L)",https://anup.github.io/courses/es248-2026-27/course-plan/,11/101,,10/203
 Human-Computer Interaction,CS 435,"J1,P2",,,4.0,Yogesh Kumar Meena(I),https://yogeshkmeena.github.io/Teaching/,11/101,,
-AI-Assisted Software Development Lab,CS 437,,,"D1,P1",2.0,"Arjun Arul(L),Anup Kalbalia(L)",https://docs.google.com/document/d/15bylbWLm5ylzU4_RrZUUwUBbkBrQozCJfZginxrwfns/edit?usp=drivesdk,,,10/203
+AI-Assisted Software Development Lab,CS 437,,,"P1,F2",2.0,"Arjun Arul(L),Anup Kalbalia(L)",https://docs.google.com/document/d/15bylbWLm5ylzU4_RrZUUwUBbkBrQozCJfZginxrwfns/edit?usp=drivesdk,,,10/203
 Algorithms,CS 610,"G1,G2",,,4.0,Bireswar Das(I),https://docs.google.com/document/d/1FR3B1uaVfesy6V3M3JLivJlmD_H8Jhda9_e9nz81e3o/edit?usp=sharing,7/109,,
 Computer Systems,CS 612,"A1,A2",,,4.0,Ajay Singh(I),https://docs.google.com/document/d/1rkO3HupBKTxuW4P_bS8WdPuI2Rz5UiSf/edit?usp=sharing&ouid=110990247842517328873&rtpof=true&sd=true,11/101,,
 Natural Language Processing,CS 613,"F1,F2",,,4.0,Mayank Singh(I),https://sites.google.com/iitgn.ac.in/cs613-2026/home,Jayshree S Sheth Learning T...,,
@@ -196,8 +196,8 @@ Interpretative Organic Spectroscopy,CH 622,"B1,B2",,,4.0,Sriram V Gundimeda(I),h
 Molecular Spectroscopy,CH 624,"J1,J2",,,4.0,Saumyakanti Khatua(I),https://drive.google.com/file/d/1o_4bi7BrdQ1NOSvZYXaXR39-2JJ1AgvH/view?usp=sharing,13/125,,
 Asymmetric Synthesis and Catalysis,CH 626,"E1,E2",N2,,4.0,"Chandrakumar Appayee(I), Vatsal Chande(GTF/T)",https://drive.google.com/file/d/1K8q7ie60YTPp0yCOhZQy-4_riBhnTOvQ/view?usp=sharing,11/205,11/205,
 Metabolism & Biosynthesis,CH 627,"K1,K2",,,4.0,Bhaskar Datta(I),https://drive.google.com/file/d/1QaTSeZA2O2oJ2fdXMJOmlmIVom8YH4qD/view?usp=drive_link,11/204,,
-Introduction to Molecular Dynamics,CH 634,M1,,"I1,K1",4.0,Sairam Swaroop Mallajosyula(I+L),https://iitgnacin-my.sharepoint.com/:b:/g/personal/msairam_iitgn_ac_in/IQDvZkQN3loHR5Q9iQxK0aqjAYN5aofIqJCvHPoVYogVXv0?e=LEUl0v,7/204,,CH Lab
-Statistical thermodynamics and its applications in chemistry,CH 636,"N1,N2",,,4.0,Sairam Swaroop Mallajosyula(I),https://iitgnacin-my.sharepoint.com/:b:/g/personal/msairam_iitgn_ac_in/IQBd-2M10pI1RZxW3tUUAYKlAYV-6e77xfkINavOgEkpHEY?e=uHD2jp,13/124,,
+Introduction to Molecular Dynamics,CH 634,G2,,"J1,P2",4.0,Sairam Swaroop Mallajosyula(I+L),https://iitgnacin-my.sharepoint.com/:b:/g/personal/msairam_iitgn_ac_in/IQDvZkQN3loHR5Q9iQxK0aqjAYN5aofIqJCvHPoVYogVXv0?e=LEUl0v,7/104,,10/104
+Statistical thermodynamics and its applications in chemistry,CH 636,"L1,L2",,,4.0,Sairam Swaroop Mallajosyula(I),https://iitgnacin-my.sharepoint.com/:b:/g/personal/msairam_iitgn_ac_in/IQBd-2M10pI1RZxW3tUUAYKlAYV-6e77xfkINavOgEkpHEY?e=uHD2jp,7/104,,
 Organic Electronics,CH 637,"J1,J2",,,4.0,Partha Pratim Roy(I),,7/108,,
 Bio-inorganic Chemistry,CH 640,"L1,L2",,,4.0,Biswajit Mondal(I),Course plan for CH640_Bio-inorganic Chemistry.pdf,7/101,,
 Chemistry of Energy Materials,CH 641,"M1,M2",,,4.0,Manisha Samanta(I),CH641-course-plan-2025 -Samanta.pdf,7/210,,
@@ -242,12 +242,12 @@ Computational Tools for Earth System Modeling,EH 618,,,"G1,I2,M1,P1",4.0,Utsav M
 Geobiology,EH 619,"E1,E2",,,4.0,Sonal Khanolkar(I),https://docs.google.com/document/d/18g4dsyA4wiFEFUEhOuIkMSusFLqUo69X/edit?usp=sharing&ouid=110875805035146007034&rtpof=true&sd=true,Jayshree S Sheth Learning T...,,
 Sequence Stratigraphy,EH 620,F2,,"K2,L2",4.0,Pankaj Khanna(I+L),https://drive.google.com/file/d/146y5crnH01yYh26pHw38UiwAzbbAVMiD/view?usp=sharing,EH Lab,,EH Lab
 Applied Micropaleontology,EH 624,"M1,M2",,,4.0,Sonal Khanolkar(I),https://docs.google.com/document/d/1YDCjd2zAPYgx1DB-VtU9oBmg-0df6eyE/edit?usp=drive_link&ouid=110875805035146007034&rtpof=true&sd=true,7/107,,
-Environmental Geosciences,EH 625,"P1,P2",,,4.0,Achyut Mishra(I),https://drive.google.com/file/d/1QDZF3H7RGPWIv3EP7h5uBsXMv8rhoY9Z/view?usp=drive_link,7/201,,
-Reservoir Modelling and Simulation,EH 626,"M1,M2",,,4.0,Achyut Mishra(I),https://drive.google.com/file/d/1UYXAlvySPYS-pZh5KNeprKSdARSbGkaQ/view?usp=sharing,7/201,,
+Environmental Geosciences,EH 625,"L1,L2",,,4.0,Achyut Mishra(I),https://drive.google.com/file/d/1QDZF3H7RGPWIv3EP7h5uBsXMv8rhoY9Z/view?usp=drive_link,7/106,,
+Reservoir Modelling and Simulation,EH 626,"D1,D2",,,4.0,Achyut Mishra(I),https://drive.google.com/file/d/1UYXAlvySPYS-pZh5KNeprKSdARSbGkaQ/view?usp=sharing,7/106,,
 Anthropocene: Human Impact on the Earth,EH 627,"N1,N2",,,4.0,"Vikrant Jain(I),S. K. Tandon(I)",https://drive.google.com/file/d/1Ako_ydenPXNgD0Gbye7kRTlY74I0OZ-9/view?usp=drive_link,7/203,,
 Dynamic Earth Surface and Nature Hazards,EH 634,F1,,"B1,D1",4.0,Vikrant Jain(I+L),https://drive.google.com/file/d/18LniBcuUGOlWh2_yuM99ISU3EyR0q9yj/view?usp=sharing,7/102,,11/204
 Rock Mechanics and Rock Engineering,EH 638,"J1,J2",,,4.0,Manab Mukherjee(I),https://drive.google.com/file/d/1Brdolv5aKMG5A8rbqfB_uRjQ2a2FCuec/view?usp=sharing,7/206,,
-Statistics for Earth Sciences,EH 639,J1,,"I1,K1",4.0,Utsav Mannu(I),https://docs.google.com/document/d/14vmw_O29cy-9hrvdd7v6nwu2J5TdyHfazBLl4WzjgzM/edit?usp=sharing,7/103,,EH Lab
+Statistics for Earth Sciences,EH 639,J1,,"K1,H1",4.0,Utsav Mannu(I),https://docs.google.com/document/d/14vmw_O29cy-9hrvdd7v6nwu2J5TdyHfazBLl4WzjgzM/edit?usp=sharing,7/103,,10/104
 Special Topics in Earth Science: Microwave Remote Sensing,EH 691-III,"C1,C2",,,4.0,Prem Chand Pandey(I),https://drive.google.com/file/d/1etOHz8sfBpVHO7s70CsxHmoq9JTE1CKh/view?usp=sharing,7/103,,
 Special Topics in Earth Sciences: Stable Isotopes in Earth Systems,EH 691-XI,"M1,M2",,,4.0,R. D. Deshpande(I),Course Details_Stable Isotopes in Earth Systems.pdf,7/202,,
 Computation and Cognition,CG 501,"F1,F2",,,4.0,Vaibhav Tripathi(I),Course Plan ,7/201,,

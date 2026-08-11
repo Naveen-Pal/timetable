@@ -435,7 +435,7 @@ ES 248,Introduction to Data Structures and Algorithms,1.5,0,3,3,"Anup Kalbalia(I
 (10/203)",https://anup.github.io/courses/es248-2026-27/course-plan/,,,,
 CS 435,Human-Computer Interaction,3,0,0,4,Yogesh Kumar Meena(I),,,,"J1,P2
 (11/101)",,,https://yogeshkmeena.github.io/Teaching/,,,,
-CS 437,AI-Assisted Software Development Lab,0,0,3,2,"Arjun Arul(L),Anup Kalbalia(L)",,,,,,"D1,P1
+CS 437,AI-Assisted Software Development Lab,0,0,3,2,"Arjun Arul(L),Anup Kalbalia(L)",,,,,,"P1,F2
 (10/203)",https://docs.google.com/document/d/15bylbWLm5ylzU4_RrZUUwUBbkBrQozCJfZginxrwfns/edit?usp=drivesdk,,,,
 CS 610,Algorithms,3,0,0,4,Bireswar Das(I),,,,"G1,G2
 (7/109)",,,https://docs.google.com/document/d/1FR3B1uaVfesy6V3M3JLivJlmD_H8Jhda9_e9nz81e3o/edit?usp=sharing,,,,
@@ -604,11 +604,11 @@ CH 626,Asymmetric Synthesis and Catalysis,3,0,0,4,"Chandrakumar Appayee(I), Vats
 (11/205)",,https://drive.google.com/file/d/1K8q7ie60YTPp0yCOhZQy-4_riBhnTOvQ/view?usp=sharing,,,,BS
 CH 627,Metabolism & Biosynthesis,3,0,0,4,Bhaskar Datta(I),,,,"K1,K2
 (11/204)",,,https://drive.google.com/file/d/1QaTSeZA2O2oJ2fdXMJOmlmIVom8YH4qD/view?usp=drive_link,,,,BS
-CH 634,Introduction to Molecular Dynamics,1.5,0,3,4,Sairam Swaroop Mallajosyula(I+L),,,,"M1
-(7/204)",,"I1,K1
-(CH Lab)",https://iitgnacin-my.sharepoint.com/:b:/g/personal/msairam_iitgn_ac_in/IQDvZkQN3loHR5Q9iQxK0aqjAYN5aofIqJCvHPoVYogVXv0?e=LEUl0v,,,,BS
-CH 636,Statistical thermodynamics and its applications in chemistry,3,0,0,4,Sairam Swaroop Mallajosyula(I),,,,"N1,N2
-(13/124)",,,https://iitgnacin-my.sharepoint.com/:b:/g/personal/msairam_iitgn_ac_in/IQBd-2M10pI1RZxW3tUUAYKlAYV-6e77xfkINavOgEkpHEY?e=uHD2jp,,,,BS
+CH 634,Introduction to Molecular Dynamics,1.5,0,3,4,Sairam Swaroop Mallajosyula(I+L),,,,"G2
+(7/104)",,"J1,P2
+(10/104)",https://iitgnacin-my.sharepoint.com/:b:/g/personal/msairam_iitgn_ac_in/IQDvZkQN3loHR5Q9iQxK0aqjAYN5aofIqJCvHPoVYogVXv0?e=LEUl0v,,,,BS
+CH 636,Statistical thermodynamics and its applications in chemistry,3,0,0,4,Sairam Swaroop Mallajosyula(I),,,,"L1,L2
+(7/104)",,,https://iitgnacin-my.sharepoint.com/:b:/g/personal/msairam_iitgn_ac_in/IQBd-2M10pI1RZxW3tUUAYKlAYV-6e77xfkINavOgEkpHEY?e=uHD2jp,,,,BS
 CH 637,Organic Electronics,3,0,0,4,Partha Pratim Roy(I),,,,"J1,J2
 (7/108)",,,,,,,BS
 CH 640,Bio-inorganic Chemistry,3,0,0,4,Biswajit Mondal(I),,,,"L1,L2
@@ -722,10 +722,10 @@ EH 620,Sequence Stratigraphy,1.5,0,3,4,Pankaj Khanna(I+L),,,,"F2
 (EH Lab)",https://drive.google.com/file/d/146y5crnH01yYh26pHw38UiwAzbbAVMiD/view?usp=sharing,,,,
 EH 624,Applied Micropaleontology,3,0,0,4,Sonal Khanolkar(I),,,,"M1,M2
 (7/107)",,,https://docs.google.com/document/d/1YDCjd2zAPYgx1DB-VtU9oBmg-0df6eyE/edit?usp=drive_link&ouid=110875805035146007034&rtpof=true&sd=true,,,,
-EH 625,Environmental Geosciences,3,0,0,4,Achyut Mishra(I),,,,"P1,P2
-(7/201)",,,https://drive.google.com/file/d/1QDZF3H7RGPWIv3EP7h5uBsXMv8rhoY9Z/view?usp=drive_link,,,,
-EH 626,Reservoir Modelling and Simulation,3,0,0,4,Achyut Mishra(I),,,,"M1,M2
-(7/201)",,,https://drive.google.com/file/d/1UYXAlvySPYS-pZh5KNeprKSdARSbGkaQ/view?usp=sharing,,,,
+EH 625,Environmental Geosciences,3,0,0,4,Achyut Mishra(I),,,,"L1,L2
+(7/106)",,,https://drive.google.com/file/d/1QDZF3H7RGPWIv3EP7h5uBsXMv8rhoY9Z/view?usp=drive_link,,,,
+EH 626,Reservoir Modelling and Simulation,3,0,0,4,Achyut Mishra(I),,,,"D1,D2
+(7/106)",,,https://drive.google.com/file/d/1UYXAlvySPYS-pZh5KNeprKSdARSbGkaQ/view?usp=sharing,,,,
 EH 627,Anthropocene: Human Impact on the Earth,3,0,0,4,"Vikrant Jain(I),S. K. Tandon(I)",,,,"N1,N2
 (7/203)",,,https://drive.google.com/file/d/1Ako_ydenPXNgD0Gbye7kRTlY74I0OZ-9/view?usp=drive_link,,,,
 EH 634,Dynamic Earth Surface and Nature Hazards,1.5,0,3,4,Vikrant Jain(I+L),,,,"F1
@@ -734,8 +734,8 @@ EH 634,Dynamic Earth Surface and Nature Hazards,1.5,0,3,4,Vikrant Jain(I+L),,,,"
 EH 638,Rock Mechanics and Rock Engineering,3,0,0,4,Manab Mukherjee(I),,,,"J1,J2
 (7/206)",,,https://drive.google.com/file/d/1Brdolv5aKMG5A8rbqfB_uRjQ2a2FCuec/view?usp=sharing,,,,
 EH 639,Statistics for Earth Sciences,1.5,0,3,4,Utsav Mannu(I),,,,"J1
-(7/103)",,"I1,K1
-(EH Lab)",https://docs.google.com/document/d/14vmw_O29cy-9hrvdd7v6nwu2J5TdyHfazBLl4WzjgzM/edit?usp=sharing,,,,
+(7/103)",,"K1,H1
+(10/104)",https://docs.google.com/document/d/14vmw_O29cy-9hrvdd7v6nwu2J5TdyHfazBLl4WzjgzM/edit?usp=sharing,,,,
 EH 691-III,Special Topics in Earth Science: Microwave Remote Sensing,3,0,0,4,Prem Chand Pandey(I),,,,"C1,C2
 (7/103)",,,https://drive.google.com/file/d/1etOHz8sfBpVHO7s70CsxHmoq9JTE1CKh/view?usp=sharing,,,,BS
 EH 691-XI,Special Topics in Earth Sciences: Stable Isotopes in Earth Systems,3,0,0,4,R. D. Deshpande(I),,,,"M1,M2
