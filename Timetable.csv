@@ -74,8 +74,8 @@ ES 204,Digital Systems,2,1,1.5,4,"Manu Awasthi(I+T+L),Sameer G Kulkarni(T),Manoj
 ES 243,Biology for Engineers,3,1,0,4,TBD(I+T),,,,,,,,,,,
 MSE 206,Physics of Materials,3,0,0,4,Satyakam Kar(I),,,,"D1,D2
 (7/105)",,,https://drive.google.com/file/d/1wlhoqLmSwB3f0XdJkLx795UjMHH9gAUK/view?usp=drive_link,,,,
-MSE 314,Materials Selection and Design,3,0,0,3,Superb Misra(I),150,,,"C2 (Jasubhai Auditorium)
-I2 (Jagdish Patel Learning Theatre)",,,https://docs.google.com/document/d/1VqVk8K1u7VIGWlCTpTpTFixXZDebuhyD/edit?usp=sharing&ouid=106596940959370216293&rtpof=true&sd=true,,,,
+MSE 314,Materials Selection and Design,3,0,0,3,Superb Misra(I),150,,,"C1,I2
+(Jagdish Patel Learning Theatre)",,,https://docs.google.com/document/d/1VqVk8K1u7VIGWlCTpTpTFixXZDebuhyD/edit?usp=sharing&ouid=106596940959370216293&rtpof=true&sd=true,,,,
 MSE 318,Introduction to Quantum Materials and Devices,3,0,0,3,Anagh Bhaumik(I),150,,,"C1 (Jasubhai Auditorium)
 I2 (Jayshree S Sheth Learning Theatre)",,,Course Plan_MSE 318.pdf,,,,
 MSE 319,Additive Manufacturing and 3D Printing of Materials,3,0,0,3,Avinash Hariharan(I),150,,,"C1,I2
@@ -358,6 +358,8 @@ BE 623,Biocomputing,0,0,3,2,Ashutosh Srivastava(I+L),,,,,,"K2,L2
 (10/104)",https://iitgnacin-my.sharepoint.com/:b:/g/personal/ashutosh_s_iitgn_ac_in/IQCHhjucngCCT6TI_rZAlonlAV--s72ddhRjtuOfln0LGSg?e=H9PJWw,,,,
 BE 625,AI Applications in Life Sciences,3,0,0,4,"Sharad Gupta(I),Krishna Prasad Miyapuram(I),Ashutosh Srivastava(I)",,,,"G1 (7/101)
 D2 (7/110)",,,https://docs.google.com/document/d/1H2KmwC490Oqeg5AVBP0io7QlBxusLcV8ElPygN0uDNw/edit?usp=sharing,,,,
+BE 691-V,Special Topics in Biological Engineering: Organ Transplantations,3,0,0,4,Rohil Jain(I),,,,"N1,N2
+(7/202)",,,,,,,
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Civil Engineering																	,,,,,,,,,,,,,,,,,
 CE 315,Civil Engineering Materials,3,0,0,4,Krishna Siva Teja Chopperla(I),,,,"H1,K2
@@ -394,7 +396,7 @@ CE 638,Advanced Concrete Technology,3,0,0,4,Krishna Siva Teja Chopperla(I),,,,"C
 CE 640,Hydrodynamics of Sediment Transport,3,0,0,4,Subhasish Dey(I),,,,"M1,M2
 (7/109)",,,https://docs.google.com/document/d/1qTdZyUilgbww7hzate9tt6ZaH0--F9EU/edit?usp=share_link&ouid=108119040002855153213&rtpof=true&sd=true,,,,
 CE 691-VI,Special Topics in Civil Engineering: Domestic Wastewater Engineering (Treatment and Reuse),3,0,0,4,Sudhir Kumar Arora(I),,,,"G1,G2
-(7/203)",,,https://drive.google.com/file/d/1m24H1akjtw4YoNfSIiM1g3hL2__gmo7_/view?usp=share_link,,,,
+(Jagdish Patel Learning Theatre)",,,https://drive.google.com/file/d/1m24H1akjtw4YoNfSIiM1g3hL2__gmo7_/view?usp=share_link,,,,
 CE 691-VIII,Special Topics in Civil Engineering: Administration of Contracts in the Infrastructure Industry,3,0,0,4,Col. Kishore(I),,,,"M1,M2
 (13/124)",,,,,,,
 CE 692-II,Special Topics in Civil Engineering: Water Resources Governance,3,0,0,2,JP Gupta(I),,,,"J1,J2
@@ -435,7 +437,7 @@ ES 248,Introduction to Data Structures and Algorithms,1.5,0,3,3,"Anup Kalbalia(I
 (10/203)",https://anup.github.io/courses/es248-2026-27/course-plan/,,,,
 CS 435,Human-Computer Interaction,3,0,0,4,Yogesh Kumar Meena(I),,,,"J1,P2
 (11/101)",,,https://yogeshkmeena.github.io/Teaching/,,,,
-CS 437,AI-Assisted Software Development Lab,0,0,3,2,"Arjun Arul(L),Anup Kalbalia(L)",,,,,,"P1,F2
+CS 437,AI-Assisted Software Development Lab,0,0,3,2,"Arjun Arul(L),Anup Kalbalia(L)",,,,,,"K1,L1
 (10/203)",https://docs.google.com/document/d/15bylbWLm5ylzU4_RrZUUwUBbkBrQozCJfZginxrwfns/edit?usp=drivesdk,,,,
 CS 610,Algorithms,3,0,0,4,Bireswar Das(I),,,,"G1,G2
 (7/109)",,,https://docs.google.com/document/d/1FR3B1uaVfesy6V3M3JLivJlmD_H8Jhda9_e9nz81e3o/edit?usp=sharing,,,,
@@ -478,13 +480,13 @@ ES 420,Industrial Control and Process Instrumentation,3,0,3,5,S. Rajendran(I+L),
 (EE Lab)",https://drive.google.com/file/d/1ooqgeSKLfi0I5id5GgIGuXTesmrAy6SB/view?usp=drive_link,,,,
 ES 422,Semiconductor Foundry Engineering,3,0,0,4,Amitabh Jain(I),25,,,"H1,P1
 (7/210)",,,https://docs.google.com/document/d/1qLH1z9ybBSNzYMs4KxO9LruQgvLNv4yHN-urNCqHunQ/edit?tab=t.0,,,,
-ES 421,RFIC Design,3,0,3,5,"Kamla Prasan Ray(I),Tarun Kumar Agarwal(L)",25,,,"N2,P2
-(13/125)",,"B1,D1
+ES 421,RFIC Design,3,0,3,5,"Kamla Prasan Ray(I+L),Tarun Kumar Agarwal(I+L)",25,,,"P1,P2
+(13/124)",,"B1,B2
 (EE Lab)",https://docs.google.com/document/d/184bxetlzX-eSL8kSFU4ea17kSGH1MUei/edit?usp=sharing&ouid=106706293449739761250&rtpof=true&sd=true,,,,
-ES 679,RFIC Design,3,0,3,5,"Kamla Prasan Ray(I),Tarun Kumar Agarwal(L)",25,,,"N2,P2
-(13/125)",,"B1,D1
+ES 679,RFIC Design,3,0,3,5,"Kamla Prasan Ray(I+L),Tarun Kumar Agarwal(I+L)",25,,,"P1,P2
+(13/124)",,"B1,B2
 (EE Lab)",https://docs.google.com/document/d/184bxetlzX-eSL8kSFU4ea17kSGH1MUei/edit?usp=sharing&ouid=106706293449739761250&rtpof=true&sd=true,,,,
-EE 617,VLSI Design,3,0,0,4,Joycee Mekie(I),,,,"D1,D2
+EE 617,VLSI Design,3,0,0,4,Joycee Mekie(I),,,,"J1,J2
 (Surendra C Sheth Learning Theatre)",,,https://docs.google.com/document/d/1Yd1UWR5dlTjHVpQrEvGT5XebozcdRpaulQbP5kYYbHE/edit?usp=sharing,,,,
 EE 644,Physics of Transistors,3,0,0,4,Sandip Lashkare(I),,,,"E2,H2
 (11/101)",,,https://iitgnacin-my.sharepoint.com/:b:/g/personal/sandip_lashkare_iitgn_ac_in/IQCB5CYF5hrKQKJrK0ATpMB3AcSsNovmoEeK0Ns31IyTy9I?e=Y2hwtF,,,,
@@ -578,9 +580,9 @@ MSE 631,Thermodynamics of Materials,3,0,0,4,Abhay Raj Singh Gautam(I),,,,"D1,D2
 (7/104)",,,,,,,
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Chemistry																	,,,,,,,,,,,,,,,,,
-CH 302,Electrochemical Science and Engineering,3,1,0,4,Sudhanshu Sharma(I+T),,,,"I1,I2
-(13/124)","J1
-(13/124)",,https://iitgnacin-my.sharepoint.com/:b:/g/personal/ssharma_iitgn_ac_in/IQAfjaMcr9zhQJJJ3JsqIGbbAS2IrLH2WNhYraISQG0cXdc?e=x3vY2S,,,,BS
+CH 302,Electrochemical Science and Engineering,3,1,0,4,Sudhanshu Sharma(I+T),,,,"I1,K1
+(7/210)","K2
+(7/210)",,https://iitgnacin-my.sharepoint.com/:b:/g/personal/ssharma_iitgn_ac_in/IQAfjaMcr9zhQJJJ3JsqIGbbAS2IrLH2WNhYraISQG0cXdc?e=x3vY2S,,,,BS
 CH 506,Physical Organic Chemistry,3,0,0,4,Kuljeet Kaur(I),,,,"A1,A2
 (7/107)",,,https://drive.google.com/file/d/1I2oe8jr08K0lhzyKZWHxWLJBmy-5uLle/view?usp=sharing,,,,BS
 CH 511,Quantum Chemistry,3,0,0,4,Anirban Mondal(I),,,,"F1,F2
@@ -676,19 +678,19 @@ PH 505,Classical Electrodynamics,3,1,0,4,Urjit Yajnik(I+T),,,,"C1,C2
 PH 508,Classical Mechanics,3,0,0,4,Rusa Mandal(I),,,,"D1,D2
 (7/108)","F2
 (7/208)",,https://docs.google.com/document/d/1SXJsEai2Y2CPnHDRsqJLaVCZfCkpgHZ1KCqb--cBvsY/edit?tab=t.0,,,,BS
-PH 510,Condensed Matter Physics,3,1,0,4,Abhisek Samanta(I+T),,,,"F1,F2
-(11/205)","B2
-(13/124)",,https://drive.google.com/file/d/1Nvq-hJUIpkNRwVH8FhP8CzvUxCzzKgDR/view?usp=sharing,,,,BS
+PH 510,Condensed Matter Physics,3,1,0,4,Abhisek Samanta(I+T),,,,"F1,L1
+(Surendra C Sheth Learning Theatre)","B2
+(Surendra C Sheth Learning Theatre)",,https://drive.google.com/file/d/1Nvq-hJUIpkNRwVH8FhP8CzvUxCzzKgDR/view?usp=sharing,,,,BS
 PH 610,Quantum Field Theory I,3,0,0,4,Baradhwaj Coleppa(I),,,,"D1,D2
 (5/202)",,,https://docs.google.com/document/u/0/d/1bowezKo0pP7dCu-KmKThAcwI-nYuk7WLP73cTanJq2I/edit,,,,BS
 PH 611,X-ray Scattering: Concepts and Applications,3,0,0,4,Rupak Banerjee(I),,,,"G1,G2
 (7/106)",,,https://drive.google.com/file/d/19jFNA_zRiz0gLbz2pG3T5yVXSL3CMR1K/view?usp=sharing,,,,BS
 PH 614,Atomic and Molecular Physics,3,0,0,4,Krishna Kanti Dey(I),,,,"I1,I2
 (7/202)",,,https://drive.google.com/file/d/1pw9GeqiDgkCW63yJP6oLCaLIvTquvNBC/view?usp=sharing,,,,BS
-PH 643,Quantum Computing and Information,3,0,0,4,R.R. Puri(I),,,,"F1,F2
-(7/210)",,,https://drive.google.com/file/d/1LQh8PoQmhvOQWIhInAr2T05JMcqrg2pE/view?usp=drive_link,,,,BS
-PH 645,Topics in Soft and Active Matter Physics,3,0,0,4,Chandan Kumar(I),,,,"C1,C2
-(7/104)",,,https://iitgnacin-my.sharepoint.com/:b:/g/personal/chandan_mishra_iitgn_ac_in/IQDa08zURnfPQLik9VVdxJcpARDMz8p9FvoEEEk0PkgmuMo?e=MmNX4x,,,,BS
+PH 643,Quantum Computing and Information,3,0,0,4,R.R. Puri(I),,,,"H1,F2
+(11/101)",,,https://drive.google.com/file/d/1LQh8PoQmhvOQWIhInAr2T05JMcqrg2pE/view?usp=drive_link,,,,BS
+PH 645,Topics in Soft and Active Matter Physics,3,0,0,4,Chandan Kumar(I),,,,"C1,L2
+(7/206)",,,https://iitgnacin-my.sharepoint.com/:b:/g/personal/chandan_mishra_iitgn_ac_in/IQDa08zURnfPQLik9VVdxJcpARDMz8p9FvoEEEk0PkgmuMo?e=MmNX4x,,,,BS
 PH 646,Advanced Statistical Physics,3,0,0,4,R.R. Puri(I),,,,"E1,E2
 (11/206)",,,https://drive.google.com/file/d/1cVpt6m8NWFWZKsy9bk0UPiCwvyvNJL8V/view?usp=drive_link,,,,BS
 PH 648,Semiconductor Optoelectronics,3,0,0,4,Gopinadhan Kalon(I),,,,"M1,M2
@@ -734,8 +736,8 @@ EH 634,Dynamic Earth Surface and Nature Hazards,1.5,0,3,4,Vikrant Jain(I+L),,,,"
 EH 638,Rock Mechanics and Rock Engineering,3,0,0,4,Manab Mukherjee(I),,,,"J1,J2
 (7/206)",,,https://drive.google.com/file/d/1Brdolv5aKMG5A8rbqfB_uRjQ2a2FCuec/view?usp=sharing,,,,
 EH 639,Statistics for Earth Sciences,1.5,0,3,4,Utsav Mannu(I),,,,"J1
-(7/103)",,"K1,H1
-(10/104)",https://docs.google.com/document/d/14vmw_O29cy-9hrvdd7v6nwu2J5TdyHfazBLl4WzjgzM/edit?usp=sharing,,,,
+(7/103)",,"I1,K1
+(7/103)",https://docs.google.com/document/d/14vmw_O29cy-9hrvdd7v6nwu2J5TdyHfazBLl4WzjgzM/edit?usp=sharing,,,,
 EH 691-III,Special Topics in Earth Science: Microwave Remote Sensing,3,0,0,4,Prem Chand Pandey(I),,,,"C1,C2
 (7/103)",,,https://drive.google.com/file/d/1etOHz8sfBpVHO7s70CsxHmoq9JTE1CKh/view?usp=sharing,,,,BS
 EH 691-XI,Special Topics in Earth Sciences: Stable Isotopes in Earth Systems,3,0,0,4,R. D. Deshpande(I),,,,"M1,M2
