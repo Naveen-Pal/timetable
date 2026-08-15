@@ -67,7 +67,7 @@ PH 203,Solid State Physics,3,1,0,4,Krista Roluahpuia Khiangte(I+T),,,,"M1,M2
 ES 118,Materials for the Future,1.5,0,1.5,3,Amit Arora(I+L),,,,"C1
 (Jagdish Patel Learning Theatre)",,"C2
 (CL Lab)",,,,,
-ES 204,Digital Systems,2,1,1.5,4,"Manu Awasthi(I+T+L),Sameer G Kulkarni(T),Manoj D Gupta(T),Bireswar Das(T),Adithya Kumar(T)",,,,"E1,E2
+ES 204,Digital Systems,2,1,1.5,4,"Manu Awasthi(I+T+L),Sameer G Kulkarni(T),Manoj D Gupta(T),Bireswar Das(T),S. Rajendran(T+L)",,,,"E1,E2
 (10/103)","L1
 (10/103,7/108,7/109,7/208,11/101,11/102)","K1
 (10/103)",https://docs.google.com/document/d/1YzKcgnXZk4eu9vOeKHLpzrJ94jubBlcV22u_bQ0ZDl8/edit?tab=t.0,,,,
@@ -108,7 +108,7 @@ ES 242,Data Structures and Algorithms I,3,0,1.5,4,"Manoj D Gupta(I+L),Anup Kalba
 (10/104,10/105,10/203,10/204)",https://anup.github.io/courses/es242-2026-27-sem1/,,,,
 ES 244,"Signals, Systems, and Random Processes",3,1.5,0,4,Uttama Lahiri(I+T),,,,"D1,D2
 (10/103)","H2
-(10/103)",,https://drive.google.com/file/d/1XwAH5oaeGiHCihXdgUxrtU8lYoo7MKut/view?usp=sharing,,,,
+(7/202,7/203,7/204)",,https://drive.google.com/file/d/1XwAH5oaeGiHCihXdgUxrtU8lYoo7MKut/view?usp=sharing,,,,
 ES 221,Mechanics of Solids,3,1.5,0,4,Manish Kumar(I+T),,,,"G1,G2
 (7/210)","A1
 (7/101)",,https://drive.google.com/file/d/1qr2j1c6lTxCJtIJk6oJkx06RH63vpT8U/view?usp=drive_link,,,,
@@ -564,8 +564,8 @@ Additional Courses: Materials Engineering																	,,,,,,,,,,,,,,,,,
 MSE 352,Material Characterization Techniques,1.5,0,3,4,Emila Panda(I+L),,,,"N2,P2
 (10/102)",,"L1,N1
 (MSE Lab)",https://drive.google.com/file/d/1XKogvsDbG2UkVcRGtYrwvWQRT6yDCJ0p/view?usp=drive_link,,,,
-MSE 604,Deformation Behaviour of Materials,3,0,0,4,Pradipta Ghosh(I),,,,"K1,K2
-(7/206)",,,https://drive.google.com/file/d/1wIKBcDKpokCDqVJQDKlIvOi4KQ0vEKz7/view?usp=sharing,,,,
+MSE 604,Deformation Behaviour of Materials,3,0,0,4,Pradipta Ghosh(I),,,,"I1,K2
+(7/201)",,,https://drive.google.com/file/d/1wIKBcDKpokCDqVJQDKlIvOi4KQ0vEKz7/view?usp=sharing,,,,
 MSE 629,Structure and Defects of Materials,3,0,0,4,Prafull Pandey(I),,,,"F1,F2
 (10/102)",,,https://drive.google.com/file/d/1vFBX3yMD3QRyQWG95SBxo6AI_tL5lMEp/view?usp=drive_link,,,,
 MSE 632,Characterization of Materials,3,0,3,4,Sriharitha Rowthu(I+L),,,,"G1,G2
@@ -606,10 +606,10 @@ CH 626,Asymmetric Synthesis and Catalysis,3,0,0,4,"Chandrakumar Appayee(I), Vats
 (11/205)",,https://drive.google.com/file/d/1K8q7ie60YTPp0yCOhZQy-4_riBhnTOvQ/view?usp=sharing,,,,BS
 CH 627,Metabolism & Biosynthesis,3,0,0,4,Bhaskar Datta(I),,,,"K1,K2
 (11/204)",,,https://drive.google.com/file/d/1QaTSeZA2O2oJ2fdXMJOmlmIVom8YH4qD/view?usp=drive_link,,,,BS
-CH 634,Introduction to Molecular Dynamics,1.5,0,3,4,Sairam Swaroop Mallajosyula(I+L),,,,"G2
-(7/104)",,"J1,P2
+CH 634,Introduction to Molecular Dynamics,1.5,0,3,4,Sairam Swaroop Mallajosyula(I+L),,,,"F1,I1
+(7/104)",,"I2
 (10/104)",https://iitgnacin-my.sharepoint.com/:b:/g/personal/msairam_iitgn_ac_in/IQDvZkQN3loHR5Q9iQxK0aqjAYN5aofIqJCvHPoVYogVXv0?e=LEUl0v,,,,BS
-CH 636,Statistical thermodynamics and its applications in chemistry,3,0,0,4,Sairam Swaroop Mallajosyula(I),,,,"L1,L2
+CH 636,Statistical thermodynamics and its applications in chemistry,3,0,0,4,Sairam Swaroop Mallajosyula(I),,,,"H2,K2
 (7/104)",,,https://iitgnacin-my.sharepoint.com/:b:/g/personal/msairam_iitgn_ac_in/IQBd-2M10pI1RZxW3tUUAYKlAYV-6e77xfkINavOgEkpHEY?e=uHD2jp,,,,BS
 CH 637,Organic Electronics,3,0,0,4,Partha Pratim Roy(I),,,,"J1,J2
 (7/108)",,,,,,,BS
@@ -632,11 +632,11 @@ MA 510,Topology,3,1.5,0,4,Sanjaykumar Amrutiya(I+T),,,,"G1,G2
 (11/102)","A1
 (7/108)",,https://drive.google.com/file/d/12gfaO0WrmERELBW9-iiZUzSoEkhmAdVN/view?usp=drive_link,,,,BS
 MA 513,AI and Mathematics,3,1.5,0,4,Madhu Gupta(I+T),,,,"N1,N2
-(7/210)","H1
+(7/107)","H1
 (7/103)",,https://drive.google.com/open?id=1yueR1OAYmP2PHPXdfSRS19zYEegLw9HS&usp=drive_fs,,,,
 MA 605,Commutative Algebra,3,1.5,0,4,Jugal K. Verma(I+T),,,,"E1,E2
-(7/103)","C1
-(7/105)",,https://docs.google.com/document/d/1fsRYMpwaa82qX1KUGJ5VUbFb7axywTnT/edit?usp=drive_link&ouid=110373418881838401996&rtpof=true&sd=true,,,,BS
+(7/103)","C1 (7/105)
+B1 (7/110)",,https://docs.google.com/document/d/1fsRYMpwaa82qX1KUGJ5VUbFb7axywTnT/edit?usp=drive_link&ouid=110373418881838401996&rtpof=true&sd=true,,,,BS
 MA 623,Number Theory,3,1.5,0,4,Atul Abhay Dixit(I+T),,,,"L1,L2
 (7/202)","K2
 (7/202)",,https://drive.google.com/file/d/1AIjsPnrKxJtskeSGX-cEBblSyyGCyMp7/view?usp=sharing,,,,BS
@@ -740,8 +740,8 @@ EH 639,Statistics for Earth Sciences,1.5,0,3,4,Utsav Mannu(I),,,,"J1
 (7/103)",https://docs.google.com/document/d/14vmw_O29cy-9hrvdd7v6nwu2J5TdyHfazBLl4WzjgzM/edit?usp=sharing,,,,
 EH 691-III,Special Topics in Earth Science: Microwave Remote Sensing,3,0,0,4,Prem Chand Pandey(I),,,,"C1,C2
 (7/103)",,,https://drive.google.com/file/d/1etOHz8sfBpVHO7s70CsxHmoq9JTE1CKh/view?usp=sharing,,,,BS
-EH 691-XI,Special Topics in Earth Sciences: Stable Isotopes in Earth Systems,3,0,0,4,R. D. Deshpande(I),,,,"M1,M2
-(7/202)",,,Course Details_Stable Isotopes in Earth Systems.pdf,,,,
+EH 691-XI,Special Topics in Earth Sciences: Stable Isotopes in Earth Systems,3,0,0,4,R. D. Deshpande(I),,,,"I1,I2
+(7/209)",,,Course Details_Stable Isotopes in Earth Systems.pdf,,,,
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Cognitive Science,,,,,,,,,,,,,,,,,
 CG 501,Computation and Cognition,3,0,0,4,Vaibhav Tripathi(I),,,,"F1,F2
