@@ -11,14 +11,16 @@ MA 103 (E),Calculus of Single Variable and Linear Algebra,3,1.5,0,4,"Abhinav Jha
 (10/204,Jagdish Patel Learning Theatre,Harsha Patel Learning Theatre,10/104,10/105,7/107,7/203,7/204,7/206,5/202)",,https://drive.google.com/file/d/1d0RhjkTuC7e_2ltABtkgR9GeBQWXK6gt/view?usp=sharing,,,,BS
 MA 103 (H),Calculus of Single Variable and Linear Algebra,3,1.5,0,4,"Abhinav Jha(I+T),Sudeshna Roy(I+T)",,,,"F1,F2
 (7/109,7/203)",,,https://drive.google.com/file/d/1d0RhjkTuC7e_2ltABtkgR9GeBQWXK6gt/view?usp=sharing,,,,BS
-ES 112 (E),Computing,3,0,3,4,Shouvick Mondal(I+L),,,,"D1,D2
+ES 112 (E),"Computing
+classroom link",3,0,3,4,Shouvick Mondal(I+L),,,,"D1,D2
 (Jasubhai Auditorium)",,"J2 (10/103,10/104,10/105)
 P1 (10/105,10/204,Jagdish Patel Learning Theatre,Harsha Patel Learning Theatre)",https://docs.google.com/document/d/1dARPkWk7oEEVaBsc9wIZvHxwGhbiouv9HakxrYSI0h4/edit?usp=sharing,,B.Tech. ONLY,,
-ES 112 (H),Computing,3,0,3,4,Shouvick Mondal(I+L),,,,"A2,C2
+ES 112 (H),"Computing
+classroom link",3,0,3,4,Shouvick Mondal(I+L),,,,"A2,C2
 (Harsha Patel Learning Theatre)",,,https://docs.google.com/document/d/1dARPkWk7oEEVaBsc9wIZvHxwGhbiouv9HakxrYSI0h4/edit?usp=sharing,,B.Tech. ONLY,,
 ES 115 (E),"Design, Innovation, and Prototyping",1.5,0,3,5,"K Chelvakumar(I+L),Manasi Anand Kanetkar(I+L),Malay Dhamelia(I+L)",,,,"E2
 (Jasubhai Auditorium)",,"A1,C1,I1,K1,I2,M1,K2,L2,M2,P2
-(Makers' Bhavan, Tinkerers' Lab, etc.)",,,,,
+(Makers' Bhavan, Tinkerers' Lab, etc.)",https://drive.google.com/file/d/1X8R4ohCCmp09lUdIsquvDY9Qmmzzvs3D/view?usp=sharing,,,,
 ES 115 (H),"Design, Innovation, and Prototyping",1.5,0,3,5,"K Chelvakumar(I+L),Manasi Anand Kanetkar(I+L),Malay Dhamelia(I+L)",,,,"H2
 (7/209)",,,,,,,
 HS 191,Introduction to writing I,1,3,0,2,Jooyung Kim(I+T),,,,,"B1,B2
@@ -51,9 +53,9 @@ CL 204,Heat Transfer,2,1,0,3,Sameer V Dalvi(I+T),,,,"D1,D2
 CS 202,Software Tools and Techniques for CSE,1.5,0,3,4,Abhishek Bichhawat(I+L),,,,"D1
 (Jayshree S Sheth Learning Theatre)",,"J2,M2
 (Harsha Patel Learning Theatre,10/204)",https://docs.google.com/document/d/14IvvU2aCu9HGfI2FIht64dEG_BJjAqhoZMftEI5PWis/edit?usp=sharing,,,,
-CS 203,Software Tools & Techniques for AI,1.5,0,3,4,Yogesh Kumar Meena(I+L),,,,"D2
-(Jayshree S Sheth Learning Theatre)",,"I2,M1
-(10/203,10/204)",https://yogeshkmeena.github.io/Teaching/,,,,
+CS 203,Software Tools & Techniques for AI,1.5,0,3,4,Yogesh Kumar Meena(I+L),,,,"C2
+(11/101)",,"K1,H1
+(10/104)",https://yogeshkmeena.github.io/Teaching/,,,,
 GE 201,General Education II,3,0,0,2,Argha Manna(I),,,,"P1,P2
 (Jasubhai Auditorium,Surendra C Sheth Learning Theatre)",,,,,,,
 HS 221,Introduction to Philosophy,3,0,0,4,Jaison Manjaly(I),,,,"N1,N2
@@ -658,7 +660,7 @@ MA 642,Fourier Analysis on LCA Groups (first half),3,0,0,2,Bipul Saurabh(I),,,,"
 (7/207)",,,https://drive.google.com/file/d/1O7_A5nJGCK2iAJio5B-d3gXQl5N-PPsx/view?usp=sharing,,,,BS
 MA 636,Introduction to Riemannian Geometry,3,0,0,4,TBD(I),,,,"L1,L2
 (7/103)",,,,,,,BS
-MA 643,Numerical Analysis for Partial Differential Equations,3,0,0,4,Abhinav Jha(I),,,,"K1,K2
+MA 643,Numerical Analysis for Partial Differential Equations,3,0,0,4,Abhinav Jha(I),,,,"C1,C2
 (7/110)",,,https://drive.google.com/file/d/1o0iILhpRpC3cNJbu-MoaDckHwQbumwr1/view?usp=drive_link,,,,
 MA 691-II,Special Topics in Mathematics: Hilbert Modules,3,0,0,4,Gadadhar Misra(I),,,,"M1,M2
 (7/105)",,,https://www.dropbox.com/scl/fi/gq5ygbtek8y780u8okvjm/2026AugMA-691-II.pdf?rlkey=t1z8r2hwcn4bdqdsggugihiup&dl=0,,,,BS
@@ -700,8 +702,8 @@ PH 651,Nanomagnetism and Spintronics,3,0,0,4,Naveen Sisodia(I),,,,"J1,J2
 PH 609,Introduction to Einstein’s Theory of General Relativity,3,1,0,4,"Urjit Yajnik(I+T),Pinaki Banerjee(I+T)",,,,"M1,M2
 (10/102)","J1
 (7/108)",,https://iitgnacin-my.sharepoint.com/:b:/g/personal/urjit_yajnik_iitgn_ac_in/IQDh60qf95mgTICwllShyTkfASmDDTax7CsC8bWYNZ_OUok?e=i4kZHp,,,,BS
-PH 652,Gravitational Wave Astronomy,3,0,0,4,Anand Sengupta(I),,,,"I1,I2
-(13/125)",,,https://drive.google.com/file/d/12L5KZcCjjtoItwOK_YgYmmaO1UOqNJ8q/view?usp=sharing,,,,
+PH 652,Gravitational Wave Astronomy,3,0,0,4,Anand Sengupta(I),,,,"F1,H2
+(7/110)",,,https://drive.google.com/file/d/12L5KZcCjjtoItwOK_YgYmmaO1UOqNJ8q/view?usp=sharing,,,,
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Earth Sciences																	,,,,,,,,,,,,,,,,,
 EH 605,Modeling of Earth System and Sustainability,3,0,0,4,R.N. Singh(I),50,,,"G1,G2
@@ -797,9 +799,9 @@ HS 112,Urdu poetry interpretation,3,1,0,4,Mohd. Mubashshir Ahsan(I+T),,,,"F1,F2
 HS 152,Japanese Language for Beginners,3,1,0,4,Sweta Mistry(I),,,,"M1,M2
 (11/102)","J1
 (11/102)",,https://drive.google.com/file/d/1_ncVuW_jlf4SMrFT_EYHPw_kGQA3yfON/view?usp=sharing,,,,HSS
-HS 153,Advance Japanese Learning,3,1,0,4,Sweta Mistry(I),,,,"L1,L2
-(11/206)","I1
-(11/206)",,https://drive.google.com/file/d/1u1qNY-_gHCjTyFQ5Kfc_kY6PkuQj2qmx/view?usp=sharing,,,,HSS
+HS 153,Advance Japanese Learning,3,1,0,4,Sweta Mistry(I),,,,"I2,K2
+(7/206)","I1
+(7/206)",,https://drive.google.com/file/d/1u1qNY-_gHCjTyFQ5Kfc_kY6PkuQj2qmx/view?usp=sharing,,,,HSS
 HS 154,Mandarin for Beginners,3,0,0,4,Hao Tsung Kao (I),,,,"N1,N2
 (7/102)",,,,,,,HSS
 HS 155,Mandarin for Beginners - II,3,0,0,4,Hao Tsung Kao (I),,,,"L1,L2
