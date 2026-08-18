@@ -2,12 +2,10 @@ Course Name,Course Number,Lecture Time,Tutorial Time,Lab Time,Credit,Instructor,
 Foundation Programme,FP 100,,,,4.0,"Achyut Mishra(I),Mahalakshmi Ramamurthy(I),Satyakam Kar(I),Kartik Patel(I),Sandip Lashkare(I),Anagh Bhaumik(I)",,,,
 Engineering Graphics,ES 101 (E),E1,,"N1,N2",3.0,"Hari Sai Ganesh(I+L),Soumajit Dutta(L),Sameer Patel(L),S.R.Gandhi(L),Sai Praneeth(L),K.R. Jayaprakash(L),Uthraa K R(GTF/L),Prince Vats(GTF/L)",https://drive.google.com/file/d/1nQu5kzc24h1AqLb8OSkFrY6xPiWFH-VZ/view?usp=drive_link,Jasubhai Auditorium,,Surendra C Sheth Learning T...
 Engineering Graphics,ES 101 (H),E1,,,3.0,Sameer Patel(I),https://drive.google.com/file/d/1nQu5kzc24h1AqLb8OSkFrY6xPiWFH-VZ/view?usp=drive_link,11/101,,
-Calculus of Single Variable and Linear Algebra,MA 103 (E),"G1,G2",L1,,4.0,"Abhinav Jha(I+T),Sudeshna Roy(I+T)",https://drive.google.com/file/d/1d0RhjkTuC7e_2ltABtkgR9GeBQWXK6gt/view?usp=sharing,Jasubhai Auditorium,"10/204,Jagdish Patel Learni...",
-Calculus of Single Variable and Linear Algebra,MA 103 (H),"F1,F2",,,4.0,"Abhinav Jha(I+T),Sudeshna Roy(I+T)",https://drive.google.com/file/d/1d0RhjkTuC7e_2ltABtkgR9GeBQWXK6gt/view?usp=sharing,"7/109,7/203",,
-"Computing
-classroom link",ES 112 (E),"D1,D2",,"J2 , P1",4.0,Shouvick Mondal(I+L),https://docs.google.com/document/d/1dARPkWk7oEEVaBsc9wIZvHxwGhbiouv9HakxrYSI0h4/edit?usp=sharing,Jasubhai Auditorium,,"10/103,10/104,10/105, 10/105,10/204,Jagdish Patel..."
-"Computing
-classroom link",ES 112 (H),"A2,C2",,,4.0,Shouvick Mondal(I+L),https://docs.google.com/document/d/1dARPkWk7oEEVaBsc9wIZvHxwGhbiouv9HakxrYSI0h4/edit?usp=sharing,Harsha Patel Learning Theatre,,
+Calculus of Single Variable and Linear Algebra,MA 103 (E),"G1,G2",L1,,4.0,"Abhinav Jha(I+T),Sudeshna Roy(I+T)",https://drive.google.com/file/d/1sHohTDMQczGuLp6aBKeT1Npp-_brmARG/view?usp=sharing,Jasubhai Auditorium,"10/204,Jagdish Patel Learni...",
+Calculus of Single Variable and Linear Algebra,MA 103 (H),"F1,F2",,,4.0,"Abhinav Jha(I+T),Sudeshna Roy(I+T)",https://drive.google.com/file/d/1sHohTDMQczGuLp6aBKeT1Npp-_brmARG/view?usp=sharing,"7/109,7/203",,
+Computing,ES 112 (E),"D1,D2",,"J2 , P1",4.0,Shouvick Mondal(I+L),https://docs.google.com/document/d/1dARPkWk7oEEVaBsc9wIZvHxwGhbiouv9HakxrYSI0h4/edit?usp=sharing,Jasubhai Auditorium,,"10/103,10/104,10/105, 10/105,10/204,Jagdish Patel..."
+Computing,ES 112 (H),"A2,C2",,,4.0,Shouvick Mondal(I+L),https://docs.google.com/document/d/1dARPkWk7oEEVaBsc9wIZvHxwGhbiouv9HakxrYSI0h4/edit?usp=sharing,Harsha Patel Learning Theatre,,
 "Design, Innovation, and Prototyping",ES 115 (E),E2,,"A1,C1,I1,K1,I2,M1,K2,L2,M2,P2",5.0,"K Chelvakumar(I+L),Manasi Anand Kanetkar(I+L),Malay Dhamelia(I+L)",https://drive.google.com/file/d/1X8R4ohCCmp09lUdIsquvDY9Qmmzzvs3D/view?usp=sharing,Jasubhai Auditorium,,"Makers' Bhavan, Tinkerers' ..."
 "Design, Innovation, and Prototyping",ES 115 (H),H2,,,5.0,"K Chelvakumar(I+L),Manasi Anand Kanetkar(I+L),Malay Dhamelia(I+L)",,7/209,,
 Introduction to writing I,HS 191,,"B1,B2",,2.0,Jooyung Kim(I+T),https://docs.google.com/document/d/1ckYtp1ER3XJ_86QWtu9mY6RUeYxUT-iIm25mHQ9PfSw/edit?tab=t.0,,"7/101,7/102,7/103,7/104,7/2...",
@@ -76,7 +74,7 @@ Operating Systems,CS 330,"E1,E2",,H1,4.0,Balagopal Komarath(I+L),https://docs.go
 Computer Networks,CS 331,"G1,G2",H2,,4.0,Sameer G Kulkarni(I+T),https://docs.google.com/document/d/19Dx-AmSWw_Qc1AgwQF7ibPd8231zBGBD/edit?usp=sharing&ouid=105240883128772122406&rtpof=true&sd=true,Surendra C Sheth Learning T...,Surendra C Sheth Learning T...,
 Engineering Electromagnetics,EE 312,"G1,G2",H2,,4.0,Ravi Hedge(I+T),https://docs.google.com/document/d/1Mitg2tScGQkx5Uf_YOHr7_RVZp7UcnQsSYWoLQXkq0I/edit?usp=drivesdk,Jayshree S Sheth Learning T...,7/208,
 Digital Signal Processing,EE 323,"D1,D2",F1,,4.0,"Nithin George(I+T),Kartik Patel(T)",https://drive.google.com/file/d/1MSyskRyVJeFJrdMGKj3wuoTEcuO58PD_/view?usp=sharing,Jagdish Patel Learning Thea...,Jagdish Patel Learning Thea...,
-Power Electronics,EE 333,"E1,E2",C1,"I2,M1,J2,M2",4.0,Pallavi Bharadwaj(I+T+L),https://docs.google.com/document/d/1kpWiMQ6CJZw0knrwqqR6tLwOAW01mH4WOPDg9DRpNEg/edit?usp=sharing,Jagdish Patel Learning Thea...,Harsha Patel Learning Theatre,EE Lab
+Power Electronics,EE 333,"E1,E2",C1,"M1,P1,J2,M2",4.0,Pallavi Bharadwaj(I+T+L),https://docs.google.com/document/d/1kpWiMQ6CJZw0knrwqqR6tLwOAW01mH4WOPDg9DRpNEg/edit?usp=sharing,Jagdish Patel Learning Thea...,Harsha Patel Learning Theatre,EE Lab
 Material Characterization Techniques,MSE 352,"N2,P2",,"L1,N1",4.0,Emila Panda(I+L),https://drive.google.com/file/d/1XKogvsDbG2UkVcRGtYrwvWQRT6yDCJ0p/view?usp=drive_link,10/102,,MSE Lab
 Control Systems,ES 245,"D1,H1",D2,,4.0,"Vineet Vashista(I+T),Rohil Jain(T)",https://drive.google.com/file/d/16b4Jey_9XhKRdaFEoyUjCdtEDLl9gZtz/view?usp=sharing,Harsha Patel Learning Theatre,"7/202,7/206",
 Mechanics of Materials,ME 333,"H2,F2",J2,,3.0,"Harini Subramanian(I+T),Ravi Sastri Ayyagari(T+L)",https://iitgnacin-my.sharepoint.com/:w:/g/personal/harini_subramanian_iitgn_ac_in/IQA3aYYcfycwTZ19p75hjFyLASY4KgNMHCupipwluzcyI50?e=90LUzj,7/108,"7/204,7/205",
@@ -236,7 +234,7 @@ Semiconductor Optoelectronics,PH 648,"M1,M2",,,4.0,Gopinadhan Kalon(I),PH 648-Se
 Nanomagnetism and Spintronics,PH 651,"J1,J2",,,4.0,Naveen Sisodia(I),coursepolicy_PH651_nanomagnetism_and_spintronics_sem1_2627.pdf,7/201,,
 Introduction to Einstein’s Theory of General Relativity,PH 609,"M1,M2",J1,,4.0,"Urjit Yajnik(I+T),Pinaki Banerjee(I+T)",https://iitgnacin-my.sharepoint.com/:b:/g/personal/urjit_yajnik_iitgn_ac_in/IQDh60qf95mgTICwllShyTkfASmDDTax7CsC8bWYNZ_OUok?e=i4kZHp,10/102,7/108,
 Gravitational Wave Astronomy,PH 652,"F1,H2",,,4.0,Anand Sengupta(I),https://drive.google.com/file/d/12L5KZcCjjtoItwOK_YgYmmaO1UOqNJ8q/view?usp=sharing,7/110,,
-Modeling of Earth System and Sustainability,EH 605,"G1,G2",,,4.0,R.N. Singh(I),https://drive.google.com/file/d/1bRaz0EZmUZm_ti2qyMZGRTRvzff1gkyg/view?usp=drive_link,7/102,,
+Modeling of Earth System and Sustainability,EH 605,"G1,G2",,,4.0,R.N. Singh(I),https://drive.google.com/file/d/1bRaz0EZmUZm_ti2qyMZGRTRvzff1gkyg/view?usp=drive_link,7/203,,
 Archaeology: Theory and Methods,EH 401,"M1,M2",,,4.0,Sharada V Channarayapatna(I),https://drive.google.com/file/d/1Or63rR6-_uybQiUa7FKmiRQaGLHX-Sge/view?usp=drive_link,7/102,,
 Archaeology: Theory and Methods,EH 635,"M1,M2",,,4.0,Sharada V Channarayapatna(I),https://drive.google.com/file/d/1Or63rR6-_uybQiUa7FKmiRQaGLHX-Sge/view,7/102,,
 Earth Surface Processes in the Anthropocene,EH 601,"F1,F2",,J1,4.0,Vikrant Jain(I+L),,7/102,,EH Lab
