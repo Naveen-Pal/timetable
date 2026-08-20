@@ -12,8 +12,8 @@ MA 103 (E),Calculus of Single Variable and Linear Algebra,3,1.5,0,4,"Abhinav Jha
 MA 103 (H),Calculus of Single Variable and Linear Algebra,3,1.5,0,4,"Abhinav Jha(I+T),Sudeshna Roy(I+T)",,,,"F1,F2
 (7/109,7/203)",,,https://drive.google.com/file/d/19C9LP5b07oatfq1HcyB8ZYlKZVIMlLhw/view?usp=sharing,,,,BS
 ES 112 (E),Computing,3,0,3,4,Shouvick Mondal(I+L),,,,"D1,D2
-(Jasubhai Auditorium)",,"J2 (10/103,10/104,10/105)
-P1 (10/105,10/204,Jagdish Patel Learning Theatre,Harsha Patel Learning Theatre)",https://docs.google.com/document/d/1dARPkWk7oEEVaBsc9wIZvHxwGhbiouv9HakxrYSI0h4/edit?usp=sharing,,B.Tech. ONLY,,
+(Jasubhai Auditorium)",,"J2 (10/103,10/104,10/105,10/203)
+P1 (10/104,10/105,10/204,Jagdish Patel Learning Theatre,Harsha Patel Learning Theatre)",https://docs.google.com/document/d/1dARPkWk7oEEVaBsc9wIZvHxwGhbiouv9HakxrYSI0h4/edit?usp=sharing,,B.Tech. ONLY,,
 ES 112 (H),Computing,3,0,3,4,Shouvick Mondal(I+L),,,,"A2,C2
 (Harsha Patel Learning Theatre)",,,https://docs.google.com/document/d/1dARPkWk7oEEVaBsc9wIZvHxwGhbiouv9HakxrYSI0h4/edit?usp=sharing,,B.Tech. ONLY,,
 ES 115 (E),"Design, Innovation, and Prototyping",1.5,0,3,5,"K Chelvakumar(I+L),Manasi Anand Kanetkar(I+L),Malay Dhamelia(I+L)",,,,"E2
@@ -218,7 +218,7 @@ CS 202,Software Tools and Techniques for CSE,1.5,0,3,4,Abhishek Bichhawat(I+L),,
 CS 330,Operating Systems,3,0,1.5,4,Balagopal Komarath(I+L),,,,"E1,E2
 (Surendra C Sheth Learning Theatre)",,"H1
 (10/203,10/204)",https://docs.google.com/document/d/10uyNKy-2LCnDZ7eyVu8cxFakN7IF2OFL036-TkairYU/edit?usp=sharing,,,,
-CS 331,Computer Networks,3,1.5,0,4,Sameer G Kulkarni(I+T),,,,"G1,G2
+CS 331,Computer Networks,3,1.5,0,4,"Sameer G Kulkarni(I+T),Adithya Kumar(T)",,,,"G1,G2
 (Surendra C Sheth Learning Theatre)","H2
 (Surendra C Sheth Learning Theatre)",,https://docs.google.com/document/d/19Dx-AmSWw_Qc1AgwQF7ibPd8231zBGBD/edit?usp=sharing&ouid=105240883128772122406&rtpof=true&sd=true,,,,
 CS 329,Foundations of AI: Multiagent Systems,3,0,0,4,Manisha Padala(I),,,,"P1,P2
@@ -535,7 +535,7 @@ ES 607,Foundations of Fluid Dynamics,3,1,0,4,Vinod Narayanan(I+T),,,,"G1,G2
 (7/210)",,https://docs.google.com/document/d/1mI6e6RxvTV2k4-98f-4_qdW_7Fh46uZ3/edit?usp=sharing&ouid=100579235848488623714&rtpof=true&sd=true,,,,
 ME 605,Computational Fluid Dynamics,3,1.5,0,4,Uddipta Ghosh(I+T),,,,"M1,M2
 (5/202)","K1
-(7/109)",,https://iitgnacin-my.sharepoint.com/:b:/g/personal/uddipta_ghosh_iitgn_ac_in/IQDHRaXgkGFQSqGRCL61mRekAR3De8my13tc6iX_izzIAwY?e=g4nBZg,,,,
+(10/105)",,https://iitgnacin-my.sharepoint.com/:b:/g/personal/uddipta_ghosh_iitgn_ac_in/IQDHRaXgkGFQSqGRCL61mRekAR3De8my13tc6iX_izzIAwY?e=g4nBZg,,,,
 ES 656,Human-Robot Interaction,3,0,0,4,Vineet Vashista(I),,,,"M1,L2
 (7/201)",,,https://drive.google.com/file/d/1cfkjeuITM2BsI-oMOnxtCMuwbTSMZ1S9/view?usp=drive_link,,,,
 ES 621,Advanced Solid Mechanics,3,0,0,4,Harmeet Singh(I),,,,"D1,D2
@@ -745,7 +745,7 @@ EH 691-XI,Special Topics in Earth Sciences: Stable Isotopes in Earth Systems,3,0
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Cognitive Science,,,,,,,,,,,,,,,,,
 CG 501,Computation and Cognition,3,0,0,4,Vaibhav Tripathi(I),,,,"F1,F2
-(7/201)",,,Course Plan ,,,,BS
+(11/102)",,,Course Plan ,,,,BS
 CG 503,Fundamentals of Cognitive Psychology,3,0,0,4,Meera Mary Sunny(I),,,,"G1,G2
 (7/207)",,,https://docs.google.com/document/d/1DZjpE-0W950jpeWPb7eLvAoyVqDP8-YW/edit?usp=sharing&ouid=116968647900581462482&rtpof=true&sd,,,,BS
 CG 504,Research Methods in Cognitive Science,1.5,0,1.5,4,Mahalakshmi Ramamurthy(I+L),,,,"J1,I1
