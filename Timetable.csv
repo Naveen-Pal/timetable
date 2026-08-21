@@ -5,7 +5,7 @@ ES 101 (E),Engineering Graphics,1.5,0,1.5,3,"Hari Sai Ganesh(I+L),Soumajit Dutta
 (Jasubhai Auditorium)",,"N1,N2
 (Surendra C Sheth Learning Theatre,Jayshree S Sheth Learning Theatre,10/203,10/204,7/208,7/209,Jagdish Patel Learning Theatre,Harsha Patel Learning Theatre,10/104,10/105,11/101,11/102)",https://drive.google.com/file/d/1nQu5kzc24h1AqLb8OSkFrY6xPiWFH-VZ/view?usp=drive_link,,,,
 ES 101 (H),Engineering Graphics,1.5,0,1.5,3,Sameer Patel(I),,,,"E1
-(11/101)",,,https://drive.google.com/file/d/1nQu5kzc24h1AqLb8OSkFrY6xPiWFH-VZ/view?usp=drive_link,,,,
+(Surendra C Sheth Learning Theatre)",,,https://drive.google.com/file/d/1nQu5kzc24h1AqLb8OSkFrY6xPiWFH-VZ/view?usp=drive_link,,,,
 MA 103 (E),Calculus of Single Variable and Linear Algebra,3,1.5,0,4,"Abhinav Jha(I+T),Sudeshna Roy(I+T)",,,,"G1,G2
 (Jasubhai Auditorium)","L1
 (10/204,Jagdish Patel Learning Theatre,Harsha Patel Learning Theatre,10/104,10/105,7/107,7/203,7/204,7/206,5/202)",,https://drive.google.com/file/d/19C9LP5b07oatfq1HcyB8ZYlKZVIMlLhw/view?usp=sharing,,,,BS
@@ -62,8 +62,8 @@ PH 202,Introduction to Quantum Physics,3,1,0,4,"Vinod Chandra(I),Pinaki Banerjee
 (7/206)","H2
 (13/125,11/204)",,https://docs.google.com/document/d/10dlmKTP0Zsw8Y7GcksIkvv5eutvzJIZ6M5hMXAdavfA/edit?tab=t.0,,,,BS
 PH 203,Solid State Physics,3,1,0,4,Krista Roluahpuia Khiangte(I+T),,,,"M1,M2
-(7/110)","J1
-(7/205)",,https://drive.google.com/file/d/1h15mPACk6bZmE9_SCLzfLC9SosBx1GV6/view?usp=sharing,,,,BS
+(7/202)","J1
+(7/203)",,https://drive.google.com/file/d/1h15mPACk6bZmE9_SCLzfLC9SosBx1GV6/view?usp=sharing,,,,BS
 ES 118,Materials for the Future,1.5,0,1.5,3,Amit Arora(I+L),,,,"C1
 (Jagdish Patel Learning Theatre)",,"C2
 (CL Lab)",,,,,
@@ -216,7 +216,7 @@ CS 202,Software Tools and Techniques for CSE,1.5,0,3,4,Abhishek Bichhawat(I+L),,
 (Jayshree S Sheth Learning Theatre)",,"J2,M2
 (Harsha Patel Learning Theatre,10/204)",https://docs.google.com/document/d/14IvvU2aCu9HGfI2FIht64dEG_BJjAqhoZMftEI5PWis/edit?usp=sharing,,,,
 CS 330,Operating Systems,3,0,1.5,4,Balagopal Komarath(I+L),,,,"E1,E2
-(Surendra C Sheth Learning Theatre)",,"H1
+(10/204)",,"H1
 (10/203,10/204)",https://docs.google.com/document/d/10uyNKy-2LCnDZ7eyVu8cxFakN7IF2OFL036-TkairYU/edit?usp=sharing,,,,
 CS 331,Computer Networks,3,1.5,0,4,"Sameer G Kulkarni(I+T),Adithya Kumar(T)",,,,"G1,G2
 (Surendra C Sheth Learning Theatre)","H2
@@ -614,7 +614,7 @@ CH 636,Statistical thermodynamics and its applications in chemistry,3,0,0,4,Sair
 CH 637,Organic Electronics,3,0,0,4,Partha Pratim Roy(I),,,,"J1,J2
 (7/108)",,,,,,,BS
 CH 640,Bio-inorganic Chemistry,3,0,0,4,Biswajit Mondal(I),,,,"L1,L2
-(7/101)",,,Course plan for CH640_Bio-inorganic Chemistry.pdf,,,,BS
+(7/104)",,,Course plan for CH640_Bio-inorganic Chemistry.pdf,,,,BS
 CH 641,Chemistry of Energy Materials,3,0,0,4,Manisha Samanta(I),,,,"M1,M2
 (7/210)",,,CH641-course-plan-2025 -Samanta.pdf,,,,
 ,,,,,,,,,,,,,,,,,
@@ -760,8 +760,8 @@ CG 607,Emotion and Cognition,3,0,1,4,Meera Mary Sunny(I+T),,,,"L1,L2
 CG 612,Neural Plasticity,3,0,0,4,Leslee Lazar(I),,,,"D1,D2
 (7/201)",,,https://iitgnacin-my.sharepoint.com/:b:/g/personal/leslee_lazar_iitgn_ac_in/IQA8BAWD_qOqTJ2APbJmw4kyATTGGM11tUJa0f9-o7XuCjM?e=dyuuEe,,,,BS
 CG 615,AI & Human Cognition,3,1.5,0,4,Sabyasachi Shivkumar(I+T),,,,"N1,N2
-(7/109)","P2
-(7/209)",,https://docs.google.com/document/d/1tRmPXavaUJBE5_HAnCHZUjSvWyq_ARef4JEq3ZLFPME/edit?usp=sharing,,,,
+(7/201)","P2
+(7/203)",,https://docs.google.com/document/d/1tRmPXavaUJBE5_HAnCHZUjSvWyq_ARef4JEq3ZLFPME/edit?usp=sharing,,,,
 ES 606,Computational Neuroscience,3,0,0,4,Krishna Miyapuram(I),,,,"G1,G2
 (7/201)",,,https://docs.google.com/document/u/0/d/17qJQNPpbHkf1ojjxh1dtmOrOwg3PS7zEA8YAVsWDEjM/edit,,,,
 ES 673,NeuroAI: Neuroscience & Artificial Intelligence ,3,0,0,4,Vaibhav Tripathi(I),,,,"E1,E2
@@ -801,7 +801,7 @@ HS 153,Advance Japanese Learning,3,1,0,4,Sweta Mistry(I),,,,"I2,K2
 (7/206)","I1
 (7/206)",,https://drive.google.com/file/d/1u1qNY-_gHCjTyFQ5Kfc_kY6PkuQj2qmx/view?usp=sharing,,,,HSS
 HS 154,Mandarin for Beginners,3,0,0,4,Hao Tsung Kao (I),,,,"N1,N2
-(7/102)",,,,,,,HSS
+(7/109)",,,,,,,HSS
 HS 155,Mandarin for Beginners - II,3,0,0,4,Hao Tsung Kao (I),,,,"L1,L2
 (7/103)",,,,,,,HSS
 HS 221,Introduction to Philosophy,3,0,0,4,Jaison Manjaly(I),,,,"N1,N2
@@ -817,7 +817,7 @@ Saturday (10:30 AM–12:30 PM) (11/102)",,,https://docs.google.com/spreadsheets/
 MS 491-XVI,Special Topics in Management: Lean Six Sigma,3,0,0,4,Alok Bhatnagar(I),,,,"P1,P2
 (7/208)",,,https://drive.google.com/file/d/1xSTSoHjxKP7hxKgvCST_t2tmWsK6vxP0/view?usp=sharing,,,,HSS
 MS 492-VIII,Special Topics in Management: Leadership Development & Executive Presence (first half),3,0,0,2,Ramachandran Veetikazhi(I),,,,"L1,L2
-(7/105)",,,LD&EP_CLASSWISE SCHEDULE_IITGn_DrVeetikazhi_2026.pdf,,,,HSS
+(7/101)",,,LD&EP_CLASSWISE SCHEDULE_IITGn_DrVeetikazhi_2026.pdf,,,,HSS
 MS 492-IX,Special Topics in Management: Managing People and Workplace Behaviour (first half),3,0,0,2,Ramachandran Veetikazhi(I),,,,"P1,P2
 (7/106)",,,Managing People_CLASSWISE SCHEDULE_IITGn_DrVeetikazhi_2026.pdf,,,,
 IN 304,Ancient Indian Technology,3,0,0,4,Alok Kumar Kanungo(I),,,,"K1,K2
