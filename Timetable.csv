@@ -339,12 +339,17 @@ PE 500,Physical Education (MSc and MA students),0,0,0,0,,,183,,,,,,,,,
 PE 600,Physical Education (MTech and PhD students),0,0,0,0,,,353,,,,,,,,,
 ,,,,,,,,,,,,,,,,,
 Viva Voce/ Group Discussion,,,,,,,,,,,,,,,,,
-IN 101,Comprehensive Viva Voce,0,0,0,0,,,345,,"J1,H1
-(Jagdish Patel Learning Theatre)",,,,,,,
-IN 501,Comprehensive Viva Voce,0,0,0,0,,,182,,"K1,L1,L2,M1,M2
-(Jayshree S Sheth Learning Theatre)",,,,,,,
-IN 601,Comprehensive Viva Voce,0,0,0,0,,,360,,"K1,L1,L2,M1,M2
-(Jayshree S Sheth Learning Theatre)",,,,,,,
+IN 101,Comprehensive Viva Voce,0,0,0,0,,,345,,"H1
+(10/102,11/102)","J1
+(11/205,11/206)",,,,,,
+IN 501,Comprehensive Viva Voce,0,0,0,0,,,182,,"A1,A2
+(Surendra C Sheth Learning Theatre,Jayshree S Sheth Learning Theatre)","B1
+(11/205,11/206)","B2,C2
+(11/102,11/206)",,,,,
+IN 601,Comprehensive Viva Voce,0,0,0,0,,,360,,"A1,A2
+(Surendra C Sheth Learning Theatre,Jayshree S Sheth Learning Theatre)","B1
+(11/205,11/206)","B2,C2
+(11/102,11/206)",,,,,
 Additional Courses: Biological Engineering																	,,,,,,,,,,,,,,,,,
 BE 303,Bionanotechnology – Principles and Applications,3,0,0,4,Mukesh Dhanka(I),,35,,"F1,F2
 (7/101)",,,BE303- Bionanotechnology - 2026.docx,,,,BS
