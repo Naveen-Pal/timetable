@@ -41,7 +41,7 @@ PH 001,Preparatory Courses,3,0,0,4,Baradhwaj Colleppa(I),,17,,"E1,E2
 (5/202)",,,,,,,
 CH 001,Preparatory Courses,3,0,0,4,Biswajit Mondal(I),,17,,"B1,C2
 (5/202)",,,,,,,
-MA 001,Preparatory Courses,3,0,0,4,Sakshi Gupta(I),,17,,"K1,K2
+MA 001,Preparatory Courses,3,0,0,4,Hassan Ali Biswas(I),,17,,"K1,K2
 (7/101)",,,,,,,
 HS 001,Preparatory Courses,3,0,0,4,Aditi Kothiyal(I),,17,,"G1,G2
 (11/205)",,,,,,,
@@ -575,6 +575,8 @@ ME 691-XXIII,Special Topics in Mechanical Engineering: Foundations of Heat and M
 ME 692-X,Special Topics in Mechanical Engineering: Wind Engineering,1.5,0,1.5,2,Dhwanil Shukla(I+L),,,,"J2
 (7/203)",,"M2
 (ME Lab)",https://docs.google.com/document/d/1b7tTdQOOQQqDU3S753Al1RPtnsnrGP371T_4-KMRPBU/edit?usp=sharing,,,,
+ME 692-XI,Special Topics in Mechanical Engineering: Advanced Thermal Management of Electronics (second half),3,0,0,2,Soumyadip Sett(I),,,,"G1,G2
+(7/203)",,,,,,,
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Materials Engineering																	,,,,,,,,,,,,,,,,,
 MSE 352,Material Characterization Techniques,1.5,0,3,4,Emila Panda(I+L),,36,,"N2,P2
