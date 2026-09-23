@@ -36,7 +36,7 @@ Materials Processing,MSE 317,,,,4.0,"Emila Panda(I+T+L),Pradipta Ghosh(I+T+L)",,
 Fluid Dynamics,ME 207,"E1,E2",J2,K1,5.0,"Shubhangi Shamsundar Bansude(I+T),Lokesh Malik(T+L)",https://drive.google.com/file/d/1tTN5aA-Rn8g7cEnqo-RrvENjd3-5GNOX/view?usp=sharing,7/109,"11/101,11/102",ME Lab
 Principles of Manufacturing Processes,ME 209,"D1,D2",,A2,3.0,Rakesh Singhai(I+L),https://drive.google.com/file/d/19TmTi65Tp8N7TYFaZS2cB6qztPael3mB/view?usp=drive_link,7/209,,7/209
 Calculus of Several Variables (first half),MA 205,"F1,F2",B1,,2.0,Tanya Kaushal Srivastava(I+T),https://docs.google.com/document/d/1JfSWY7u7J7oVMK7QIZ9QtWu3q_7nHA2qi86mJYLZUBw/edit?usp=sharing,Jasubhai Auditorium,Surendra C Sheth Learning T...,
-Introduction to Complex Analysis (second half),MA 206,"F1,F2",B1,,2.0,Projesh Nath Choudhury(I+T),https://projesh.people.iitgn.ac.in/Teaching/MA206/CP_MA206-26.pdf,7/208,7/208,
+Introduction to Complex Analysis (second half),MA 206,"F1,F2",B1,,2.0,Projesh Nath Choudhury(I+T),https://projesh.people.iitgn.ac.in/Teaching/MA206/CP_MA206-26.pdf,7/208,"7/204,7/208",
 Materials Thermodynamics,MSE 202,"E1,E2",H1,,4.0,Sesha Sai Behara(I+T),https://drive.google.com/file/d/1EVFsTZH6wrZTfJTknnTuPW3_g8PKSt1p/view?usp=sharing,7/104,7/101,
 Earth Materials and Processes,CE 201,E1,,"I1,K1",2.0,"Pankaj Khanna(I),Soumendu Sarkar(L)",https://drive.google.com/file/d/1vyNn95PZYkZMhlRpY66kT3XCDtt7QV75/view?usp=sharing,13/124,,11/102
 Chemical Process Calculations,CL 201,"G1,G2",I1,,3.0,Pratyush Dayal(I+T),https://iitgnacin-my.sharepoint.com/:b:/g/personal/pdayal_iitgn_ac_in/IQDQ_tCc1TY2RIGDi97pFvdvAUKIYc_ADcdK-Yy0gw-iC6k?e=YCfr6a,10/102,Jagdish Patel Learning Thea...,
@@ -127,7 +127,7 @@ Advance Transport Phenomena,CL 601,"E1,E2",K2,,4.0,Prachi Thareja(I+T),https://d
 Advanced Thermodynamics,CL 602,"A1,A2",L2,,4.0,Soumajit Dutta(I+T),CL 602 Advanced Thermodynamics,7/203,7/203,
 Advanced Reaction Engineering,CL 604,"C1,C2",H2,,4.0,Chinmay Ghoroi(I+T),https://drive.google.com/file/d/1Hxq7jeAoGyel9zhLaBWEhzUfxIQtons9/view?usp=sharing,7/107,7/107,
 Applications of AI in ChE,CL 633,"H1,N2",J2,,4.0,Nitin U. Padhiyar(I+T),https://docs.google.com/spreadsheets/d/1Zx1kEtyE5g7EDXIoiRjVp6-v9PuVhmZDzdBRDxTgGwI/edit?gid=1235957912#gid=1235957912,7/108,7/109,
-Integrated Principles of Chemical Engineering,CL 635,"J1,K1",,,4.0,Sameer Dalvi(I),https://drive.google.com/file/d/14C51K9oT5CQ8s8oH6Zaq8-q_Wn_Jkg9p/view?usp=drive_link,7/208,,
+Integrated Principles of Chemical Engineering,CL 635,"J1,K1",,,4.0,"Sameer Dalvi(I),Chinmay Ghoroi(I)",https://drive.google.com/file/d/14C51K9oT5CQ8s8oH6Zaq8-q_Wn_Jkg9p/view?usp=drive_link,7/208,,
 Engineering Optimization,ES 604,"G1,G2",,,4.0,Sai Praneeth(I),https://docs.google.com/document/d/1nAYf1QY6j7JGH7Lw7UwwHY31w_nIMNQU/edit?usp=drive_link&ouid=102748482566191991041&rtpof=true&sd=true,7/208,,
 "Flexible Electronics: Materials, Methods and Devices",ES 662,"I1,I2",,,4.0,Biswajit Saha(I),https://iitgnacin-my.sharepoint.com/:w:/g/personal/bsaha_iitgn_ac_in/IQAgc6De535kTI5BHvkyh-otASKy5pbIjDA1L5r_GBQxboI?e=Qyd2Li,7/203,,
 Introduction to Data Structures and Algorithms,ES 248,F1,,"K2,L2",3.0,"Anup Kalbalia(I+L),Arjun Arul(I+L)",https://anup.github.io/courses/es248-2026-27/course-plan/,11/101,,10/203
@@ -254,6 +254,7 @@ Rock Mechanics and Rock Engineering,EH 638,"J1,J2",,,4.0,Manab Mukherjee(I),http
 Statistics for Earth Sciences,EH 639,J1,,"I1,K1",4.0,Utsav Mannu(I),https://docs.google.com/document/d/14vmw_O29cy-9hrvdd7v6nwu2J5TdyHfazBLl4WzjgzM/edit?usp=sharing,7/103,,7/103
 Special Topics in Earth Science: Microwave Remote Sensing,EH 691-III,"C1,C2",,,4.0,Prem Chand Pandey(I),https://drive.google.com/file/d/1etOHz8sfBpVHO7s70CsxHmoq9JTE1CKh/view?usp=sharing,7/103,,
 Special Topics in Earth Sciences: Stable Isotopes in Earth Systems,EH 691-XI,"I1,I2",,,4.0,R. D. Deshpande(I),Course Details_Stable Isotopes in Earth Systems.pdf,7/209,,
+Special Topics in Earth Sciences: Basic Geochemistry and Instrumentation (second half),EH 692-I,F1,,"J1,L1",2.0,Soumendu Sarkar(I+L),,13/124,,13/124
 Computation and Cognition,CG 501,"F1,F2",,,4.0,Vaibhav Tripathi(I),Course Plan ,11/102,,
 Fundamentals of Cognitive Psychology,CG 503,"G1,G2",,,4.0,Meera Mary Sunny(I),https://docs.google.com/document/d/1DZjpE-0W950jpeWPb7eLvAoyVqDP8-YW/edit?usp=sharing&ouid=116968647900581462482&rtpof=true&sd,7/207,,
 Research Methods in Cognitive Science,CG 504,"J1,I1",,,4.0,Mahalakshmi Ramamurthy(I+L),https://docs.google.com/document/d/1MFDYXg20ZIwpQAVtDNvZ2cbq24WrlieaMzVbVKKdrvk/edit?tab=t.0,7/109,,

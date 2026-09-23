@@ -101,7 +101,7 @@ MA 205,Calculus of Several Variables (first half),3,1.5,0,2,Tanya Kaushal Srivas
 (Surendra C Sheth Learning Theatre,10/203,10/204,11/102,7/105,7/204,10/102,7/210)",,https://docs.google.com/document/d/1JfSWY7u7J7oVMK7QIZ9QtWu3q_7nHA2qi86mJYLZUBw/edit?usp=sharing,,Maths Basket,,BS
 MA 206,Introduction to Complex Analysis (second half),3,1.5,0,2,Projesh Nath Choudhury(I+T),,73,,"F1,F2
 (7/208)","B1
-(7/208)",,https://projesh.people.iitgn.ac.in/Teaching/MA206/CP_MA206-26.pdf,,Maths Basket,,BS
+(7/204,7/208)",,https://projesh.people.iitgn.ac.in/Teaching/MA206/CP_MA206-26.pdf,,Maths Basket,,BS
 MSE 202,Materials Thermodynamics,3,1,0,4,Sesha Sai Behara(I+T),,21,,"E1,E2
 (7/104)","H1
 (7/101)",,https://drive.google.com/file/d/1EVFsTZH6wrZTfJTknnTuPW3_g8PKSt1p/view?usp=sharing,,,,
@@ -440,7 +440,7 @@ CL 604,Advanced Reaction Engineering,3,1,0,4,Chinmay Ghoroi(I+T),,30,,"C1,C2
 CL 633,Applications of AI in ChE,3,1,0,4,Nitin U. Padhiyar(I+T),,67,,"H1,N2
 (7/108)","J2
 (7/109)",,https://docs.google.com/spreadsheets/d/1Zx1kEtyE5g7EDXIoiRjVp6-v9PuVhmZDzdBRDxTgGwI/edit?gid=1235957912#gid=1235957912,,,,
-CL 635,Integrated Principles of Chemical Engineering,3,0,0,4,Sameer Dalvi(I),,32,,"J1,K1
+CL 635,Integrated Principles of Chemical Engineering,3,0,0,4,"Sameer Dalvi(I),Chinmay Ghoroi(I)",,32,,"J1,K1
 (7/208)",,,https://drive.google.com/file/d/14C51K9oT5CQ8s8oH6Zaq8-q_Wn_Jkg9p/view?usp=drive_link,,,,
 ES 604,Engineering Optimization,3,0,0,4,Sai Praneeth(I),,37,,"G1,G2
 (7/208)",,,https://docs.google.com/document/d/1nAYf1QY6j7JGH7Lw7UwwHY31w_nIMNQU/edit?usp=drive_link&ouid=102748482566191991041&rtpof=true&sd=true,,,,
@@ -759,6 +759,9 @@ EH 691-III,Special Topics in Earth Science: Microwave Remote Sensing,3,0,0,4,Pre
 (7/103)",,,https://drive.google.com/file/d/1etOHz8sfBpVHO7s70CsxHmoq9JTE1CKh/view?usp=sharing,,,,BS
 EH 691-XI,Special Topics in Earth Sciences: Stable Isotopes in Earth Systems,3,0,0,4,R. D. Deshpande(I),,3,,"I1,I2
 (7/209)",,,Course Details_Stable Isotopes in Earth Systems.pdf,,,,
+EH 692-I,Special Topics in Earth Sciences: Basic Geochemistry and Instrumentation (second half),1.5,0,3,2,Soumendu Sarkar(I+L),,,,"F1
+(13/124)",,"J1,L1
+(13/124)",,,,,
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Cognitive Science,,,,,,,,,,,,,,,,,
 CG 501,Computation and Cognition,3,0,0,4,Vaibhav Tripathi(I),,59,,"F1,F2
