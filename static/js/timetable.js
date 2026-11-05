@@ -4,6 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
     let totalCredits = 0;
     let timetableData = null;
     let availableCourseCodes = null;
+    let clashingCodes = new Set(); 
     
     // DOM elements
     const $ = id => document.getElementById(id);
@@ -25,11 +26,50 @@ document.addEventListener('DOMContentLoaded', function() {
         selectedCoursesList: $('selected-courses-list'),
         clashToggle: $('clash-toggle')
     };
+
+    const normCode = code => code.replace(/\([^)]*\)/g, '').replace(/\s+/g, '').toUpperCase();
     
     // Initialize
     loadCourses();
     setupEventListeners();
-    
+
+    function computeClashingCodes(data) {
+        const set = new Set();
+        Object.values(data).flat().forEach(entry => {
+            const codePart = entry.class.split(',')[0]
+                .replace(/\(?\s*clash\s*\)?/i, '');
+            if (/clash/i.test(entry.class) || codePart.includes('/')) {
+                codePart.split('/').forEach(c => { if (c.trim()) set.add(normCode(c)); });
+            }
+        });
+        return set;
+    }
+
+    let clashRequestId = 0;
+
+    function refreshClashes() {
+        if (selectedCourses.length < 2) {
+            clashingCodes = new Set();
+            updateSelectedCourses();
+            return;
+        }
+
+        const requestId = ++clashRequestId;   // ignore outdated responses
+
+        fetch('/api/timetable', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ courses: selectedCourses })
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (requestId !== clashRequestId) return;   // a newer request exists
+            clashingCodes = data.error ? new Set() : computeClashingCodes(data);
+            updateSelectedCourses();
+        })
+        .catch(() => {});   // fail silently, chips just stay as they are
+    }
+
     // Load courses from API
     function loadCourses() {
         fetch('/api/courses')
@@ -155,6 +195,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         updateTotalCredits();
         updateSelectedCourses();
+        refreshClashes();
         if (elements.clashToggle && elements.clashToggle.checked) {
             fetchAvailableForTable();
         }
@@ -171,11 +212,16 @@ document.addEventListener('DOMContentLoaded', function() {
             elements.selectedCoursesContainer.style.display = 'none';
             return;
         }
-        
+
         elements.selectedCoursesList.innerHTML = selectedCourses.map(courseCode => {
             const course = courseData.find(c => c.code === courseCode);
-            return course ? `
-                <div class="selected-course-item">
+            if (!course) return '';
+
+            const isClash = clashingCodes.has(normCode(course.code));
+
+            return `
+                <div class="selected-course-item ${isClash ? 'clash' : ''}"
+                     title="${isClash ? 'Clashes with another selected course' : ''}">
                     <span class="selected-course-code">${course.code}</span>
                     <span class="selected-course-name">${course.name}</span>
                     <span class="selected-course-credits">${course.credits}C</span>
@@ -183,9 +229,9 @@ document.addEventListener('DOMContentLoaded', function() {
                         <i class="fa fa-times"></i>
                     </button>
                 </div>
-            ` : '';
+            `;
         }).join('');
-        
+
         elements.selectedCoursesContainer.style.display = 'block';
     }
     
@@ -198,6 +244,7 @@ document.addEventListener('DOMContentLoaded', function() {
             updateTotalCredits();
             renderCourseTable(elements.searchField.value.toLowerCase());
             updateSelectedCourses();
+            refreshClashes();
             showMessage(`${courseCode} removed from selection.`, 'success');
 
             if (elements.clashToggle && elements.clashToggle.checked) {
@@ -210,6 +257,8 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Deselect all courses
     function deselectAll() {
+        clashingCodes = new Set();
+        clashRequestId++;
         selectedCourses = [];
         totalCredits = 0;
         updateTotalCredits();
@@ -217,7 +266,6 @@ document.addEventListener('DOMContentLoaded', function() {
         elements.timetableContainer.innerHTML = '';
         elements.downloadOptions.style.display = 'none';
         elements.selectedCoursesContainer.style.display = 'none';
-        elements.suggestedCoursesContainer.style.display = 'none';
         showMessage('All courses deselected.', 'success');
     }
     
@@ -248,7 +296,9 @@ document.addEventListener('DOMContentLoaded', function() {
             }
             
             timetableData = data;
+            clashingCodes = computeClashingCodes(data);   
             renderTimetable(data);
+            updateSelectedCourses();                      
             elements.downloadOptions.style.display = 'flex';
             scrollToTop();
         })
