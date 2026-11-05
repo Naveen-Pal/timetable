@@ -138,16 +138,16 @@ ES 301,Data Structures and Algorithms II,3,1.5,0,4,Arjun Arul(I+T),,,,"M1,M2
 (Jagdish Patel Learning Theatre)","J1
 (Jagdish Patel Learning Theatre,7/205,7/110)",,,,,,
 ES 336,Computer Organization & Architecture,3,1,0,4,"Adithya Kumar(I+T),Joycee M. Mekie(T)",,,,"L1,N2
-(Jasubhai Auditorium)","I1,E2
-(Jayshree S Sheth Learning Theatre,Surendra C Sheth Learning Theatre)","E1
-(Jayshree S Sheth Learning Theatre,Jayshree S Sheth Learning Theatre,Surendra C Sheth Learning Theatre)",,,,,
+(Jasubhai Auditorium)","C1,F1
+(10/103)","E1
+(Jayshree S Sheth Learning Theatre,Surendra C Sheth Learning Theatre)",https://docs.google.com/document/d/16Wmj9YbiWQVsHbw841buOhU1giFKA9MdlprqO7yrHLQ/edit?usp=sharing,,,,
 PE 104,Physical Education,0,0,0,0,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,
 6th Sem | B Tech Artificial Intelligence,,,,,,,,,,,,,,,,,
 ES 336,Computer Organization & Architecture,3,1,0,4,"Adithya Kumar(I+T),Joycee M. Mekie(T)",,,,"L1,N2
-(Jasubhai Auditorium)","I1,E2
-(Jayshree S Sheth Learning Theatre,Surendra C Sheth Learning Theatre)","E1
-(Jayshree S Sheth Learning Theatre,Jayshree S Sheth Learning Theatre,Surendra C Sheth Learning Theatre)",,,,,
+(Jasubhai Auditorium)","C1,F1
+(10/103)","E1
+(Jayshree S Sheth Learning Theatre,Surendra C Sheth Learning Theatre)",https://docs.google.com/document/d/16Wmj9YbiWQVsHbw841buOhU1giFKA9MdlprqO7yrHLQ/edit?usp=sharing,,,,
 CS XXX,Discipline Elective,,,,,,,,,,,,,,,,
 CS XXX,Discipline Elective,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,
@@ -187,7 +187,7 @@ CE 311,Design of Reinforced Concrete Structures,3,1,1.5,5,"Manish Kumar(I+T),K. 
 (CE Lab)",https://drive.google.com/file/d/16SKzwL0tAgjZv0nd-za96ky1isWPErYE/view?usp=drive_link,,,,
 CE 314,Geotechnical Engineering,1.5,1.5,3,4,"S R Gandhi(I+T),Ajanta Sachan(L)",,,,"F1,F2
 (7/206)",,"K1,H1
-(CE Lab)",,,,,
+(CE Lab)",CE 314 Course Plan 27.pdf,,,,
 HS XXX,HSS Elective,,,,,,,,,,,,,,,,
 ,Discipline Elective(s),,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,
@@ -197,9 +197,9 @@ CE 403,Construction Technology & Management,3,0,0,4,K. Siva Teja Chopperla(I),,,
 ,,,,,,,,,,,,,,,,,
 6th Sem | B Tech Computer Science and Engineering,,,,,,,,,,,,,,,,,
 ES 336,Computer Organization & Architecture,3,1,0,4,"Adithya Kumar(I+T),Joycee M. Mekie(T)",,,,"L1,N2
-(Jasubhai Auditorium)","I1,E2
-(Jayshree S Sheth Learning Theatre,Surendra C Sheth Learning Theatre)","E1
-(Jayshree S Sheth Learning Theatre,Jayshree S Sheth Learning Theatre,Surendra C Sheth Learning Theatre)",,,,,
+(Jasubhai Auditorium)","C1,F1
+(10/103)","E1
+(Jayshree S Sheth Learning Theatre,Surendra C Sheth Learning Theatre)",https://docs.google.com/document/d/16Wmj9YbiWQVsHbw841buOhU1giFKA9MdlprqO7yrHLQ/edit?usp=sharing,,,,
 ,,,,,,,,,,,,,,,,,
 8th Sem | B Tech Computer Science and Engineering,,,,,,,,,,,,,,,,,
 ,HSS Elective,,,,,,,,,,,,,,,,
@@ -289,11 +289,11 @@ CE 639,AI for Civil Engineering,3,0,0,4,Udit Bhatia(I),,,,"C1,C2
 CE 691-I,Special Topics in Civil Engineering: Design for Dynamic Loads,3,0,0,4,Manish Kumar(I),,,,"P1,P2
 (13/124)",,,https://drive.google.com/file/d/15sjjwynzxMCNEKqhycYmPJz00lDVcLiJ/view?usp=sharing,,,,
 CE 691-V,Special Topics in Civil Engineering: Geotechnical Infrastructure Projects,3,0,0,4,S R Gandhi(I),,,,"I1,I2
-(7/203)",,,,,,,
+(7/203)",,,Course Plan CE 691-V 27.pdf,,,,
 CE 691-VII,Special Topics in Civil Engineering: Engineering practices in Drinking Water Treatment,3,0,0,4,Sudhir Kumar Arora(I),,,,"N1,N2
 (7/102)",,,https://drive.google.com/file/d/1jjj21A6HpppNvotPH6IQHzGW5Yb5SThs/view,,,,
 CE 641,Management of Water Resources Systems (second half),3,0,0,2,Sharad Kumar Jain(I),,,,"M1,M2
-(7/201)",,,,,,,
+(7/201)",,,https://drive.google.com/file/d/1sJa-hZ8yVKRC-rRX_QKovk8RLr44oiuy/view?usp=drive_link,,,,
 CE 643,Thermochemical Conversion of Different Wastes and Biomass,3,0,0,4,Abhishek Singhal(I),,,,"G1,G2
 (7/105)",,,https://drive.google.com/file/d/1RzuNn7s-JH40uzhxt-2zlbUAiJyuwhlp/view,,,,
 ,,,,,,,,,,,,,,,,,
@@ -690,7 +690,7 @@ EH 637,AI/ML in Earth Sciences,1.5,0,3,4,Achyut Mishra(I),,,,"N1
 EH 691-II,Special Topics in Earth Sciences: Atmospheric Physics,3,0,0,4,Prem Chand Pandey(I),,,,"C1,C2
 (13/125)",,,https://docs.google.com/document/d/16rTCfHN8Otzu0ri29adKrNgRQgt7b7k6/edit?usp=sharing&ouid=117787444705946167602&rtpof=true&sd=true,,,,
 EH 691-X,Special Topics in Earth Sciences: Interpreting Animals in the Human Past,3,0,0,4,Sharada C. V.(I),,,,"I1,I2
-(11/204)",,,Course plan,,,,
+(11/204)",,,https://docs.google.com/document/d/1E2t-q34nIFSOcVoSiNdMCOA_9P_gvTai/edit,,,,
 ,,,,,,,,,,,,,,,,,
 Additional Courses: Mechanical Engineering,,,,,,,,,,,,,,,,,
 ES 613,Modern Control Theory,3,0,0,4,Madhu Vadali(I),,,,"E1,E2
@@ -730,7 +730,7 @@ ME 649,Mathematical Tools for Mechanical Engineers-II,3,1,0,4,Uddipta Ghosh(I+T)
 (7/207)","H1
 (7/207)",,,,,,
 ME 691-XXIV,Special Topics in Mechanical Engineering: Energy Methods in Solid Mechanics,3,0,0,4,Harmeet Singh(I),,,,"L1,L2
-(7/209)",,,,,,,
+(7/209)",,,https://drive.google.com/file/d/1xe5ru7L9R2Nm2O0vlMwfVkv9jrAJsNVr/view?usp=sharing,,,,
 ME 691-XXV,Special Topics in Mechanical Engineering: Mechanics of Viscoelastic Materials,3,1,0,4,Harini Subramanian(I+T),,,,"K1,K2
 (7/101)","J1
 (7/206)",,https://iitgnacin-my.sharepoint.com/:w:/g/personal/harini_subramanian_iitgn_ac_in/cQrKenwLRtnISofn5is-wCh7EgUCnYWJYunMthXsswNNlmtaJA,,,,
