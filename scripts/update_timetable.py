@@ -11,9 +11,6 @@ import pickle
 
 # Load environment variables from .env file
 load_dotenv()
-print("SPREADSHEET_ID:", os.environ.get('SPREADSHEET_ID'))
-print("SHEET_NAME:", os.environ.get('SHEET_NAME'))
-print("GOOGLE_TOKEN_B64 present:", os.environ.get('GOOGLE_TOKEN_B64') is not None)
 
 # If modifying these scopes, delete the file token.pickle.
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']

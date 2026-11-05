@@ -218,7 +218,6 @@ def clean_course_info(content):
         return None
 
     # Remove brackets first, then replace commas with single space, then process newlines
-    content = re.sub(r"\([^)]*\)", "", content)
     content = re.sub(
         r",\s*", " ", content
     )  # Replace comma and any following spaces with single space

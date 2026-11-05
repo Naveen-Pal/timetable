@@ -33,7 +33,7 @@ jobs:
     - name: Update timetable data
       run: |
         python scripts/update_timetable.py
-        python csv-filter.py
+        python csv_filter.py
 
     - name: Commit and push if changed
       env:

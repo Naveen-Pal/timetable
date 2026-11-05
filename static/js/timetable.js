@@ -76,6 +76,17 @@ document.addEventListener('DOMContentLoaded', function() {
             .then(response => response.json())
             .then(data => {
                 courseData = data.courses;
+                let savedCourses = [];
+                try {
+                    const parsed = JSON.parse(localStorage.getItem('selectedCourses') || '[]');
+                    savedCourses = Array.isArray(parsed) ? parsed : [];
+                } catch {
+                    savedCourses = [];
+                }
+                selectedCourses = savedCourses.filter(code => courseData.some(c => c.code === code));
+                totalCredits = courseData.reduce((s, c) => selectedCourses.includes(c.code) ? s + parseInt(c.credits || 0) : s, 0);
+                updateTotalCredits();
+                updateSelectedCourses();
                 renderCourseTable();
             })
             .catch(() => showMessage('Failed to load course data. Please refresh.', 'error'));
@@ -208,6 +219,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Update selected courses display
     function updateSelectedCourses() {
+        localStorage.setItem('selectedCourses', JSON.stringify(selectedCourses));
         if (selectedCourses.length === 0) {
             elements.selectedCoursesContainer.style.display = 'none';
             return;
@@ -262,6 +274,7 @@ document.addEventListener('DOMContentLoaded', function() {
         selectedCourses = [];
         totalCredits = 0;
         updateTotalCredits();
+        updateSelectedCourses();
         renderCourseTable(elements.searchField.value.toLowerCase());
         elements.timetableContainer.innerHTML = '';
         elements.downloadOptions.style.display = 'none';
