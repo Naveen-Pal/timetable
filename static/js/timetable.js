@@ -87,6 +87,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 totalCredits = courseData.reduce((s, c) => selectedCourses.includes(c.code) ? s + parseInt(c.credits || 0) : s, 0);
                 updateTotalCredits();
                 updateSelectedCourses();
+                refreshClashes();
                 renderCourseTable();
             })
             .catch(() => showMessage('Failed to load course data. Please refresh.', 'error'));
