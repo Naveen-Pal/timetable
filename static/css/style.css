@@ -283,6 +283,21 @@ header h1 {
     margin-left: auto;
 }
 
+.selected-course-item.clash {
+    background-color: #f5c518;
+    color: #222;
+    box-shadow: 0 2px 4px rgba(212, 168, 0, 0.4);
+}
+.selected-course-item.clash:hover {
+    background-color: #e0b400;
+}
+.selected-course-item.clash .remove-course-btn {
+    color: #222;
+}
+.selected-course-item.clash .selected-course-credits {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
 /* Remove course button styling */
 .remove-course-btn {
     background: none;
